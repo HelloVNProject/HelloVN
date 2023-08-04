@@ -1,14 +1,14 @@
-# Introduction
+# 👋Introduction
 
 Hi.
 
 "Hello VN" is a visual novel game based on `The Smoke Room VN`. This game building by `Godot Engine`.
 
-Still, this game is working in process to developing, if you interest, please follow this project and it expected to be released around August 1st.
+Still, this game is working in process to developing, if you interest, please follow this project and it expected to be released around August.
 
 Thanks for you patient and understand. :)
 
-# Project Members
+# 💖Project Members
 
 In this project from this version of production, they are the fantastic mates made this game released.
 
@@ -34,7 +34,7 @@ In this project from this version of production, they are the fantastic mates ma
 | icrdr                | Background(s) Artist, Special Thanks                                                                                             |                 |
 | OpenAI               | Translator                                                                                                                       |                 |
 
-# What You Can Learn?
+# 🎓What You Can Learn?
 
 In this project, you can learned about...
 
@@ -42,7 +42,7 @@ In this project, you can learned about...
 - Basic use skills of Dialogic for starter. (This a plugin based on Godot Engine.)
 - 
 
-# Build by Myself?
+# 🧪Build by Yourself?
 
 You could build this project by yourself just following this part step by step.
 
@@ -56,6 +56,7 @@ This part will teach you how to build.
 1. Make sure you already installed Godot Exporting Template V3.5.2 (not Mono Version).
 2. Into ``
 
-# Not Upload Assets List
+# ⚠These Assets that You Need Know
 
-# License
+
+# 📑License
