@@ -1,21 +1,25 @@
-[![Hello VN][hellovn-shield]][hellovn] ![Status][status-shield]
-[![MIT][mit-shield]][mit] [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[Hello VN][hellovn] ![Status][status-shield]
+[MIT][mit] [CC BY-NC-SA 4.0][cc-by-nc-sa]
 
 # 👋 简介
 
 嗨。
 
-《问候无疆。》（以下简称“该游戏”）是一款基于游戏《吸烟室》的二次创作的同人视觉小说游戏。
+《问候无疆。》（以下简称“该游戏”）是一款基于游戏《吸烟室》的**二次创作**的**同人**视觉小说游戏。
 
-该游戏是一部小品级的群像冒险游戏，讲述了由 GR 带领的探险队前往洞穴调查异常情况的故事。探险队成员包括 Dog Si. Can、Seaon 和 Dog Gr. Romin。与此同时，《吸烟室》世界下的角色 Nik、Sam 和 Yao 因为某个「计划内」的事件而出现「计划外」的情况，意外地来到了本游戏的世界…… 当然，与他们一同前来的还有 Todd。探险队和《吸烟室》四人组为什么会相遇？他们的冒险过程中会出现什么意想不到的情况？彼此之间是否会擦出火花？《吸烟室》四人组最终能否成功回到原来的世界，代价又是什么？这些问题的答案都在游戏的剧情内，而剧情的发展以及他们的结局将由【你】来决定。
 
-该游戏使用 Godot 游戏引擎制作。
+该游戏是一部小品级的群像冒险游戏，讲述了由 *基阿 (GR)* 带领的探险队（同时包括成员包括 *参 (Can)*、*西昂 (Seaon)* 和 *罗明 (Romin)*）前往洞穴调查异常情况的故事。与此同时，《吸烟室》世界下的角色 *尼克 (Nik)*、*塞姆 (Sam)* 和 *耀 (Yao)* 因为某个「计划内」的事件出现了「计划外」的情况，意外地来到了本游戏的世界……然而，与他们一同前来的还有 *托德 (Todd)*。
 
-该游戏目前仍在制作当中，如果您感兴趣，欢迎关注此项目。
+探险队和《吸烟室》四人组为什么会相遇？他们的冒险过程中会出现什么意想不到的情况？彼此之间是否会擦出火花？《吸烟室》四人组最终能否成功回到原来的世界，代价又是什么？这些问题的答案都将在游戏内揭晓，而剧情的发展以及他们的结局将由 **你** 来决定。
+
+**❗ 注意：游玩本游戏前请确保您已经完成了游戏《吸烟室》中 Nik 线的前两章，否则会存在剧透。**
+
+
+该游戏使用 Godot Engine 制作，目前仍在开发当中，如果您感兴趣，欢迎关注此项目。
 
 该游戏的首个公开版本预计将于 2023 年 8 月份发布，敬请期待。
 
-感谢您的耐心等待和理解。
+感谢您的耐心等待和理解。:)
 
 # 💖 项目成员
 
@@ -101,14 +105,10 @@
 | 目录 `/voices/GR/` 下的所有文件                                   | 《问候无疆》制作团队，<br />GRtheGreat | CC BY-NC-SA 4.0                  |
 | 目录 `/voices/Romin/` 下的所有文件                                | 《问候无疆》制作团队，<br />Rominwolf  | CC BY-NC-SA 4.0                  |
 
-
-
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg?style=flat-square
-
 [mit]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [mit-shield]: https://img.shields.io/badge/License-CC%20BY--MIT-lightgrey.svg?style=flat-square
-
 [hellovn]: https://github.com/HelloVNProject
 [hellovn-shield]: https://img.shields.io/badge/Owner%20By-Hello%20VN-dark.svg?style=flat-square&labelColor=000&color=EAEAEA
 [status-shield]: https://img.shields.io/badge/Status-Work%20In%20Progress-dark.svg?style=flat-square
