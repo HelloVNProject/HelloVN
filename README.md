@@ -1,5 +1,5 @@
-[Hello VN][hellovn] ![Status][status-shield]
-[MIT][mit] [CC BY-NC-SA 4.0][cc-by-nc-sa]
+[![Hello VN][hellovn-shield]][hellovn] ![Status][status-shield]
+[![MIT][mit-shield]][mit] [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 # 👋Introduction
 
