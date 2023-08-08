@@ -1,3 +1,6 @@
+[![Hello VN][hellovn-shield]][hellovn] ![Status][status-shield]
+[![MIT][mit-shield]][mit] [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
 # 👋 简介
 
 嗨。
@@ -13,7 +16,6 @@
 该游戏的首个公开版本预计将于 2023 年 8 月份发布，敬请期待。
 
 感谢您的耐心等待和理解。
-
 
 # 💖 项目成员
 
@@ -41,7 +43,6 @@
 | 登上陆地的鱼         | 特别鸣谢                                                                                       |                                                                                                 |
 | 罗明狗狗别墅的朋友们 | 特别鸣谢                                                                                       |                                                                                                 |
 | EchoTheVN            | 特别鸣谢                                                                                       | [Twitter](https://twitter.com/EchoTheVN)                                                           |
-| icrdr                | 背景画师，特别鸣谢                                                                             |                                                                                                 |
 | OpenAI               | 翻译员                                                                                         | [OpenAI](https://openai.com)                                                                       |
 
 # 🎓 你可以学到什么？
@@ -99,9 +100,15 @@
 | 目录 `/voices/Can/` 下的所有文件                                  | 《问候无疆》制作团队，<br />参咸犬     | 没有许可证，即原作者保留所有权利 |
 | 目录 `/voices/GR/` 下的所有文件                                   | 《问候无疆》制作团队，<br />GRtheGreat | CC BY-NC-SA 4.0                  |
 | 目录 `/voices/Romin/` 下的所有文件                                | 《问候无疆》制作团队，<br />Rominwolf  | CC BY-NC-SA 4.0                  |
-|                                                                     |                                        |                                  |
-|                                                                     |                                        |                                  |
-|                                                                     |                                        |                                  |
-|                                                                     |                                        |                                  |
 
-# 📑 协议
+
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg?style=flat-square
+
+[mit]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[mit-shield]: https://img.shields.io/badge/License-CC%20BY--MIT-lightgrey.svg?style=flat-square
+
+[hellovn]: https://github.com/HelloVNProject
+[hellovn-shield]: https://img.shields.io/badge/Owner%20By-Hello%20VN-dark.svg?style=flat-square&labelColor=000&color=EAEAEA
+[status-shield]: https://img.shields.io/badge/Status-Work%20In%20Progress-dark.svg?style=flat-square
