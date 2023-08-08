@@ -1,6 +1,8 @@
 [![Hello VN][hellovn-shield]][hellovn] ![Status][status-shield]
 [![MIT][mit-shield]][mit] [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
+你可以点击这里访问中文版「说明书」：[https://github.com/HelloVNProject/HelloVN/blob/main/README-CN.md](https://github.com/HelloVNProject/HelloVN/blob/main/README-CN.md)
+
 # 👋Introduction
 
 Hi.
@@ -47,7 +49,6 @@ The release of the game wouldn't be possible without the collaborative efforts o
 | EchoTheVN              | Special Thanks                                                                                                  | [Twitter](https://twitter.com/EchoTheVN)                                                            |
 | OpenAI                 | Translator                                                                                                      | [OpenAI](https://openai.com/)                                                                       |
 
-
 # 🎓What You Can Learn?
 
 In this project, you can learned about...
@@ -75,35 +76,34 @@ When using any files from this repository personally, as a team, organization, o
 
 This project defaults to the `MIT` license, but does not include the following assets.
 
-| Asset                                                                              | Copyright Holder                              | License                                        |
-| ---------------------------------------------------------------------------------- | --------------------------------------------- | ---------------------------------------------- |
-| All files under the directory `/images/cgs/`                                     | Production Team of "Hello."                   | CC BY-NC-SA 4.0                                |
-| All files under the directory `/images/headers/`                                 | Production Team of "Hello."                   | CC BY-NC-SA 4.0                                |
-| All files under the directory `/images/sprites/can/`                             | Production Team of "Hello.",<br />tiAnsxq     | CC BY-NC-SA 4.0                                |
-| All files under the directory `/images/sprites/gr/`                              | Production Team of "Hello.",<br />GRtheGreat  | CC BY-NC-SA 4.0                                |
-| All files under the directory `/images/sprites/romin/`                           | Production Team of "Hello.",<br />Rominwolf   | CC BY-NC-SA 4.0                                |
-| All files under the directory `/images/sprites/seaon/`                           | Production Team of "Hello.",<br />GRtheGreat  | CC BY-NC-SA 4.0                                |
-| All files under the directory `/images/sprites/nik/tsr/`                         | Production Team of "The Smoke Room"           | No License, Original Author Retains All Rights |
-| All files under the directory `/images/sprites/sam/tsr/`                         | Production Team of "The Smoke Room"           | No License, Original Author Retains All Rights |
-| All files under the directory `/images/sprites/todd/tsr/`                        | Production Team of "The Smoke Room"           | No License, Original Author Retains All Rights |
-| All files under the directory `/images/sprites/yao/tsr/`                         | Production Team of "The Smoke Room"           | No License, Original Author Retains All Rights |
-| All files under the directory `/images/sprites/skeleton/`                        | "Minecraft"                                   | No License, Original Author Retains All Rights |
-| All files under the directory `/images/sprites/zombie/`                          | "Minecraft"                                   | No License, Original Author Retains All Rights |
-| All files under the directory `/images/tsr/`                                     | Production Team of "The Smoke Room"           | No License, Original Author Retains All Rights |
-| All files under the directory `/dialogic/themes/tsr/images/gui/`                 | Production Team of "The Smoke Room"           | No License, Original Author Retains All Rights |
-| All files with `.ttf`format under the directory `/fonts/harmony-os-sans-sc/`   | HarmonyOS                                     | HarmonyOS Sans Font License                    |
-| All files with `.ttf`format under the directory `/fonts/intel-one-mono/fonts/` | Intel                                         | SIL License                                    |
-| All files with `.otf`format under the directory `/fonts/source-hans-serif/`    | Adobe                                         | SIL License                                    |
-| File `/musics/Conflict.ogg`                                                      | Production Team of "The Smoke Room"           | No License, Original Author Retains All Rights |
-| File `/musics/Hello.ogg`                                                         | Linkmusicnow                                  | No License, Original Author Retains All Rights |
-| All files under the directory `/origin-files/`                                   | Production Team of "Hello."                   | No License, Original Author Retains All Rights |
-| All files under the directory `/voices/Amorog/`                                  | Uberduck                                      | No License, Original Author Retains All Rights |
-| All files under the directory `/voices/Seaon/`                                   | Uberduck                                      | No License, Original Author Retains All Rights |
-| All files under the directory `/voices/Ten/`                                     | Uberduck                                      | No License, Original Author Retains All Rights |
-| All files under the directory `/voices/Can/`                                     | Production Team of "Hello.",<br />tiAnsxq     | No License, Original Author Retains All Rights |
-| All files under the directory `/voices/GR/`                                      | Production Team of "Hello.",<br />GRtheGreat  | CC BY-NC-SA 4.0                                |
-| All files under the directory `/voices/Romin/`                                   | Production Team of "Hello.", <br />Rominwolf | CC BY-NC-SA 4.0                                |
-
+| Asset                                                                              | Copyright Holder                             | License                                        |
+| ---------------------------------------------------------------------------------- | -------------------------------------------- | ---------------------------------------------- |
+| All files under the directory `/images/cgs/`                                     | Production Team of "Hello."                  | CC BY-NC-SA 4.0                                |
+| All files under the directory `/images/headers/`                                 | Production Team of "Hello."                  | CC BY-NC-SA 4.0                                |
+| All files under the directory `/images/sprites/can/`                             | Production Team of "Hello.",<br />tiAnsxq    | CC BY-NC-SA 4.0                                |
+| All files under the directory `/images/sprites/gr/`                              | Production Team of "Hello.",<br />GRtheGreat | CC BY-NC-SA 4.0                                |
+| All files under the directory `/images/sprites/romin/`                           | Production Team of "Hello.",<br />Rominwolf  | CC BY-NC-SA 4.0                                |
+| All files under the directory `/images/sprites/seaon/`                           | Production Team of "Hello.",<br />GRtheGreat | CC BY-NC-SA 4.0                                |
+| All files under the directory `/images/sprites/nik/tsr/`                         | Production Team of "The Smoke Room"          | No License, Original Author Retains All Rights |
+| All files under the directory `/images/sprites/sam/tsr/`                         | Production Team of "The Smoke Room"          | No License, Original Author Retains All Rights |
+| All files under the directory `/images/sprites/todd/tsr/`                        | Production Team of "The Smoke Room"          | No License, Original Author Retains All Rights |
+| All files under the directory `/images/sprites/yao/tsr/`                         | Production Team of "The Smoke Room"          | No License, Original Author Retains All Rights |
+| All files under the directory `/images/sprites/skeleton/`                        | "Minecraft"                                  | No License, Original Author Retains All Rights |
+| All files under the directory `/images/sprites/zombie/`                          | "Minecraft"                                  | No License, Original Author Retains All Rights |
+| All files under the directory `/images/tsr/`                                     | Production Team of "The Smoke Room"          | No License, Original Author Retains All Rights |
+| All files under the directory `/dialogic/themes/tsr/images/gui/`                 | Production Team of "The Smoke Room"          | No License, Original Author Retains All Rights |
+| All files with `.ttf`format under the directory `/fonts/harmony-os-sans-sc/`   | HarmonyOS                                    | HarmonyOS Sans Font License                    |
+| All files with `.ttf`format under the directory `/fonts/intel-one-mono/fonts/` | Intel                                        | SIL License                                    |
+| All files with `.otf`format under the directory `/fonts/source-hans-serif/`    | Adobe                                        | SIL License                                    |
+| File `/musics/Conflict.ogg`                                                      | Production Team of "The Smoke Room"          | No License, Original Author Retains All Rights |
+| File `/musics/Hello.ogg`                                                         | Linkmusicnow                                 | No License, Original Author Retains All Rights |
+| All files under the directory `/origin-files/`                                   | Production Team of "Hello."                  | No License, Original Author Retains All Rights |
+| All files under the directory `/voices/Amorog/`                                  | Uberduck                                     | No License, Original Author Retains All Rights |
+| All files under the directory `/voices/Seaon/`                                   | Uberduck                                     | No License, Original Author Retains All Rights |
+| All files under the directory `/voices/Ten/`                                     | Uberduck                                     | No License, Original Author Retains All Rights |
+| All files under the directory `/voices/Can/`                                     | Production Team of "Hello.",<br />tiAnsxq    | No License, Original Author Retains All Rights |
+| All files under the directory `/voices/GR/`                                      | Production Team of "Hello.",<br />GRtheGreat | CC BY-NC-SA 4.0                                |
+| All files under the directory `/voices/Romin/`                                   | Production Team of "Hello.",<br />Rominwolf  | CC BY-NC-SA 4.0                                |
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg?style=flat-square
