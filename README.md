@@ -107,7 +107,7 @@ This project defaults to the `MIT` license, but does not include the following a
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg?style=flat-square
-[mit]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[mit]: https://github.com/HelloVNProject/HelloVN/blob/main/LICENSE
 [mit-shield]: https://img.shields.io/badge/License-CC%20BY--MIT-lightgrey.svg?style=flat-square
 [hellovn]: https://github.com/HelloVNProject
 [hellovn-shield]: https://img.shields.io/badge/Owner%20By-Hello%20VN-dark.svg?style=flat-square&labelColor=000&color=EAEAEA
