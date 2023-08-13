@@ -75,10 +75,12 @@ This part will teach you how to build.
 If you'd like to help **add another language** to this game (localization), please follow these steps:
 
 1. First, download programs like `Poedit` that support gettext language files, as the game uses `.po` files for localization purposes.
-2. Copy the `zh` directory under the `locales` directory and rename the directory to the Unix standard locale abbreviation of the language you intend to translate. For more details, refer to: [Unix Locales][unix-locales].
+2. Copy the `zh` or `en` directory under the `locales` directory and rename the directory to the Unix standard locale abbreviation of the language you intend to translate. For more details, refer to: [Unix Locales][unix-locales].
 3. Use a program like Poedit to open the language file within the new directory and begin translating.
 4. You can save your progress at any time, and then select this new language in the game client for testing and debugging.
 5. Once you've completed the translation, don't forget to submit a Pull Request to this repository. The new language will be added to the official client in the next version.
+
+Note: I would recommend that you use the `zh` directory translation, as it aligns best with the desired version.
    
 If you're interested in **improving languages that already exist** in the game, please follow these steps:
 
@@ -132,4 +134,4 @@ This project defaults to the `MIT` license, but does not include the following a
 [hellovn]: https://github.com/HelloVNProject
 [hellovn-shield]: https://img.shields.io/badge/Owner%20By-Hello%20VN-dark.svg?style=flat-square&labelColor=000&color=EAEAEA
 [status-shield]: https://img.shields.io/badge/Status-Work%20In%20Progress-dark.svg?style=flat-square
-[unix-locales]: https://docs.godotengine.org/zh_CN/stable/tutorials/i18n/locales.html
+[unix-locales]: https://docs.godotengine.org/en/stable/tutorials/i18n/locales.html
