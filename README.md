@@ -70,6 +70,26 @@ This part will teach you how to build.
 1. Make sure you already installed Godot Exporting Template V3.5.2 (not Mono Version).
 2. Access the export menu and select the desired platform.
 
+# 💬 Help Us to Translate
+
+If you'd like to help **add another language** to this game (localization), please follow these steps:
+
+1. First, download programs like `Poedit` that support gettext language files, as the game uses `.po` files for localization purposes.
+2. Copy the `zh` directory under the `locales` directory and rename the directory to the Unix standard locale abbreviation of the language you intend to translate. For more details, refer to: [Unix Locales][unix-locales].
+3. Use a program like Poedit to open the language file within the new directory and begin translating.
+4. You can save your progress at any time, and then select this new language in the game client for testing and debugging.
+5. Once you've completed the translation, don't forget to submit a Pull Request to this repository. The new language will be added to the official client in the next version.
+   
+If you're interested in **improving languages that already exist** in the game, please follow these steps:
+
+1. First, download programs like `Poedit` that support gettext language files, as the game uses `.po` files for localization purposes.
+2. Navigate to the `locales` directory and enter the language directory you want to improve. For more details, refer to: [Unix Locales][unix-locales].
+3. Within the language directory, use a program like Poedit to open the language file and proceed with the translation.
+4. You can save your progress at any time, and then select the improved language in the game client for testing and debugging.
+5. Once you've finished the translation improvements, remember to submit a Pull Request to this repository. The updated language will be included in the official client in the next version.
+
+Note: If you don't want to submit a Pull Request and only intend to privately distribute the translation to friends, you can package the translated directory and send it to the recipient. They can then unzip and use it within the 'locales' directory.
+
 # ⚠ Assets Requiring Additional Mention
 
 When using any files from this repository personally, as a team, organization, or commercially, be aware of the specified licenses for additional marked assets to avoid copyright and unauthorized usage risks.
@@ -112,3 +132,4 @@ This project defaults to the `MIT` license, but does not include the following a
 [hellovn]: https://github.com/HelloVNProject
 [hellovn-shield]: https://img.shields.io/badge/Owner%20By-Hello%20VN-dark.svg?style=flat-square&labelColor=000&color=EAEAEA
 [status-shield]: https://img.shields.io/badge/Status-Work%20In%20Progress-dark.svg?style=flat-square
+[unix-locales]: https://docs.godotengine.org/zh_CN/stable/tutorials/i18n/locales.html
