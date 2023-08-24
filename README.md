@@ -141,8 +141,8 @@ This project defaults to the `MIT` license, but does not include the following a
 [hellovn]: https://github.com/HelloVNProject
 [hellovn-shield]: https://img.shields.io/badge/Owner%20By-Hello%20VN-dark.svg?style=flat-square&labelColor=000&color=EAEAEA
 [status-shield]: https://img.shields.io/badge/Status-Work%20In%20Progress-dark.svg?style=flat-square
-[game-menu]: ./.images/game-menu-cn.jpg
-[game-extra-sam]: ./.images/game-extra-sam-cn.jpg
-[game-playing-1]: ./.images/game-playing-1-cn.jpg
-[game-playing-2]: ./.images/game-playing-2-cn.jpg
+[game-menu]: ./.images/game-menu-en.jpg
+[game-extra-sam]: ./.images/game-extra-sam-en.jpg
+[game-playing-1]: ./.images/game-playing-1-en.jpg
+[game-playing-2]: ./.images/game-playing-2-en.jpg
 [unix-locales]: https://docs.godotengine.org/en/stable/tutorials/i18n/locales.html
