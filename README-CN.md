@@ -21,6 +21,11 @@
 
 感谢您的耐心等待和理解。:)
 
+![Game Menu][game-menu]
+![Game Extra Sam][game-extra-sam]
+![Game Playing 1][game-playing-1]
+![Game Playing 2][game-playing-2]
+
 # 💖 项目成员
 
 游戏的发行离不开这些天赋异禀的朋友们的共同努力。
@@ -79,7 +84,9 @@
 | 资产                                                                | 资产著作权方                           | 所用协议                         |
 | :------------------------------------------------------------------ | :------------------------------------- | :------------------------------- |
 | 目录 `/images/cgs/` 下的所有文件                                  | 《问候无疆》制作团队                   | CC BY-NC-SA 4.0                  |
-| 目录 `/images/headers/` 下的所有文件                              | 《问候无疆》制作团队                   | CC BY-NC-SA 4.0                  |
+| 目录 `/images/engings/` 下的所有文件                              | 《问候无疆》制作团队                   | CC BY-NC-SA 4.0                  |
+| 目录 `/images/favicons/` 下的所有文件                              | 《问候无疆》制作团队                   | CC BY-NC-SA 4.0                  |
+| 目录 `/images/bgs/mc/` 下的所有文件                              | 《我的世界》  | 没有许可证，即原作者保留所有权利  |
 | 目录 `/images/sprites/can/` 下的所有文件                          | 《问候无疆》制作团队，<br />参咸犬     | CC BY-NC-SA 4.0                  |
 | 目录 `/images/sprites/gr/` 下的所有文件                           | 《问候无疆》制作团队，<br />GRtheGreat | CC BY-NC-SA 4.0                  |
 | 目录 `/images/sprites/romin/` 下的所有文件                        | 《问候无疆》制作团队，<br />Rominwolf  | CC BY-NC-SA 4.0                  |
@@ -112,3 +119,7 @@
 [hellovn]: https://github.com/HelloVNProject
 [hellovn-shield]: https://img.shields.io/badge/Owner%20By-Hello%20VN-dark.svg?style=flat-square&labelColor=000&color=EAEAEA
 [status-shield]: https://img.shields.io/badge/Status-Work%20In%20Progress-dark.svg?style=flat-square
+[game-menu]: ./.images/game-menu-cn.jpg
+[game-extra-sam]: ./.images/game-extra-sam-cn.jpg
+[game-playing-1]: ./.images/game-playing-1-cn.jpg
+[game-playing-2]: ./.images/game-playing-2-cn.jpg

@@ -21,6 +21,11 @@ The first public version of the game is expected to be released in August 2023. 
 
 Thank you for your patience and understanding. :)
 
+![Game Menu][game-menu]
+![Game Extra Sam][game-extra-sam]
+![Game Playing 1][game-playing-1]
+![Game Playing 2][game-playing-2]
+
 # 💖Project Members
 
 The release of the game wouldn't be possible without the collaborative efforts of these talented individuals.
@@ -79,7 +84,9 @@ This project defaults to the `MIT` license, but does not include the following a
 | Asset                                                                              | Copyright Holder                             | License                                        |
 | ---------------------------------------------------------------------------------- | -------------------------------------------- | ---------------------------------------------- |
 | All files under the directory `/images/cgs/`                                     | Production Team of "Hello."                  | CC BY-NC-SA 4.0                                |
-| All files under the directory `/images/headers/`                                 | Production Team of "Hello."                  | CC BY-NC-SA 4.0                                |
+| All files under the directory `/images/engings/`           | Production Team of "Hello."                   | CC BY-NC-SA 4.0                  |
+| All files under the directory `/images/favicons/`                    | 《Production Team of "Hello."                   | CC BY-NC-SA 4.0                  |
+| All files under the directory `/images/bgs/mc/`                      | "Minecraft"  | No License, Original Author Retains All Rights  |
 | All files under the directory `/images/sprites/can/`                             | Production Team of "Hello.",<br />tiAnsxq    | CC BY-NC-SA 4.0                                |
 | All files under the directory `/images/sprites/gr/`                              | Production Team of "Hello.",<br />GRtheGreat | CC BY-NC-SA 4.0                                |
 | All files under the directory `/images/sprites/romin/`                           | Production Team of "Hello.",<br />Rominwolf  | CC BY-NC-SA 4.0                                |
@@ -112,3 +119,7 @@ This project defaults to the `MIT` license, but does not include the following a
 [hellovn]: https://github.com/HelloVNProject
 [hellovn-shield]: https://img.shields.io/badge/Owner%20By-Hello%20VN-dark.svg?style=flat-square&labelColor=000&color=EAEAEA
 [status-shield]: https://img.shields.io/badge/Status-Work%20In%20Progress-dark.svg?style=flat-square
+[game-menu]: ./.images/game-menu-cn.jpg
+[game-extra-sam]: ./.images/game-extra-sam-cn.jpg
+[game-playing-1]: ./.images/game-playing-1-cn.jpg
+[game-playing-2]: ./.images/game-playing-2-cn.jpg
