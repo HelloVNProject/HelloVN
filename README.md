@@ -17,9 +17,9 @@ Why do the exploration team and the "The Smoke Room" quartet cross paths? What u
 
 The game is developed using the Godot Engine and is currently in development. If you're interested, feel free to follow this project.
 
-The first public version of the game is expected to be released in August 2023. Stay tuned.
+The first public version of the game is already released, go to release page and download freely!
 
-Thank you for your patience and understanding. :)
+Thank you for your play! :3
 
 ![Game Menu][game-menu]
 ![Game Extra Sam][game-extra-sam]
