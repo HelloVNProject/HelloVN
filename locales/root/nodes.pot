@@ -1,0 +1,158 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "TR:NODE:TITLE"
+msgstr ""
+
+msgid "TR:NODE:HEADER:FILE"
+msgstr ""
+
+msgid "TR:NODE:HEADER:WHO"
+msgstr ""
+
+msgid "TR:NODE:HEADER:FIRST"
+msgstr ""
+
+msgid "TR:NODE:HEADER:LAST"
+msgstr ""
+
+msgid "TR:NODE:MOD:TITLE"
+msgstr ""
+
+msgid "TR:NODE:TSR:TITLE"
+msgstr ""
+
+msgid "TR:NODE:MOD:1.01:1000:TEXT"
+msgstr ""
+
+msgid "TR:NODE:MOD:1.01:1005:TEXT"
+msgstr ""
+
+msgid "TR:NODE:MOD:1.01:1013:TEXT"
+msgstr ""
+
+msgid "TR:NODE:MOD:1.01:1017:TEXT"
+msgstr ""
+
+msgid "TR:NODE:MOD:1.01:1020:TEXT"
+msgstr ""
+
+msgid "TR:NODE:MOD:1.01:1024-10:TEXT"
+msgstr ""
+
+msgid "TR:NODE:MOD:1.01:1024-20:TEXT"
+msgstr ""
+
+msgid "TR:NODE:MOD:1.01:1025:TEXT"
+msgstr ""
+
+msgid "TR:NODE:MOD:1.01:1032:TEXT"
+msgstr ""
+
+msgid "TR:NODE:MOD:1.01:1033:TEXT"
+msgstr ""
+
+msgid "TR:NODE:MOD:1.01:1041:TEXT"
+msgstr ""
+
+msgid "TR:NODE:MOD:1.01:1044:TEXT"
+msgstr ""
+
+msgid "TR:NODE:MOD:1.01:1051:TEXT"
+msgstr ""
+
+msgid "TR:NODE:MOD:1.01:1055:TEXT"
+msgstr ""
+
+msgid "TR:NODE:MOD:1.01:1056:TEXT"
+msgstr ""
+
+msgid "TR:NODE:MOD:1.01:1101-25:TEXT"
+msgstr ""
+
+msgid "TR:NODE:MOD:1.01:1101-28:TEXT"
+msgstr ""
+
+msgid "TR:NODE:MOD:1.01:1120:TEXT"
+msgstr ""
+
+msgid "TR:NODE:MOD:1.01:1125:TEXT"
+msgstr ""
+
+msgid "TR:NODE:MOD:1.01:1129:TEXT"
+msgstr ""
+
+msgid "TR:NODE:MOD:1.01:1131:TEXT"
+msgstr ""
+
+msgid "TR:NODE:MOD:1.01:1132:TEXT"
+msgstr ""
+
+msgid "TR:NODE:TSR:1.01:205:TEXT"
+msgstr ""
+
+msgid "TR:NODE:TSR:1.01:220:TEXT"
+msgstr ""
+
+msgid "TR:NODE:TSR:1.01:225:TEXT"
+msgstr ""
+
+msgid "TR:NODE:TSR:1.01:238:TEXT"
+msgstr ""
+
+msgid "TR:NODE:TSR:1.01:241:TEXT"
+msgstr ""
+
+msgid "TR:NODE:TSR:1.01:245:TEXT"
+msgstr ""
+
+msgid "TR:NODE:TSR:1.01:252:TEXT"
+msgstr ""
+
+msgid "TR:NODE:TSR:1.01:257:TEXT"
+msgstr ""
+
+msgid "TR:NODE:TSR:1.01:300-40:TEXT"
+msgstr ""
+
+msgid "TR:NODE:TSR:1.01:300-45:TEXT"
+msgstr ""
+
+msgid "TR:NODE:TSR:1.01:301:TEXT"
+msgstr ""
+
+msgid "TR:NODE:TSR:1.01:311:TEXT"
+msgstr ""
+
+msgid "TR:NODE:TSR:1.01:312:TEXT"
+msgstr ""
+
+msgid "TR:NODE:TSR:1.01:314:TEXT"
+msgstr ""
+
+msgid "TR:NODE:TSR:1.01:316:TEXT"
+msgstr ""
+
+msgid "TR:NODE:TSR:1.01:318:TEXT"
+msgstr ""
+
+msgid "TR:NODE:TSR:1.01:320:TEXT"
+msgstr ""
+
+msgid "TR:NODE:TSR:1.01:321-10:TEXT"
+msgstr ""
+
+msgid "TR:NODE:TSR:1.01:321-20:TEXT"
+msgstr ""

@@ -1,0 +1,121 @@
+{
+	"color": "#ffdc9831",
+	"description": "",
+	"display_name": "Yao",
+	"display_name_bool": true,
+	"id": "character-1685190830.json",
+	"mirror_portraits": false,
+	"name": "Yao TSR",
+	"nickname": "TR:YAO:FULLNAME",
+	"nickname_bool": true,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://images/sprites/yao/tsr/yao.png"
+		},
+		{
+			"name": "Angry Crossed hat",
+			"path": "res://images/sprites/yao/tsr/yao angry crossed.png"
+		},
+		{
+			"name": "Angry Hat",
+			"path": "res://images/sprites/yao/tsr/yao angry.png"
+		},
+		{
+			"name": "Crossed Hat",
+			"path": "res://images/sprites/yao/tsr/yao crossed.png"
+		},
+		{
+			"name": "Eyebrows Crossed Hat",
+			"path": "res://images/sprites/yao/tsr/yao eyebrows crossed.png"
+		},
+		{
+			"name": "Eyebrows Hat",
+			"path": "res://images/sprites/yao/tsr/yao eyebrows.png"
+		},
+		{
+			"name": "Eyes Smile Crossed Hat",
+			"path": "res://images/sprites/yao/tsr/yao eyes smile crossed.png"
+		},
+		{
+			"name": "Eyes Smile Hat",
+			"path": "res://images/sprites/yao/tsr/yao eyes smile.png"
+		},
+		{
+			"name": "Happy Crossed Hat",
+			"path": "res://images/sprites/yao/tsr/yao happy crossed.png"
+		},
+		{
+			"name": "Happy Hat",
+			"path": "res://images/sprites/yao/tsr/yao happy.png"
+		},
+		{
+			"name": "Sad Crossed Hat",
+			"path": "res://images/sprites/yao/tsr/yao sad crossed.png"
+		},
+		{
+			"name": "Sad Hat",
+			"path": "res://images/sprites/yao/tsr/yao sad.png"
+		},
+		{
+			"name": "Shocked Crossed Hat",
+			"path": "res://images/sprites/yao/tsr/yao shocked crossed.png"
+		},
+		{
+			"name": "Shocked Hat",
+			"path": "res://images/sprites/yao/tsr/yao shocked.png"
+		},
+		{
+			"name": "Sidelook Crossed Hat",
+			"path": "res://images/sprites/yao/tsr/yao sidelook crossed.png"
+		},
+		{
+			"name": "Sidelook Hat",
+			"path": "res://images/sprites/yao/tsr/yao sidelook.png"
+		},
+		{
+			"name": "Smile Crossed Hat",
+			"path": "res://images/sprites/yao/tsr/yao smile crossed.png"
+		},
+		{
+			"name": "Smile Hat",
+			"path": "res://images/sprites/yao/tsr/yao smile.png"
+		},
+		{
+			"name": "Smirk Crossed Hat",
+			"path": "res://images/sprites/yao/tsr/yao smirk crossed.png"
+		},
+		{
+			"name": "Smirk Hat",
+			"path": "res://images/sprites/yao/tsr/yao smirk.png"
+		},
+		{
+			"name": "Surprised Crossed Hat",
+			"path": "res://images/sprites/yao/tsr/yao surprised crossed.png"
+		},
+		{
+			"name": "Surprised Hat",
+			"path": "res://images/sprites/yao/tsr/yao surprised.png"
+		},
+		{
+			"name": "Talking Crossed Hat",
+			"path": "res://images/sprites/yao/tsr/yao talking crossed.png"
+		},
+		{
+			"name": "Talking Hat",
+			"path": "res://images/sprites/yao/tsr/yao talking.png"
+		},
+		{
+			"name": "Teeth Crossed Hat",
+			"path": "res://images/sprites/yao/tsr/yao teeth crossed.png"
+		},
+		{
+			"name": "Teeth Hat",
+			"path": "res://images/sprites/yao/tsr/yao teeth.png"
+		}
+	],
+	"scale": 90,
+	"theme": ""
+}

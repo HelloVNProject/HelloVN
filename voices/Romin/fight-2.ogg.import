@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/fight-2.ogg-dd1c64892b1ef0438f9ee401ce08605f.oggstr"
+
+[deps]
+
+source_file="res://voices/Romin/fight-2.ogg"
+dest_files=[ "res://.import/fight-2.ogg-dd1c64892b1ef0438f9ee401ce08605f.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

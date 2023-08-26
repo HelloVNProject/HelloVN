@@ -1,0 +1,121 @@
+[gd_resource type="Theme" load_steps=19 format=2]
+
+[ext_resource path="res://fonts/harmony-os-sans-sc/SettingBlockText.tres" type="DynamicFont" id=1]
+[ext_resource path="res://images/icons/checkbox-uncheck.png" type="Texture" id=2]
+[ext_resource path="res://images/icons/checkbox-checked.png" type="Texture" id=3]
+
+[sub_resource type="StyleBoxFlat" id=8]
+bg_color = Color( 0.160784, 0.160784, 0.160784, 1 )
+
+[sub_resource type="StyleBoxFlat" id=9]
+bg_color = Color( 0, 0, 0, 1 )
+
+[sub_resource type="StyleBoxFlat" id=10]
+bg_color = Color( 0, 0, 0, 1 )
+
+[sub_resource type="StyleBoxFlat" id=11]
+bg_color = Color( 1, 1, 1, 0.196078 )
+
+[sub_resource type="StyleBoxFlat" id=12]
+bg_color = Color( 0.6, 0.6, 0.6, 0 )
+
+[sub_resource type="StyleBoxFlat" id=13]
+bg_color = Color( 1, 1, 1, 0.392157 )
+
+[sub_resource type="StyleBoxLine" id=5]
+grow_begin = 0.0
+grow_end = 0.0
+thickness = 4
+
+[sub_resource type="StyleBoxLine" id=6]
+thickness = 4
+
+[sub_resource type="StyleBoxLine" id=7]
+thickness = 2
+
+[sub_resource type="StyleBoxFlat" id=14]
+bg_color = Color( 1, 1, 1, 1 )
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color( 0, 0, 0, 1 )
+
+[sub_resource type="StyleBoxFlat" id=15]
+bg_color = Color( 0.721569, 0.65098, 0.65098, 1 )
+
+[sub_resource type="StyleBoxLine" id=1]
+color = Color( 0.545098, 0.545098, 0.545098, 1 )
+thickness = 10
+vertical = true
+
+[sub_resource type="StyleBoxLine" id=2]
+color = Color( 0.376471, 0.376471, 0.376471, 1 )
+thickness = 10
+vertical = true
+
+[sub_resource type="StyleBoxLine" id=3]
+color = Color( 0.156863, 0.156863, 0.156863, 1 )
+thickness = 10
+vertical = true
+
+[sub_resource type="StyleBoxLine" id=4]
+color = Color( 0, 0, 0, 0.0392157 )
+thickness = 10
+vertical = true
+
+[resource]
+Button/colors/font_color = Color( 0.88, 0.88, 0.88, 1 )
+Button/colors/font_color_disabled = Color( 0.9, 0.9, 0.9, 0.2 )
+Button/colors/font_color_focus = Color( 0.94, 0.94, 0.94, 1 )
+Button/colors/font_color_hover = Color( 0.94, 0.94, 0.94, 1 )
+Button/colors/font_color_pressed = Color( 1, 1, 1, 1 )
+Button/constants/hseparation = 16
+Button/fonts/font = null
+Button/styles/disabled = null
+Button/styles/focus = null
+Button/styles/hover = SubResource( 8 )
+Button/styles/normal = SubResource( 9 )
+Button/styles/pressed = SubResource( 10 )
+CheckBox/colors/font_color = Color( 0, 0, 0, 1 )
+CheckBox/colors/font_color_disabled = Color( 0.5, 0.5, 0.5, 1 )
+CheckBox/colors/font_color_focus = Color( 0, 0, 0, 1 )
+CheckBox/colors/font_color_hover = Color( 0, 0, 0, 1 )
+CheckBox/colors/font_color_hover_pressed = Color( 0, 0, 0, 1 )
+CheckBox/colors/font_color_pressed = Color( 0, 0, 0, 1 )
+CheckBox/constants/check_vadjust = 0
+CheckBox/constants/hseparation = 16
+CheckBox/fonts/font = ExtResource( 1 )
+CheckBox/icons/checked = null
+CheckBox/icons/checked_disabled = null
+CheckBox/icons/radio_checked = ExtResource( 3 )
+CheckBox/icons/radio_checked_disabled = null
+CheckBox/icons/radio_unchecked = ExtResource( 2 )
+CheckBox/icons/radio_unchecked_disabled = null
+CheckBox/icons/unchecked = null
+CheckBox/icons/unchecked_disabled = null
+CheckBox/styles/disabled = null
+CheckBox/styles/focus = null
+CheckBox/styles/hover = SubResource( 11 )
+CheckBox/styles/hover_pressed = null
+CheckBox/styles/normal = SubResource( 12 )
+CheckBox/styles/pressed = SubResource( 13 )
+HSlider/styles/grabber_area = SubResource( 5 )
+HSlider/styles/grabber_area_highlight = SubResource( 6 )
+HSlider/styles/slider = SubResource( 7 )
+LineEdit/colors/font_color = Color( 0, 0, 0, 1 )
+LineEdit/colors/font_color_selected = Color( 1, 1, 1, 1 )
+LineEdit/colors/selection_color = Color( 0, 0, 0, 1 )
+LineEdit/styles/normal = SubResource( 14 )
+PopupDialog/styles/panel = SubResource( 15 )
+VScrollBar/icons/decrement = null
+VScrollBar/icons/decrement_highlight = null
+VScrollBar/icons/decrement_pressed = null
+VScrollBar/icons/increment = null
+VScrollBar/icons/increment_highlight = null
+VScrollBar/icons/increment_pressed = null
+VScrollBar/styles/grabber = SubResource( 1 )
+VScrollBar/styles/grabber_highlight = SubResource( 2 )
+VScrollBar/styles/grabber_pressed = SubResource( 3 )
+VScrollBar/styles/scroll = SubResource( 4 )
+VScrollBar/styles/scroll_focus = null

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/cheer.ogg-bd7f6b8b885712af404c9d64041eeb76.oggstr"
+
+[deps]
+
+source_file="res://voices/Romin/cheer.ogg"
+dest_files=[ "res://.import/cheer.ogg-bd7f6b8b885712af404c9d64041eeb76.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,13 @@
+{
+	"events": [
+		{
+			"change_timeline": "timeline-mod01.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-start.json",
+		"name": "Start"
+	}
+}

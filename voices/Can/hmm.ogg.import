@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/hmm.ogg-2f8fa27d7eca490dc8cc55271e2b9e55.oggstr"
+
+[deps]
+
+source_file="res://voices/Can/hmm.ogg"
+dest_files=[ "res://.import/hmm.ogg-2f8fa27d7eca490dc8cc55271e2b9e55.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

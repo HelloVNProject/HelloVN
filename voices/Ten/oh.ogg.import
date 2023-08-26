@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/oh.ogg-531b01792c659c76ac02a5e333595b61.oggstr"
+
+[deps]
+
+source_file="res://voices/Ten/oh.ogg"
+dest_files=[ "res://.import/oh.ogg-531b01792c659c76ac02a5e333595b61.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

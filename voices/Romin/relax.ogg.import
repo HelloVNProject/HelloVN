@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/relax.ogg-b86a1e356ee080256de1121026b46152.oggstr"
+
+[deps]
+
+source_file="res://voices/Romin/relax.ogg"
+dest_files=[ "res://.import/relax.ogg-b86a1e356ee080256de1121026b46152.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

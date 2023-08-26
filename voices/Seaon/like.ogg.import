@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/like.ogg-0c1fb664b5fe13b2b55e5e7ad0fe6f8a.oggstr"
+
+[deps]
+
+source_file="res://voices/Seaon/like.ogg"
+dest_files=[ "res://.import/like.ogg-0c1fb664b5fe13b2b55e5e7ad0fe6f8a.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

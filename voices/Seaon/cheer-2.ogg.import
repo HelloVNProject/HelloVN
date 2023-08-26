@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/cheer-2.ogg-0d8abd1bf214545f1403a9a12c4e3460.oggstr"
+
+[deps]
+
+source_file="res://voices/Seaon/cheer-2.ogg"
+dest_files=[ "res://.import/cheer-2.ogg-0d8abd1bf214545f1403a9a12c4e3460.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

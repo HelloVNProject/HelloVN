@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Rominwolf <im@wsm.ink>\n"
+"Language-Team: OpenAI\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+
+msgid "TR:NODE:TITLE"
+msgstr "Archive."
+
+msgid "TR:NODE:HEADER:FILE"
+msgstr "Archive File"
+
+msgid "TR:NODE:HEADER:WHO"
+msgstr "Recorded By"
+
+msgid "TR:NODE:HEADER:FIRST"
+msgstr "First Recorded Date"
+
+msgid "TR:NODE:HEADER:LAST"
+msgstr "Last Recorded Date"
+
+msgid "TR:NODE:MOD:TITLE"
+msgstr "Modern Path"
+
+msgid "TR:NODE:TSR:TITLE"
+msgstr "The Smoke Room Path"
+
+msgid "TR:NODE:MOD:1.01:1000:TEXT"
+msgstr ""
+"The investigation team, including Captain GR, Engineer Dog Si. Can, Safety "
+"Officer Seaon, and Navigator Dog Gr. Romin, proceeded to this cave to "
+"investigate the source of the abnormal signal and determine its origin."
+
+msgid "TR:NODE:MOD:1.01:1005:TEXT"
+msgstr ""
+"After confirming the condition of the materials and inspecting the cave "
+"environment to be safe for entry without wearing protective suits, everyone "
+"officially entered the cave."
+
+msgid "TR:NODE:MOD:1.01:1013:TEXT"
+msgstr ""
+"The environment on the first underground level of the cave was normal with "
+"no anomalies. The signal indicator directed downward, indicating they should "
+"proceed to the second underground level."
+
+msgid "TR:NODE:MOD:1.01:1017:TEXT"
+msgstr ""
+"They arrived at the second underground level of the cave. Seaon noticed that "
+"some of the rocks were cubical in shape, and GR and Romin recognized these "
+"cubical formations."
+
+msgid "TR:NODE:MOD:1.01:1020:TEXT"
+msgstr ""
+"The environmental detector indicated the presence of a passage directly "
+"below, leading to the third underground level. After confirming the diggable "
+"nature of the ground, Can began digging."
+
+msgid "TR:NODE:MOD:1.01:1024-10:TEXT"
+msgstr ""
+"They reached the third underground level, where they found an unusually "
+"peculiar geological structure. Everything there was cubical in shape, "
+"including walls, ground, protruding objects, etc. GR and Romin were amazed, "
+"as the characteristics of this level perfectly matched the Digcraft cave "
+"terrain."
+
+msgid "TR:NODE:MOD:1.01:1024-20:TEXT"
+msgstr ""
+"Can mentioned that these cubical objects were unlike anything he had seen "
+"before. He needed to extract some samples for further study."
+
+msgid "TR:NODE:MOD:1.01:1025:TEXT"
+msgstr ""
+"Can extracted a few stones, all of which were cubical in shape. Now GR and "
+"Romin were certain they had entered the world of Digcraft caves. The "
+"abnormal signal had connected part of Digcraft's terrain to this world."
+
+msgid "TR:NODE:MOD:1.01:1032:TEXT"
+msgstr ""
+"Seaon discovered an abandoned mine shaft, and the others quickly joined him, "
+"collecting a substantial amount of valuable wood."
+
+msgid "TR:NODE:MOD:1.01:1033:TEXT"
+msgstr ""
+"GR suggested splitting up. He and Seaon would collect materials above, while "
+"Romin and Can collected materials below."
+
+msgid "TR:NODE:MOD:1.01:1041:TEXT"
+msgstr ""
+"The GR team found abandoned mine carts and collected a large amount of "
+"materials."
+
+msgid "TR:NODE:MOD:1.01:1044:TEXT"
+msgstr "Romin's team stumbled upon a densely grown cave."
+
+msgid "TR:NODE:MOD:1.01:1051:TEXT"
+msgstr ""
+"Romin's team encountered monsters in the overgrown cave and eventually fled."
+
+msgid "TR:NODE:MOD:1.01:1055:TEXT"
+msgstr ""
+"The GR team found a zombie dungeon. Using their formidable combat skills, GR "
+"eliminated all the monsters and sealed the spawner."
+
+msgid "TR:NODE:MOD:1.01:1056:TEXT"
+msgstr ""
+"The GR team found a dungeon reward chest inside the dungeon and obtained a "
+"large amount of precious materials from it."
+
+msgid "TR:NODE:MOD:1.01:1101-25:TEXT"
+msgstr ""
+"After Romin's team had secured their position, they notified the GR team of "
+"the updated rendezvous point."
+
+msgid "TR:NODE:MOD:1.01:1101-28:TEXT"
+msgstr ""
+"While GR and Seaon were on their way back, they received a message from "
+"Romin's team notifying them of the new rendezvous point. So they headed to "
+"the new location for the meeting."
+
+msgid "TR:NODE:MOD:1.01:1120:TEXT"
+msgstr ""
+"The GR and Romin teams successfully met up, exchanging gathered information."
+
+msgid "TR:NODE:MOD:1.01:1125:TEXT"
+msgstr "Can suggested continuing to the target location."
+
+msgid "TR:NODE:MOD:1.01:1129:TEXT"
+msgstr ""
+"They arrived at a dead end, and Can used his own explosives to clear the way."
+
+msgid "TR:NODE:MOD:1.01:1131:TEXT"
+msgstr ""
+"After the explosion, a massive portal appeared before them. The frame of the "
+"portal was made of deep black substance, while the inside was composed of "
+"purple opaque material (possibly non-tangible). These purple materials "
+"generated particles that were also purple, but not tangible. Beyond the "
+"portal was a massive lake of lava."
+
+msgid "TR:NODE:MOD:1.01:1132:TEXT"
+msgstr ""
+"Monsters appeared behind them, and GR ordered the team into emergency combat "
+"formation."
+
+msgid "TR:NODE:TSR:1.01:205:TEXT"
+msgstr ""
+"According to Yao, that evening was the day they (Sam, Nik, and Yao) agreed "
+"to go to the treasure location."
+
+msgid "TR:NODE:TSR:1.01:220:TEXT"
+msgstr ""
+"After their shift, they took a shower and returned to the mining area with "
+"their tools."
+
+msgid "TR:NODE:TSR:1.01:225:TEXT"
+msgstr ""
+"At the time, Sam expressed concern about the rope breaking, but Nik assured "
+"him not to worry."
+
+msgid "TR:NODE:TSR:1.01:238:TEXT"
+msgstr ""
+"They descended directly to the third underground level through the shaft."
+
+msgid "TR:NODE:TSR:1.01:241:TEXT"
+msgstr ""
+"Afterward, they arrived at the opening where Sam had killed Jack. Nik "
+"noticed that Sam had stabbed his own palm with his claws and was bleeding."
+
+msgid "TR:NODE:TSR:1.01:245:TEXT"
+msgstr ""
+"They arrived at the starting point of the labyrinthine mine on the third "
+"underground level."
+
+msgid "TR:NODE:TSR:1.01:252:TEXT"
+msgstr ""
+"They reached the most complex part of the mine's labyrinth, where areas "
+"resembled each other closely and were interconnected, making it easy to get "
+"lost."
+
+msgid "TR:NODE:TSR:1.01:257:TEXT"
+msgstr ""
+"Finally, they arrived at a narrow tunnel, and Yao mentioned that they were "
+"very close to the destination; they just needed to walk a bit further."
+
+msgid "TR:NODE:TSR:1.01:300-40:TEXT"
+msgstr ""
+"They reached a dead end, and Nik and Sam were skeptical of Yao's claims. "
+"However, Yao pulled out a candle from his bag and walked to a corner. It was "
+"then they noticed a crack for passage."
+
+msgid "TR:NODE:TSR:1.01:300-45:TEXT"
+msgstr ""
+"Yao asked who would go first, and Nik responded that Yao would lead, "
+"followed by Nik in the middle and Sam last."
+
+msgid "TR:NODE:TSR:1.01:301:TEXT"
+msgstr ""
+"As they were about to enter, a loud explosion was heard in the distance. "
+"After a brief discussion, they decided to investigate the explosion site."
+
+msgid "TR:NODE:TSR:1.01:311:TEXT"
+msgstr ""
+"At the \"explosion\" site, they saw a massive void portal emitting a red "
+"light, standing at the end of the alley. Todd was standing in front of the "
+"portal."
+
+msgid "TR:NODE:TSR:1.01:312:TEXT"
+msgstr ""
+"But there was no actual explosion. They deduced that the explosion sound "
+"from behind the portal had reached this side."
+
+msgid "TR:NODE:TSR:1.01:314:TEXT"
+msgstr ""
+"Nik asked Todd why he was here, and Todd explained he had been out with "
+"William for late-night evidence collection and somehow ended up here. He "
+"only remembered walking through a door."
+
+msgid "TR:NODE:TSR:1.01:316:TEXT"
+msgstr ""
+"Then Todd questioned Nik about why they were there. The three were at a "
+"loss, as they couldn't reveal the \"treasure plan\" to Todd."
+
+msgid "TR:NODE:TSR:1.01:318:TEXT"
+msgstr "Sam, Nik, and Yao were at a loss and eventually made up a random lie."
+
+msgid "TR:NODE:TSR:1.01:320:TEXT"
+msgstr "Todd understood, and everyone prepared to leave the area."
+
+msgid "TR:NODE:TSR:1.01:321-10:TEXT"
+msgstr ""
+"However, Nik's headlamp malfunctioned, leaving only the faint glow from the "
+"portal."
+
+msgid "TR:NODE:TSR:1.01:321-20:TEXT"
+msgstr ""
+"Nik was the first to see the \"monster\" and signaled everyone to turn "
+"around."

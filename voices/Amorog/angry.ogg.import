@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/angry.ogg-fa13237e0a35f66837625451f1aa7cfb.oggstr"
+
+[deps]
+
+source_file="res://voices/Amorog/angry.ogg"
+dest_files=[ "res://.import/angry.ogg-fa13237e0a35f66837625451f1aa7cfb.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,109 @@
+[gd_scene load_steps=9 format=2]
+
+[ext_resource path="res://images/chapter-end-background.jpg" type="Texture" id=2]
+[ext_resource path="res://scenes/chapter-end/Part2.gd" type="Script" id=3]
+[ext_resource path="res://images/icons/chapter-finished.png" type="Texture" id=4]
+[ext_resource path="res://images/white.png" type="Texture" id=5]
+[ext_resource path="res://shaders/blur.shader" type="Shader" id=7]
+[ext_resource path="res://fonts/harmony-os-sans-sc/styles/caption1.tres" type="DynamicFont" id=8]
+[ext_resource path="res://fonts/harmony-os-sans-sc/styles/h6.tres" type="DynamicFont" id=9]
+
+[sub_resource type="ShaderMaterial" id=1]
+shader = ExtResource( 7 )
+shader_param/amount = 3.0
+
+[node name="Part2" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 3 )
+
+[node name="Tween" type="Tween" parent="."]
+
+[node name="Main" type="Control" parent="."]
+margin_right = 40.0
+margin_bottom = 40.0
+
+[node name="BG" type="TextureRect" parent="Main"]
+margin_right = 1920.0
+margin_bottom = 1080.0
+texture = ExtResource( 2 )
+
+[node name="Header" type="TextureRect" parent="Main"]
+margin_right = 1920.0
+margin_bottom = 360.0
+expand = true
+stretch_mode = 7
+
+[node name="BGTemp" type="TextureRect" parent="Main"]
+visible = false
+margin_right = 1920.0
+margin_bottom = 1080.0
+
+[node name="Temps" type="Control" parent="Main"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+
+[node name="Card" type="Control" parent="Main/Temps"]
+margin_left = 120.0
+margin_top = 240.0
+margin_right = 640.0
+margin_bottom = 360.0
+rect_min_size = Vector2( 520, 120 )
+
+[node name="Tween" type="Tween" parent="Main/Temps/Card"]
+
+[node name="BG" type="ColorRect" parent="Main/Temps/Card"]
+modulate = Color( 1, 1, 1, 0.352941 )
+anchor_right = 1.0
+anchor_bottom = 1.0
+rect_min_size = Vector2( 520, 120 )
+
+[node name="Blur" type="TextureRect" parent="Main/Temps/Card"]
+visible = false
+material = SubResource( 1 )
+anchor_right = 1.0
+anchor_bottom = 1.0
+rect_min_size = Vector2( 520, 120 )
+size_flags_horizontal = 2
+size_flags_vertical = 2
+texture = ExtResource( 5 )
+expand = true
+
+[node name="Icon" type="TextureRect" parent="Main/Temps/Card"]
+margin_right = 150.0
+margin_bottom = 120.0
+rect_min_size = Vector2( 150, 120 )
+texture = ExtResource( 4 )
+expand = true
+stretch_mode = 4
+
+[node name="Caption" type="Label" parent="Main/Temps/Card"]
+margin_left = 150.0
+margin_top = 26.0
+margin_right = 210.0
+margin_bottom = 50.0
+custom_fonts/font = ExtResource( 8 )
+text = "Caption"
+
+[node name="Content" type="Label" parent="Main/Temps/Card"]
+margin_left = 150.0
+margin_top = 54.0
+margin_right = 438.0
+margin_bottom = 96.0
+custom_fonts/font = ExtResource( 9 )
+text = "Content"
+
+[node name="Cards" type="MarginContainer" parent="Main"]
+margin_top = 240.0
+margin_right = 1920.0
+margin_bottom = 360.0
+custom_constants/margin_right = 120
+custom_constants/margin_left = 120
+
+[node name="Container" type="GridContainer" parent="Main/Cards"]
+margin_left = 120.0
+margin_right = 1800.0
+margin_bottom = 120.0
+custom_constants/vseparation = 60
+custom_constants/hseparation = 60
+columns = 3

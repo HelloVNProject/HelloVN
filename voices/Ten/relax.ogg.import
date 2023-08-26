@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/relax.ogg-d60072fad52d6b15c6eecf12d8cf45d8.oggstr"
+
+[deps]
+
+source_file="res://voices/Ten/relax.ogg"
+dest_files=[ "res://.import/relax.ogg-d60072fad52d6b15c6eecf12d8cf45d8.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

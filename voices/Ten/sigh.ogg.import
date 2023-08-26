@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/sigh.ogg-d5558af07d7d1cedeac91c251df40dfd.oggstr"
+
+[deps]
+
+source_file="res://voices/Ten/sigh.ogg"
+dest_files=[ "res://.import/sigh.ogg-d5558af07d7d1cedeac91c251df40dfd.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

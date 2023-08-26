@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/relax.ogg-09452e132141df546e5bd3f934b6e171.oggstr"
+
+[deps]
+
+source_file="res://voices/GR/relax.ogg"
+dest_files=[ "res://.import/relax.ogg-09452e132141df546e5bd3f934b6e171.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

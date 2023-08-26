@@ -1,0 +1,106 @@
+[gd_scene load_steps=8 format=2]
+
+[ext_resource path="res://fonts/harmony-os-sans-sc/DefaultBoldFont.tres" type="DynamicFont" id=1]
+[ext_resource path="res://fonts/harmony-os-sans-sc/DefaultFont.tres" type="DynamicFont" id=2]
+[ext_resource path="res://fonts/harmony-os-sans-sc/HarmonyOS_Sans_SC_Bold.ttf" type="DynamicFontData" id=3]
+[ext_resource path="res://themes/Mod.tres" type="Theme" id=4]
+[ext_resource path="res://scenes/components/Splash.gd" type="Script" id=5]
+
+[sub_resource type="DynamicFont" id=1]
+size = 80
+font_data = ExtResource( 3 )
+
+[sub_resource type="StyleBoxFlat" id=2]
+bg_color = Color( 1, 1, 1, 1 )
+
+[node name="Splash" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 5 )
+
+[node name="Timer" type="Timer" parent="."]
+autostart = true
+
+[node name="BG" type="ColorRect" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+color = Color( 0, 0, 0, 1 )
+
+[node name="Marign" type="MarginContainer" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_constants/margin_right = 256
+custom_constants/margin_top = 128
+custom_constants/margin_left = 256
+custom_constants/margin_bottom = 128
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="VBox" type="VBoxContainer" parent="Marign"]
+margin_left = 256.0
+margin_top = 128.0
+margin_right = 1664.0
+margin_bottom = 952.0
+custom_constants/separation = 32
+
+[node name="Title" type="Label" parent="Marign/VBox"]
+margin_right = 1408.0
+margin_bottom = 95.0
+custom_fonts/font = SubResource( 1 )
+text = "TR:SPLASH:TITLE"
+uppercase = true
+
+[node name="Content" type="RichTextLabel" parent="Marign/VBox"]
+margin_top = 127.0
+margin_right = 1408.0
+margin_bottom = 179.0
+custom_constants/line_separation = 16
+custom_fonts/bold_font = ExtResource( 1 )
+custom_fonts/normal_font = ExtResource( 2 )
+bbcode_enabled = true
+bbcode_text = "TR:SPLASH:CONTENT"
+text = "TR:SPLASH:CONTENT"
+fit_content_height = true
+
+[node name="DoNotShow" type="CheckBox" parent="Marign/VBox"]
+margin_top = 211.0
+margin_right = 1408.0
+margin_bottom = 242.0
+theme = ExtResource( 4 )
+custom_colors/font_color_focus = Color( 1, 1, 1, 1 )
+custom_colors/font_color_hover_pressed = Color( 1, 1, 1, 1 )
+custom_colors/font_color = Color( 1, 1, 1, 1 )
+custom_colors/font_color_hover = Color( 1, 1, 1, 1 )
+custom_colors/font_color_pressed = Color( 1, 1, 1, 1 )
+pressed = true
+text = "TR:SPLASH:HIDDEN"
+flat = true
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Marign/VBox"]
+margin_top = 274.0
+margin_right = 1408.0
+margin_bottom = 310.0
+custom_constants/separation = 32
+
+[node name="Next" type="Button" parent="Marign/VBox/HBoxContainer"]
+margin_right = 267.0
+margin_bottom = 36.0
+theme = ExtResource( 4 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_styles/normal = SubResource( 2 )
+text = "TR:SPLASH:AGREE"
+
+[node name="Close" type="Button" parent="Marign/VBox/HBoxContainer"]
+margin_left = 299.0
+margin_right = 551.0
+margin_bottom = 36.0
+theme = ExtResource( 4 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_styles/normal = SubResource( 2 )
+text = "TR:SPLASH:DENY"
+
+[connection signal="timeout" from="Timer" to="." method="_on_Timer_timeout"]
+[connection signal="resized" from="Marign/VBox/Title" to="." method="_on_Title_resized"]
+[connection signal="pressed" from="Marign/VBox/HBoxContainer/Next" to="." method="_on_Next_pressed"]
+[connection signal="pressed" from="Marign/VBox/HBoxContainer/Close" to="." method="_on_Close_pressed"]

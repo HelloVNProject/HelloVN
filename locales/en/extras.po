@@ -1,0 +1,571 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Rominwolf <im@wsm.ink>\n"
+"Language-Team: OpenAI\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+
+msgid "TR:EXTRA:TITLE"
+msgstr "Extras."
+
+msgid "TR:EXTRA:ARTIST"
+msgstr "Artist"
+
+msgid "TR:EXTRA:CHAPTERINVEST"
+msgstr "Chapter {chapter}, Part {part} Extra Information:"
+
+msgid "TR:EXTRA:CHAPTERLOCKED"
+msgstr "Complete Chapter {chapter} to unlock this extra information."
+
+msgid "TR:EXTRA:NEEDUNLOCK"
+msgstr "[Complete this chapter to unlock this extra content.]"
+
+msgid "TR:EXTRA:NEEDUNLOCK:PARAMS"
+msgstr ""
+"[Complete Chapter {chapter}, Part {part} to unlock this extra content.]"
+
+msgid "TR:EXTRA:MOBS"
+msgstr "Mobs"
+
+msgid "TR:EXTRA:GR:NICKNAME"
+msgstr "GR"
+
+msgid "TR:EXTRA:GR:FULLNAME"
+msgstr "GR"
+
+msgid "TR:EXTRA:GR:DESC"
+msgstr ""
+"GR is a Koala with green eyes. Although he looks small and thin, his "
+"abilities are unmatched, even surpassing most people. He is the leader of "
+"the expedition team and is highly respected by the other members. Despite "
+"often appearing serious and rarely smiling, everyone knows his fiery "
+"determination.\n"
+"\n"
+"He is best friends with Seaon within the team, their relationship going far "
+"beyond friendship."
+
+msgid "TR:EXTRA:GR:EXTRAS:1"
+msgstr ""
+"The four members of the investigation team went out on August 1st, which is "
+"also GR's birthday."
+
+msgid "TR:EXTRA:SEAON:NICKNAME"
+msgstr "Seaon"
+
+msgid "TR:EXTRA:SEAON:FULLNAME"
+msgstr "Seaon"
+
+msgid "TR:EXTRA:SEAON:DESC"
+msgstr ""
+"Seaon is a polar bear with a tall stature and blue eyes. He is kind, "
+"reliable, and has a strong sense of justice. Additionally, he is incredibly "
+"cute, which endears him to the other members of the expedition team. He "
+"serves as the team's safety and medical officer, providing emergency medical "
+"assistance to other members. Finally, he is also the team's mascot because "
+"of his undeniable cuteness."
+
+msgid "TR:EXTRA:CAN:NICKNAME"
+msgstr "Can"
+
+msgid "TR:EXTRA:CAN:FULLNAME"
+msgstr "Dog Si. Can"
+
+msgid "TR:EXTRA:CAN:DESC"
+msgstr ""
+"Dog Si. Can is a Shiba Inu with red eyes and yellow-brown fur. He also has a "
+"brown mustache. Despite claiming to be quite old, he looks very young and "
+"not at all aged. He serves as the team's engineer and miner, ensuring safe "
+"paths for the team."
+
+msgid "TR:EXTRA:CAN:EXTRAS:1"
+msgstr ""
+"He seems to have a close friendship with Bear B. Ten, but the depth of their "
+"relationship is unclear."
+
+msgid "TR:EXTRA:CAN:EXTRAS:2"
+msgstr ""
+"He used his pipe and expended his inner energy to summon a person with black "
+"hair and a strong build, who looks a lot like Can. The person introduced "
+"himself as Nac, Can's dark embodiment."
+
+msgid "TR:EXTRA:CAN:EXTRAS:3"
+msgstr ""
+"He appears to have a special affection for Nik, like a budding romance. "
+"Perhaps he needs to have a heart-to-heart conversation with Nik."
+
+msgid "TR:EXTRA:ROMIN:NICKNAME"
+msgstr "Romin"
+
+msgid "TR:EXTRA:ROMIN:FULLNAME"
+msgstr "Dog Gr. Romin"
+
+msgid "TR:EXTRA:ROMIN:DESC"
+msgstr ""
+"Dog Gr. Romin is a Golden Retriever with blue eyes and a yellow ribbon tied "
+"to his left ear. He hasn't revealed the purpose of the ribbon, but it seems "
+"to have more significance than just decoration. He serves as the team's "
+"navigator and communicator, ensuring efficient travel routes and maintaining "
+"communication with headquarters."
+
+msgid "TR:EXTRA:ROMIN:EXTRAS:1"
+msgstr ""
+"He seems to have a strong affinity for Bear P. Amorog. There may be some "
+"history between them."
+
+msgid "TR:EXTRA:ROMIN:EXTRAS:2"
+msgstr "Romin takes off his ribbon, and then he transforms into a... beast!?"
+
+msgid "TR:EXTRA:ROMIN:EXTRAS:3"
+msgstr "Secret for Now."
+
+msgid "TR:EXTRA:SAM:NICKNAME"
+msgstr "Sam"
+
+msgid "TR:EXTRA:SAM:FULLNAME"
+msgstr "Samuel Ayers"
+
+msgid "TR:EXTRA:SAM:DESC"
+msgstr ""
+"Samuel Ayers is a mountain lion with red eyes. He has striking white fur "
+"with black markings. He is described as 'strong as a house.' Samuel wears a "
+"casual beige work shirt and pants, and he sports brown suspenders."
+
+msgid "TR:EXTRA:SAM:EXTRAS:1"
+msgstr ""
+"Samuel mentions that he sometimes feels very uncomfortable since coming to "
+"this world, as if his whole body is being torn apart. He needs to return to "
+"the surface as soon as possible for a comprehensive check-up."
+
+msgid "TR:EXTRA:NIK:NICKNAME"
+msgstr "Nik"
+
+msgid "TR:EXTRA:NIK:FULLNAME"
+msgstr "Nikolai Krol"
+
+msgid "TR:EXTRA:NIK:DESC"
+msgstr ""
+"Nikolai Krol is a sturdy badger with brown eyes. He has some gray facial "
+"stubble, resembling a beard. He wears a light yellow shirt tucked into jeans "
+"and a brown belt. He always wears a carbide miner's headlamp when working."
+
+msgid "TR:EXTRA:NIK:EXTRAS:1"
+msgstr ""
+"Nik has a special attachment to his miner's headlamp and can't bear the "
+"thought of losing it."
+
+msgid "TR:EXTRA:YAO:NICKNAME"
+msgstr "Yao"
+
+msgid "TR:EXTRA:YAO:FULLNAME"
+msgstr "Feng Yaolin"
+
+msgid "TR:EXTRA:YAO:DESC"
+msgstr ""
+"Feng Yaolin is a muscular tiger with distinctive markings on his face. He "
+"wears dark blue work pants, a matching hat, and a gray shirt with rolled-up "
+"sleeves. He carries his tool bag on his belt while working, but he takes it "
+"off in more casual situations."
+
+msgid "TR:EXTRA:YAO:EXTRAS:1"
+msgstr "Secret for Now."
+
+msgid "TR:EXTRA:TODD:NICKNAME"
+msgstr "Todd"
+
+msgid "TR:EXTRA:TODD:FULLNAME"
+msgstr "Todd Bronson"
+
+msgid "TR:EXTRA:TODD:DESC"
+msgstr ""
+"Todd Bronson is a tall, broad-shouldered otter. He wears a scarf with black "
+"and gray patterns, a white shirt under an open olive-brown vest, and black "
+"pants. He also carries a holster with a revolver inside."
+
+msgid "TR:EXTRA:TODD:EXTRAS:1"
+msgstr ""
+"Further analysis is needed to understand how Todd suddenly arrived at the "
+"underground Level Three mine."
+
+msgid "TR:EXTRA:AMOROG:NICKNAME"
+msgstr "Amorog"
+
+msgid "TR:EXTRA:AMOROG:FULLNAME"
+msgstr "Bear P. Amorog"
+
+msgid "TR:EXTRA:AMOROG:DESC"
+msgstr ""
+"Bear P. Amorog is a polar bear with green eyes. He has some brown "
+"sideburns.\n"
+"He was tasked by the headquarters' command center to serve as a remote "
+"support member for this expedition team."
+
+msgid "TR:EXTRA:AMOROG:EXTRAS:1"
+msgstr ""
+"He seems to have a strong affinity for Romin. There may be some history "
+"between them."
+
+msgid "TR:EXTRA:TEN:NICKNAME"
+msgstr "Ten"
+
+msgid "TR:EXTRA:TEN:FULLNAME"
+msgstr "Bear B. Ten"
+
+msgid "TR:EXTRA:TEN:DESC"
+msgstr ""
+"Bear P. Ten is a brown bear with blue eyes. He is optimistic and proactive, "
+"and also serves as the manager of the city's most highly-regarded pizzeria."
+
+msgid "TR:EXTRA:TEN:EXTRAS:1"
+msgstr ""
+"He is best friends with Can and seems to have a romantic affection for him. "
+"Perhaps we should ask Can to reveal some stories about Ten."
+
+msgid "TR:EXTRA:ZOMBIE:NICKNAME"
+msgstr "Zombie"
+
+msgid "TR:EXTRA:ZOMBIE:DESC"
+msgstr ""
+"Zombies are hostile creatures that appear in the game 'Dig and Build.' These "
+"creatures are often mistakenly perceived as clumsy and stumbling, but their "
+"sheer numbers can overwhelm even the bravest adventurers."
+
+msgid "TR:EXTRA:SKELETON:NICKNAME"
+msgstr "Skeleton"
+
+msgid "TR:EXTRA:SKELETON:DESC"
+msgstr ""
+"Skeletons are hostile creatures that appear in the game 'Dig and Build.' "
+"They use their iconic bows and arrows as weapons to attack adventurers. Be "
+"cautious and avoid falling victim to their surprise attacks."
+
+msgid "TR:EXTRA:CGS"
+msgstr "Illustrations"
+
+msgid "TR:EXTRA:FIRSTFIGHT:NAME"
+msgstr "The Beginning of the Battle"
+
+msgid "TR:EXTRA:FIRSTFIGHT:CONTENT"
+msgstr ""
+"[b]Artist: Rominwolf, Thanks: GRtheGreat[/b]\n"
+"\n"
+"Faced with the onslaught of monsters like a tide, GR commands the members of "
+"the expedition team to activate emergency alert mode. Combat members take "
+"the front line, while support members assist others from the rear.\n"
+"\n"
+"Can they successfully escape this predicament? And their fate will be "
+"decided by you."
+
+msgid "TR:EXTRA:QUICKTIME:NAME"
+msgstr "Quick Time Event"
+
+msgid "TR:EXTRA:QUICKTIME:CONTENT"
+msgstr "[b]Artist: tiAnsxq[/b]"
+
+msgid "TR:EXTRA:CAVEINVEST:NAME"
+msgstr "Cave Exploration"
+
+msgid "TR:EXTRA:CAVEINVEST:CONTENT"
+msgstr ""
+"[b]Artist: GRtheGreat[/b]\n"
+"\n"
+"The four members of the expedition team (GR, Dog Si. Can, Seaon, and Dog. "
+"Gr. Romin) respond to Bear P. Amorog's investigation request and prepare to "
+"head to the designated location for investigation. After a series of "
+"preparations, the team finally arrives at their destination as indicated by "
+"the navigation: a cave that has existed for centuries, marking the beginning "
+"of their adventure.\n"
+"\n"
+"What will they encounter inside the cave? Will they return safely? Let's "
+"wait and see."
+
+msgid "TR:EXTRA:NIKSHAT:NAME"
+msgstr "Damaged Helmet"
+
+msgid "TR:EXTRA:NIKSHAT:CONTENT"
+msgstr ""
+"[b]Artist: EJheptene[/b]\n"
+"\n"
+"Before Nikolai Krol came to the modern world, his helmet fell in the world "
+"of \"The Smoking Room\". This helmet is very important to him, its loss is "
+"akin to his separation from Samuel Ayers. In future stories, we may delve "
+"further into the origin of his helmet, Nik's choices, and the destiny of "
+"this helmet."
+
+msgid "TR:EXTRA:TERMS"
+msgstr "Terminology"
+
+msgid "TR:EXTRA:SINGAL:NAME"
+msgstr "Signal Indicator"
+
+msgid "TR:EXTRA:SINGAL:DESC"
+msgstr ""
+"The Signal Indicator is a device similar to a compass. Although it's the "
+"size of a pocket watch, it has standard directional capabilities, memory, "
+"navigation, and communication functions. It also features a simplified touch-"
+"based holographic projection system that allows convenient screen viewing "
+"and interaction. The device is equipped with a satellite phone antenna, "
+"which can be manually extended if the signal is weak.\n"
+"\n"
+"The device includes an emergency contact system that can directly connect to "
+"the nearest satellite signal in emergencies and attempt to establish "
+"communication. The device allows global communication via satellites.\n"
+"\n"
+"Designed by Bear P. Amorog, the device follows international recommended "
+"standards (IRS-7199) and has been manufactured to strict international "
+"standards (ISS-202419)."
+
+msgid "TR:EXTRA:ENVIRONMENTAL:NAME"
+msgstr "Environmental Detector"
+
+msgid "TR:EXTRA:ENVIRONMENTAL:DESC"
+msgstr ""
+"The Environmental Detector is a rectangular PDA device with a milky white "
+"body and rounded corners. It provides real-time monitoring of the current "
+"area's industrial environment, ground conditions, weather, and air quality "
+"assessments. It collects and analyzes data on environmental factors such as "
+"temperature, humidity, pressure, pollutants, and other variables. The device "
+"does not have a graphical interface and solely relies on a command-line "
+"interface for interaction.\n"
+"\n"
+"Designed by Dog Gr. Romin and manufactured by Bear P. Amorog, the device "
+"incorporates functionalities from gray industries and has not been "
+"officially registered."
+
+msgid "TR:EXTRA:ANOSINGAL:NAME"
+msgstr "Anomalous Signal Source"
+
+msgid "TR:EXTRA:ANOSINGAL:DESC"
+msgstr ""
+"For unknown reasons, there has been a significant increase in anomalous "
+"signal sources recently. Someone needs to be sent to investigate the source, "
+"identify the cause, and troubleshoot the issue. Message from Amorog.\n"
+"\n"
+"Anomalous signal source refers to the general term for signal sources that "
+"suddenly appear in one or more areas with known locations and time but "
+"unknown causes and ways to restore them to their original state. These "
+"signal sources manifest as signals within the specified areas, and the "
+"signal itself serves as the origin. Once the location of the signal is "
+"found, and a solution to eliminate the anomaly is discovered, theoretically, "
+"the issue of anomalous zones can be resolved.\n"
+"\n"
+"No one knows why these strange anomalous zones appear, but they have caused "
+"varying degrees of inconvenience in this world. Solving this problem is the "
+"mission of Amorog's team.\n"
+"\n"
+"In this game, they will investigate and solve the suddenly appearing "
+"anomalous zones and signals."
+
+msgid "TR:EXTRA:DIGCRAFT:NAME"
+msgstr "Digcraft"
+
+msgid "TR:EXTRA:DIGCRAFT:DESC"
+msgstr ""
+"Digcraft is an open-world sandbox game where players can explore a virtually "
+"infinite generated world. This world is composed of various blocks that can "
+"be collected and used to create a wide variety of artistic works. Players "
+"can engage in activities such as mining, crafting, building, adventuring, "
+"and battling hostile creatures. By collecting resources and crafting tools "
+"and items, players can construct houses, castles, mechanical devices, or "
+"massive creations. The game features elements such as day-night cycles, "
+"weather changes, and dynamic ecosystems, making the virtual world more "
+"realistic and immersive."
+
+msgid "TR:EXTRA:THESMOKEROOM:NAME"
+msgstr "The Smoke Room"
+
+msgid "TR:EXTRA:THESMOKEROOM:DESC"
+msgstr ""
+"The Smoke Room is the third visual novel created by EchoProject. It is "
+"considered a prequel to the timeline of 'Echo' but playing this game does "
+"not require any knowledge of 'Echo.'\n"
+"\n"
+"According to the official description, The Smoke Room is not directly "
+"connected to any specific storyline in 'Echo,' but both works share the same "
+"characters and story settings. The connection between the two works can be "
+"described as 'a prequel but on an alternate timeline.'\n"
+"\n"
+"The 'Echo' series consists of three main works and a short prequel. In "
+"chronological order, they are: the prequel set in 1915, The Smoke Room; the "
+"short prequel to the adventure on Halloween in 2008, Echo: Route 65; the "
+"first main installment, Echo; and the sequel, Arch Bridge, which takes place "
+"five years after the events of Echo.\n"
+"\n"
+"The Smoke Room's story unfolds in Echo Town a century ago, with the "
+"perspective centered around Samuel, a sex worker whose vision for a better "
+"life leads him down a path of deadly consequences.\n"
+"\n"
+"A murder case, a miners' strike, and a ripple effect that disrupts the daily "
+"lives of the town's residents. To make matters worse, something is "
+"unleashed, attaching itself to the guilty, preventing them from escaping... "
+"Echo Town.\n"
+"\n"
+"You can visit the official website of the game for more details: "
+"[url=https://echoproject.itch.io/the-smoke-room]https://echoproject.itch.io/"
+"the-smoke-room[/url]"
+
+msgid "TR:EXTRA:QTE:NAME"
+msgstr "Quick Time Events (QTE)"
+
+msgid "TR:EXTRA:QTE:DESC"
+msgstr ""
+"Quick Time Events (QTE) are a game mechanic commonly used in electronic "
+"games. In QTE, players are required to press specific buttons or perform "
+"specific actions within a certain time frame to complete crucial actions or "
+"events in the game. These buttons and actions are often displayed on the "
+"screen as icons, arrows, or text and appear abruptly and tensely during "
+"gameplay."
+
+msgid "TR:EXTRA:QTERB:NAME"
+msgstr "Quick Time Events with Rhythm-Based (QTE/Rb)"
+
+msgid "TR:EXTRA:QTERB:DESC"
+msgstr ""
+"Quick Time Events with Rhythm-Based (QTE/Rb) is a game mechanic similar to "
+"traditional QTEs but with the added element of rhythm-based gameplay. In "
+"addition to pressing specific buttons or performing specific actions within "
+"a certain time frame, players must also synchronize their actions with the "
+"rhythm of the music and on-screen prompts to complete crucial actions or "
+"events in the game. These buttons and actions are often displayed on the "
+"screen as icons, arrows, or text and appear abruptly and tensely during "
+"gameplay."
+
+msgid "TR:EXTRA:STAFFS"
+msgstr "Staff List"
+
+msgid "TR:EXTRA:DUTY"
+msgstr "Responsibilities"
+
+msgid "TR:EXTRA:MATE"
+msgstr "Team Members"
+
+msgid "TR:EXTRA:DIRECTOR"
+msgstr "Director"
+
+msgid "TR:EXTRA:WRITER"
+msgstr "Writer"
+
+msgid "TR:EXTRA:CHARDESIGN"
+msgstr "Characters Designers"
+
+msgid "TR:EXTRA:ARTIST:CHAR"
+msgstr "Characters Illustrators"
+
+msgid "TR:EXTRA:ARTIST:CG"
+msgstr "CGs Illustrators"
+
+msgid "TR:EXTRA:ARTIST:BG"
+msgstr "Backgrounds Illustrators"
+
+msgid "TR:EXTRA:SFX"
+msgstr "Sound Effects Designers"
+
+msgid "TR:EXTRA:MUSIC"
+msgstr "Musicians"
+
+msgid "TR:EXTRA:UI"
+msgstr "UIs Designers"
+
+msgid "TR:EXTRA:PROGRAM:CLIENT"
+msgstr "Client Programmers"
+
+msgid "TR:EXTRA:TEST"
+msgstr "Testers"
+
+msgid "TR:EXTRA:LEGAL"
+msgstr "Legal Consultant"
+
+msgid "TR:EXTRA:ROMINVILLA"
+msgstr "Romin Villa's Mates"
+
+msgid "TR:EXTRA:THANK"
+msgstr "Special Thanks"
+
+msgid "TR:EXTRA:ICON"
+msgstr "Game Icon Designer"
+
+msgid "TR:EXTRA:SOURCE"
+msgstr "Open Source"
+
+msgid "TR:EXTRA:PROGRAM:BACKEND"
+msgstr "Backend Programmers"
+
+msgid "TR:EXTRA:TRANSLATE"
+msgstr "Translators"
+
+msgid "TR:EXTRA:THIRD:TITLE"
+msgstr "Third-Party Asset Usage List"
+
+msgid "TR:EXTRA:THIRD:TYPE"
+msgstr "Type"
+
+msgid "TR:EXTRA:THIRD:NAME"
+msgstr "Name"
+
+msgid "TR:EXTRA:THIRD:SOURCE"
+msgstr "Source"
+
+msgid "TR:EXTRA:THIRD:LICENSE"
+msgstr "License"
+
+msgid "TR:EXTRA:THIRD:SPRITE"
+msgstr "Sprite"
+
+msgid "TR:EXTRA:THIRD:UI"
+msgstr "UI"
+
+msgid "TR:EXTRA:THIRD:BG"
+msgstr "Background"
+
+msgid "TR:EXTRA:THIRD:MODEL"
+msgstr "Model"
+
+msgid "TR:EXTRA:THIRD:MUSIC"
+msgstr "Music"
+
+msgid "TR:EXTRA:THIRD:PROGRAM"
+msgstr "Program"
+
+msgid "TR:EXTRA:THIRD:VOICE"
+msgstr "Voice"
+
+msgid "TR:EXTRA:THIRD:FONT"
+msgstr "Font"
+
+msgid "TR:EXTRA:THIRD:SFX"
+msgstr "Sound Effects"
+
+msgid "TR:EXTRA:THIRD:FAIRUSE"
+msgstr "Fair Use"
+
+msgid "TR:EXTRA:THIRD:FREEUSE"
+msgstr "Free to Use"
+
+msgid "TR:EXTRA:THIRD:AUTHORIZED"
+msgstr "Authorized"
+
+msgid "TR:EXTRA:THIRD:MIT"
+msgstr "MIT License"
+
+msgid "TR:EXTRA:THIRD:SIL"
+msgstr "SIL License"
+
+msgid "TR:EXTRA:THIRD:HARMONY"
+msgstr "HarmonyOS Sans Fonts License"
+
+msgid "TR:EXTRA:THIRD:GAMEENGINE"
+msgstr "Game Engine"
+
+msgid "TR:EXTRA:THIRD:ASSET"
+msgstr "Asset Library"
+
+msgid "TR:EXTRA:THIRD:HELLO"
+msgstr "Hello"
+
+msgid "TR:EXTRA:THIRD:LINKMUSICNOW"
+msgstr "Linkmusicnow"

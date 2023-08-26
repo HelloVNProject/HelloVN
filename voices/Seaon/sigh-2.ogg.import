@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/sigh-2.ogg-1f7ff24b64e2dedb421411dac28bc068.oggstr"
+
+[deps]
+
+source_file="res://voices/Seaon/sigh-2.ogg"
+dest_files=[ "res://.import/sigh-2.ogg-1f7ff24b64e2dedb421411dac28bc068.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

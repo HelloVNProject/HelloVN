@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/ye.ogg-1f1573d128de084608699c7063c1a3a2.oggstr"
+
+[deps]
+
+source_file="res://voices/GR/ye.ogg"
+dest_files=[ "res://.import/ye.ogg-1f1573d128de084608699c7063c1a3a2.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

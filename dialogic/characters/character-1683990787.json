@@ -1,0 +1,57 @@
+{
+	"color": "#fffdc068",
+	"description": "",
+	"display_name": "Romin",
+	"display_name_bool": true,
+	"id": "character-1683990787.json",
+	"mirror_portraits": false,
+	"name": "Romin",
+	"nickname": "TR:ROMIN:FULLNAME",
+	"nickname_bool": true,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://images/sprites/romin/Default.png"
+		},
+		{
+			"name": "Doubt",
+			"path": "res://images/sprites/romin/Doubt.png"
+		},
+		{
+			"name": "Happy",
+			"path": "res://images/sprites/romin/Happy.png"
+		},
+		{
+			"name": "Shock",
+			"path": "res://images/sprites/romin/Shock.png"
+		},
+		{
+			"name": "Tense",
+			"path": "res://images/sprites/romin/Tense.png"
+		},
+		{
+			"name": "Default Dust",
+			"path": "res://images/sprites/romin/dust/Default.png"
+		},
+		{
+			"name": "Doubt Dust",
+			"path": "res://images/sprites/romin/dust/Doubt.png"
+		},
+		{
+			"name": "Happy Dust",
+			"path": "res://images/sprites/romin/dust/Happy.png"
+		},
+		{
+			"name": "Shock Dust",
+			"path": "res://images/sprites/romin/dust/Shock.png"
+		},
+		{
+			"name": "Tense Dust",
+			"path": "res://images/sprites/romin/dust/Tense.png"
+		}
+	],
+	"scale": 56,
+	"theme": ""
+}

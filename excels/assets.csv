@@ -1,0 +1,20 @@
+﻿TR:EXTRA:THIRD:TYPE,TR:EXTRA:THIRD:NAME,TR:EXTRA:THIRD:SOURCE,TR:EXTRA:THIRD:LICENSE
+TR:EXTRA:THIRD:SPRITE,"nik talking h, nik surprised h, nik smileeyes h, nik smile h, nik sidelook h, nik shocked h, nik sad h, nik happy h, nik h, nik flustered h, nik eyes talk h, nik eyes h, nik disappointed h, nik blush h, nik angry h, yao, yao teeth, yao teeth crossed, yao talking, yao talking crossed, yao surprised, yao surprised crossed, yao smirk, yao smirk crossed, yao smile, yao smile crossed, yao sidelook, yao sidelook crossed, yao shocked, yao shocked crossed, yao sad, yao sad crossed, yao happy, yao happy crossed, yao eyes smile, yao eyes smile crossed, yao eyebrows, yao eyebrows crossed, yao crossed, yao angry, yao angry crossed, sam happy, sam, sam talking, sam surprised, sam surprised talking, sam surprised blush, sam smile, sam shocked, sam shocked blush, sam sad, sam sad talking, sam laugh, sam happy, sam happy talking, sam happy talking blush, sam happy blush, sam flustered, sam flustered talking, sam eyes, sam eyes talking, sam eyes smile, sam annoyed, sam annoyed talking, tod, todangry, todannoyed, todarmshappy, todeyeshappy, todsad, todsigh, todsurprised, todtalking, todyell",The Smoke Room,TR:EXTRA:THIRD:AUTHORIZED
+TR:EXTRA:THIRD:UI,"textbox_speaker, textbox_aside, textbox, choice_idle_background, choice_hover_background",The Smoke Room,TR:EXTRA:THIRD:AUTHORIZED
+TR:EXTRA:THIRD:BG,"minetunnel, mineoverhang, minenook, minemazetunnel, minemaze, minegaphole, minegap, mineentrance, mineclimb, minechasm, hollow, echomine, echodesertnight, stars",The Smoke Room,TR:EXTRA:THIRD:AUTHORIZED
+,"cave-outside-entrance, cave-plaza, cave-road",Stable Diffusion,TR:EXTRA:THIRD:FREEUSE
+,cave-tunnel-underground-entrance-94193,kobitriki,TR:EXTRA:THIRD:FREEUSE
+,gustave-courbet-art-painting-81308,12019,TR:EXTRA:THIRD:FREEUSE
+,"mineshaft, lushcaves, lushcaves-tree, lushcaves-pool, lushcaves-deepslate, ironore, doungeon, doungeon-sealed, doungeon-entrance, doungeon-chest, coalore, cave-plaza, mineshaft-chest-2, mineshaft-chest-1, mineshaft-outside, cave-lava-portal-1, cave-lava-2, cave-lava-portal-2, mineshaft-entrance, cave-lava-1, cave-plaza-2",Minecraft,TR:EXTRA:THIRD:FAIRUSE
+TR:EXTRA:THIRD:MODEL,"Zombie, Skeleton",Minecraft,TR:EXTRA:THIRD:FAIRUSE
+TR:EXTRA:THIRD:MUSIC,Hello,Linkmusicnow,TR:EXTRA:THIRD:AUTHORIZED
+,Conflict,Anthemics (The Smoke Room),TR:EXTRA:THIRD:AUTHORIZED
+,Battle Percussion Jungle Powerful Show Heavy Music,REDproductions,TR:EXTRA:THIRD:FREEUSE
+TR:EXTRA:THIRD:SFX,bigbang,Placidplace,TR:EXTRA:THIRD:FREEUSE
+TR:EXTRA:THIRD:PROGRAM,Godot Edgine V3.5.2,Game Engine,TR:EXTRA:THIRD:MIT
+,Dialogic,Godot Plugins,TR:EXTRA:THIRD:MIT
+TR:EXTRA:THIRD:VOICE,"James P. Sullivan, Cave Johnson, Bandit Heeler",Uberduck AI,TR:EXTRA:THIRD:FAIRUSE
+TR:EXTRA:THIRD:FONT,"HarmonyOS Sans SC Black, HarmonyOS Sans SC Bold, HarmonyOS Sans SC Medium",Harmony OS,TR:EXTRA:THIRD:HARMONY
+,"Source Han Serif CN Bold, Source Han Serif CN Heavy, Source Han Serif CN Medium",Adobe,TR:EXTRA:THIRD:SIL
+,"IntelOne Mono Bold, IntelOne Mono Regular",Intel,TR:EXTRA:THIRD:SIL
+,Hooskai Chamfered Square,Hooskai,TR:EXTRA:THIRD:SIL

@@ -1,0 +1,112 @@
+{
+	"files": [
+
+	],
+	"folders": {
+		"Characters": {
+			"files": [
+				"character-1692288114.json"
+			],
+			"folders": {
+				"Minecraft": {
+					"files": [
+
+					],
+					"folders": {
+
+					},
+					"metadata": {
+						"color": null,
+						"folded": false
+					}
+				},
+				"Mod": {
+					"files": [
+						"character-1686991619.json",
+						"character-1687008388.json",
+						"character-1686896674.json",
+						"character-1683990787.json",
+						"character-1688808679.json",
+						"character-1688808650.json"
+					],
+					"folders": {
+
+					},
+					"metadata": {
+						"color": null,
+						"folded": true
+					}
+				},
+				"Tsr": {
+					"files": [
+						"character-1683993968.json",
+						"character-1685191246.json",
+						"character-1685190830.json",
+						"character-1690008720.json"
+					],
+					"folders": {
+
+					},
+					"metadata": {
+						"color": null,
+						"folded": true
+					}
+				}
+			},
+			"metadata": {
+				"color": null,
+				"folded": false
+			}
+		},
+		"Definitions": {
+			"files": [
+				"1685872808-648",
+				"1686368748-648",
+				"1688273197-695",
+				"1688273206-497",
+				"1688274287-861",
+				"1691294441-648",
+				"1691294758-787",
+				"1691295413-366",
+				"1691295440-146"
+			],
+			"folders": {
+
+			},
+			"metadata": {
+				"color": null,
+				"folded": false
+			}
+		},
+		"Themes": {
+			"files": [
+				"default-theme.cfg",
+				"theme-1683991506.cfg",
+				"theme-1684035494.cfg"
+			],
+			"folders": {
+
+			},
+			"metadata": {
+				"color": null,
+				"folded": false
+			}
+		},
+		"Timelines": {
+			"files": [
+				"timeline-start.json",
+				"timeline-test.json",
+				"timeline-mod01.json",
+				"timeline-tsr01.json",
+				"timeline-mod02.json"
+			],
+			"folders": {
+
+			},
+			"metadata": {
+				"color": null,
+				"folded": false
+			}
+		}
+	}
+}

@@ -1,0 +1,109 @@
+{
+	"color": "#ffff3333",
+	"description": "",
+	"display_name": "Sam",
+	"display_name_bool": true,
+	"id": "character-1685191246.json",
+	"mirror_portraits": false,
+	"name": "Sam TSR",
+	"nickname": "TR:SAM:FULLNAME",
+	"nickname_bool": true,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://images/sprites/sam/tsr/sam.png"
+		},
+		{
+			"name": "Annoyed Talking",
+			"path": "res://images/sprites/sam/tsr/sam annoyed talking.png"
+		},
+		{
+			"name": "Annoyed",
+			"path": "res://images/sprites/sam/tsr/sam annoyed.png"
+		},
+		{
+			"name": "Eyes Smile",
+			"path": "res://images/sprites/sam/tsr/sam eyes smile.png"
+		},
+		{
+			"name": "Eyes Talking",
+			"path": "res://images/sprites/sam/tsr/sam eyes talking.png"
+		},
+		{
+			"name": "Eyes",
+			"path": "res://images/sprites/sam/tsr/sam eyes.png"
+		},
+		{
+			"name": "Flustered Talking",
+			"path": "res://images/sprites/sam/tsr/sam flustered talking.png"
+		},
+		{
+			"name": "Flustered",
+			"path": "res://images/sprites/sam/tsr/sam flustered.png"
+		},
+		{
+			"name": "Happy Blush",
+			"path": "res://images/sprites/sam/tsr/sam happy blush.png"
+		},
+		{
+			"name": "Happy Talking blush",
+			"path": "res://images/sprites/sam/tsr/sam happy talking blush.png"
+		},
+		{
+			"name": "Happy Talking",
+			"path": "res://images/sprites/sam/tsr/sam happy talking.png"
+		},
+		{
+			"name": "Happy",
+			"path": "res://images/sprites/sam/tsr/sam happy.png"
+		},
+		{
+			"name": "Laugh",
+			"path": "res://images/sprites/sam/tsr/sam laugh.png"
+		},
+		{
+			"name": "Sad Talking",
+			"path": "res://images/sprites/sam/tsr/sam sad talking.png"
+		},
+		{
+			"name": "Sad",
+			"path": "res://images/sprites/sam/tsr/sam sad.png"
+		},
+		{
+			"name": "Shocked Blush",
+			"path": "res://images/sprites/sam/tsr/sam shocked blush.png"
+		},
+		{
+			"name": "Shocked",
+			"path": "res://images/sprites/sam/tsr/sam shocked.png"
+		},
+		{
+			"name": "Smile",
+			"path": "res://images/sprites/sam/tsr/sam smile.png"
+		},
+		{
+			"name": "Surprised Blush",
+			"path": "res://images/sprites/sam/tsr/sam surprised blush.png"
+		},
+		{
+			"name": "Surprised Talking",
+			"path": "res://images/sprites/sam/tsr/sam surprised talking.png"
+		},
+		{
+			"name": "Surprised",
+			"path": "res://images/sprites/sam/tsr/sam surprised.png"
+		},
+		{
+			"name": "Talking",
+			"path": "res://images/sprites/sam/tsr/sam talking.png"
+		},
+		{
+			"name": "Happy",
+			"path": "res://images/sprites/sam/tsr/sam_happy.png"
+		}
+	],
+	"scale": 95,
+	"theme": ""
+}

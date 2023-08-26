@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/null.ogg-e4200bda91151008a4bd842f4b986583.oggstr"
+
+[deps]
+
+source_file="res://voices/旁白/null.ogg"
+dest_files=[ "res://.import/null.ogg-e4200bda91151008a4bd842f4b986583.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

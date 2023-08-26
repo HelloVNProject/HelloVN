@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: timeline-mod02.json.translation.json conversion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-21 09:01-0700\n"
+"PO-Revision-Date: 2023-08-26 17:16+0800\n"
+"Last-Translator: Rominwolf <im@wsm.ink>\n"
+"Language-Team: ChatGPT (OpenAI)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Loco-Source-Locale: zh\n"
+"X-Loco-Api-Version: 1.0.28 20230809-1\n"
+
+msgid "TR:DIALOG:MOD02:00001"
+msgstr "After the explosion, they went to the explosion site and passed through the wall, arriving on the other side."
+
+msgid "TR:DIALOG:MOD02:00002"
+msgstr "However, completely contrary to their expectations, on the other side of the wall was an immense lake of magma, illuminating the whole space in a fiery red that was glaring and intense."
+
+msgid "TR:DIALOG:MOD02:00003"
+msgstr "Simultaneously, a portal stood at the edge of the magma lake. Why would there be a portal here?"
+
+msgid "TR:DIALOG:MOD02:00004"
+msgstr "There was no logic in the generation rules of the Lush Caverns that would generate a portal out of thin air."
+
+msgid "TR:DIALOG:MOD02:00005"
+msgstr "TrGr furrowed her brow, rapidly thinking through any possible explanations."
+
+msgid "TR:DIALOG:MOD02:00006"
+msgstr "The portals appearing out of nowhere, the abnormally enhanced deep rock—they all seemed to be leading in a certain direction."
+
+msgid "TR:DIALOG:MOD02:00007"
+msgstr "Are we supposed to enter this thing next?"
+
+msgid "TR:DIALOG:MOD02:00008"
+msgstr "TrCan we trust that we're safe around this thing?"
+
+msgid "TR:DIALOG:MOD02:00009"
+msgstr "TrGr raised the hand holding her pickaxe and pointed at the portal, questioning TrRomin."
+
+msgid "TR:DIALOG:MOD02:00010"
+msgstr "TrRomin walked up to the portal, then checked the signal indicator, which pointed behind the portal."
+
+msgid "TR:DIALOG:MOD02:00011"
+msgstr "No, this portal isn't an anomaly. We still need to move forward."
+
+msgid "TR:DIALOG:MOD02:00012"
+msgstr "TrRomin didn't finish his sentence before a roar from behind TrSeaon reached their ears."
+
+msgid "TR:DIALOG:MOD02:00013"
+msgstr "Unlike the creatures they had encountered before, these creatures were more numerous, surging toward them like a tidal wave."
+
+msgid "TR:DIALOG:MOD02:00014"
+msgstr "This is unbelievable!"
+
+msgid "TR:DIALOG:MOD02:00015"
+msgstr "There were so many creatures that even TrGr seemed nervous."
+
+msgid "TR:DIALOG:MOD02:00016"
+msgstr "They were attracted by the explosion noise just now."
+
+msgid "TR:DIALOG:MOD02:00017"
+msgstr "No time to think about it now!"
+
+msgid "TR:DIALOG:MOD02:00018"
+msgstr "TrSeaon, get behind me. Everyone, get into combat mode!"

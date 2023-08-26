@@ -1,0 +1,100 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://images/icons/next.png" type="Texture" id=1]
+[ext_resource path="res://fonts/harmony-os-sans-sc/styles/h5.tres" type="DynamicFont" id=2]
+[ext_resource path="res://scenes/components/PageButton.gd" type="Script" id=3]
+
+[node name="PageButton" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 2
+script = ExtResource( 3 )
+
+[node name="Left" type="Control" parent="."]
+margin_top = 960.0
+margin_right = 260.0
+margin_bottom = 1020.0
+mouse_default_cursor_shape = 2
+
+[node name="Tween" type="Tween" parent="Left"]
+
+[node name="BGLeft" type="ColorRect" parent="Left"]
+margin_right = 220.0
+margin_bottom = 60.0
+mouse_filter = 1
+color = Color( 0, 0, 0, 1 )
+
+[node name="BGRight" type="ColorRect" parent="Left"]
+margin_left = 240.0
+margin_right = 260.0
+margin_bottom = 60.0
+mouse_filter = 1
+color = Color( 0, 0, 0, 1 )
+
+[node name="Icon" type="TextureRect" parent="Left"]
+margin_left = 60.0
+margin_right = 120.0
+margin_bottom = 60.0
+texture = ExtResource( 1 )
+stretch_mode = 4
+
+[node name="Title" type="Label" parent="Left"]
+margin_left = 120.0
+margin_right = 120.0
+margin_bottom = 60.0
+mouse_filter = 1
+custom_colors/font_color = Color( 1, 1, 1, 1 )
+custom_fonts/font = ExtResource( 2 )
+text = "标题"
+valign = 1
+
+[node name="Right" type="Control" parent="."]
+margin_left = 1920.0
+margin_top = 960.0
+margin_right = 2180.0
+margin_bottom = 1020.0
+rect_scale = Vector2( -1, 1 )
+mouse_default_cursor_shape = 2
+
+[node name="Tween" type="Tween" parent="Right"]
+
+[node name="BGLeft" type="ColorRect" parent="Right"]
+margin_right = 220.0
+margin_bottom = 60.0
+mouse_filter = 1
+color = Color( 0, 0, 0, 1 )
+
+[node name="BGRight" type="ColorRect" parent="Right"]
+margin_left = 240.0
+margin_right = 260.0
+margin_bottom = 60.0
+mouse_filter = 1
+color = Color( 0, 0, 0, 1 )
+
+[node name="Icon" type="TextureRect" parent="Right"]
+margin_left = 120.0
+margin_right = 180.0
+margin_bottom = 60.0
+rect_scale = Vector2( -1, 1 )
+texture = ExtResource( 1 )
+stretch_mode = 4
+
+[node name="Title" type="Label" parent="Right"]
+margin_left = 200.0
+margin_right = 280.0
+margin_bottom = 60.0
+rect_scale = Vector2( -1, 1 )
+mouse_filter = 1
+custom_colors/font_color = Color( 1, 1, 1, 1 )
+custom_fonts/font = ExtResource( 2 )
+text = "标题"
+valign = 1
+
+[connection signal="gui_input" from="Left" to="." method="_on_gui_input" binds= [ "Left" ]]
+[connection signal="mouse_entered" from="Left" to="." method="_on_mouse_entered" binds= [ "Left" ]]
+[connection signal="mouse_exited" from="Left" to="." method="_on_mouse_exited" binds= [ "Left" ]]
+[connection signal="resized" from="Left/Title" to="." method="_on_Title_resized" binds= [ "Left" ]]
+[connection signal="gui_input" from="Right" to="." method="_on_gui_input" binds= [ "Right" ]]
+[connection signal="mouse_entered" from="Right" to="." method="_on_mouse_entered" binds= [ "Right" ]]
+[connection signal="mouse_exited" from="Right" to="." method="_on_mouse_exited" binds= [ "Right" ]]
+[connection signal="resized" from="Right/Title" to="." method="_on_Title_resized" binds= [ "Right" ]]

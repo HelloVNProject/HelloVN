@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/fight.ogg-05f848ba9989c58b78d99e0625762249.oggstr"
+
+[deps]
+
+source_file="res://voices/Amorog/fight.ogg"
+dest_files=[ "res://.import/fight.ogg-05f848ba9989c58b78d99e0625762249.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

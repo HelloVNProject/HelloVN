@@ -1,0 +1,809 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-09 06:05-0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Rominwolf <im@wsm.ink>\n"
+"Language-Team: ChatGPT (OpenAI)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.3.2\n"
+
+msgid "TR:DIALOG:TSR01:00001"
+msgstr "Late at night."
+
+msgid "TR:DIALOG:TSR01:00002"
+msgstr ""
+"TrNik, TrYao, and TrSam headed to the shower room after finishing work."
+
+msgid "TR:DIALOG:TSR01:00003"
+msgstr "After showering, they prepared to head to the mine."
+
+msgid "TR:DIALOG:TSR01:00004"
+msgstr ""
+"Tonight is the night they go to the treasure location that TrYao mentioned."
+
+msgid "TR:DIALOG:TSR01:00005"
+msgstr ""
+"On the way back to the mine, TrSam followed closely behind TrNik, while "
+"TrYao led the way in front."
+
+msgid "TR:DIALOG:TSR01:00006"
+msgstr ""
+"No one spoke. Silence. Quietness. Only the sound of the wind rustling "
+"through the leaves."
+
+msgid "TR:DIALOG:TSR01:00007"
+msgstr "But their thoughts were all the same."
+
+msgid "TR:DIALOG:TSR01:00008"
+msgstr "\"Freedom.\""
+
+msgid "TR:DIALOG:TSR01:00009"
+msgstr ""
+"Finding even a tiny bit of treasure would be enough for them to live a "
+"comfortable life."
+
+msgid "TR:DIALOG:TSR01:00010"
+msgstr "..."
+
+msgid "TR:DIALOG:TSR01:00011"
+msgstr "Still, no one uttered a word."
+
+msgid "TR:DIALOG:TSR01:00012"
+msgstr ""
+"TrSam wanted to relax, so he tilted his head back and looked at the sky."
+
+msgid "TR:DIALOG:TSR01:00013"
+msgstr "\"So many stars tonight.\""
+
+msgid "TR:DIALOG:TSR01:00014"
+msgstr "He thought to himself."
+
+msgid "TR:DIALOG:TSR01:00015"
+msgstr ""
+"He had never paid attention to the stars before. The struggles of life had "
+"left him no time to gaze at the sky."
+
+msgid "TR:DIALOG:TSR01:00016"
+msgstr ""
+"But tonight was different, as he thought about his future life with TrNik."
+
+msgid "TR:DIALOG:TSR01:00017"
+msgstr ""
+"After getting the treasure, he wanted to leave this place with TrNik, go to "
+"a new, unfamiliar place, and start a new life together."
+
+msgid "TR:DIALOG:TSR01:00018"
+msgstr "Their future life, happy and content."
+
+msgid "TR:DIALOG:TSR01:00019"
+msgstr ""
+"He wanted to see TrNik not needing to enter the mine anymore, not worrying "
+"about any troubles. He wanted to see TrNik happy every day."
+
+msgid "TR:DIALOG:TSR01:00020"
+msgstr "Spending each day with TrNik."
+
+msgid "TR:DIALOG:TSR01:00021"
+msgstr ""
+"He wanted to stroll hand in hand with TrNik on the sandy beach at sunset, "
+"watching the sun set, the moon rise, and the stars scatter across the sky."
+
+msgid "TR:DIALOG:TSR01:00022"
+msgstr "He felt an unprecedented sense of happiness and ease now."
+
+msgid "TR:DIALOG:TSR01:00023"
+msgstr "The sky was captivating."
+
+msgid "TR:DIALOG:TSR01:00024"
+msgstr "The sky was intoxicating."
+
+msgid "TR:DIALOG:TSR01:00025"
+msgstr "He still gazed at the sky."
+
+msgid "TR:DIALOG:TSR01:00026"
+msgstr ""
+"\"Hmm... There are really so many stars. I've never noticed before. Maybe I "
+"should look at the sky more often in the future?\""
+
+msgid "TR:DIALOG:TSR01:00027"
+msgstr ""
+"He thought about asking TrNik if they had ever looked at the night sky "
+"before, but he hesitated. TrNik seemed preoccupied."
+
+msgid "TR:DIALOG:TSR01:00028"
+msgstr ""
+"\"Let's look a little more. We won't be able to see them once we go inside.\""
+
+msgid "TR:DIALOG:TSR01:00029"
+msgstr "He murmured, but no one heard."
+
+msgid "TR:DIALOG:TSR01:00030"
+msgstr "..."
+
+msgid "TR:DIALOG:TSR01:00031"
+msgstr "Then they reached that path."
+
+msgid "TR:DIALOG:TSR01:00032"
+msgstr "The path that TrSam would never forget."
+
+msgid "TR:DIALOG:TSR01:00033"
+msgstr ""
+"Though it was getting late, only dim light filtered in from the cave "
+"entrance, the quartz here still shimmered."
+
+msgid "TR:DIALOG:TSR01:00034"
+msgstr "TrNik was testing the rope."
+
+msgid "TR:DIALOG:TSR01:00035"
+msgstr ""
+"TrSam was worried. He felt the rope might break, but Nik assured him it was "
+"strong."
+
+msgid "TR:DIALOG:TSR01:00036"
+msgstr "TrYao led the way."
+
+msgid "TR:DIALOG:TSR01:00037"
+msgstr "Followed by TrSam."
+
+msgid "TR:DIALOG:TSR01:00038"
+msgstr "TrSam's second descent was much smoother than the first."
+
+msgid "TR:DIALOG:TSR01:00039"
+msgstr "But it was still evident he disliked hanging in midair."
+
+msgid "TR:DIALOG:TSR01:00040"
+msgstr "This time TrNik followed as well."
+
+msgid "TR:DIALOG:TSR01:00041"
+msgstr "TrNik managed to squeeze into the crevice, which was quite incredible."
+
+msgid "TR:DIALOG:TSR01:00042"
+msgstr "He tucked his body and wriggled through the rock."
+
+msgid "TR:DIALOG:TSR01:00043"
+msgstr "Perhaps, this was his everyday."
+
+msgid "TR:DIALOG:TSR01:00044"
+msgstr "Now they reached the place TrSam least wanted to be."
+
+msgid "TR:DIALOG:TSR01:00045"
+msgstr "Its size and stench."
+
+msgid "TR:DIALOG:TSR01:00046"
+msgstr "TrSam detested everything about this place."
+
+msgid "TR:DIALOG:TSR01:00047"
+msgstr "\"TrSam...\""
+
+msgid "TR:DIALOG:TSR01:00048"
+msgstr "TrNik grabbed and spread out TrSam's hand."
+
+msgid "TR:DIALOG:TSR01:00049"
+msgstr "His hand was warm."
+
+msgid "TR:DIALOG:TSR01:00050"
+msgstr "“Hey.”"
+
+msgid "TR:DIALOG:TSR01:00051"
+msgstr "“Did I sweat so much?”"
+
+msgid "TR:DIALOG:TSR01:00052"
+msgstr "No."
+
+msgid "TR:DIALOG:TSR01:00053"
+msgstr "This isn't sweat, it's blood."
+
+msgid "TR:DIALOG:TSR01:00054"
+msgstr "He stabbed his claws into his palm."
+
+msgid "TR:DIALOG:TSR01:00055"
+msgstr "“We should keep moving.”"
+
+msgid "TR:DIALOG:TSR01:00056"
+msgstr "Now they were at the narrow passage where TrSam needed to crawl."
+
+msgid "TR:DIALOG:TSR01:00057"
+msgstr "He thought TrNik could never squeeze through."
+
+msgid "TR:DIALOG:TSR01:00058"
+msgstr "But he was proven wrong."
+
+msgid "TR:DIALOG:TSR01:00059"
+msgstr "He always assumed TrNik wasn't good with physical activities."
+
+msgid "TR:DIALOG:TSR01:00060"
+msgstr "But beneath his belly was strong, flexible muscle."
+
+msgid "TR:DIALOG:TSR01:00061"
+msgstr "“This is the starting point.”"
+
+msgid "TR:DIALOG:TSR01:00062"
+msgstr "“Remember your orientation.”"
+
+msgid "TR:DIALOG:TSR01:00063"
+msgstr "TrSam walked and murmured the route softly."
+
+msgid "TR:DIALOG:TSR01:00064"
+msgstr "“Two are very close together.”"
+
+msgid "TR:DIALOG:TSR01:00065"
+msgstr "“The third is a bit further away.”"
+
+msgid "TR:DIALOG:TSR01:00066"
+msgstr "“We'll turn into the next alley and go straight.”"
+
+msgid "TR:DIALOG:TSR01:00067"
+msgstr "“Passing two forks...”"
+
+msgid "TR:DIALOG:TSR01:00068"
+msgstr "“I remember it like this.”"
+
+msgid "TR:DIALOG:TSR01:00069"
+msgstr "“The next two alleys are unnaturally close to each other. One on the left, one on the right.”"
+
+msgid "TR:DIALOG:TSR01:00070"
+msgstr "“If they intersected any more, they would be parallel.”"
+
+msgid "TR:DIALOG:TSR01:00071"
+msgstr "“TrYao...”"
+
+msgid "TR:DIALOG:TSR01:00072"
+msgstr "“What's wrong?”"
+
+msgid "TR:DIALOG:TSR01:00073"
+msgstr "“Did you just use a metaphor?”"
+
+msgid "TR:DIALOG:TSR01:00074"
+msgstr "“I don't remember.”"
+
+msgid "TR:DIALOG:TSR01:00075"
+msgstr "“It's contagious.”"
+
+msgid "TR:DIALOG:TSR01:00076"
+msgstr "“...Keep moving.”"
+
+msgid "TR:DIALOG:TSR01:00077"
+msgstr "However, they only walked a few hundred feet before stopping again."
+
+msgid "TR:DIALOG:TSR01:00078"
+msgstr "“This area is more complicated.”"
+
+msgid "TR:DIALOG:TSR01:00079"
+msgstr "“The zones are very similar, interconnected.”"
+
+msgid "TR:DIALOG:TSR01:00080"
+msgstr "“It's easy to get lost and walk in circles if you're not careful.”"
+
+msgid "TR:DIALOG:TSR01:00081"
+msgstr "They turned left."
+
+msgid "TR:DIALOG:TSR01:00082"
+msgstr "Then right."
+
+msgid "TR:DIALOG:TSR01:00083"
+msgstr "Past a fork."
+
+msgid "TR:DIALOG:TSR01:00084"
+msgstr "Then right."
+
+msgid "TR:DIALOG:TSR01:00085"
+msgstr "Then left."
+
+msgid "TR:DIALOG:TSR01:00086"
+msgstr "And left again."
+
+msgid "TR:DIALOG:TSR01:00087"
+msgstr "“This alley twists abnormally.”"
+
+msgid "TR:DIALOG:TSR01:00088"
+msgstr "“After the bend, turn right immediately.”"
+
+msgid "TR:DIALOG:TSR01:00089"
+msgstr "Finally, they arrived."
+
+msgid "TR:DIALOG:TSR01:00090"
+msgstr "Destination."
+
+msgid "TR:DIALOG:TSR01:00091"
+msgstr "Only this narrow tunnel lay ahead."
+
+msgid "TR:DIALOG:TSR01:00092"
+msgstr "The ceiling felt more curved than it looked, whether due to the wood warping or it being intentionally designed that way."
+
+msgid "TR:DIALOG:TSR01:00093"
+msgstr "TrSam felt like he was looking at a hollow piece of decayed wood or a sewer pipe, just much bigger."
+
+msgid "TR:DIALOG:TSR01:00094"
+msgstr "They walked for a few hundred paces and reached a dead end."
+
+msgid "TR:DIALOG:TSR01:00095"
+msgstr "“Hmm.”"
+
+msgid "TR:DIALOG:TSR01:00096"
+msgstr "“TrYao?”"
+
+msgid "TR:DIALOG:TSR01:00097"
+msgstr "“There's nothing here.”"
+
+msgid "TR:DIALOG:TSR01:00098"
+msgstr "“Be patient.”"
+
+msgid "TR:DIALOG:TSR01:00099"
+msgstr "Tiger unloaded his bag and felt around inside."
+
+msgid "TR:DIALOG:TSR01:00100"
+msgstr "“You'll see in a moment.”"
+
+msgid "TR:DIALOG:TSR01:00101"
+msgstr "He took out an item."
+
+msgid "TR:DIALOG:TSR01:00102"
+msgstr "...just a candle."
+
+msgid "TR:DIALOG:TSR01:00103"
+msgstr ""
+"Using TrNik's helmet, he lit the wick of the candle, then held it up in the "
+"corner."
+
+msgid "TR:DIALOG:TSR01:00104"
+msgstr "They realized that it wasn't a corner at all."
+
+msgid "TR:DIALOG:TSR01:00105"
+msgstr "It was a jagged crack, at least 30 or 40 feet long."
+
+msgid "TR:DIALOG:TSR01:00106"
+msgstr "\"It's in here.\""
+
+msgid "TR:DIALOG:TSR01:00107"
+msgstr "\"Who's going in first, you or us?\""
+
+msgid "TR:DIALOG:TSR01:00108"
+msgstr "\"You can lead.\""
+
+msgid "TR:DIALOG:TSR01:00109"
+msgstr "\"I'll go second, TrSam last.\""
+
+msgid "TR:DIALOG:TSR01:00110"
+msgstr "\"That way TrSam will feel more secure.\""
+
+msgid "TR:DIALOG:TSR01:00111"
+msgstr "TrNik positioned himself in front of TrSam."
+
+msgid "TR:DIALOG:TSR01:00112"
+msgstr "He knew that TrSam was still struggling with Jack's betrayal."
+
+msgid "TR:DIALOG:TSR01:00113"
+msgstr "\"Stay close.\""
+
+msgid "TR:DIALOG:TSR01:00114"
+msgstr "A series of violent explosions suddenly erupted not far from them."
+
+msgid "TR:DIALOG:TSR01:00115"
+msgstr "\"...?\""
+
+msgid "TR:DIALOG:TSR01:00116"
+msgstr "\"Sounds like explosions or maybe a cave-in not far away...\""
+
+msgid "TR:DIALOG:TSR01:00117"
+msgstr "\"If there's an explosion here, it's not a good sign.\""
+
+msgid "TR:DIALOG:TSR01:00118"
+msgstr "\"I know.\""
+
+msgid "TR:DIALOG:TSR01:00119"
+msgstr "\"So what should we do now?\""
+
+msgid "TR:DIALOG:TSR01:00120"
+msgstr "\"I have a feeling there might be something bad in that crack.\""
+
+msgid "TR:DIALOG:TSR01:00121"
+msgstr ""
+"\"...then we should check out the explosion site and see if we can find any "
+"clues.\""
+
+msgid "TR:DIALOG:TSR01:00122"
+msgstr "\"And then return here.\""
+
+msgid "TR:DIALOG:TSR01:00123"
+msgstr "\"...it might be a gas leak.\""
+
+msgid "TR:DIALOG:TSR01:00124"
+msgstr "\"Can't rule that out.\""
+
+msgid "TR:DIALOG:TSR01:00125"
+msgstr "\"Let's confirm what caused the explosion by taking action.\""
+
+msgid "TR:DIALOG:TSR01:00126"
+msgstr "\"Alright, let's go to the scene.\""
+
+msgid "TR:DIALOG:TSR01:00127"
+msgstr "\"Stay close to me, don't get separated.\""
+
+msgid "TR:DIALOG:TSR01:00128"
+msgstr "\"Okay.\""
+
+msgid "TR:DIALOG:TSR01:00129"
+msgstr "\"What's...\""
+
+msgid "TR:DIALOG:TSR01:00130"
+msgstr "After taking a turn, they arrived at an open area."
+
+msgid "TR:DIALOG:TSR01:00131"
+msgstr ""
+"The only thing that caught their attention was the \"thing\" emitting a red "
+"light in the middle."
+
+msgid "TR:DIALOG:TSR01:00132"
+msgstr "It seemed like there was a person in front of that \"thing.\""
+
+msgid "TR:DIALOG:TSR01:00133"
+msgstr ""
+"However, due to the blinding light emitted by the \"thing,\" they could only "
+"see the outline of the person."
+
+msgid "TR:DIALOG:TSR01:00134"
+msgstr "\"No explosion?\""
+
+msgid "TR:DIALOG:TSR01:00135"
+msgstr "Right. Explosion."
+
+msgid "TR:DIALOG:TSR01:00136"
+msgstr ""
+"But there were no signs of an explosion at the scene. No debris from the "
+"explosion on the ground, no dust from the explosion in the air."
+
+msgid "TR:DIALOG:TSR01:00137"
+msgstr "\"Based on the scene, there doesn't seem to have been an explosion.\""
+
+msgid "TR:DIALOG:TSR01:00138"
+msgstr "\"This... doesn't make sense.\""
+
+msgid "TR:DIALOG:TSR01:00139"
+msgstr "\"Indeed, it doesn't make sense.\""
+
+msgid "TR:DIALOG:TSR01:00140"
+msgstr ""
+"\"So, if the explosion didn't happen here, where could it have happened?\""
+
+msgid "TR:DIALOG:TSR01:00141"
+msgstr "\"It shouldn't have. This is the only area that has been developed.\""
+
+msgid "TR:DIALOG:TSR01:00142"
+msgstr ""
+"\"If the explosion didn't happen here, then it must have occurred in the "
+"undeveloped area.\""
+
+msgid "TR:DIALOG:TSR01:00143"
+msgstr "\"Is that possible?\""
+
+msgid "TR:DIALOG:TSR01:00144"
+msgstr ""
+"\"It's possible. And you should know better than me how explosions happen in "
+"caves.\""
+
+msgid "TR:DIALOG:TSR01:00145"
+msgstr "\"Well...\""
+
+msgid "TR:DIALOG:TSR01:00146"
+msgstr "\"Wait, look ahead. Isn't there someone there?\""
+
+msgid "TR:DIALOG:TSR01:00147"
+msgstr "TrSam pointed ahead, and they could indeed vaguely see a figure."
+
+msgid "TR:DIALOG:TSR01:00148"
+msgstr "\"Looks like there really is someone.\""
+
+msgid "TR:DIALOG:TSR01:00149"
+msgstr "TrNik looked closely, trying to identify who the person was."
+
+msgid "TR:DIALOG:TSR01:00150"
+msgstr "\"But why would there be someone here?\""
+
+msgid "TR:DIALOG:TSR01:00151"
+msgstr "\"It looks like...\""
+
+msgid "TR:DIALOG:TSR01:00152"
+msgstr "\"TrTodd?\""
+
+msgid "TR:DIALOG:TSR01:00153"
+msgstr "\"Ah! Why is TrTodd here!?"
+
+msgid "TR:DIALOG:TSR01:00154"
+msgstr "The figure gradually revealed itself, indeed, it was TrTodd."
+
+msgid "TR:DIALOG:TSR01:00155"
+msgstr "\"TrTodd!\""
+
+msgid "TR:DIALOG:TSR01:00156"
+msgstr "TrNik ran over quickly and waved at TrTodd."
+
+msgid "TR:DIALOG:TSR01:00157"
+msgstr "But there was no response from TrTodd."
+
+msgid "TR:DIALOG:TSR01:00158"
+msgstr "\"TrTodd!!\""
+
+msgid "TR:DIALOG:TSR01:00159"
+msgstr "TrNik grabbed TrTodd's shoulder and shook him violently."
+
+msgid "TR:DIALOG:TSR01:00160"
+msgstr "\"Ah...\""
+
+msgid "TR:DIALOG:TSR01:00161"
+msgstr "\"Ah--!!\""
+
+msgid "TR:DIALOG:TSR01:00162"
+msgstr "TrTodd suddenly came to his senses."
+
+msgid "TR:DIALOG:TSR01:00163"
+msgstr "Looking up, he saw TrNik, who was much taller than him."
+
+msgid "TR:DIALOG:TSR01:00164"
+msgstr "TrNik was looking at him with concern."
+
+msgid "TR:DIALOG:TSR01:00165"
+msgstr ""
+"Seeing that TrTodd was no longer in a daze, TrNik released his shoulder."
+
+msgid "TR:DIALOG:TSR01:00166"
+msgstr "\"How did you end up here?\""
+
+msgid "TR:DIALOG:TSR01:00167"
+msgstr "\"I... I don't know...\""
+
+msgid "TR:DIALOG:TSR01:00168"
+msgstr ""
+"\"I remember I was here with William to gather evidence from this mine...\""
+
+msgid "TR:DIALOG:TSR01:00169"
+msgstr ""
+"\"Then I saw a door that looked very different from the style of this mine, "
+"I walked in...\""
+
+msgid "TR:DIALOG:TSR01:00170"
+msgstr "\"And then I ended up here.\""
+
+msgid "TR:DIALOG:TSR01:00171"
+msgstr "After saying that, TrTodd turned around and saw the \"door.\""
+
+msgid "TR:DIALOG:TSR01:00172"
+msgstr ""
+"\"Wait... this doesn't make sense. When I came here, it wasn't like this.\""
+
+msgid "TR:DIALOG:TSR01:00173"
+msgstr ""
+"What surprised TrTodd was that in front of him wasn't a common door-shaped "
+"object, but an oval-shaped \"door\" suspended in the air, emitting red "
+"particles."
+
+msgid "TR:DIALOG:TSR01:00174"
+msgstr "\"So what is this?\""
+
+msgid "TR:DIALOG:TSR01:00175"
+msgstr "TrNik also looked at the \"door\" and asked, propping his chin."
+
+msgid "TR:DIALOG:TSR01:00176"
+msgstr ""
+"\"In my hometown, there was a book that described something very similar to "
+"this.\""
+
+msgid "TR:DIALOG:TSR01:00177"
+msgstr "TrYao suddenly spoke behind them, startling TrTodd and TrNik."
+
+msgid "TR:DIALOG:TSR01:00178"
+msgstr ""
+"\"The book described that this thing links two different places. Anyone who "
+"walks in will immediately come out at another place.\""
+
+msgid "TR:DIALOG:TSR01:00179"
+msgstr ""
+"\"And this thing can transfer not only people, but also objects, sounds, "
+"anything.\""
+
+msgid "TR:DIALOG:TSR01:00180"
+msgstr "\"Anything?\""
+
+msgid "TR:DIALOG:TSR01:00181"
+msgstr ""
+"\"Yes, anything. So the book gave it a very poetic and accurate name — "
+"Portal of the Void.\""
+
+msgid "TR:DIALOG:TSR01:00182"
+msgstr "\"Portal of the Void...\""
+
+msgid "TR:DIALOG:TSR01:00183"
+msgstr "TrSam pondered."
+
+msgid "TR:DIALOG:TSR01:00184"
+msgstr "\"It sounds quite artistic.\""
+
+msgid "TR:DIALOG:TSR01:00185"
+msgstr "\"So, does that mean this door will take us to another place?\""
+
+msgid "TR:DIALOG:TSR01:00186"
+msgstr "\"Yes.\""
+
+msgid "TR:DIALOG:TSR01:00187"
+msgstr ""
+"\"Could it be... that the place behind this door exploded, and the sound of "
+"the explosion reached us here?\""
+
+msgid "TR:DIALOG:TSR01:00188"
+msgstr "\"...\""
+
+msgid "TR:DIALOG:TSR01:00189"
+msgstr "\"That's a possibility.\""
+
+msgid "TR:DIALOG:TSR01:00190"
+msgstr "\"So, TrTodd, when did you arrive here?\""
+
+msgid "TR:DIALOG:TSR01:00191"
+msgstr "\"Um... about ten minutes ago, I think.\""
+
+msgid "TR:DIALOG:TSR01:00192"
+msgstr "\"And when did you hear the explosion sound?\""
+
+msgid "TR:DIALOG:TSR01:00193"
+msgstr "\"Just about a minute after I got here.\""
+
+msgid "TR:DIALOG:TSR01:00194"
+msgstr ""
+"\"There's one more question. You said the door you saw initially wasn't like "
+"this. What did it look like?\""
+
+msgid "TR:DIALOG:TSR01:00195"
+msgstr ""
+"\"It was... just a normal room door, somewhat similar to the entrance of a "
+"police station.\""
+
+msgid "TR:DIALOG:TSR01:00196"
+msgstr "\"Hmm...\""
+
+msgid "TR:DIALOG:TSR01:00197"
+msgstr ""
+"\"I think I understand. So, when TrTodd arrived, the initial door he saw was "
+"like he described. But when he looked back, for some reason, the door "
+"changed to what we see now...\""
+
+msgid "TR:DIALOG:TSR01:00198"
+msgstr ""
+"\"And then, not even a minute later, there was a deafening explosion sound "
+"from that door, which left TrTodd in shock.\""
+
+msgid "TR:DIALOG:TSR01:00199"
+msgstr "\"...I think we can ignore that last sentence.\""
+
+msgid "TR:DIALOG:TSR01:00200"
+msgstr "\"Mystery solved!\""
+
+msgid "TR:DIALOG:TSR01:00201"
+msgstr "\"I do have a question, though. How did you all end up here?\""
+
+msgid "TR:DIALOG:TSR01:00202"
+msgstr "\"...\""
+
+msgid "TR:DIALOG:TSR01:00203"
+msgstr "\"...\""
+
+msgid "TR:DIALOG:TSR01:00204"
+msgstr "\"...\""
+
+msgid "TR:DIALOG:TSR01:00205"
+msgstr ""
+"Faced with this sudden and piercing question, it seemed that the three of "
+"them hadn't figured out how to respond to TrTodd."
+
+msgid "TR:DIALOG:TSR01:00206"
+msgstr "To tell the truth or deceive him? Or... kill him?"
+
+msgid "TR:DIALOG:TSR01:00207"
+msgstr ""
+"Telling the truth was impossible; they didn't want TrTodd to know about "
+"their original plan."
+
+msgid "TR:DIALOG:TSR01:00208"
+msgstr ""
+"TrTodd was such an upright person that if he knew about their \"treasure "
+"plan,\" he would immediately inform William."
+
+msgid "TR:DIALOG:TSR01:00209"
+msgstr "Killing him? Absolutely not."
+
+msgid "TR:DIALOG:TSR01:00210"
+msgstr "With Jack's death, killing anyone now was an extremely unwise choice."
+
+msgid "TR:DIALOG:TSR01:00211"
+msgstr ""
+"Moreover, this was TrTodd, the friendliest and most trustworthy person in "
+"the whole town."
+
+msgid "TR:DIALOG:TSR01:00212"
+msgstr "Killing TrTodd would undoubtedly cause panic among everyone."
+
+msgid "TR:DIALOG:TSR01:00213"
+msgstr ""
+"And then there was William... He would relentlessly investigate who killed "
+"his most trusted subordinate until forever."
+
+msgid "TR:DIALOG:TSR01:00214"
+msgstr "So there was only one choice."
+
+msgid "TR:DIALOG:TSR01:00215"
+msgstr ""
+"The three of them exchanged glances and then TrYao was the first to speak."
+
+msgid "TR:DIALOG:TSR01:00216"
+msgstr "\"We heard an explosion sound, so we came over.\""
+
+msgid "TR:DIALOG:TSR01:00217"
+msgstr ""
+"\"Y-yes. The foreman told us that the geological structure in some places on "
+"this level is unstable, and there might be explosions. We needed to "
+"investigate.\""
+
+msgid "TR:DIALOG:TSR01:00218"
+msgstr ""
+"\"And we just arrived when we heard the explosion sound coming from here. We "
+"rushed over immediately.\""
+
+msgid "TR:DIALOG:TSR01:00219"
+msgstr "\"Finally, we encountered you.\""
+
+msgid "TR:DIALOG:TSR01:00220"
+msgstr ""
+"TrTodd propped his chin thoughtfully, looking at them three with suspicion."
+
+msgid "TR:DIALOG:TSR01:00221"
+msgstr ""
+"Clearly, their explanation didn't convince TrTodd, but he didn't intend to "
+"pursue it further."
+
+msgid "TR:DIALOG:TSR01:00222"
+msgstr "\"I see. Since there's no explosion here, let's leave.\""
+
+msgid "TR:DIALOG:TSR01:00223"
+msgstr "\"Okay.\""
+
+msgid "TR:DIALOG:TSR01:00224"
+msgstr "\"Wait a minute... My lantern is broken?!\""
+
+msgid "TR:DIALOG:TSR01:00225"
+msgstr "TrNik suddenly shouted, catching the others off guard."
+
+msgid "TR:DIALOG:TSR01:00226"
+msgstr "Everyone stopped and turned to TrNik."
+
+msgid "TR:DIALOG:TSR01:00227"
+msgstr "But TrNik wasn't looking at his lantern."
+
+msgid "TR:DIALOG:TSR01:00228"
+msgstr ""
+"Instead, he looked extremely shocked and fearful, trembling as he pointed "
+"behind them."
+
+msgid "TR:DIALOG:TSR01:00229"
+msgstr "\"What's wrong?\""
+
+msgid "TR:DIALOG:TSR01:00230"
+msgstr "TrSam frowned at TrNik, who responded with little confidence."
+
+msgid "TR:DIALOG:TSR01:00231"
+msgstr "\"L-look behind you...\""
+
+msgid "TR:DIALOG:TSR01:00232"
+msgstr ""
+"Though the three didn't understand why TrNik suddenly asked them to turn "
+"around, as there was nothing behind them earlier."
+
+msgid "TR:DIALOG:TSR01:00233"
+msgstr "They still turned around."
+
+msgid "TR:DIALOG:TSR01:00234"
+msgstr ""
+"And then they saw the \"creature\" they would never forget in this lifetime."

@@ -1,0 +1,263 @@
+{
+	"events": [
+		{
+			"definition": "1691294441-648",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1.01"
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Effect",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://audios/boom.ogg",
+			"volume": 0
+		},
+		{
+			"event_id": "dialogic_024",
+			"set_theme": "theme-1684035494.cfg"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1683993968.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1683993968.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "一段特别特别长的文字。一段特别特别长的文字。一段特别特别长的文字。一段特别特别长的文字。一段特别特别长的文字。一段特别特别长的文字。一段特别特别长的文字。一段特别特别长的文字。一段特别特别长的文字。一段特别特别长的文字。"
+		},
+		{
+			"animation": "pulse.gd",
+			"animation_length": 1,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1683993968.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"event_id": "dialogic_024",
+			"set_theme": "theme-1683991506.cfg"
+		},
+		{
+			"character": "character-1685190830.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "一段特别特别长的文字。一段特别特别长的文字。一段特别特别长的文字。一段特别特别长的文字。一段特别特别长的文字。一段特别特别长的文字。一段特别特别长的文字。一段特别特别长的文字。一段特别特别长的文字。一段特别特别长的文字。"
+		},
+		{
+			"emit_signal": "0EnterFocusMode, left-top",
+			"event_id": "dialogic_040"
+		},
+		{
+			"background": "res://images/cgs/first-fight.webp",
+			"event_id": "dialogic_021"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "距离他们[br]回到 [b]烟室世界[/b] 还有 [shake rate=5 level=10][color=red][font=res://fonts/source-hans-serif/CountdownNumberFont.tres]7[/font][/color][/shake] 天。"
+		},
+		{
+			"emit_signal": "Finished, 1.01",
+			"event_id": "dialogic_040"
+		},
+		{
+			"emit_signal": "BelongsToast, ac",
+			"event_id": "dialogic_040"
+		},
+		{
+			"emit_signal": "LeaveFocusMode",
+			"event_id": "dialogic_040"
+		},
+		{
+			"background": "res://images/tsr/minemazetunnel.webp",
+			"event_id": "dialogic_021",
+			"fade_duration": 1
+		},
+		{
+			"emit_signal": "EffectScreenShake",
+			"event_id": "dialogic_040"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1686896674.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1683990787.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 1,
+			"animation_wait": false,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1686991619.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1687008388.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1686896674.json",
+			"event_id": "dialogic_001",
+			"portrait": "Shocked Dust Light",
+			"text": "I do illustration work for various media and comic work. Love drawing animal people!! I just released a GN!",
+			"voice_data": {
+				"0": {
+					"audio_bus": "Voice",
+					"file": "res://voices/Can/default-ah.ogg",
+					"start_time": 0,
+					"stop_time": 0.5,
+					"volume": 0
+				}
+			}
+		},
+		{
+			"character": "character-1686991619.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I do illustration work for various media and comic work. Love drawing animal people!! I just released a GN!",
+			"voice_data": {
+				"0": {
+					"audio_bus": "Voice",
+					"file": "res://audios/characters/gr-ah.ogg",
+					"start_time": 0,
+					"stop_time": 0.2
+				}
+			}
+		},
+		{
+			"character": "character-1687008388.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I do illustration work for various media and comic work. Love drawing animal people!! I just released a GN!",
+			"voice_data": {
+				"0": {
+					"audio_bus": "Voice",
+					"file": "res://audios/characters/seaon-ah.ogg",
+					"start_time": 0,
+					"stop_time": 0.2
+				}
+			}
+		},
+		{
+			"character": "character-1683990787.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I do illustration work for various media and comic work. Love drawing animal people!! I just released a GN!",
+			"voice_data": {
+				"0": {
+					"audio_bus": "Voice",
+					"file": "res://audios/characters/romin-ah.ogg",
+					"stop_time": 0.2
+				}
+			}
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-test.json",
+		"name": "Test"
+	}
+}

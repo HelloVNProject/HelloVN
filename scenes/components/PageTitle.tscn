@@ -1,0 +1,55 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://fonts/harmony-os-sans-sc/H1TitleBolder.tres" type="DynamicFont" id=1]
+[ext_resource path="res://images/icons/left.png" type="Texture" id=2]
+[ext_resource path="res://scenes/components/PageTitle.gd" type="Script" id=3]
+
+[node name="PageTitle" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 2
+script = ExtResource( 3 )
+
+[node name="Container" type="Control" parent="."]
+margin_top = 75.0
+margin_right = 410.0
+margin_bottom = 179.0
+
+[node name="Tween" type="Tween" parent="Container"]
+
+[node name="BGLeft" type="ColorRect" parent="Container"]
+margin_right = 350.0
+margin_bottom = 104.0
+mouse_filter = 1
+color = Color( 0, 0, 0, 1 )
+
+[node name="BGRight" type="ColorRect" parent="Container"]
+margin_left = 380.0
+margin_right = 412.0
+margin_bottom = 104.0
+mouse_filter = 1
+color = Color( 0, 0, 0, 1 )
+
+[node name="BGHover" type="ColorRect" parent="Container"]
+anchor_bottom = 1.0
+
+[node name="Button" type="TextureButton" parent="Container"]
+margin_left = 10.0
+margin_right = 114.0
+margin_bottom = 104.0
+mouse_default_cursor_shape = 2
+texture_normal = ExtResource( 2 )
+
+[node name="Title" type="Label" parent="Container"]
+margin_left = 120.0
+margin_right = 300.0
+margin_bottom = 106.0
+mouse_filter = 1
+custom_fonts/font = ExtResource( 1 )
+text = "标题"
+valign = 1
+
+[connection signal="mouse_entered" from="Container/Button" to="." method="_on_Button_mouse_entered"]
+[connection signal="mouse_exited" from="Container/Button" to="." method="_on_Button_mouse_exited"]
+[connection signal="pressed" from="Container/Button" to="." method="_on_Button_pressed"]
+[connection signal="resized" from="Container/Title" to="." method="_on_Title_resized"]

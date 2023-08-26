@@ -1,0 +1,21 @@
+{
+	"color": "#ffffffff",
+	"description": "",
+	"display_name": "Narration",
+	"display_name_bool": true,
+	"id": "character-1692288114.json",
+	"mirror_portraits": false,
+	"name": "Narration",
+	"nickname": "TR:NARR:FULLNAME",
+	"nickname_bool": true,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": ""
+		}
+	],
+	"scale": 100,
+	"theme": ""
+}

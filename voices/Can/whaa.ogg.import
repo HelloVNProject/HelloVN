@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/whaa.ogg-7c3dee600c35980d7bdf7d594676fc27.oggstr"
+
+[deps]
+
+source_file="res://voices/Can/whaa.ogg"
+dest_files=[ "res://.import/whaa.ogg-7c3dee600c35980d7bdf7d594676fc27.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

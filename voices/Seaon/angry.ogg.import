@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/angry.ogg-4136fe18474f78a954ddc1b0a1fb70a8.oggstr"
+
+[deps]
+
+source_file="res://voices/Seaon/angry.ogg"
+dest_files=[ "res://.import/angry.ogg-4136fe18474f78a954ddc1b0a1fb70a8.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

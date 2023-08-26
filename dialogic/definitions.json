@@ -1,0 +1,61 @@
+{
+	"glossary": [
+
+	],
+	"variables": [
+		{
+			"id": "1685872808-648",
+			"name": "IsChapter1Finished",
+			"type": 0,
+			"value": "false"
+		},
+		{
+			"id": "1686368748-648",
+			"name": "ThemeFileName",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1688274287-861",
+			"name": "FocusModeAlign",
+			"type": 0,
+			"value": "left-top"
+		},
+		{
+			"id": "1688273206-497",
+			"name": "IsFocusMode",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1691294758-787",
+			"name": "PlayedTime",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1691294441-648",
+			"name": "NowChapterPart",
+			"type": 0,
+			"value": "0.0"
+		},
+		{
+			"id": "1691295413-366",
+			"name": "Chapter1PlayedTime",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1691295440-146",
+			"name": "Chapter1.01Finished",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1688273197-695",
+			"name": "IsFilmMode",
+			"type": 0,
+			"value": "0"
+		}
+	]
+}

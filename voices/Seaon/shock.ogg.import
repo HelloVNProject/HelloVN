@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/shock.ogg-434a3333fac5fc8c9367f228d5058f91.oggstr"
+
+[deps]
+
+source_file="res://voices/Seaon/shock.ogg"
+dest_files=[ "res://.import/shock.ogg-434a3333fac5fc8c9367f228d5058f91.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

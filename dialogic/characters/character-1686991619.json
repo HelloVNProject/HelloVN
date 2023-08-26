@@ -1,0 +1,49 @@
+{
+	"color": "#ff6e6e6e",
+	"description": "",
+	"display_name": "GR",
+	"display_name_bool": true,
+	"id": "character-1686991619.json",
+	"mirror_portraits": false,
+	"name": "GR",
+	"nickname": "TR:GR:FULLNAME",
+	"nickname_bool": true,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://images/sprites/gr/Default.png"
+		},
+		{
+			"name": "Doubt",
+			"path": "res://images/sprites/gr/Doubt.png"
+		},
+		{
+			"name": "Serious",
+			"path": "res://images/sprites/gr/Serious.png"
+		},
+		{
+			"name": "Tense",
+			"path": "res://images/sprites/gr/Tense.png"
+		},
+		{
+			"name": "Doubt Dust",
+			"path": "res://images/sprites/gr/dust/Doubt.png"
+		},
+		{
+			"name": "Serious Dust",
+			"path": "res://images/sprites/gr/dust/Serious.png"
+		},
+		{
+			"name": "Tense Dust",
+			"path": "res://images/sprites/gr/dust/Tense.png"
+		},
+		{
+			"name": "Default Dust",
+			"path": "res://images/sprites/gr/dust/Default.png"
+		}
+	],
+	"scale": 55,
+	"theme": ""
+}

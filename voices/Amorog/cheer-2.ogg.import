@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/cheer-2.ogg-f4c7dceb723aa5da35775958fc976398.oggstr"
+
+[deps]
+
+source_file="res://voices/Amorog/cheer-2.ogg"
+dest_files=[ "res://.import/cheer-2.ogg-f4c7dceb723aa5da35775958fc976398.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,526 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Rominwolf <im@wsm.ink>\n"
+"Language-Team: OpenAI\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+
+msgid "TR:TRANSLATOR"
+msgstr "[url=https://openai.com/]@ChatGPT[/url]"
+
+msgid "@tiAnsxq"
+msgstr "@tiAnsxq"
+
+msgid "@GRtheGreat"
+msgstr "@GR_theGreat"
+
+msgid "@EJheptene"
+msgstr "@EJheptene"
+
+msgid "@Linkmusicnow"
+msgstr "@Linkmusicnow"
+
+msgid "TR:SYSTEM:QUOTE:LEFT"
+msgstr "\""
+
+msgid "TR:SYSTEM:QUOTE:RIGHT"
+msgstr "\""
+
+msgid "TR:SYSTEM:TIME:BEFORE"
+msgstr "Ago"
+
+msgid "TR:SYSTEM:TIME:AFTER"
+msgstr "Later"
+
+msgid "TR:SYSTEM:TIME:DAY"
+msgstr "days"
+
+msgid "TR:SYSTEM:TIME:HOUR"
+msgstr "hours"
+
+msgid "TR:SYSTEM:TIME:MINUTE"
+msgstr "mins"
+
+msgid "TR:SYSTEM:TIME:SECOND"
+msgstr "secs"
+
+msgid "TR:MENU:TITLE"
+msgstr "Hello."
+
+msgid "TR:MENU:NEW"
+msgstr "New Story."
+
+msgid "TR:MENU:CONTINUE"
+msgstr "Continue Story."
+
+msgid "TR:MENU:CHAPTER"
+msgstr "Chapters."
+
+msgid "TR:MENU:ARCHIVE"
+msgstr "Archive."
+
+msgid "TR:MENU:OPTION"
+msgstr "Options."
+
+msgid "TR:MENU:HISTORY"
+msgstr "History."
+
+msgid "TR:MENU:EXTRA"
+msgstr "Extras."
+
+msgid "TR:MENU:BACK"
+msgstr "Back."
+
+msgid "TR:MENU:HOME"
+msgstr "To Home."
+
+msgid "TR:MENU:EXIT"
+msgstr "Exit."
+
+msgid "TR:SETTING:TITLE"
+msgstr "Settings."
+
+msgid "TR:SETTING:WINDOW:NAME"
+msgstr "Window"
+
+msgid "TR:SETTING:WINDOW:FULLSCREEN"
+msgstr "Fullscreen"
+
+msgid "TR:SETTING:WINDOW:WINDOWED"
+msgstr "Windowed"
+
+msgid "TR:SETTING:DIALOG:NAME"
+msgstr "Dialogue"
+
+msgid "TR:SETTING:DIALOG:CAPTION"
+msgstr ""
+"How should the names of characters appearing in story dialogue be displayed?"
+
+msgid "TR:SETTING:DIALOG:TRANSLATED"
+msgstr "Translated Version"
+
+msgid "TR:SETTING:DIALOG:ENGLISH"
+msgstr "English Version"
+
+msgid "TR:SETTING:SOUND:NAME"
+msgstr "Sound"
+
+msgid "TR:SETTING:SOUND:MIXED"
+msgstr "Mixed"
+
+msgid "TR:SETTING:SOUND:MUSIC"
+msgstr "Music"
+
+msgid "TR:SETTING:SOUND:EFFECT"
+msgstr "Sound Effects"
+
+msgid "TR:SETTING:SOUND:VOICE"
+msgstr "Voice"
+
+msgid "TR:SETTING:DLSOURCE:NAME"
+msgstr "Download Source"
+
+msgid "TR:SETTING:DLSOURCE:CAPTION"
+msgstr ""
+"When a new version of the game is available, which source platform should be "
+"prioritized for downloading the update patch?"
+
+msgid "TR:SETTING:DLSROUCE:GITHUB"
+msgstr "Github"
+
+msgid "TR:SETTING:DLSROUCE:TEAMBITION"
+msgstr "Teambition (Mainland China)"
+
+msgid "TR:SETTING:LOCALE:NAME"
+msgstr "Localization"
+
+msgid "TR:HISTORY:TITLE"
+msgstr "History."
+
+msgid "TR:UPDATE:HASNEW:TITLE"
+msgstr "Has New Story Collection."
+
+msgid "TR:UPDATE:UPDATENOW"
+msgstr "Update Now"
+
+msgid "TR:UPDATE:CHECKING"
+msgstr "Checking for updates to the story collection, please wait..."
+
+msgid "TR:UPDATE:NOUPDATE"
+msgstr "No updates available, the story collection is up to date!"
+
+# Please make sure LocalVersion and LatestVersion has the same length.
+msgid "TR:UPDATE:LOCALVERSION"
+msgstr "Local Version "
+
+msgid "TR:UPDATE:LATESTVERSION"
+msgstr "Latest Version"
+
+msgid "TR:UPDATE:FILESIZE"
+msgstr "File Size"
+
+msgid "TR:UPDATE:UNKNOWN"
+msgstr "Unknown"
+
+msgid "TR:UPDATE:FAIL:TITLE"
+msgstr "Failed to Update Resources."
+
+msgid "TR:UPDATE:FAIL:TEXT"
+msgstr ""
+"Please manually download the latest version.\n"
+"You could download the latest version here: [url]https://space.wsm.ink/"
+"HelloVN/Production[/url]"
+
+msgid "TR:UPDATE:UPDATING"
+msgstr "Updating the story collection..."
+
+msgid "TR:UPDATE:UPDATED"
+msgstr ""
+"HelloVN story collection is ready. Please restart the game to experience it."
+
+msgid "TR:UPDATE:ANDROIDTIP"
+msgstr ""
+"Due to platform restrictions on Android, please click the manual update "
+"button at the bottom left to update. We will redirect you to the browser."
+
+msgid "TR:UPDATE:CLOSEGAME"
+msgstr "Exit Game"
+
+msgid "TR:UPDATE:CLOSE"
+msgstr "Close"
+
+msgid "TR:SPLASH:TITLE"
+msgstr "Before Playing This Game..."
+
+msgid "TR:SPLASH:CONTENT"
+msgstr ""
+"Hello. (hereinafter referred to as 'this game') is a fan-made game based on "
+"the game 'The Smoke Room'. Please ensure that you have completed Chapter 2 "
+"of the Nik route in 'The Smoke Room' before playing this game to avoid "
+"spoilers.\n"
+"This game is a fan creation and may involve scenarios that deviate from the "
+"OOC in 'The Smoke Room'. We appreciate your understanding.\n"
+"This game is currently in the development stage. If you encounter any issues "
+"or have any feedback, feel free to raise an issue on GitHub. You can find "
+"relevant information under the game's main menu » Extra Content » Staffs.\n"
+"This game is suitable for all ages."
+
+msgid "TR:SPLASH:HIDDEN"
+msgstr ""
+"Do not show this screen on future game launches, go directly to the home "
+"page."
+
+msgid "TR:SPLASH:AGREE"
+msgstr "I have read and agree, take me to the homepage."
+
+msgid "TR:SPLASH:DENY"
+msgstr "I disagree, exit the game."
+
+msgid "TR:GR:NICKNAME"
+msgstr "GR"
+
+msgid "TR:GR:NICKNAME:ENG"
+msgstr "GR"
+
+msgid "TR:GR:FULLNAME"
+msgstr "GR"
+
+msgid "TR:SEAON:NICKNAME"
+msgstr "Seaon"
+
+msgid "TR:SEAON:NICKNAME:ENG"
+msgstr "Seaon"
+
+msgid "TR:SEAON:FULLNAME"
+msgstr "Seaon"
+
+msgid "TR:CAN:NICKNAME"
+msgstr "Can"
+
+msgid "TR:CAN:NICKNAME:ENG"
+msgstr "Can"
+
+msgid "TR:CAN:FULLNAME"
+msgstr "Dog Si. Can"
+
+msgid "TR:ROMIN:NICKNAME"
+msgstr "Romin"
+
+msgid "TR:ROMIN:NICKNAME:ENG"
+msgstr "Romin"
+
+msgid "TR:ROMIN:FULLNAME"
+msgstr "Dog Gr. Romin"
+
+msgid "TR:SAM:NICKNAME"
+msgstr "Sam"
+
+msgid "TR:SAM:NICKNAME:ENG"
+msgstr "Sam"
+
+msgid "TR:SAM:FULLNAME"
+msgstr "Samuel Ayers"
+
+msgid "TR:NIK:NICKNAME"
+msgstr "Nik"
+
+msgid "TR:NIK:NICKNAME:ENG"
+msgstr "Nik"
+
+msgid "TR:NIK:FULLNAME"
+msgstr "Nikolai Krol"
+
+msgid "TR:YAO:NICKNAME"
+msgstr "Yao"
+
+msgid "TR:YAO:NICKNAME:ENG"
+msgstr "Yao"
+
+msgid "TR:YAO:FULLNAME"
+msgstr "Feng Yaolin"
+
+msgid "TR:TODD:NICKNAME"
+msgstr "Todd"
+
+msgid "TR:TODD:NICKNAME:ENG"
+msgstr "Todd"
+
+msgid "TR:TODD:FULLNAME"
+msgstr "Todd Bronson"
+
+msgid "TR:AMOROG:NICKNAME"
+msgstr "Amorog"
+
+msgid "TR:AMOROG:NICKNAME:ENG"
+msgstr "Amorog"
+
+msgid "TR:AMOROG:FULLNAME"
+msgstr "Bear P. Amorog"
+
+msgid "TR:TEN:NICKNAME"
+msgstr "Ten"
+
+msgid "TR:TEN:NICKNAME:ENG"
+msgstr "Ten"
+
+msgid "TR:TEN:FULLNAME"
+msgstr "Bear B. Ten"
+
+msgid "TR:ENDING:BUTTON:NEXT"
+msgstr "Continue"
+
+msgid "TR:ENDING:BUTTON:TOARCHIVE"
+msgstr "Continue, go to Archive page"
+
+msgid "TR:ENDING:BUTTON:TOREGISTER"
+msgstr "Continue, go to Registration page"
+
+msgid "TR:ENDING:FINISHED"
+msgstr "Completed"
+
+msgid "TR:ENDING:CHAPTERPLAYEDTIME"
+msgstr "Time Played in this Chapter"
+
+msgid "TR:ENDING:PLAYEDTIME"
+msgstr "Total Play Time"
+
+msgid "TR:REGISTER:TITLE"
+msgstr "Registration."
+
+msgid "TR:REGISTER:EMAIL:TITLE"
+msgstr "Email"
+
+msgid "TR:REGISTER:EMAIL:CAPTION"
+msgstr "Enter your email to help us register your information."
+
+msgid "TR:REGISTER:SUBSCRIBE:TITLE"
+msgstr "Subscribe"
+
+msgid "TR:REGISTER:SUBSCRIBE:CAPTION"
+msgstr ""
+"Want to be the first to catch the crab? Subscribe to new game versions to "
+"experience the new storylines first-hand.\n"
+"After enabling, you will receive an email to your provided email address "
+"whenever the game releases a new version."
+
+msgid "TR:REGISTER:SUBSCRIBE:BUTTON:1"
+msgstr "Yes, I allow."
+
+msgid "TR:REGISTER:SUBSCRIBE:BUTTON:2"
+msgstr "Thank you, but no."
+
+msgid "TR:REGISTER:TWOFA:TITLE"
+msgstr "Two-Factor Authentication"
+
+msgid "TR:REGISTER:TWOFA:CAPTION"
+msgstr ""
+"Enabling two-factor authentication allows pushing and pulling your game data "
+"to the cloud."
+
+msgid "TR:REGISTER:TWOFA:BUTTON:1"
+msgstr "Okay, I agree."
+
+msgid "TR:REGISTER:TWOFA:BUTTON:2"
+msgstr "Thank you, but no."
+
+msgid "TR:REGISTER:DATASYNC:TITLE"
+msgstr "Cloud Data Sync"
+
+msgid "TR:REGISTER:DATASYNC:CAPTION"
+msgstr ""
+"Enabling cloud data sync pushes your game data to the cloud. Even if you "
+"change devices, you can easily pull your game progress."
+
+msgid "TR:REGISTER:DATASYNC:BUTTON:1"
+msgstr "Okay, enable it."
+
+msgid "TR:REGISTER:DATASYNC:BUTTON:2"
+msgstr "Thank you, but I don't need it."
+
+msgid "TR:REGISTER:BUTTON:TOARCHIVE"
+msgstr "Skip, go to Archive page"
+
+msgid "TR:REGISTER:BUTTON:SUBMIT"
+msgstr "Register"
+
+msgid "TR:REGISTER:BUTTON:TOHOME"
+msgstr "Back to Home"
+
+msgid "TR:REGISTER:TIP:EMAIL"
+msgstr "Please enter a valid email address."
+
+msgid "TR:REGISTER:TIP:CONNECTING"
+msgstr "Connecting to the server, please wait..."
+
+msgid "TR:REGISTER:TIP:FAILED"
+msgstr "Registration is temporarily unavailable due to: {msg}"
+
+msgid "TR:REGISTERED:TITLE"
+msgstr "Registered."
+
+msgid "TR:REGISTERED:BUTTON:TOARCHIVE"
+msgstr "Continue, go to Archive page"
+
+msgid "TR:REGISTERED:EMAIL:TITLE"
+msgstr "Email"
+
+msgid "TR:REGISTERED:EMAIL:CONTENT"
+msgstr "{email} will be your registered email."
+
+msgid "TR:REGISTERED:SUBSCRIBE:TITLE"
+msgstr "Subscribe"
+
+msgid "TR:REGISTERED:SUBSCRIBE:TRUE"
+msgstr ""
+"Subscription push is enabled. You will receive updates to your registered "
+"email when the game releases new versions."
+
+msgid "TR:REGISTERED:SUBSCRIBE:FALSE"
+msgstr "Subscription push is disabled."
+
+msgid "TR:REGISTERED:DATASYNC:TITLE"
+msgstr "Cloud Data Sync"
+
+msgid "TR:REGISTERED:DATASYNC:TRUE"
+msgstr ""
+"Cloud data sync is enabled. Your game progress will be automatically pushed "
+"to the cloud."
+
+msgid "TR:REGISTERED:DATASYNC:FALSE"
+msgstr "Cloud data sync is disabled."
+
+msgid "TR:REGISTERED:TWOFA:TITLE"
+msgstr "Two-Factor Authentication"
+
+msgid "TR:REGISTERED:TWOFA:TRUE"
+msgstr ""
+"Two-factor authentication is enabled. Use your authentication app (such as "
+"Microsoft Authenticator) to scan the QR code below or input the setup key to "
+"add your identity."
+
+msgid "TR:REGISTERED:TWOFA:FALSE"
+msgstr ""
+"Two-factor authentication is not enabled. Your user data and save data will "
+"not be uploaded."
+
+msgid "TR:REGISTERED:TWOFA:USERNAME"
+msgstr "Username"
+
+msgid "TR:REGISTERED:TWOFA:KEY"
+msgstr "Key"
+
+msgid "TR:REGISTERED:TWOFA:KEYTYPE"
+msgstr "Key Type"
+
+msgid "TR:REGISTERED:TWOFA:BASEDTIME"
+msgstr "Time-Based"
+
+msgid "TR:REGISTERED:TWOFA:TIP"
+msgstr ""
+"[!] Please enter your two-factor authentication information into the "
+"authenticator before proceeding to the next step. Also, please securely keep "
+"your key. Otherwise, you will need your provided email to disable two-factor "
+"authentication."
+
+msgid "TR:CHAPTER:1.01:NAME"
+msgstr "Cave Investigation (Part 1)."
+
+msgid "TR:CHAPTER:1.01:CAPTION"
+msgstr "Chapter 1, Part 1"
+
+msgid "TR:API:MSG:0"
+msgstr "An unexpected error occurred, please try again later."
+
+msgid "TR:API:MSG:100"
+msgstr "Nodes have been successfully retrieved."
+
+msgid "TR:API:MSG:101"
+msgstr "Currently unable to retrieve nodes."
+
+msgid "TR:API:MSG:102"
+msgstr "All node data has been successfully added."
+
+msgid "TR:API:MSG:103"
+msgstr "Partial node data has been successfully added."
+
+msgid "TR:API:MSG:104"
+msgstr "Currently unable to add node data."
+
+msgid "TR:API:MSG:200"
+msgstr "Registration was successful, two-factor authentication is required."
+
+msgid "TR:API:MSG:201"
+msgstr "Currently unable to register."
+
+msgid "TR:API:MSG:202"
+msgstr "This device has been previously registered."
+
+msgid "TR:API:MSG:203"
+msgstr "This email address has been previously registered."
+
+msgid "TR:API:MSG:204"
+msgstr "This email address is not valid."
+
+msgid "TR:API:MSG:300"
+msgstr "Game version information has been successfully retrieved."
+
+msgid "TR:API:MSG:301"
+msgstr "Local game version number is required."
+
+msgid "TR:API:MSG:302"
+msgstr "Failed to retrieve version information from the server."
+
+msgid "TR:BELONGS:ARTISTS"
+msgstr "Artists"
+
+msgid "TR:BELONGS:THANKS"
+msgstr "Special Thanks"
+
+msgid "TR:BELONGS:MUSICIANS"
+msgstr "Musicians"

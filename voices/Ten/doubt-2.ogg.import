@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/doubt-2.ogg-ef00900b321839d8a43cec5a53381fb6.oggstr"
+
+[deps]
+
+source_file="res://voices/Ten/doubt-2.ogg"
+dest_files=[ "res://.import/doubt-2.ogg-ef00900b321839d8a43cec5a53381fb6.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

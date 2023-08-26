@@ -1,0 +1,173 @@
+[gd_scene load_steps=13 format=2]
+
+[ext_resource path="res://shaders/blur.shader" type="Shader" id=1]
+[ext_resource path="res://images/white.png" type="Texture" id=2]
+[ext_resource path="res://fonts/harmony-os-sans-sc/H1TitleBolder.tres" type="DynamicFont" id=3]
+[ext_resource path="res://themes/Mod.tres" type="Theme" id=4]
+[ext_resource path="res://scenes/UpdateScene.gd" type="Script" id=5]
+[ext_resource path="res://fonts/harmony-os-sans-sc/ExtraText.tres" type="DynamicFont" id=6]
+[ext_resource path="res://fonts/harmony-os-sans-sc/ExtraTextBold.tres" type="DynamicFont" id=7]
+[ext_resource path="res://fonts/intel-one-mono/fonts/intelone-mono-font-family-regular.ttf" type="DynamicFontData" id=8]
+[ext_resource path="res://fonts/harmony-os-sans-sc/HarmonyOS_Sans_SC_Medium.ttf" type="DynamicFontData" id=9]
+
+[sub_resource type="ShaderMaterial" id=2]
+shader = ExtResource( 1 )
+shader_param/amount = 2.5
+
+[sub_resource type="ShaderMaterial" id=1]
+shader = ExtResource( 1 )
+shader_param/amount = 2.5
+
+[sub_resource type="DynamicFont" id=3]
+size = 28
+font_data = ExtResource( 8 )
+fallback/0 = ExtResource( 9 )
+
+[node name="UpdateScene" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 5 )
+
+[node name="Tween" type="Tween" parent="."]
+
+[node name="Downloader" type="HTTPRequest" parent="."]
+
+[node name="DownloaderTimer" type="Timer" parent="."]
+wait_time = 0.1
+
+[node name="Checking" type="ColorRect" parent="."]
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_top = -48.0
+color = Color( 0, 0, 0, 1 )
+
+[node name="Text" type="Label" parent="Checking"]
+anchor_right = 1.0
+margin_bottom = 48.0
+custom_colors/font_color = Color( 1, 1, 1, 1 )
+text = "TR:UPDATE:CHECKING"
+align = 1
+valign = 1
+
+[node name="HasNew" type="Control" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+
+[node name="BlurBG" type="TextureRect" parent="HasNew"]
+visible = false
+material = SubResource( 2 )
+anchor_right = 1.0
+anchor_bottom = 1.0
+size_flags_horizontal = 2
+size_flags_vertical = 2
+texture = ExtResource( 2 )
+expand = true
+
+[node name="BG" type="TextureRect" parent="HasNew"]
+material = SubResource( 1 )
+anchor_right = 1.0
+anchor_bottom = 1.0
+size_flags_horizontal = 2
+size_flags_vertical = 2
+expand = true
+
+[node name="Container" type="ColorRect" parent="HasNew"]
+anchor_top = 0.5
+anchor_bottom = 0.5
+margin_top = -256.0
+margin_right = 1920.0
+margin_bottom = 256.0
+
+[node name="Title" type="Label" parent="HasNew/Container"]
+anchor_right = 1.0
+margin_left = 32.0
+margin_top = 32.0
+margin_bottom = 106.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_colors/font_color_shadow = Color( 1, 1, 1, 1 )
+custom_constants/shadow_offset_x = 2
+custom_constants/shadow_offset_y = 2
+custom_constants/shadow_as_outline = 1
+custom_fonts/font = ExtResource( 3 )
+text = "TR:UPDATE:HASNEW:TITLE"
+uppercase = true
+
+[node name="Version" type="Label" parent="HasNew/Container"]
+margin_left = 32.0
+margin_top = 160.0
+margin_right = 544.0
+margin_bottom = 187.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = SubResource( 3 )
+text = "当前版本：-
+最新版本：-"
+autowrap = true
+uppercase = true
+
+[node name="Text" type="RichTextLabel" parent="HasNew/Container"]
+margin_left = 640.0
+margin_top = 160.0
+margin_right = 1856.0
+margin_bottom = 472.0
+theme = ExtResource( 4 )
+custom_colors/default_color = Color( 0, 0, 0, 1 )
+custom_fonts/bold_font = ExtResource( 7 )
+custom_fonts/normal_font = ExtResource( 6 )
+bbcode_enabled = true
+
+[node name="ButtonContainer" type="HBoxContainer" parent="HasNew/Container"]
+anchor_top = 1.0
+anchor_bottom = 1.0
+margin_left = 32.0
+margin_top = -106.0
+margin_right = 544.0
+margin_bottom = -64.0
+custom_constants/separation = 64
+
+[node name="ButtonUpdate" type="Button" parent="HasNew/Container/ButtonContainer"]
+margin_right = 370.0
+margin_bottom = 42.0
+theme = ExtResource( 4 )
+shortcut_in_tooltip = false
+text = "TR:UPDATE:UPDATENOW"
+
+[node name="ButtonClose" type="Button" parent="HasNew/Container/ButtonContainer"]
+margin_left = 434.0
+margin_right = 704.0
+margin_bottom = 42.0
+theme = ExtResource( 4 )
+shortcut_in_tooltip = false
+text = "TR:UPDATE:CLOSE"
+
+[node name="Progress" type="ColorRect" parent="HasNew"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_right = -1920.0
+color = Color( 0, 0, 0, 1 )
+
+[node name="Label" type="Label" parent="HasNew/Progress"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_colors/font_color = Color( 1, 1, 1, 1 )
+text = "0%"
+align = 1
+valign = 1
+
+[node name="ButtonClose" type="Button" parent="HasNew/Progress"]
+visible = false
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+margin_left = -70.0
+margin_top = -138.0
+margin_right = 62.0
+margin_bottom = -64.0
+text = "TR:UPDATE:CLOSEGAME"
+
+[connection signal="timeout" from="DownloaderTimer" to="." method="_on_DownloaderTimer_timeout"]
+[connection signal="meta_clicked" from="HasNew/Container/Text" to="." method="_on_Text_meta_clicked"]
+[connection signal="pressed" from="HasNew/Container/ButtonContainer/ButtonUpdate" to="." method="_on_ButtonUpdate_pressed"]
+[connection signal="pressed" from="HasNew/Container/ButtonContainer/ButtonClose" to="." method="_on_ButtonClose_pressed"]
+[connection signal="pressed" from="HasNew/Progress/ButtonClose" to="." method="_on_ButtonCloseGame_pressed"]

@@ -1,0 +1,512 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Rominwolf <im@wsm.ink>\n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+
+msgid "TR:TRANSLATOR"
+msgstr "无"
+
+msgid "@tiAnsxq"
+msgstr "@参咸犬"
+
+msgid "@GRtheGreat"
+msgstr "@GRtheGreat"
+
+msgid "@EJheptene"
+msgstr "@二甲庚烯"
+
+msgid "@Linkmusicnow"
+msgstr "@Link林沛儒"
+
+msgid "TR:SYSTEM:QUOTE:LEFT"
+msgstr "《"
+
+msgid "TR:SYSTEM:QUOTE:RIGHT"
+msgstr "》"
+
+msgid "TR:SYSTEM:TIME:BEFORE"
+msgstr "前"
+
+msgid "TR:SYSTEM:TIME:AFTER"
+msgstr "后"
+
+msgid "TR:SYSTEM:TIME:DAY"
+msgstr "天"
+
+msgid "TR:SYSTEM:TIME:HOUR"
+msgstr "时"
+
+msgid "TR:SYSTEM:TIME:MINUTE"
+msgstr "分"
+
+msgid "TR:SYSTEM:TIME:SECOND"
+msgstr "秒"
+
+msgid "TR:MENU:TITLE"
+msgstr "问候无疆。"
+
+msgid "TR:MENU:NEW"
+msgstr "新故事。"
+
+msgid "TR:MENU:CONTINUE"
+msgstr "继续故事。"
+
+msgid "TR:MENU:CHAPTER"
+msgstr "章节。"
+
+msgid "TR:MENU:ARCHIVE"
+msgstr "档案记录。"
+
+msgid "TR:MENU:OPTION"
+msgstr "选项。"
+
+msgid "TR:MENU:HISTORY"
+msgstr "历史记录。"
+
+msgid "TR:MENU:EXTRA"
+msgstr "额外内容。"
+
+msgid "TR:MENU:BACK"
+msgstr "返回。"
+
+msgid "TR:MENU:HOME"
+msgstr "回到首页。"
+
+msgid "TR:MENU:EXIT"
+msgstr "退出。"
+
+msgid "TR:SETTING:TITLE"
+msgstr "设定。"
+
+msgid "TR:SETTING:WINDOW:NAME"
+msgstr "窗口"
+
+msgid "TR:SETTING:WINDOW:FULLSCREEN"
+msgstr "全屏"
+
+msgid "TR:SETTING:WINDOW:WINDOWED"
+msgstr "窗口化"
+
+msgid "TR:SETTING:DIALOG:NAME"
+msgstr "对话"
+
+msgid "TR:SETTING:DIALOG:CAPTION"
+msgstr "出现在故事对话中的角色将以何种形式显示其名字？"
+
+msgid "TR:SETTING:DIALOG:TRANSLATED"
+msgstr "翻译版本"
+
+msgid "TR:SETTING:DIALOG:ENGLISH"
+msgstr "英语版本"
+
+msgid "TR:SETTING:SOUND:NAME"
+msgstr "声音"
+
+msgid "TR:SETTING:SOUND:MIXED"
+msgstr "混音"
+
+msgid "TR:SETTING:SOUND:MUSIC"
+msgstr "音乐"
+
+msgid "TR:SETTING:SOUND:EFFECT"
+msgstr "音效"
+
+msgid "TR:SETTING:SOUND:VOICE"
+msgstr "语音"
+
+msgid "TR:SETTING:DLSOURCE:NAME"
+msgstr "下载源"
+
+msgid "TR:SETTING:DLSOURCE:CAPTION"
+msgstr ""
+"当游戏存在新版本时，优先从什么源平台下载新版本的更新补丁？"
+
+msgid "TR:SETTING:DLSROUCE:GITHUB"
+msgstr "Github"
+
+msgid "TR:SETTING:DLSROUCE:TEAMBITION"
+msgstr "Teambition (中国大陆)"
+
+msgid "TR:SETTING:LOCALE:NAME"
+msgstr "本地化"
+
+msgid "TR:HISTORY:TITLE"
+msgstr "历史记录。"
+
+msgid "TR:UPDATE:HASNEW:TITLE"
+msgstr "故事集发生变更。"
+
+msgid "TR:UPDATE:UPDATENOW"
+msgstr "立即更新"
+
+msgid "TR:UPDATE:CHECKING"
+msgstr "正在检查故事集是否发生变更，请稍后……"
+
+msgid "TR:UPDATE:NOUPDATE"
+msgstr "无需更新，故事集已为最新版！"
+
+msgid "TR:UPDATE:LOCALVERSION"
+msgstr "本地版本"
+
+msgid "TR:UPDATE:LATESTVERSION"
+msgstr "最新版本"
+
+msgid "TR:UPDATE:FILESIZE"
+msgstr "文件尺寸"
+
+msgid "TR:UPDATE:UNKNOWN"
+msgstr "未知"
+
+msgid "TR:UPDATE:FAIL:TITLE"
+msgstr "无法获取更新资源。"
+
+msgid "TR:UPDATE:FAIL:TEXT"
+msgstr ""
+"无法获取到故事集数据，请手动前往分发站点下载最新版。\n"
+"\n"
+"您可以前往 [url]https://space.wsm.ink/HelloVN/Production[/"
+"url] 下载。"
+
+msgid "TR:UPDATE:UPDATING"
+msgstr "正在更新故事集…"
+
+msgid "TR:UPDATE:UPDATED"
+msgstr "《问候无疆》故事集已准备就绪，请手动重启此游戏以体验。"
+
+msgid "TR:UPDATE:ANDROIDTIP"
+msgstr ""
+"由于 Android 的平台限制，请点击左下侧更新按钮手动更新，我们将"
+"引领您前往浏览器。"
+
+msgid "TR:UPDATE:CLOSEGAME"
+msgstr "结束游戏"
+
+msgid "TR:UPDATE:CLOSE"
+msgstr "关闭"
+
+msgid "TR:SPLASH:TITLE"
+msgstr "游玩本游戏前……"
+
+msgid "TR:SPLASH:CONTENT"
+msgstr ""
+"《问候无疆》（以下简称“本游戏”）为游戏《吸烟室》的同人二次创"
+"作游戏，请确保您完成了《吸烟室》Nik 线的第二章后再游玩本游"
+"戏，否则存在剧透风险。\n"
+"本游戏为同人游戏，不可避免会遇到脱离《吸烟室》原来角色性格"
+"（OOC）的情节，请您谅解。\n"
+"本游戏目前仍为开发阶段，遇到任何问题和意见都欢迎前往 Github "
+"上提出 issue，您可在游戏主界面 » 额外内容 » 制作人员名单下找"
+"到相关内容。\n"
+"本游戏为全年龄向游戏。"
+
+msgid "TR:SPLASH:HIDDEN"
+msgstr "今后再启动游戏时不要显示此界面，直接进入首页。"
+
+msgid "TR:SPLASH:AGREE"
+msgstr "我已知晓并同意，引领我前往首页。"
+
+msgid "TR:SPLASH:DENY"
+msgstr "我不同意，退出游戏。"
+
+msgid "TR:GR:NICKNAME"
+msgstr "基阿"
+
+msgid "TR:GR:NICKNAME:ENG"
+msgstr "GR"
+
+msgid "TR:GR:FULLNAME"
+msgstr "基阿"
+
+msgid "TR:SEAON:NICKNAME"
+msgstr "西昂"
+
+msgid "TR:SEAON:NICKNAME:ENG"
+msgstr "Seaon"
+
+msgid "TR:SEAON:FULLNAME"
+msgstr "西昂"
+
+msgid "TR:CAN:NICKNAME"
+msgstr "参"
+
+msgid "TR:CAN:NICKNAME:ENG"
+msgstr "Can"
+
+msgid "TR:CAN:FULLNAME"
+msgstr "道格·柴·参"
+
+msgid "TR:ROMIN:NICKNAME"
+msgstr "罗明"
+
+msgid "TR:ROMIN:NICKNAME:ENG"
+msgstr "Romin"
+
+msgid "TR:ROMIN:FULLNAME"
+msgstr "道格·金·罗明"
+
+msgid "TR:SAM:NICKNAME"
+msgstr "塞姆"
+
+msgid "TR:SAM:NICKNAME:ENG"
+msgstr "Sam"
+
+msgid "TR:SAM:FULLNAME"
+msgstr "塞缪尔·艾尔斯"
+
+msgid "TR:NIK:NICKNAME"
+msgstr "尼克"
+
+msgid "TR:NIK:NICKNAME:ENG"
+msgstr "Nik"
+
+msgid "TR:NIK:FULLNAME"
+msgstr "尼古拉·克罗尔"
+
+msgid "TR:YAO:NICKNAME"
+msgstr "耀"
+
+msgid "TR:YAO:NICKNAME:ENG"
+msgstr "Yao"
+
+msgid "TR:YAO:FULLNAME"
+msgstr "冯耀霖"
+
+msgid "TR:TODD:NICKNAME"
+msgstr "托德"
+
+msgid "TR:TODD:NICKNAME:ENG"
+msgstr "Todd"
+
+msgid "TR:TODD:FULLNAME"
+msgstr "托德·布朗森"
+
+msgid "TR:AMOROG:NICKNAME"
+msgstr "阿莫罗格"
+
+msgid "TR:AMOROG:NICKNAME:ENG"
+msgstr "Amorog"
+
+msgid "TR:AMOROG:FULLNAME"
+msgstr "贝尔·白·阿莫罗格"
+
+msgid "TR:TEN:NICKNAME"
+msgstr "田"
+
+msgid "TR:TEN:NICKNAME:ENG"
+msgstr "Ten"
+
+msgid "TR:TEN:FULLNAME"
+msgstr "贝尔·棕·田"
+
+msgid "TR:ENDING:BUTTON:NEXT"
+msgstr "继续"
+
+msgid "TR:ENDING:BUTTON:TOARCHIVE"
+msgstr "继续，前往档案记录页"
+
+msgid "TR:ENDING:BUTTON:TOREGISTER"
+msgstr "继续，前往登记页"
+
+msgid "TR:ENDING:FINISHED"
+msgstr "已完成"
+
+msgid "TR:ENDING:CHAPTERPLAYEDTIME"
+msgstr "本章节游玩时间"
+
+msgid "TR:ENDING:PLAYEDTIME"
+msgstr "累计游玩时间"
+
+msgid "TR:REGISTER:TITLE"
+msgstr "登记。"
+
+msgid "TR:REGISTER:EMAIL:TITLE"
+msgstr "电子邮箱"
+
+msgid "TR:REGISTER:EMAIL:CAPTION"
+msgstr "输入您的电子邮箱，以帮助我们登记您的信息。"
+
+msgid "TR:REGISTER:SUBSCRIBE:TITLE"
+msgstr "订阅"
+
+msgid "TR:REGISTER:SUBSCRIBE:CAPTION"
+msgstr ""
+"成为第一个吃螃蟹的人？订阅新游戏版本以第一时间体验到游戏的新"
+"故事集。\n"
+"允许后，每当游戏有新的版本，都会发送一封邮件到您预留的电子邮"
+"箱中。"
+
+msgid "TR:REGISTER:SUBSCRIBE:BUTTON:1"
+msgstr "是的，我允许。"
+
+msgid "TR:REGISTER:SUBSCRIBE:BUTTON:2"
+msgstr "谢谢，但不用了。"
+
+msgid "TR:REGISTER:TWOFA:TITLE"
+msgstr "两步验证"
+
+msgid "TR:REGISTER:TWOFA:CAPTION"
+msgstr "开启两步验证后将允许推送和拉取您的游戏数据到云端。"
+
+msgid "TR:REGISTER:TWOFA:BUTTON:1"
+msgstr "好的，我同意。"
+
+msgid "TR:REGISTER:TWOFA:BUTTON:2"
+msgstr "谢谢，但请不要这么做。"
+
+msgid "TR:REGISTER:DATASYNC:TITLE"
+msgstr "数据云同步"
+
+msgid "TR:REGISTER:DATASYNC:CAPTION"
+msgstr ""
+"开启数据云同步后您的游戏数据将推送到云上。即使更换了游玩设"
+"备，也可方便地拉取您的游玩数据。"
+
+msgid "TR:REGISTER:DATASYNC:BUTTON:1"
+msgstr "好的，请开启。"
+
+msgid "TR:REGISTER:DATASYNC:BUTTON:2"
+msgstr "谢谢，但我不需要。"
+
+msgid "TR:REGISTER:BUTTON:TOARCHIVE"
+msgstr "跳过，前往档案记录页"
+
+msgid "TR:REGISTER:BUTTON:SUBMIT"
+msgstr "进行登记"
+
+msgid "TR:REGISTER:BUTTON:TOHOME"
+msgstr "返回首页"
+
+msgid "TR:REGISTER:TIP:EMAIL"
+msgstr "请输入合法的电子邮箱。"
+
+msgid "TR:REGISTER:TIP:CONNECTING"
+msgstr "正在连接至服务器，请稍后……"
+
+msgid "TR:REGISTER:TIP:FAILED"
+msgstr "暂时无法登记，因为：{msg}"
+
+msgid "TR:REGISTERED:TITLE"
+msgstr "已登记。"
+
+msgid "TR:REGISTERED:BUTTON:TOARCHIVE"
+msgstr "继续，前往档案记录页"
+
+msgid "TR:REGISTERED:EMAIL:TITLE"
+msgstr "电子邮箱"
+
+msgid "TR:REGISTERED:EMAIL:CONTENT"
+msgstr "{email}，将是您预留的电子邮箱。"
+
+msgid "TR:REGISTERED:SUBSCRIBE:TITLE"
+msgstr "订阅"
+
+msgid "TR:REGISTERED:SUBSCRIBE:TRUE"
+msgstr ""
+"已开启订阅推送，当游戏发布新版本后将推送到您预留的电子邮箱。"
+
+msgid "TR:REGISTERED:SUBSCRIBE:FALSE"
+msgstr "已关闭订阅推送。"
+
+msgid "TR:REGISTERED:DATASYNC:TITLE"
+msgstr "数据云同步"
+
+msgid "TR:REGISTERED:DATASYNC:TRUE"
+msgstr "已开启开启数据云同步，您的游玩数据将自动推送到云上。"
+
+msgid "TR:REGISTERED:DATASYNC:FALSE"
+msgstr "已关闭数据云同步。"
+
+msgid "TR:REGISTERED:TWOFA:TITLE"
+msgstr "两步验证"
+
+msgid "TR:REGISTERED:TWOFA:TRUE"
+msgstr ""
+"已开启两步验证，请使用您的身份验证应用（如 Microsoft "
+"Authenticator）扫描下方二维码或输入设置密钥来添加身份来添加您"
+"的身份。"
+
+msgid "TR:REGISTERED:TWOFA:FALSE"
+msgstr "未开启两步验证，您的用户数据和存档数据将不会上传。"
+
+msgid "TR:REGISTERED:TWOFA:USERNAME"
+msgstr "用户名"
+
+msgid "TR:REGISTERED:TWOFA:KEY"
+msgstr "密钥"
+
+msgid "TR:REGISTERED:TWOFA:KEYTYPE"
+msgstr "密钥类型"
+
+msgid "TR:REGISTERED:TWOFA:BASEDTIME"
+msgstr "基于时间"
+
+msgid "TR:REGISTERED:TWOFA:TIP"
+msgstr ""
+"[!] 请成功录入您的两步验证信息到验证器后再进行下一步操作，同"
+"时请妥善保管好您的密钥，否则您将需要预留的电子邮箱来关闭两步"
+"验证。"
+
+msgid "TR:CHAPTER:1.01:NAME"
+msgstr "洞穴调查（上）。"
+
+msgid "TR:CHAPTER:1.01:CAPTION"
+msgstr "第 1 章，第 1 部分"
+
+msgid "TR:API:MSG:0"
+msgstr "发生了一些意料之外的错误，请稍后再试。"
+
+msgid "TR:API:MSG:100"
+msgstr "已成功获取到节点。"
+
+msgid "TR:API:MSG:101"
+msgstr "目前无法获取到节点。"
+
+msgid "TR:API:MSG:102"
+msgstr "已成功添加所有节点的数据。"
+
+msgid "TR:API:MSG:103"
+msgstr "已成功添加了部分节点的数据。"
+
+msgid "TR:API:MSG:104"
+msgstr "目前无法添加节点数据。"
+
+msgid "TR:API:MSG:200"
+msgstr "已成功登记，需要添加双因素验证。"
+
+msgid "TR:API:MSG:201"
+msgstr "目前无法登记。"
+
+msgid "TR:API:MSG:202"
+msgstr "该设备曾经已被登记。"
+
+msgid "TR:API:MSG:203"
+msgstr "该电子邮箱曾经已被登记。"
+
+msgid "TR:API:MSG:204"
+msgstr "该电子邮箱不合法。"
+
+msgid "TR:API:MSG:300"
+msgstr "已成功获取游戏版本信息。"
+
+msgid "TR:API:MSG:301"
+msgstr "需要本地游戏版本号。"
+
+msgid "TR:API:MSG:302"
+msgstr "服务端获取版本信息失败。"
+
+msgid "TR:BELONGS:ARTISTS"
+msgstr "插画归属于"
+
+msgid "TR:BELONGS:THANKS"
+msgstr "特别鸣谢"
+
+msgid "TR:BELONGS:MUSICIANS"
+msgstr "音乐归属于"

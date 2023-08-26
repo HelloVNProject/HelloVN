@@ -1,0 +1,81 @@
+{
+	"color": "#ffe6e650",
+	"description": "",
+	"display_name": "Nik",
+	"display_name_bool": true,
+	"id": "character-1683993968.json",
+	"mirror_portraits": false,
+	"name": "Nik TSR",
+	"nickname": "TR:NIK:FULLNAME",
+	"nickname_bool": true,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://images/sprites/nik/tsr/nik h.png"
+		},
+		{
+			"name": "Shocked Hat",
+			"path": "res://images/sprites/nik/tsr/nik shocked h.png"
+		},
+		{
+			"name": "Angry Hat",
+			"path": "res://images/sprites/nik/tsr/nik angry h.png"
+		},
+		{
+			"name": "Blush Hat",
+			"path": "res://images/sprites/nik/tsr/nik blush h.png"
+		},
+		{
+			"name": "Disappointed Hat",
+			"path": "res://images/sprites/nik/tsr/nik disappointed h.png"
+		},
+		{
+			"name": "Close Eyes Hat",
+			"path": "res://images/sprites/nik/tsr/nik eyes h.png"
+		},
+		{
+			"name": "Close Eyes Talk Hat",
+			"path": "res://images/sprites/nik/tsr/nik eyes talk h.png"
+		},
+		{
+			"name": "Flustered Hat",
+			"path": "res://images/sprites/nik/tsr/nik flustered h.png"
+		},
+		{
+			"name": "Happy Hat",
+			"path": "res://images/sprites/nik/tsr/nik happy h.png"
+		},
+		{
+			"name": "Sad Hat",
+			"path": "res://images/sprites/nik/tsr/nik sad h.png"
+		},
+		{
+			"name": "Sidelook Hat",
+			"path": "res://images/sprites/nik/tsr/nik sidelook h.png"
+		},
+		{
+			"name": "Smile Hat",
+			"path": "res://images/sprites/nik/tsr/nik smile h.png"
+		},
+		{
+			"name": "Close Eyes Smile Hat",
+			"path": "res://images/sprites/nik/tsr/nik smileeyes h.png"
+		},
+		{
+			"name": "Surprised Hat",
+			"path": "res://images/sprites/nik/tsr/nik surprised h.png"
+		},
+		{
+			"name": "Talking Hat",
+			"path": "res://images/sprites/nik/tsr/nik talking h.png"
+		},
+		{
+			"name": "",
+			"path": ""
+		}
+	],
+	"scale": 95,
+	"theme": ""
+}

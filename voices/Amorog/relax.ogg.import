@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/relax.ogg-c24fac5245de5714ca206f6d635f0052.oggstr"
+
+[deps]
+
+source_file="res://voices/Amorog/relax.ogg"
+dest_files=[ "res://.import/relax.ogg-c24fac5245de5714ca206f6d635f0052.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

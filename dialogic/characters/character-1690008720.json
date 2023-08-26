@@ -1,0 +1,57 @@
+{
+	"color": "#ff90c5f0",
+	"description": "",
+	"display_name": "Todd",
+	"display_name_bool": true,
+	"id": "character-1690008720.json",
+	"mirror_portraits": false,
+	"name": "Todd TSR",
+	"nickname": "TR:TODD:FULLNAME",
+	"nickname_bool": true,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://images/sprites/todd/tsr/tod.png"
+		},
+		{
+			"name": "Angry",
+			"path": "res://images/sprites/todd/tsr/todangry.png"
+		},
+		{
+			"name": "Annoyed",
+			"path": "res://images/sprites/todd/tsr/todannoyed.png"
+		},
+		{
+			"name": "Arms Happy",
+			"path": "res://images/sprites/todd/tsr/todarmshappy.png"
+		},
+		{
+			"name": "Eyes Happy",
+			"path": "res://images/sprites/todd/tsr/todeyeshappy.png"
+		},
+		{
+			"name": "Sad",
+			"path": "res://images/sprites/todd/tsr/todsad.png"
+		},
+		{
+			"name": "Sigh",
+			"path": "res://images/sprites/todd/tsr/todsigh.png"
+		},
+		{
+			"name": "Surprised",
+			"path": "res://images/sprites/todd/tsr/todsurprised.png"
+		},
+		{
+			"name": "Talking",
+			"path": "res://images/sprites/todd/tsr/todtalking.png"
+		},
+		{
+			"name": "Yell",
+			"path": "res://images/sprites/todd/tsr/todyell.png"
+		}
+	],
+	"scale": 95,
+	"theme": ""
+}

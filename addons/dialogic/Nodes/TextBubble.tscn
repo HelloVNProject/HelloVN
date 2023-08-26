@@ -1,0 +1,358 @@
+[gd_scene load_steps=25 format=2]
+
+[ext_resource path="res://addons/dialogic/Example Assets/Fonts/DefaultFont.tres" type="DynamicFont" id=1]
+[ext_resource path="res://addons/dialogic/Example Assets/backgrounds/background-2.png" type="Texture" id=2]
+[ext_resource path="res://addons/dialogic/Example Assets/next-indicator/next-indicator.png" type="Texture" id=3]
+[ext_resource path="res://addons/dialogic/Nodes/TextBubble.gd" type="Script" id=4]
+[ext_resource path="res://dialogic/themes/tsr/images/gui/textbox_speaker.png" type="Texture" id=5]
+[ext_resource path="res://fonts/harmony-os-sans-sc/HarmonyOS_Sans_SC_Medium.ttf" type="DynamicFontData" id=6]
+[ext_resource path="res://shaders/blur.shader" type="Shader" id=7]
+[ext_resource path="res://images/white.png" type="Texture" id=8]
+[ext_resource path="res://addons/dialogic/Nodes/Focus.tscn" type="PackedScene" id=9]
+[ext_resource path="res://images/icons/menu.png" type="Texture" id=10]
+
+[sub_resource type="ShaderMaterial" id=10]
+shader = ExtResource( 7 )
+shader_param/amount = 5.0
+
+[sub_resource type="StyleBoxFlat" id=11]
+bg_color = Color( 0, 0, 0, 0.376471 )
+corner_radius_top_left = 30
+corner_radius_top_right = 30
+corner_radius_bottom_right = 30
+corner_radius_bottom_left = 30
+
+[sub_resource type="StyleBoxFlat" id=15]
+bg_color = Color( 0, 0, 0, 0.376471 )
+corner_radius_top_left = 30
+corner_radius_top_right = 30
+
+[sub_resource type="DynamicFont" id=12]
+size = 1
+
+[sub_resource type="StyleBoxFlat" id=13]
+bg_color = Color( 1, 1, 1, 1 )
+
+[sub_resource type="StyleBoxFlat" id=14]
+bg_color = Color( 1, 1, 1, 0.117647 )
+
+[sub_resource type="StyleBoxEmpty" id=1]
+
+[sub_resource type="StyleBoxFlat" id=2]
+bg_color = Color( 1, 1, 1, 0 )
+expand_margin_left = 10.0
+
+[sub_resource type="Animation" id=3]
+loop = true
+tracks/0/type = "value"
+tracks/0/path = NodePath(".:self_modulate")
+tracks/0/interp = 2
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.5 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Color( 1, 1, 1, 1 ), Color( 1, 1, 1, 0 ) ]
+}
+
+[sub_resource type="Animation" id=4]
+
+[sub_resource type="Animation" id=5]
+loop = true
+tracks/0/type = "value"
+tracks/0/path = NodePath("..:rect_position")
+tracks/0/interp = 2
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.5 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Vector2( 0, 0 ), Vector2( 0, -10 ) ]
+}
+
+[sub_resource type="StyleBoxFlat" id=6]
+content_margin_left = 10.0
+content_margin_right = 10.0
+content_margin_top = 0.0
+content_margin_bottom = 0.0
+bg_color = Color( 1, 1, 1, 0 )
+expand_margin_left = 10.0
+
+[sub_resource type="DynamicFont" id=7]
+size = 25
+use_filter = true
+font_data = ExtResource( 6 )
+
+[sub_resource type="DynamicFont" id=8]
+size = 40
+use_filter = true
+font_data = ExtResource( 6 )
+
+[node name="TextBubble" type="Control"]
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+margin_left = -455.0
+margin_top = 399.0
+margin_right = 455.0
+margin_bottom = 560.0
+script = ExtResource( 4 )
+
+[node name="ColorRect" type="ColorRect" parent="."]
+visible = false
+anchor_right = 1.0
+anchor_bottom = 1.0
+color = Color( 0, 0, 0, 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="TextureRect" type="NinePatchRect" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+texture = ExtResource( 2 )
+
+[node name="TopBar" type="TextureRect" parent="TextureRect"]
+margin_left = 15.0
+margin_top = 17.0
+margin_right = 1935.0
+margin_bottom = 297.0
+texture = ExtResource( 5 )
+
+[node name="BlurRect" type="Control" parent="TextureRect"]
+anchor_top = 1.0
+anchor_bottom = 1.0
+margin_left = 60.0
+margin_top = -30.0
+margin_right = 950.0
+margin_bottom = -30.0
+
+[node name="Blur" type="TextureRect" parent="TextureRect/BlurRect"]
+material = SubResource( 10 )
+anchor_top = 1.0
+anchor_bottom = 1.0
+margin_top = -250.0
+margin_right = 1800.0
+size_flags_horizontal = 2
+size_flags_vertical = 2
+texture = ExtResource( 8 )
+expand = true
+
+[node name="Color" type="Panel" parent="TextureRect/BlurRect"]
+anchor_top = 1.0
+anchor_bottom = 1.0
+margin_top = -250.0
+margin_right = 1800.0
+custom_styles/panel = SubResource( 11 )
+
+[node name="Menu" type="Control" parent="TextureRect/BlurRect"]
+visible = false
+margin_left = 1650.0
+margin_top = -310.0
+margin_right = 1800.0
+margin_bottom = -250.0
+rect_min_size = Vector2( 150, 60 )
+
+[node name="Blur" type="TextureRect" parent="TextureRect/BlurRect/Menu"]
+material = SubResource( 10 )
+anchor_right = 1.0
+anchor_bottom = 1.0
+size_flags_horizontal = 2
+size_flags_vertical = 2
+texture = ExtResource( 8 )
+expand = true
+
+[node name="Color" type="Panel" parent="TextureRect/BlurRect/Menu"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_styles/panel = SubResource( 15 )
+
+[node name="Container" type="HBoxContainer" parent="TextureRect/BlurRect/Menu"]
+visible = false
+anchor_right = 1.0
+anchor_bottom = 1.0
+alignment = 1
+
+[node name="Menu" type="TextureRect" parent="TextureRect/BlurRect/Menu/Container"]
+margin_left = 60.0
+margin_right = 90.0
+margin_bottom = 60.0
+texture = ExtResource( 10 )
+stretch_mode = 4
+
+[node name="BottomColorBar" type="ProgressBar" parent="TextureRect"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = 132.0
+margin_top = 164.0
+margin_right = -478.0
+margin_bottom = 13.0
+rect_min_size = Vector2( 300, 10 )
+custom_fonts/font = SubResource( 12 )
+custom_styles/fg = SubResource( 13 )
+custom_styles/bg = SubResource( 14 )
+max_value = 20.0
+step = 1.0
+value = 20.0
+percent_visible = false
+
+[node name="BottomColorBar_" type="ColorRect" parent="TextureRect"]
+visible = false
+margin_left = 132.0
+margin_top = 164.0
+margin_right = 432.0
+margin_bottom = 174.0
+
+[node name="TextContainer" type="VBoxContainer" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = 10.0
+margin_top = 12.0
+margin_right = -10.0
+margin_bottom = -12.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+alignment = 1
+
+[node name="RichTextLabel" type="RichTextLabel" parent="TextContainer"]
+margin_right = 890.0
+margin_bottom = 147.0
+custom_colors/default_color = Color( 1, 1, 1, 1 )
+custom_colors/selection_color = Color( 0, 0, 0, 0 )
+custom_colors/font_color_shadow = Color( 1, 1, 1, 0 )
+custom_constants/table_vseparation = 0
+custom_constants/shadow_offset_x = 2
+custom_constants/shadow_offset_y = 2
+custom_constants/line_separation = 12
+custom_fonts/normal_font = ExtResource( 1 )
+custom_styles/focus = SubResource( 1 )
+custom_styles/normal = SubResource( 2 )
+bbcode_enabled = true
+bbcode_text = "Placeholder text for testing an formatting. 
+Placeholder text for testing an formatting. 
+adsd"
+visible_characters = 0
+percent_visible = 0.0
+meta_underlined = false
+text = "Placeholder text for testing an formatting. 
+Placeholder text for testing an formatting. 
+adsd"
+fit_content_height = true
+scroll_active = false
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="NextIndicatorContainer" type="Control" parent="."]
+visible = false
+margin_right = 40.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="NextIndicator" type="TextureRect" parent="NextIndicatorContainer"]
+margin_top = -10.0
+margin_right = 51.0
+margin_bottom = 41.0
+texture = ExtResource( 3 )
+stretch_mode = 4
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="NextIndicatorContainer/NextIndicator"]
+autoplay = "Up and down"
+anims/Pulse = SubResource( 3 )
+anims/Static = SubResource( 4 )
+"anims/Up and down" = SubResource( 5 )
+
+[node name="NameLabel" type="Label" parent="."]
+visible = false
+margin_top = -48.0
+margin_right = 58.0
+margin_bottom = -8.0
+size_flags_vertical = 1
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_colors/font_color_shadow = Color( 0, 0, 0, 0.619608 )
+custom_constants/shadow_offset_x = 2
+custom_constants/shadow_offset_y = 2
+custom_fonts/font = ExtResource( 1 )
+custom_styles/normal = SubResource( 6 )
+valign = 1
+uppercase = true
+
+[node name="ColorRect" type="ColorRect" parent="NameLabel"]
+show_behind_parent = true
+anchor_right = 1.0
+anchor_bottom = 1.0
+size_flags_horizontal = 15
+size_flags_vertical = 15
+color = Color( 0.87451, 0.839216, 0.278431, 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="TextureRect" type="TextureRect" parent="NameLabel"]
+show_behind_parent = true
+anchor_right = 1.0
+anchor_bottom = 1.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+texture = ExtResource( 2 )
+expand = true
+stretch_mode = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="SmallNameLabel" type="Label" parent="NameLabel"]
+visible = false
+margin_left = 12.0
+margin_top = 76.0
+margin_right = 52.0
+margin_bottom = 90.0
+uppercase = true
+
+[node name="WritingTimer" type="Timer" parent="."]
+
+[node name="sounds" type="AudioStreamPlayer" parent="."]
+autoplay = true
+
+[node name="Film" type="Control" parent="."]
+anchor_top = 1.0
+anchor_bottom = 1.0
+margin_top = -1080.0
+margin_right = 1920.0
+margin_bottom = -887.0
+rect_pivot_offset = Vector2( 0, 193 )
+
+[node name="Name" type="Label" parent="Film"]
+margin_top = 1155.0
+margin_right = 1920.0
+margin_bottom = 1186.0
+custom_fonts/font = SubResource( 7 )
+align = 1
+
+[node name="Text" type="Label" parent="Film"]
+margin_left = 60.0
+margin_top = 1187.0
+margin_right = 1860.0
+margin_bottom = 1283.0
+rect_min_size = Vector2( 1800, 96 )
+custom_constants/line_spacing = -10
+custom_fonts/font = SubResource( 8 )
+text = "Text"
+align = 1
+autowrap = true
+
+[node name="FocusContainer" parent="." instance=ExtResource( 9 )]
+anchor_top = 1.0
+anchor_right = 0.0
+margin_top = -1080.0
+margin_right = 1920.0

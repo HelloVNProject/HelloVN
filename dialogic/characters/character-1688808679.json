@@ -1,0 +1,21 @@
+{
+	"color": "#ff604f48",
+	"description": "",
+	"display_name": "Ten",
+	"display_name_bool": true,
+	"id": "character-1688808679.json",
+	"mirror_portraits": false,
+	"name": "Ten",
+	"nickname": "TR:TEN:FULLNAME",
+	"nickname_bool": true,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": ""
+		}
+	],
+	"scale": 100,
+	"theme": ""
+}

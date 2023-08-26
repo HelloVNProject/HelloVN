@@ -1,0 +1,383 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "TR:EXTRA:TITLE"
+msgstr ""
+
+msgid "TR:EXTRA:ARTIST"
+msgstr ""
+
+msgid "TR:EXTRA:CHAPTERINVEST"
+msgstr ""
+
+msgid "TR:EXTRA:CHAPTERLOCKED"
+msgstr ""
+
+msgid "TR:EXTRA:NEEDUNLOCK"
+msgstr ""
+
+msgid "TR:EXTRA:NEEDUNLOCK:PARAMS"
+msgstr ""
+
+msgid "TR:EXTRA:MOBS"
+msgstr ""
+
+msgid "TR:EXTRA:GR:NICKNAME"
+msgstr ""
+
+msgid "TR:EXTRA:GR:FULLNAME"
+msgstr ""
+
+msgid "TR:EXTRA:GR:DESC"
+msgstr ""
+
+msgid "TR:EXTRA:GR:EXTRAS:1"
+msgstr ""
+
+msgid "TR:EXTRA:SEAON:NICKNAME"
+msgstr ""
+
+msgid "TR:EXTRA:SEAON:FULLNAME"
+msgstr ""
+
+msgid "TR:EXTRA:SEAON:DESC"
+msgstr ""
+
+msgid "TR:EXTRA:CAN:NICKNAME"
+msgstr ""
+
+msgid "TR:EXTRA:CAN:FULLNAME"
+msgstr ""
+
+msgid "TR:EXTRA:CAN:DESC"
+msgstr ""
+
+msgid "TR:EXTRA:CAN:EXTRAS:1"
+msgstr ""
+
+msgid "TR:EXTRA:CAN:EXTRAS:2"
+msgstr ""
+
+msgid "TR:EXTRA:CAN:EXTRAS:3"
+msgstr ""
+
+msgid "TR:EXTRA:ROMIN:NICKNAME"
+msgstr ""
+
+msgid "TR:EXTRA:ROMIN:FULLNAME"
+msgstr ""
+
+msgid "TR:EXTRA:ROMIN:DESC"
+msgstr ""
+
+msgid "TR:EXTRA:ROMIN:EXTRAS:1"
+msgstr ""
+
+msgid "TR:EXTRA:ROMIN:EXTRAS:2"
+msgstr ""
+
+msgid "TR:EXTRA:ROMIN:EXTRAS:3"
+msgstr ""
+
+msgid "TR:EXTRA:SAM:NICKNAME"
+msgstr ""
+
+msgid "TR:EXTRA:SAM:FULLNAME"
+msgstr ""
+
+msgid "TR:EXTRA:SAM:DESC"
+msgstr ""
+
+msgid "TR:EXTRA:SAM:EXTRAS:1"
+msgstr ""
+
+msgid "TR:EXTRA:NIK:NICKNAME"
+msgstr ""
+
+msgid "TR:EXTRA:NIK:FULLNAME"
+msgstr ""
+
+msgid "TR:EXTRA:NIK:DESC"
+msgstr ""
+
+msgid "TR:EXTRA:NIK:EXTRAS:1"
+msgstr ""
+
+msgid "TR:EXTRA:YAO:NICKNAME"
+msgstr ""
+
+msgid "TR:EXTRA:YAO:FULLNAME"
+msgstr ""
+
+msgid "TR:EXTRA:YAO:DESC"
+msgstr ""
+
+msgid "TR:EXTRA:YAO:EXTRAS:1"
+msgstr ""
+
+msgid "TR:EXTRA:TODD:NICKNAME"
+msgstr ""
+
+msgid "TR:EXTRA:TODD:FULLNAME"
+msgstr ""
+
+msgid "TR:EXTRA:TODD:DESC"
+msgstr ""
+
+msgid "TR:EXTRA:TODD:EXTRAS:1"
+msgstr ""
+
+msgid "TR:EXTRA:AMOROG:NICKNAME"
+msgstr ""
+
+msgid "TR:EXTRA:AMOROG:FULLNAME"
+msgstr ""
+
+msgid "TR:EXTRA:AMOROG:DESC"
+msgstr ""
+
+msgid "TR:EXTRA:AMOROG:EXTRAS:1"
+msgstr ""
+
+msgid "TR:EXTRA:TEN:NICKNAME"
+msgstr ""
+
+msgid "TR:EXTRA:TEN:FULLNAME"
+msgstr ""
+
+msgid "TR:EXTRA:TEN:DESC"
+msgstr ""
+
+msgid "TR:EXTRA:TEN:EXTRAS:1"
+msgstr ""
+
+msgid "TR:EXTRA:ZOMBIE:NICKNAME"
+msgstr ""
+
+msgid "TR:EXTRA:ZOMBIE:DESC"
+msgstr ""
+
+msgid "TR:EXTRA:SKELETON:NICKNAME"
+msgstr ""
+
+msgid "TR:EXTRA:SKELETON:DESC"
+msgstr ""
+
+msgid "TR:EXTRA:CGS"
+msgstr ""
+
+msgid "TR:EXTRA:FIRSTFIGHT:NAME"
+msgstr ""
+
+msgid "TR:EXTRA:FIRSTFIGHT:CONTENT"
+msgstr ""
+
+msgid "TR:EXTRA:QUICKTIME:NAME"
+msgstr ""
+
+msgid "TR:EXTRA:QUICKTIME:CONTENT"
+msgstr ""
+
+msgid "TR:EXTRA:CAVEINVEST:NAME"
+msgstr ""
+
+msgid "TR:EXTRA:CAVEINVEST:CONTENT"
+msgstr ""
+
+msgid "TR:EXTRA:NIKSHAT:NAME"
+msgstr ""
+
+msgid "TR:EXTRA:NIKSHAT:CONTENT"
+msgstr ""
+
+msgid "TR:EXTRA:TERMS"
+msgstr ""
+
+msgid "TR:EXTRA:SINGAL:NAME"
+msgstr ""
+
+msgid "TR:EXTRA:SINGAL:DESC"
+msgstr ""
+
+msgid "TR:EXTRA:ENVIRONMENTAL:NAME"
+msgstr ""
+
+msgid "TR:EXTRA:ENVIRONMENTAL:DESC"
+msgstr ""
+
+msgid "TR:EXTRA:ANOSINGAL:NAME"
+msgstr ""
+
+msgid "TR:EXTRA:ANOSINGAL:DESC"
+msgstr ""
+
+msgid "TR:EXTRA:DIGCRAFT:NAME"
+msgstr ""
+
+msgid "TR:EXTRA:DIGCRAFT:DESC"
+msgstr ""
+
+msgid "TR:EXTRA:THESMOKEROOM:NAME"
+msgstr ""
+
+msgid "TR:EXTRA:THESMOKEROOM:DESC"
+msgstr ""
+
+msgid "TR:EXTRA:QTE:NAME"
+msgstr ""
+
+msgid "TR:EXTRA:QTE:DESC"
+msgstr ""
+
+msgid "TR:EXTRA:QTERB:NAME"
+msgstr ""
+
+msgid "TR:EXTRA:QTERB:DESC"
+msgstr ""
+
+msgid "TR:EXTRA:STAFFS"
+msgstr ""
+
+msgid "TR:EXTRA:DUTY"
+msgstr ""
+
+msgid "TR:EXTRA:MATE"
+msgstr ""
+
+msgid "TR:EXTRA:DIRECTOR"
+msgstr ""
+
+msgid "TR:EXTRA:WRITER"
+msgstr ""
+
+msgid "TR:EXTRA:CHARDESIGN"
+msgstr ""
+
+msgid "TR:EXTRA:ARTIST:CHAR"
+msgstr ""
+
+msgid "TR:EXTRA:ARTIST:CG"
+msgstr ""
+
+msgid "TR:EXTRA:ARTIST:BG"
+msgstr ""
+
+msgid "TR:EXTRA:SFX"
+msgstr ""
+
+msgid "TR:EXTRA:MUSIC"
+msgstr ""
+
+msgid "TR:EXTRA:UI"
+msgstr ""
+
+msgid "TR:EXTRA:PROGRAM:CLIENT"
+msgstr ""
+
+msgid "TR:EXTRA:TEST"
+msgstr ""
+
+msgid "TR:EXTRA:LEGAL"
+msgstr ""
+
+msgid "TR:EXTRA:ROMINVILLA"
+msgstr ""
+
+msgid "TR:EXTRA:THANK"
+msgstr ""
+
+msgid "TR:EXTRA:ICON"
+msgstr ""
+
+msgid "TR:EXTRA:SOURCE"
+msgstr ""
+
+msgid "TR:EXTRA:PROGRAM:BACKEND"
+msgstr ""
+
+msgid "TR:EXTRA:TRANSLATE"
+msgstr ""
+
+msgid "TR:EXTRA:THIRD:TITLE"
+msgstr ""
+
+msgid "TR:EXTRA:THIRD:TYPE"
+msgstr ""
+
+msgid "TR:EXTRA:THIRD:NAME"
+msgstr ""
+
+msgid "TR:EXTRA:THIRD:SOURCE"
+msgstr ""
+
+msgid "TR:EXTRA:THIRD:LICENSE"
+msgstr ""
+
+msgid "TR:EXTRA:THIRD:SPRITE"
+msgstr ""
+
+msgid "TR:EXTRA:THIRD:UI"
+msgstr ""
+
+msgid "TR:EXTRA:THIRD:BG"
+msgstr ""
+
+msgid "TR:EXTRA:THIRD:MODEL"
+msgstr ""
+
+msgid "TR:EXTRA:THIRD:MUSIC"
+msgstr ""
+
+msgid "TR:EXTRA:THIRD:PROGRAM"
+msgstr ""
+
+msgid "TR:EXTRA:THIRD:VOICE"
+msgstr ""
+
+msgid "TR:EXTRA:THIRD:FONT"
+msgstr ""
+
+msgid "TR:EXTRA:THIRD:SFX"
+msgstr ""
+
+msgid "TR:EXTRA:THIRD:FAIRUSE"
+msgstr ""
+
+msgid "TR:EXTRA:THIRD:FREEUSE"
+msgstr ""
+
+msgid "TR:EXTRA:THIRD:AUTHORIZED"
+msgstr ""
+
+msgid "TR:EXTRA:THIRD:MIT"
+msgstr ""
+
+msgid "TR:EXTRA:THIRD:SIL"
+msgstr ""
+
+msgid "TR:EXTRA:THIRD:HARMONY"
+msgstr ""
+
+msgid "TR:EXTRA:THIRD:GAMEENGINE"
+msgstr ""
+
+msgid "TR:EXTRA:THIRD:ASSET"
+msgstr ""
+
+msgid "TR:EXTRA:THIRD:HELLO"
+msgstr ""
+
+msgid "TR:EXTRA:THIRD:LINKMUSICNOW"
+msgstr ""

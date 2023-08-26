@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/shock-2.ogg-54217eea400db846e4e3aa9e3be5efa7.oggstr"
+
+[deps]
+
+source_file="res://voices/Romin/shock-2.ogg"
+dest_files=[ "res://.import/shock-2.ogg-54217eea400db846e4e3aa9e3be5efa7.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

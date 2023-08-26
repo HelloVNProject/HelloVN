@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/like.ogg-64283145879caeef949bcd4b08fe35b9.oggstr"
+
+[deps]
+
+source_file="res://voices/GR/like.ogg"
+dest_files=[ "res://.import/like.ogg-64283145879caeef949bcd4b08fe35b9.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

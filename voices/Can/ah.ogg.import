@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/ah.ogg-33486ce042fc2ed8bde14ce04890ffcb.oggstr"
+
+[deps]
+
+source_file="res://voices/Can/ah.ogg"
+dest_files=[ "res://.import/ah.ogg-33486ce042fc2ed8bde14ce04890ffcb.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

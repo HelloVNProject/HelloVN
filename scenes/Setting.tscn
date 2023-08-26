@@ -1,0 +1,388 @@
+[gd_scene load_steps=14 format=2]
+
+[ext_resource path="res://fonts/harmony-os-sans-sc/H1TitleBolder.tres" type="DynamicFont" id=1]
+[ext_resource path="res://images/icons/left.png" type="Texture" id=2]
+[ext_resource path="res://scenes/Setting.gd" type="Script" id=3]
+[ext_resource path="res://themes/SettingWindowButtonGroup.tres" type="ButtonGroup" id=5]
+[ext_resource path="res://themes/Mod.tres" type="Theme" id=6]
+[ext_resource path="res://fonts/harmony-os-sans-sc/SettingBlockTitle.tres" type="DynamicFont" id=7]
+[ext_resource path="res://fonts/harmony-os-sans-sc/SettingBlockCaption.tres" type="DynamicFont" id=8]
+[ext_resource path="res://themes/SettingDialogButtonGroup.tres" type="ButtonGroup" id=9]
+[ext_resource path="res://fonts/harmony-os-sans-sc/SettingBlockText.tres" type="DynamicFont" id=10]
+[ext_resource path="res://themes/SettingDownloadSourceButtonGroup.tres" type="ButtonGroup" id=11]
+
+[sub_resource type="StyleBoxFlat" id=4]
+bg_color = Color( 0, 0, 0, 0.392157 )
+
+[sub_resource type="StyleBoxFlat" id=3]
+bg_color = Color( 0, 0, 0, 0.392157 )
+
+[sub_resource type="StyleBoxFlat" id=2]
+bg_color = Color( 0.6, 0.6, 0.6, 0 )
+
+[node name="Setting" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 3 )
+
+[node name="BG" type="TextureRect" parent="."]
+visible = false
+modulate = Color( 1, 1, 1, 0.196078 )
+margin_right = 1920.0
+margin_bottom = 1080.0
+
+[node name="TitleContainer" type="Control" parent="."]
+visible = false
+margin_top = 75.0
+margin_right = 104.0
+margin_bottom = 179.0
+rect_min_size = Vector2( 104, 104 )
+
+[node name="BackButtonTween" type="Tween" parent="TitleContainer"]
+repeat = true
+playback/repeat = true
+
+[node name="BG" type="ColorRect" parent="TitleContainer"]
+margin_right = 556.0
+margin_bottom = 104.0
+color = Color( 0, 0, 0, 1 )
+
+[node name="Right" type="ColorRect" parent="TitleContainer"]
+margin_left = 576.0
+margin_right = 608.0
+margin_bottom = 104.0
+color = Color( 0, 0, 0, 1 )
+
+[node name="BackButton" type="TextureButton" parent="TitleContainer"]
+margin_right = 104.0
+margin_bottom = 104.0
+mouse_default_cursor_shape = 2
+texture_normal = ExtResource( 2 )
+
+[node name="Title" type="Label" parent="TitleContainer"]
+margin_left = 102.0
+margin_right = 462.0
+margin_bottom = 106.0
+custom_fonts/font = ExtResource( 1 )
+text = "TR:SETTING:TITLE"
+valign = 1
+
+[node name="Window" type="Control" parent="."]
+margin_left = 90.0
+margin_top = 210.0
+margin_right = 480.0
+margin_bottom = 420.0
+
+[node name="BG" type="ColorRect" parent="Window"]
+modulate = Color( 1, 1, 1, 0.8 )
+anchor_right = 1.0
+anchor_bottom = 1.0
+
+[node name="Title" type="Label" parent="Window"]
+margin_left = 30.0
+margin_top = 30.0
+margin_right = 90.0
+margin_bottom = 66.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = ExtResource( 7 )
+text = "TR:SETTING:WINDOW:NAME"
+
+[node name="Options" type="VBoxContainer" parent="Window"]
+margin_left = 30.0
+margin_top = 86.0
+margin_right = 360.0
+margin_bottom = 126.0
+
+[node name="Fullscreen" type="CheckBox" parent="Window/Options"]
+margin_right = 470.0
+margin_bottom = 31.0
+theme = ExtResource( 6 )
+shortcut_in_tooltip = false
+pressed = true
+group = ExtResource( 5 )
+text = "TR:SETTING:WINDOW:FULLSCREEN"
+
+[node name="Windowed" type="CheckBox" parent="Window/Options"]
+margin_top = 35.0
+margin_right = 470.0
+margin_bottom = 66.0
+theme = ExtResource( 6 )
+shortcut_in_tooltip = false
+group = ExtResource( 5 )
+text = "TR:SETTING:WINDOW:WINDOWED"
+
+[node name="Dialog" type="Control" parent="."]
+margin_left = 90.0
+margin_top = 450.0
+margin_right = 480.0
+margin_bottom = 840.0
+
+[node name="BG" type="ColorRect" parent="Dialog"]
+modulate = Color( 1, 1, 1, 0.8 )
+anchor_right = 1.0
+anchor_bottom = 1.0
+
+[node name="Title" type="Label" parent="Dialog"]
+margin_left = 30.0
+margin_top = 30.0
+margin_right = 90.0
+margin_bottom = 66.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = ExtResource( 7 )
+text = "TR:SETTING:DIALOG:NAME"
+
+[node name="Container" type="VBoxContainer" parent="Dialog"]
+margin_left = 30.0
+margin_top = 80.0
+margin_right = 360.0
+margin_bottom = 229.0
+custom_constants/separation = 16
+
+[node name="Caption" type="Label" parent="Dialog/Container"]
+margin_right = 458.0
+margin_bottom = 24.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = ExtResource( 8 )
+text = "TR:SETTING:DIALOG:CAPTION"
+autowrap = true
+
+[node name="Options" type="VBoxContainer" parent="Dialog/Container"]
+margin_top = 40.0
+margin_right = 458.0
+margin_bottom = 106.0
+
+[node name="Translated" type="CheckBox" parent="Dialog/Container/Options"]
+margin_right = 458.0
+margin_bottom = 31.0
+theme = ExtResource( 6 )
+shortcut_in_tooltip = false
+group = ExtResource( 9 )
+text = "TR:SETTING:DIALOG:TRANSLATED"
+
+[node name="English" type="CheckBox" parent="Dialog/Container/Options"]
+margin_top = 35.0
+margin_right = 458.0
+margin_bottom = 66.0
+theme = ExtResource( 6 )
+shortcut_in_tooltip = false
+pressed = true
+group = ExtResource( 9 )
+text = "TR:SETTING:DIALOG:ENGLISH"
+
+[node name="Sound" type="Control" parent="."]
+margin_left = 510.0
+margin_top = 210.0
+margin_right = 900.0
+margin_bottom = 600.0
+
+[node name="BG" type="ColorRect" parent="Sound"]
+modulate = Color( 1, 1, 1, 0.8 )
+anchor_right = 1.0
+anchor_bottom = 1.0
+
+[node name="Title" type="Label" parent="Sound"]
+margin_left = 30.0
+margin_top = 30.0
+margin_right = 90.0
+margin_bottom = 66.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = ExtResource( 7 )
+text = "TR:SETTING:SOUND:NAME"
+
+[node name="Container" type="VBoxContainer" parent="Sound"]
+margin_left = 30.0
+margin_top = 86.0
+margin_right = 360.0
+margin_bottom = 126.0
+custom_constants/separation = 8
+
+[node name="Master" type="VBoxContainer" parent="Sound/Container"]
+margin_right = 335.0
+margin_bottom = 51.0
+
+[node name="Title" type="Label" parent="Sound/Container/Master"]
+margin_right = 335.0
+margin_bottom = 31.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = ExtResource( 10 )
+text = "TR:SETTING:SOUND:MIXED"
+
+[node name="Volume" type="HSlider" parent="Sound/Container/Master"]
+margin_top = 35.0
+margin_right = 335.0
+margin_bottom = 51.0
+theme = ExtResource( 6 )
+min_value = -32.0
+max_value = 8.0
+
+[node name="Music" type="VBoxContainer" parent="Sound/Container"]
+margin_top = 59.0
+margin_right = 335.0
+margin_bottom = 110.0
+
+[node name="Title" type="Label" parent="Sound/Container/Music"]
+margin_right = 335.0
+margin_bottom = 31.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = ExtResource( 10 )
+text = "TR:SETTING:SOUND:MUSIC"
+
+[node name="Volume" type="HSlider" parent="Sound/Container/Music"]
+margin_top = 35.0
+margin_right = 335.0
+margin_bottom = 51.0
+theme = ExtResource( 6 )
+min_value = -32.0
+max_value = 8.0
+
+[node name="Effect" type="VBoxContainer" parent="Sound/Container"]
+margin_top = 118.0
+margin_right = 335.0
+margin_bottom = 169.0
+
+[node name="Title" type="Label" parent="Sound/Container/Effect"]
+margin_right = 335.0
+margin_bottom = 31.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = ExtResource( 10 )
+text = "TR:SETTING:SOUND:EFFECT"
+
+[node name="Volume" type="HSlider" parent="Sound/Container/Effect"]
+margin_top = 35.0
+margin_right = 335.0
+margin_bottom = 51.0
+theme = ExtResource( 6 )
+min_value = -32.0
+max_value = 8.0
+
+[node name="Voice" type="VBoxContainer" parent="Sound/Container"]
+margin_top = 177.0
+margin_right = 335.0
+margin_bottom = 228.0
+
+[node name="Title" type="Label" parent="Sound/Container/Voice"]
+margin_right = 335.0
+margin_bottom = 31.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = ExtResource( 10 )
+text = "TR:SETTING:SOUND:VOICE"
+
+[node name="Volume" type="HSlider" parent="Sound/Container/Voice"]
+margin_top = 35.0
+margin_right = 335.0
+margin_bottom = 51.0
+theme = ExtResource( 6 )
+min_value = -32.0
+max_value = 8.0
+
+[node name="DownloadSource" type="Control" parent="."]
+visible = false
+margin_left = 510.0
+margin_top = 630.0
+margin_right = 900.0
+margin_bottom = 990.0
+
+[node name="BG" type="ColorRect" parent="DownloadSource"]
+modulate = Color( 1, 1, 1, 0.8 )
+anchor_right = 1.0
+anchor_bottom = 1.0
+
+[node name="Title" type="Label" parent="DownloadSource"]
+margin_left = 30.0
+margin_top = 30.0
+margin_right = 90.0
+margin_bottom = 66.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = ExtResource( 7 )
+text = "TR:SETTING:DLSOURCE:NAME"
+
+[node name="Container" type="VBoxContainer" parent="DownloadSource"]
+margin_left = 30.0
+margin_top = 80.0
+margin_right = 360.0
+margin_bottom = 229.0
+custom_constants/separation = 16
+
+[node name="Caption" type="Label" parent="DownloadSource/Container"]
+margin_right = 489.0
+margin_bottom = 24.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = ExtResource( 8 )
+text = "TR:SETTING:DLSOURCE:CAPTION"
+autowrap = true
+
+[node name="Options" type="VBoxContainer" parent="DownloadSource/Container"]
+margin_top = 40.0
+margin_right = 489.0
+margin_bottom = 106.0
+
+[node name="Github" type="CheckBox" parent="DownloadSource/Container/Options"]
+margin_right = 489.0
+margin_bottom = 31.0
+theme = ExtResource( 6 )
+shortcut_in_tooltip = false
+pressed = true
+group = ExtResource( 11 )
+text = "TR:SETTING:DLSROUCE:GITHUB"
+
+[node name="Teambition" type="CheckBox" parent="DownloadSource/Container/Options"]
+margin_top = 35.0
+margin_right = 489.0
+margin_bottom = 66.0
+theme = ExtResource( 6 )
+shortcut_in_tooltip = false
+group = ExtResource( 11 )
+text = "TR:SETTING:DLSROUCE:TEAMBITION"
+
+[node name="Language" type="Control" parent="."]
+margin_left = 930.0
+margin_top = 210.0
+margin_right = 1380.0
+margin_bottom = 1010.0
+
+[node name="BG" type="ColorRect" parent="Language"]
+modulate = Color( 1, 1, 1, 0.8 )
+anchor_right = 1.0
+anchor_bottom = 1.0
+
+[node name="Title" type="Label" parent="Language"]
+margin_left = 30.0
+margin_top = 30.0
+margin_right = 90.0
+margin_bottom = 66.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = ExtResource( 7 )
+text = "TR:SETTING:LOCALE:NAME"
+
+[node name="List" type="ItemList" parent="Language"]
+margin_left = 30.0
+margin_top = 83.0
+margin_right = 420.0
+margin_bottom = 763.0
+custom_colors/guide_color = Color( 0, 0, 0, 0 )
+custom_colors/font_color_selected = Color( 0, 0, 0, 1 )
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_constants/vseparation = 8
+custom_fonts/font = ExtResource( 10 )
+custom_styles/selected_focus = SubResource( 4 )
+custom_styles/selected = SubResource( 3 )
+custom_styles/bg = SubResource( 2 )
+same_column_width = true
+fixed_icon_size = Vector2( 128, 64 )
+
+[connection signal="mouse_entered" from="TitleContainer/BackButton" to="." method="_on_BackButton_mouse_entered"]
+[connection signal="mouse_exited" from="TitleContainer/BackButton" to="." method="_on_BackButton_mouse_exited"]
+[connection signal="pressed" from="Window/Options/Fullscreen" to="." method="_on_Window_pressed" binds= [ "Fullscreen" ]]
+[connection signal="pressed" from="Window/Options/Windowed" to="." method="_on_Window_pressed" binds= [ "Windowed" ]]
+[connection signal="pressed" from="Dialog/Container/Options/Translated" to="." method="_on_DialogNameShows_pressed" binds= [ "Translated" ]]
+[connection signal="pressed" from="Dialog/Container/Options/English" to="." method="_on_DialogNameShows_pressed" binds= [ "English" ]]
+[connection signal="drag_ended" from="Sound/Container/Master/Volume" to="." method="_on_Volume_drag_ended" binds= [ "Master" ]]
+[connection signal="value_changed" from="Sound/Container/Master/Volume" to="." method="_on_Volume_value_changed" binds= [ "Master" ]]
+[connection signal="drag_ended" from="Sound/Container/Music/Volume" to="." method="_on_Volume_drag_ended" binds= [ "Music" ]]
+[connection signal="value_changed" from="Sound/Container/Music/Volume" to="." method="_on_Volume_value_changed" binds= [ "Music" ]]
+[connection signal="drag_ended" from="Sound/Container/Effect/Volume" to="." method="_on_Volume_drag_ended" binds= [ "Effect" ]]
+[connection signal="drag_ended" from="Sound/Container/Voice/Volume" to="." method="_on_Volume_drag_ended" binds= [ "Voice" ]]
+[connection signal="size_flags_changed" from="DownloadSource/Container/Caption" to="." method="_on_Label_size_flags_changed" binds= [ "DownloadSource" ]]
+[connection signal="pressed" from="DownloadSource/Container/Options/Github" to="." method="_on_DownloadSource_pressed" binds= [ "Github" ]]
+[connection signal="pressed" from="DownloadSource/Container/Options/Teambition" to="." method="_on_DownloadSource_pressed" binds= [ "Teambition" ]]
+[connection signal="item_selected" from="Language/List" to="." method="_on_List_item_selected"]

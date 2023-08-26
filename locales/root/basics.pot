@@ -1,0 +1,487 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# Allow BBCode Style
+msgid "TR:TRANSLATOR"
+msgstr ""
+
+msgid "@tiAnsxq"
+msgstr ""
+
+msgid "@GRtheGreat"
+msgstr ""
+
+msgid "@EJheptene"
+msgstr ""
+
+msgid "@Linkmusicnow"
+msgstr ""
+
+msgid "TR:SYSTEM:QUOTE:LEFT"
+msgstr ""
+
+msgid "TR:SYSTEM:QUOTE:RIGHT"
+msgstr ""
+
+msgid "TR:SYSTEM:TIME:BEFORE"
+msgstr ""
+
+msgid "TR:SYSTEM:TIME:AFTER"
+msgstr ""
+
+msgid "TR:SYSTEM:TIME:DAY"
+msgstr ""
+
+msgid "TR:SYSTEM:TIME:HOUR"
+msgstr ""
+
+msgid "TR:SYSTEM:TIME:MINUTE"
+msgstr ""
+
+msgid "TR:SYSTEM:TIME:SECOND"
+msgstr ""
+
+msgid "TR:MENU:TITLE"
+msgstr ""
+
+msgid "TR:MENU:NEW"
+msgstr ""
+
+msgid "TR:MENU:CONTINUE"
+msgstr ""
+
+msgid "TR:MENU:CHAPTER"
+msgstr ""
+
+msgid "TR:MENU:ARCHIVE"
+msgstr ""
+
+msgid "TR:MENU:OPTION"
+msgstr ""
+
+msgid "TR:MENU:HISTORY"
+msgstr ""
+
+msgid "TR:MENU:EXTRA"
+msgstr ""
+
+msgid "TR:MENU:BACK"
+msgstr ""
+
+msgid "TR:MENU:HOME"
+msgstr ""
+
+msgid "TR:MENU:EXIT"
+msgstr ""
+
+msgid "TR:SETTING:TITLE"
+msgstr ""
+
+msgid "TR:SETTING:WINDOW:NAME"
+msgstr ""
+
+msgid "TR:SETTING:WINDOW:FULLSCREEN"
+msgstr ""
+
+msgid "TR:SETTING:WINDOW:WINDOWED"
+msgstr ""
+
+msgid "TR:SETTING:DIALOG:NAME"
+msgstr ""
+
+msgid "TR:SETTING:DIALOG:CAPTION"
+msgstr ""
+
+msgid "TR:SETTING:DIALOG:TRANSLATED"
+msgstr ""
+
+msgid "TR:SETTING:DIALOG:ENGLISH"
+msgstr ""
+
+msgid "TR:SETTING:SOUND:NAME"
+msgstr ""
+
+msgid "TR:SETTING:SOUND:MIXED"
+msgstr ""
+
+msgid "TR:SETTING:SOUND:MUSIC"
+msgstr ""
+
+msgid "TR:SETTING:SOUND:EFFECT"
+msgstr ""
+
+msgid "TR:SETTING:SOUND:VOICE"
+msgstr ""
+
+msgid "TR:SETTING:DLSOURCE:NAME"
+msgstr ""
+
+msgid "TR:SETTING:DLSOURCE:CAPTION"
+msgstr ""
+
+msgid "TR:SETTING:DLSROUCE:GITHUB"
+msgstr ""
+
+msgid "TR:SETTING:DLSROUCE:TEAMBITION"
+msgstr ""
+
+msgid "TR:SETTING:LOCALE:NAME"
+msgstr ""
+
+msgid "TR:HISTORY:TITLE"
+msgstr ""
+
+msgid "TR:UPDATE:HASNEW:TITLE"
+msgstr ""
+
+msgid "TR:UPDATE:UPDATENOW"
+msgstr ""
+
+msgid "TR:UPDATE:CHECKING"
+msgstr ""
+
+msgid "TR:UPDATE:NOUPDATE"
+msgstr ""
+
+msgid "TR:UPDATE:LOCALVERSION"
+msgstr ""
+
+msgid "TR:UPDATE:LATESTVERSION"
+msgstr ""
+
+msgid "TR:UPDATE:FILESIZE"
+msgstr ""
+
+msgid "TR:UPDATE:UNKNOWN"
+msgstr ""
+
+msgid "TR:UPDATE:FAIL:TITLE"
+msgstr ""
+
+msgid "TR:UPDATE:FAIL:TEXT"
+msgstr ""
+
+msgid "TR:UPDATE:UPDATING"
+msgstr ""
+
+msgid "TR:UPDATE:UPDATED"
+msgstr ""
+
+msgid "TR:UPDATE:ANDROIDTIP"
+msgstr ""
+
+msgid "TR:UPDATE:CLOSEGAME"
+msgstr ""
+
+msgid "TR:UPDATE:CLOSE"
+msgstr ""
+
+msgid "TR:SPLASH:TITLE"
+msgstr ""
+
+msgid "TR:SPLASH:CONTENT"
+msgstr ""
+
+msgid "TR:SPLASH:HIDDEN"
+msgstr ""
+
+msgid "TR:SPLASH:AGREE"
+msgstr ""
+
+msgid "TR:SPLASH:DENY"
+msgstr ""
+
+msgid "TR:GR:NICKNAME"
+msgstr ""
+
+msgid "TR:GR:NICKNAME:ENG"
+msgstr ""
+
+msgid "TR:GR:FULLNAME"
+msgstr ""
+
+msgid "TR:SEAON:NICKNAME"
+msgstr ""
+
+msgid "TR:SEAON:NICKNAME:ENG"
+msgstr ""
+
+msgid "TR:SEAON:FULLNAME"
+msgstr ""
+
+msgid "TR:CAN:NICKNAME"
+msgstr ""
+
+msgid "TR:CAN:NICKNAME:ENG"
+msgstr ""
+
+msgid "TR:CAN:FULLNAME"
+msgstr ""
+
+msgid "TR:ROMIN:NICKNAME"
+msgstr ""
+
+msgid "TR:ROMIN:NICKNAME:ENG"
+msgstr ""
+
+msgid "TR:ROMIN:FULLNAME"
+msgstr ""
+
+msgid "TR:SAM:NICKNAME"
+msgstr ""
+
+msgid "TR:SAM:NICKNAME:ENG"
+msgstr ""
+
+msgid "TR:SAM:FULLNAME"
+msgstr ""
+
+msgid "TR:NIK:NICKNAME"
+msgstr ""
+
+msgid "TR:NIK:NICKNAME:ENG"
+msgstr ""
+
+msgid "TR:NIK:FULLNAME"
+msgstr ""
+
+msgid "TR:YAO:NICKNAME"
+msgstr ""
+
+msgid "TR:YAO:NICKNAME:ENG"
+msgstr ""
+
+msgid "TR:YAO:FULLNAME"
+msgstr ""
+
+msgid "TR:TODD:NICKNAME"
+msgstr ""
+
+msgid "TR:TODD:NICKNAME:ENG"
+msgstr ""
+
+msgid "TR:TODD:FULLNAME"
+msgstr ""
+
+msgid "TR:AMOROG:NICKNAME"
+msgstr ""
+
+msgid "TR:AMOROG:NICKNAME:ENG"
+msgstr ""
+
+msgid "TR:AMOROG:FULLNAME"
+msgstr ""
+
+msgid "TR:TEN:NICKNAME"
+msgstr ""
+
+msgid "TR:TEN:NICKNAME:ENG"
+msgstr ""
+
+msgid "TR:TEN:FULLNAME"
+msgstr ""
+
+msgid "TR:ENDING:BUTTON:NEXT"
+msgstr ""
+
+msgid "TR:ENDING:BUTTON:TOARCHIVE"
+msgstr ""
+
+msgid "TR:ENDING:BUTTON:TOREGISTER"
+msgstr ""
+
+msgid "TR:ENDING:FINISHED"
+msgstr ""
+
+msgid "TR:ENDING:CHAPTERPLAYEDTIME"
+msgstr ""
+
+msgid "TR:ENDING:PLAYEDTIME"
+msgstr ""
+
+msgid "TR:REGISTER:TITLE"
+msgstr ""
+
+msgid "TR:REGISTER:EMAIL:TITLE"
+msgstr ""
+
+msgid "TR:REGISTER:EMAIL:CAPTION"
+msgstr ""
+
+msgid "TR:REGISTER:SUBSCRIBE:TITLE"
+msgstr ""
+
+msgid "TR:REGISTER:SUBSCRIBE:CAPTION"
+msgstr ""
+
+msgid "TR:REGISTER:SUBSCRIBE:BUTTON:1"
+msgstr ""
+
+msgid "TR:REGISTER:SUBSCRIBE:BUTTON:2"
+msgstr ""
+
+msgid "TR:REGISTER:TWOFA:TITLE"
+msgstr ""
+
+msgid "TR:REGISTER:TWOFA:CAPTION"
+msgstr ""
+
+msgid "TR:REGISTER:TWOFA:BUTTON:1"
+msgstr ""
+
+msgid "TR:REGISTER:TWOFA:BUTTON:2"
+msgstr ""
+
+msgid "TR:REGISTER:DATASYNC:TITLE"
+msgstr ""
+
+msgid "TR:REGISTER:DATASYNC:CAPTION"
+msgstr ""
+
+msgid "TR:REGISTER:DATASYNC:BUTTON:1"
+msgstr ""
+
+msgid "TR:REGISTER:DATASYNC:BUTTON:2"
+msgstr ""
+
+msgid "TR:REGISTER:BUTTON:TOARCHIVE"
+msgstr ""
+
+msgid "TR:REGISTER:BUTTON:SUBMIT"
+msgstr ""
+
+msgid "TR:REGISTER:BUTTON:TOHOME"
+msgstr ""
+
+msgid "TR:REGISTER:TIP:EMAIL"
+msgstr ""
+
+msgid "TR:REGISTER:TIP:CONNECTING"
+msgstr ""
+
+msgid "TR:REGISTER:TIP:FAILED"
+msgstr ""
+
+msgid "TR:REGISTERED:TITLE"
+msgstr ""
+
+msgid "TR:REGISTERED:BUTTON:TOARCHIVE"
+msgstr ""
+
+msgid "TR:REGISTERED:EMAIL:TITLE"
+msgstr ""
+
+msgid "TR:REGISTERED:EMAIL:CONTENT"
+msgstr ""
+
+msgid "TR:REGISTERED:SUBSCRIBE:TITLE"
+msgstr ""
+
+msgid "TR:REGISTERED:SUBSCRIBE:TRUE"
+msgstr ""
+
+msgid "TR:REGISTERED:SUBSCRIBE:FALSE"
+msgstr ""
+
+msgid "TR:REGISTERED:DATASYNC:TITLE"
+msgstr ""
+
+msgid "TR:REGISTERED:DATASYNC:TRUE"
+msgstr ""
+
+msgid "TR:REGISTERED:DATASYNC:FALSE"
+msgstr ""
+
+msgid "TR:REGISTERED:TWOFA:TITLE"
+msgstr ""
+
+msgid "TR:REGISTERED:TWOFA:TRUE"
+msgstr ""
+
+msgid "TR:REGISTERED:TWOFA:FALSE"
+msgstr ""
+
+msgid "TR:REGISTERED:TWOFA:USERNAME"
+msgstr ""
+
+msgid "TR:REGISTERED:TWOFA:KEY"
+msgstr ""
+
+msgid "TR:REGISTERED:TWOFA:KEYTYPE"
+msgstr ""
+
+msgid "TR:REGISTERED:TWOFA:BASEDTIME"
+msgstr ""
+
+msgid "TR:REGISTERED:TWOFA:TIP"
+msgstr ""
+
+msgid "TR:CHAPTER:1.01:NAME"
+msgstr ""
+
+msgid "TR:CHAPTER:1.01:CAPTION"
+msgstr ""
+
+msgid "TR:API:MSG:0"
+msgstr ""
+
+msgid "TR:API:MSG:100"
+msgstr ""
+
+msgid "TR:API:MSG:101"
+msgstr ""
+
+msgid "TR:API:MSG:102"
+msgstr ""
+
+msgid "TR:API:MSG:103"
+msgstr ""
+
+msgid "TR:API:MSG:104"
+msgstr ""
+
+msgid "TR:API:MSG:200"
+msgstr ""
+
+msgid "TR:API:MSG:201"
+msgstr ""
+
+msgid "TR:API:MSG:202"
+msgstr ""
+
+msgid "TR:API:MSG:203"
+msgstr ""
+
+msgid "TR:API:MSG:204"
+msgstr ""
+
+msgid "TR:API:MSG:300"
+msgstr ""
+
+msgid "TR:API:MSG:301"
+msgstr ""
+
+msgid "TR:API:MSG:302"
+msgstr ""
+
+msgid "TR:BELONGS:ARTISTS"
+msgstr ""
+
+msgid "TR:BELONGS:THANKS"
+msgstr ""
+
+msgid "TR:BELONGS:MUSICIANS"
+msgstr ""
+

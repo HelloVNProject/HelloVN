@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/doubt-2.ogg-41c9f5195ef1ab120156c7b5db917ed0.oggstr"
+
+[deps]
+
+source_file="res://voices/Amorog/doubt-2.ogg"
+dest_files=[ "res://.import/doubt-2.ogg-41c9f5195ef1ab120156c7b5db917ed0.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

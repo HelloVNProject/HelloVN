@@ -1,0 +1,714 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Rominwolf <im@wsm.ink>\n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+
+msgid "TR:DIALOG:TSR01:00001"
+msgstr "深夜。"
+
+msgid "TR:DIALOG:TSR01:00002"
+msgstr "TrNik，TrYao 和 TrSam 三人在下工后前往了淋浴房。"
+
+msgid "TR:DIALOG:TSR01:00003"
+msgstr "洗完澡后他们就准备前往矿洞。"
+
+msgid "TR:DIALOG:TSR01:00004"
+msgstr "今天晚上就是他们前往 TrYao 所说的藏宝地点的日子。"
+
+msgid "TR:DIALOG:TSR01:00005"
+msgstr "在回到矿场的路上，TrSam 一直都小心翼翼地跟在 TrNik 身后，TrYao 在最前面带路。"
+
+msgid "TR:DIALOG:TSR01:00006"
+msgstr "一路上没有人说话。沉默。无言。只有风吹动草叶的沙沙声。"
+
+msgid "TR:DIALOG:TSR01:00007"
+msgstr "但他们内心的想法却都是一样的。"
+
+msgid "TR:DIALOG:TSR01:00008"
+msgstr "「自由。」"
+
+msgid "TR:DIALOG:TSR01:00009"
+msgstr "只要能找到宝藏，哪怕只有一点点，也足够他们过上富足的生活了。"
+
+msgid "TR:DIALOG:TSR01:00010"
+msgstr "……"
+
+msgid "TR:DIALOG:TSR01:00011"
+msgstr "仍然没有人说一句话。"
+
+msgid "TR:DIALOG:TSR01:00012"
+msgstr "TrSam 想让自己放松些，于是他仰起了头，望向天空。"
+
+msgid "TR:DIALOG:TSR01:00013"
+msgstr "“今天晚上的星星好多。”"
+
+msgid "TR:DIALOG:TSR01:00014"
+msgstr "他心里这样想着。"
+
+msgid "TR:DIALOG:TSR01:00015"
+msgstr "以前他从来没有留意过天上的星星，因为为生活操碎了心的他，哪里还有时间仰望星空？"
+
+msgid "TR:DIALOG:TSR01:00016"
+msgstr "但今天却不一样，因为他想到了以后他和 TrNik 的生活。"
+
+msgid "TR:DIALOG:TSR01:00017"
+msgstr "在拿到宝藏以后，他要带着 TrNik 离开这里，前往陌生的新地方，开始他们全新的人生。"
+
+msgid "TR:DIALOG:TSR01:00018"
+msgstr "他和 TrNik 未来的人生，他们幸福，他们快乐。"
+
+msgid "TR:DIALOG:TSR01:00019"
+msgstr "他想看到 TrNik 不用再进入矿场，他想看到 TrNik 不用再操心任何烦心事，他想让 TrNik 开开心心地度过每一天。"
+
+msgid "TR:DIALOG:TSR01:00020"
+msgstr "和 TrSam 度过每一天。"
+
+msgid "TR:DIALOG:TSR01:00021"
+msgstr "他想牵着 TrNik 的手一起漫步在夕阳的沙滩上，看着太阳落下，月亮升起，繁星挥洒在天空之上。"
+
+msgid "TR:DIALOG:TSR01:00022"
+msgstr "现在的他感到了一种前所未有的愉悦和轻松。"
+
+msgid "TR:DIALOG:TSR01:00023"
+msgstr "天空令人遐想。"
+
+msgid "TR:DIALOG:TSR01:00024"
+msgstr "天空令人沉醉。"
+
+msgid "TR:DIALOG:TSR01:00025"
+msgstr "他仍然看向天空。"
+
+msgid "TR:DIALOG:TSR01:00026"
+msgstr "“嗯… 星星真的好多，以前从来没有注意过。也许以后应该多看看天空？”"
+
+msgid "TR:DIALOG:TSR01:00027"
+msgstr "他打算问问 TrNik 以前有没有在夜晚看过天空，但想了一下又觉得还是算了，毕竟看起来他心事重重。"
+
+msgid "TR:DIALOG:TSR01:00028"
+msgstr "“再看几眼吧，一会儿进去就看不到了。”"
+
+msgid "TR:DIALOG:TSR01:00029"
+msgstr "他嘴里嘟囔着，没有人听见。"
+
+msgid "TR:DIALOG:TSR01:00030"
+msgstr "……"
+
+msgid "TR:DIALOG:TSR01:00031"
+msgstr "然后他们回到了那条道路。"
+
+msgid "TR:DIALOG:TSR01:00032"
+msgstr "那条 TrSam 永远无法忘记的道路。"
+
+msgid "TR:DIALOG:TSR01:00033"
+msgstr "尽管天色已晚，只有寥寥光线从洞顶照入，但这里的石英依旧闪亮。"
+
+msgid "TR:DIALOG:TSR01:00034"
+msgstr "TrNik 在测试绳索。"
+
+msgid "TR:DIALOG:TSR01:00035"
+msgstr "TrSam 有些担心，他总觉得这条绳索会断裂，然而Nik表示它很结实。"
+
+msgid "TR:DIALOG:TSR01:00036"
+msgstr "TrYao 打头。"
+
+msgid "TR:DIALOG:TSR01:00037"
+msgstr "接着是 TrSam。"
+
+msgid "TR:DIALOG:TSR01:00038"
+msgstr "TrSam 的第二次下落比第一次熟练多了。"
+
+msgid "TR:DIALOG:TSR01:00039"
+msgstr "不过可以很明显看出来，他还是不喜欢这种悬挂在半空中的感觉。"
+
+msgid "TR:DIALOG:TSR01:00040"
+msgstr "这次 TrNik 也一起跟了下来。"
+
+msgid "TR:DIALOG:TSR01:00041"
+msgstr "TrNik 居然也能挤进这条岩缝，真是不可思议。"
+
+msgid "TR:DIALOG:TSR01:00042"
+msgstr "他缩紧身体，在岩石中蠕动。"
+
+msgid "TR:DIALOG:TSR01:00043"
+msgstr "也许这就是他的日常。"
+
+msgid "TR:DIALOG:TSR01:00044"
+msgstr "现在他们到了 TrSam 最不想待的地方。"
+
+msgid "TR:DIALOG:TSR01:00045"
+msgstr "它的大小和臭味。"
+
+msgid "TR:DIALOG:TSR01:00046"
+msgstr "TrSam 厌恶这地方的一切。"
+
+msgid "TR:DIALOG:TSR01:00047"
+msgstr "“TrSam……”"
+
+msgid "TR:DIALOG:TSR01:00048"
+msgstr "TrNik 抓住并摊开 TrSam 的手。"
+
+msgid "TR:DIALOG:TSR01:00049"
+msgstr "他的手温热无比。"
+
+msgid "TR:DIALOG:TSR01:00050"
+msgstr "“嘿。”"
+
+msgid "TR:DIALOG:TSR01:00051"
+msgstr "“我流了这么多汗吗？”"
+
+msgid "TR:DIALOG:TSR01:00052"
+msgstr "不。"
+
+msgid "TR:DIALOG:TSR01:00053"
+msgstr "这不是汗，这是血。"
+
+msgid "TR:DIALOG:TSR01:00054"
+msgstr "他把自己的爪刺进了掌心。"
+
+msgid "TR:DIALOG:TSR01:00055"
+msgstr "“我们该继续行动了。”"
+
+msgid "TR:DIALOG:TSR01:00056"
+msgstr "现在他们到了那条 TrSam 需要匍匐前进的狭窄通道。"
+
+msgid "TR:DIALOG:TSR01:00057"
+msgstr "他心想 TrNik 绝对没可能挤过去。"
+
+msgid "TR:DIALOG:TSR01:00058"
+msgstr "但事实证明他错了。"
+
+msgid "TR:DIALOG:TSR01:00059"
+msgstr "他一直以为 TrNik 不擅长运动。"
+
+msgid "TR:DIALOG:TSR01:00060"
+msgstr "但在他肚皮下的，是强壮而柔韧的肌肉。"
+
+msgid "TR:DIALOG:TSR01:00061"
+msgstr "“这里就是起点位置。”"
+
+msgid "TR:DIALOG:TSR01:00062"
+msgstr "“记好自己的方位。”"
+
+msgid "TR:DIALOG:TSR01:00063"
+msgstr "TrSam 一边走，一边小声嘟囔着路线。"
+
+msgid "TR:DIALOG:TSR01:00064"
+msgstr "“两条挨得很近。”"
+
+msgid "TR:DIALOG:TSR01:00065"
+msgstr "“第三条隔了有段距离。”"
+
+msgid "TR:DIALOG:TSR01:00066"
+msgstr "“我们在下条巷道拐进去，然后直走。”"
+
+msgid "TR:DIALOG:TSR01:00067"
+msgstr "“经过两个岔口……”"
+
+msgid "TR:DIALOG:TSR01:00068"
+msgstr "“我记得是这样。”"
+
+msgid "TR:DIALOG:TSR01:00069"
+msgstr "“那两条巷道异常接近：一条在左，一条在右。”"
+
+msgid "TR:DIALOG:TSR01:00070"
+msgstr "“要不是因为有交错，简直算得上平行了。”"
+
+msgid "TR:DIALOG:TSR01:00071"
+msgstr "“TrYao……”"
+
+msgid "TR:DIALOG:TSR01:00072"
+msgstr "“怎么了？”"
+
+msgid "TR:DIALOG:TSR01:00073"
+msgstr "“你刚才是不是用了比喻？”"
+
+msgid "TR:DIALOG:TSR01:00074"
+msgstr "“没印象了。”"
+
+msgid "TR:DIALOG:TSR01:00075"
+msgstr "“是被我传染的。”"
+
+msgid "TR:DIALOG:TSR01:00076"
+msgstr "“……抓紧赶路。”"
+
+msgid "TR:DIALOG:TSR01:00077"
+msgstr "但他们只走了几百英尺就又停下了。"
+
+msgid "TR:DIALOG:TSR01:00078"
+msgstr "“这里比较复杂。”"
+
+msgid "TR:DIALOG:TSR01:00079"
+msgstr "“区域和区域之间非常相似，并且相互连通。”"
+
+msgid "TR:DIALOG:TSR01:00080"
+msgstr "“一不留神就容易迷路，原地打转。”"
+
+msgid "TR:DIALOG:TSR01:00081"
+msgstr "他们左转。"
+
+msgid "TR:DIALOG:TSR01:00082"
+msgstr "然后右转。"
+
+msgid "TR:DIALOG:TSR01:00083"
+msgstr "经过一个岔口。"
+
+msgid "TR:DIALOG:TSR01:00084"
+msgstr "然后右转。"
+
+msgid "TR:DIALOG:TSR01:00085"
+msgstr "接着左转。"
+
+msgid "TR:DIALOG:TSR01:00086"
+msgstr "再左转一次。"
+
+msgid "TR:DIALOG:TSR01:00087"
+msgstr "“这条巷道曲折得不正常。”"
+
+msgid "TR:DIALOG:TSR01:00088"
+msgstr "“拐过去之后要马上右转。”"
+
+msgid "TR:DIALOG:TSR01:00089"
+msgstr "最后终于到了。"
+
+msgid "TR:DIALOG:TSR01:00090"
+msgstr "目的地。"
+
+msgid "TR:DIALOG:TSR01:00091"
+msgstr "剩下的就只有沿着这条狭长的隧道走下去。"
+
+msgid "TR:DIALOG:TSR01:00092"
+msgstr "洞顶感觉比实际要弯，不知是因为木头变形，还是有意这么设计的。"
+
+msgid "TR:DIALOG:TSR01:00093"
+msgstr "TrSam 总觉得自己在看一根空心腐木，或是下水道，只不过那两个比这儿小多了。"
+
+msgid "TR:DIALOG:TSR01:00094"
+msgstr "他们走了几百步，到了一个死胡同。"
+
+msgid "TR:DIALOG:TSR01:00095"
+msgstr "“嗯。”"
+
+msgid "TR:DIALOG:TSR01:00096"
+msgstr "“TrYao？”"
+
+msgid "TR:DIALOG:TSR01:00097"
+msgstr "“这里什么也没有。”"
+
+msgid "TR:DIALOG:TSR01:00098"
+msgstr "“耐心点。”"
+
+msgid "TR:DIALOG:TSR01:00099"
+msgstr "老虎卸下包，在里面摸索。"
+
+msgid "TR:DIALOG:TSR01:00100"
+msgstr "“你们马上就明白了。”"
+
+msgid "TR:DIALOG:TSR01:00101"
+msgstr "他拿出了某件物品。"
+
+msgid "TR:DIALOG:TSR01:00102"
+msgstr "……只是根蜡烛。"
+
+msgid "TR:DIALOG:TSR01:00103"
+msgstr "他借 TrNik 的头盔点燃烛芯，然后举着它走到角落。"
+
+msgid "TR:DIALOG:TSR01:00104"
+msgstr "他们才发现那里根本不是角落。"
+
+msgid "TR:DIALOG:TSR01:00105"
+msgstr "而是个少说有 30，或 40 英尺长的锯齿状裂缝。"
+
+msgid "TR:DIALOG:TSR01:00106"
+msgstr "“就在里面。”"
+
+msgid "TR:DIALOG:TSR01:00107"
+msgstr "“是我先进，还是你们先？”"
+
+msgid "TR:DIALOG:TSR01:00108"
+msgstr "“你可以打头。”"
+
+msgid "TR:DIALOG:TSR01:00109"
+msgstr "“我第二个进，TrSam 殿后。”"
+
+msgid "TR:DIALOG:TSR01:00110"
+msgstr "“这样 TrSam 会比较安心。”"
+
+msgid "TR:DIALOG:TSR01:00111"
+msgstr "TrNik 把自己排在 TrSam 的前面。"
+
+msgid "TR:DIALOG:TSR01:00112"
+msgstr "他知道 TrSam 还没有走出 Jack 背叛的阴影。"
+
+msgid "TR:DIALOG:TSR01:00113"
+msgstr "“跟紧了。”"
+
+msgid "TR:DIALOG:TSR01:00114"
+msgstr "在他们的不远处，突然传来了一连串剧烈的爆炸声。"
+
+msgid "TR:DIALOG:TSR01:00115"
+msgstr "“……？”"
+
+msgid "TR:DIALOG:TSR01:00116"
+msgstr "“听起来不远处出现了爆炸，也可能是塌方……”"
+
+msgid "TR:DIALOG:TSR01:00117"
+msgstr "“如果在这儿出现爆炸，可不算一个好的迹象。”"
+
+msgid "TR:DIALOG:TSR01:00118"
+msgstr "“我知道。”"
+
+msgid "TR:DIALOG:TSR01:00119"
+msgstr "“那我们现在应该怎么办？”"
+
+msgid "TR:DIALOG:TSR01:00120"
+msgstr "“我有一种预感，这个缝隙里会有不好的东西。”"
+
+msgid "TR:DIALOG:TSR01:00121"
+msgstr "“……那我们应该去爆炸现场，看看能整理出什么线索。”"
+
+msgid "TR:DIALOG:TSR01:00122"
+msgstr "“然后再折返回来。”"
+
+msgid "TR:DIALOG:TSR01:00123"
+msgstr "“……可能是瓦斯泄露。”"
+
+msgid "TR:DIALOG:TSR01:00124"
+msgstr "“不排除这种可能性。”"
+
+msgid "TR:DIALOG:TSR01:00125"
+msgstr "“那就用行动来证实究竟是什么原因导致了爆炸。”"
+
+msgid "TR:DIALOG:TSR01:00126"
+msgstr "“好吧，那就去现场看看。”"
+
+msgid "TR:DIALOG:TSR01:00127"
+msgstr "“你们都跟紧我，不要走散。”"
+
+msgid "TR:DIALOG:TSR01:00128"
+msgstr "“好。”"
+
+msgid "TR:DIALOG:TSR01:00129"
+msgstr "“这是怎么……”"
+
+msgid "TR:DIALOG:TSR01:00130"
+msgstr "三人经过一个转角后，他们来到了一个空旷的地方。"
+
+msgid "TR:DIALOG:TSR01:00131"
+msgstr "唯一令他们注意到的，只有中间的一个向外喷洒出红色光芒的“东西”。"
+
+msgid "TR:DIALOG:TSR01:00132"
+msgstr "好像那个“东西”前面似乎还站着一个人。"
+
+msgid "TR:DIALOG:TSR01:00133"
+msgstr "但因为那个“东西”发出的光芒太耀眼，以至于只能看到那个人的外轮廓。"
+
+msgid "TR:DIALOG:TSR01:00134"
+msgstr "“没有爆炸？”"
+
+msgid "TR:DIALOG:TSR01:00135"
+msgstr "对了。爆炸。"
+
+msgid "TR:DIALOG:TSR01:00136"
+msgstr "但是现场没有看到任何爆炸的迹象，地面上没有爆炸后的碎石，空气中也没有爆炸后的灰尘。"
+
+msgid "TR:DIALOG:TSR01:00137"
+msgstr "“从现场的环境来看，确实没有发生过爆炸。”"
+
+msgid "TR:DIALOG:TSR01:00138"
+msgstr "“这……不合理。”"
+
+msgid "TR:DIALOG:TSR01:00139"
+msgstr "“这确实不合理。”"
+
+msgid "TR:DIALOG:TSR01:00140"
+msgstr "“那爆炸会发生在哪里？难道不是这里？”"
+
+msgid "TR:DIALOG:TSR01:00141"
+msgstr "“不应该。这里是唯一一片曾开发过的区域。”"
+
+msgid "TR:DIALOG:TSR01:00142"
+msgstr "“如果爆炸不在这里，那只能说在未开发的区域了。”"
+
+msgid "TR:DIALOG:TSR01:00143"
+msgstr "“有可能吗？”"
+
+msgid "TR:DIALOG:TSR01:00144"
+msgstr "“有可能。而且你应该比我更了解洞穴是如何爆炸的。”"
+
+msgid "TR:DIALOG:TSR01:00145"
+msgstr "“嗯……”"
+
+msgid "TR:DIALOG:TSR01:00146"
+msgstr "“等一下，你们看，前面是不是有个人？”"
+
+msgid "TR:DIALOG:TSR01:00147"
+msgstr "TrSam 指向前面，确实隐隐约约地看到一个人影。"
+
+msgid "TR:DIALOG:TSR01:00148"
+msgstr "“好像真的有人。”"
+
+msgid "TR:DIALOG:TSR01:00149"
+msgstr "TrNik 认真地看向前面，试图辨认出那个人是谁。"
+
+msgid "TR:DIALOG:TSR01:00150"
+msgstr "“但为什么这里会有人存在？”"
+
+msgid "TR:DIALOG:TSR01:00151"
+msgstr "“看起来好像是……”"
+
+msgid "TR:DIALOG:TSR01:00152"
+msgstr "“TrTodd？”"
+
+msgid "TR:DIALOG:TSR01:00153"
+msgstr "“啊！为什么 TrTodd 会在这里！？”"
+
+msgid "TR:DIALOG:TSR01:00154"
+msgstr "人影渐渐拨开，果然是 TrTodd。"
+
+msgid "TR:DIALOG:TSR01:00155"
+msgstr "“TrTodd！”"
+
+msgid "TR:DIALOG:TSR01:00156"
+msgstr "TrNik 快步跑了过去，同时向 TrTodd 招手。"
+
+msgid "TR:DIALOG:TSR01:00157"
+msgstr "但对方没有任何回应。"
+
+msgid "TR:DIALOG:TSR01:00158"
+msgstr "“TrTodd！！”"
+
+msgid "TR:DIALOG:TSR01:00159"
+msgstr "TrNik 抓住 TrTodd 的肩膀，然后猛烈地前后摇晃他的身体。"
+
+msgid "TR:DIALOG:TSR01:00160"
+msgstr "“啊……”"
+
+msgid "TR:DIALOG:TSR01:00161"
+msgstr "“啊——！！”"
+
+msgid "TR:DIALOG:TSR01:00162"
+msgstr "TrTodd 突然回过神来。"
+
+msgid "TR:DIALOG:TSR01:00163"
+msgstr "一抬头看到了面前比他高大许多的 TrNik。"
+
+msgid "TR:DIALOG:TSR01:00164"
+msgstr "TrNik 则是一脸关心地看着他。"
+
+msgid "TR:DIALOG:TSR01:00165"
+msgstr "看到 TrTodd 不再呆立，TrNik 松开了他的肩膀。"
+
+msgid "TR:DIALOG:TSR01:00166"
+msgstr "“你怎么会出现在这里？”"
+
+msgid "TR:DIALOG:TSR01:00167"
+msgstr "“我……我也不清楚……”"
+
+msgid "TR:DIALOG:TSR01:00168"
+msgstr "“我就记得我之前在和 William 来这座矿洞取证……”"
+
+msgid "TR:DIALOG:TSR01:00169"
+msgstr "“然后我看到了一个风格与这座矿洞非常不符的门，我走了进去……”"
+
+msgid "TR:DIALOG:TSR01:00170"
+msgstr "“随后就来到这里。”"
+
+msgid "TR:DIALOG:TSR01:00171"
+msgstr "说罢，TrTodd 转身，然后他看到了那扇“门”。"
+
+msgid "TR:DIALOG:TSR01:00172"
+msgstr "“不对啊……我来的时候可不是这样的。”"
+
+msgid "TR:DIALOG:TSR01:00173"
+msgstr "令 TrTodd 感到非常诧异的是，面对他的并不是一扇常见的“门”形状物体，而是一个椭圆形的、悬浮在空中的、散发着红色粒子的“门”。"
+
+msgid "TR:DIALOG:TSR01:00174"
+msgstr "“那这是什么？”"
+
+msgid "TR:DIALOG:TSR01:00175"
+msgstr "TrNik 也看向那个“门”，托着腮问道。"
+
+msgid "TR:DIALOG:TSR01:00176"
+msgstr "“在我的家乡，曾有一本书记载了和这个长得差不多的东西。”"
+
+msgid "TR:DIALOG:TSR01:00177"
+msgstr "TrYao 突然在他们身后开口说话，把 TrTodd 和 TrNik 吓了一跳。"
+
+msgid "TR:DIALOG:TSR01:00178"
+msgstr "“书中记载，这个东西链接了两个不同的地方，使用者只需要走进去，马上便可从另一个地方出来。”"
+
+msgid "TR:DIALOG:TSR01:00179"
+msgstr "“同时这个东西不止可以转移人，也可以转移物，转移声音，转移任何东西。”"
+
+msgid "TR:DIALOG:TSR01:00180"
+msgstr "“什么都可以？”"
+
+msgid "TR:DIALOG:TSR01:00181"
+msgstr "“是的。什么都可以。所以书中给这类东西起了一个非常好听且确切的名字——虚空之门。”"
+
+msgid "TR:DIALOG:TSR01:00182"
+msgstr "“虚空之门……”"
+
+msgid "TR:DIALOG:TSR01:00183"
+msgstr "TrSam 思索着。"
+
+msgid "TR:DIALOG:TSR01:00184"
+msgstr "“听起来还蛮有意境的。”"
+
+msgid "TR:DIALOG:TSR01:00185"
+msgstr "“也就是说这扇门会将我们带到另一个地方？”"
+
+msgid "TR:DIALOG:TSR01:00186"
+msgstr "“是。”"
+
+msgid "TR:DIALOG:TSR01:00187"
+msgstr "“那会不会……是这扇门后的地方发生了爆炸，然后爆炸声传到了我们这里？”"
+
+msgid "TR:DIALOG:TSR01:00188"
+msgstr "“……”"
+
+msgid "TR:DIALOG:TSR01:00189"
+msgstr "“不排除这种可能性。”"
+
+msgid "TR:DIALOG:TSR01:00190"
+msgstr "“那么 TrTodd，你是什么时候来到这里的？”"
+
+msgid "TR:DIALOG:TSR01:00191"
+msgstr "“嗯……大概十来分钟前吧。”"
+
+msgid "TR:DIALOG:TSR01:00192"
+msgstr "“那你是什么时候听到爆炸声的？”"
+
+msgid "TR:DIALOG:TSR01:00193"
+msgstr "“就在我刚来到这里还没有一分钟。”"
+
+msgid "TR:DIALOG:TSR01:00194"
+msgstr "“还有一个问题，你说你之前看到的门不是这样的，那是什么样的？”"
+
+msgid "TR:DIALOG:TSR01:00195"
+msgstr "“就是……很正常的房间门，看起来有点儿像警署的大门。”"
+
+msgid "TR:DIALOG:TSR01:00196"
+msgstr "“嗯……”"
+
+msgid "TR:DIALOG:TSR01:00197"
+msgstr "“我知道了。也就是说 TrTodd 来到这里后，一开始这扇门还是之前的门，但当他回头后，不知为何那扇门变成了现在这副摸样……”"
+
+msgid "TR:DIALOG:TSR01:00198"
+msgstr "“然后不到一分钟，这扇门里就传来了震耳欲聋的爆炸声，把 TrTodd 吓呆了。”"
+
+msgid "TR:DIALOG:TSR01:00199"
+msgstr "“……我觉得最后这句话可以忽略。”"
+
+msgid "TR:DIALOG:TSR01:00200"
+msgstr "“问题解决！”"
+
+msgid "TR:DIALOG:TSR01:00201"
+msgstr "“我倒是有一个问题，你们怎么会在这里？”"
+
+msgid "TR:DIALOG:TSR01:00202"
+msgstr "“……”"
+
+msgid "TR:DIALOG:TSR01:00203"
+msgstr "“……”"
+
+msgid "TR:DIALOG:TSR01:00204"
+msgstr "“……”"
+
+msgid "TR:DIALOG:TSR01:00205"
+msgstr "面对这突如其来的尖锐问题，显然他们三个人还没想到怎么回应 TrTodd。"
+
+msgid "TR:DIALOG:TSR01:00206"
+msgstr "是说实话，还是蒙骗他？亦或……杀害他？"
+
+msgid "TR:DIALOG:TSR01:00207"
+msgstr "说实话是不可能的，他们还不想让 TrTodd 知道他们原先的计划。"
+
+msgid "TR:DIALOG:TSR01:00208"
+msgstr "TrTodd 如此正直的人，一旦知道他们的“宝藏计划”，马上就会告知 William 了。"
+
+msgid "TR:DIALOG:TSR01:00209"
+msgstr "杀害他？更不可能。"
+
+msgid "TR:DIALOG:TSR01:00210"
+msgstr "有了 Jack 的死，现在杀害任何一个人都是极其不明智的选择。"
+
+msgid "TR:DIALOG:TSR01:00211"
+msgstr "更何况这可是 TrTodd，全镇最友好的、最值得信赖的人。"
+
+msgid "TR:DIALOG:TSR01:00212"
+msgstr "杀害 TrTodd 无疑会引起所有人的恐慌。"
+
+msgid "TR:DIALOG:TSR01:00213"
+msgstr "还有 William……他一定会一直追查到是谁杀害了他最信任的手下，直到永远。"
+
+msgid "TR:DIALOG:TSR01:00214"
+msgstr "那只有一个选择了。"
+
+msgid "TR:DIALOG:TSR01:00215"
+msgstr "三人互相使了个眼色，然后 TrYao 最先开始说话。"
+
+msgid "TR:DIALOG:TSR01:00216"
+msgstr "“因为我们听到了爆炸声，就过来了。”"
+
+msgid "TR:DIALOG:TSR01:00217"
+msgstr "“是、是的。工长跟我们说这层有些地方的地质结构不稳定，可能会遇到爆炸现象，需要进行排查。”"
+
+msgid "TR:DIALOG:TSR01:00218"
+msgstr "“而我们才刚来，就听到了这里传来的爆炸声，马不停蹄地就赶过来了。”"
+
+msgid "TR:DIALOG:TSR01:00219"
+msgstr "“最后我们遇到了你。”"
+
+msgid "TR:DIALOG:TSR01:00220"
+msgstr "TrTodd 若有所思地托着腮，一脸怀疑地看着他们三个人。"
+
+msgid "TR:DIALOG:TSR01:00221"
+msgstr "显然他们的解释并不能让 TrTodd 信服，但 TrTodd 也不打算深究下去。"
+
+msgid "TR:DIALOG:TSR01:00222"
+msgstr "“我明白了。那这里没有爆炸，我们离开吧。”"
+
+msgid "TR:DIALOG:TSR01:00223"
+msgstr "“嗯。”"
+
+msgid "TR:DIALOG:TSR01:00224"
+msgstr "“等一下——我的矿灯坏了？！”"
+
+msgid "TR:DIALOG:TSR01:00225"
+msgstr "TrNik 突然大喊，让其他人打了个措手不及。"
+
+msgid "TR:DIALOG:TSR01:00226"
+msgstr "所有人都停下来，转身看向 TrNik。"
+
+msgid "TR:DIALOG:TSR01:00227"
+msgstr "但 TrNik 并没有看着他的矿灯。"
+
+msgid "TR:DIALOG:TSR01:00228"
+msgstr "反而看起来十分震惊和害怕，同时颤抖地用手指向他面向的地方。"
+
+msgid "TR:DIALOG:TSR01:00229"
+msgstr "“怎么了？”"
+
+msgid "TR:DIALOG:TSR01:00230"
+msgstr "TrSam 皱着眉看着 TrNik，后者则非常没有底气地回应。"
+
+msgid "TR:DIALOG:TSR01:00231"
+msgstr "“看……看你们的……身后……”"
+
+msgid "TR:DIALOG:TSR01:00232"
+msgstr "三个人虽然表示不解，不知道为什么 TrNik 为什么让他们突然回头，明明之前什么都没有。"
+
+msgid "TR:DIALOG:TSR01:00233"
+msgstr "但他们也回头看了。"
+
+msgid "TR:DIALOG:TSR01:00234"
+msgstr "然后他们看到了此生永远无法忘怀的“生物”。"

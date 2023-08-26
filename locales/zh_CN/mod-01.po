@@ -1,0 +1,1984 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: timeline-mod01.json.translation.json conversion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-21 10:45-0700\n"
+"PO-Revision-Date: 2023-08-21 10:45-0700\n"
+"Last-Translator: \n"
+"Language-Team: Chinese (China)\n"
+"Language: zh-CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz\n"
+"X-Loco-Source-Locale: zh-CN\n"
+"X-Loco-Api-Version: 1.0.28 20230809-1"
+
+msgid "TR:DIALOG:MOD01:00001"
+msgstr ""
+"正在读取档案：\n"
+"#ARCH:DGR:22481:002"
+
+msgid "TR:DIALOG:MOD01:00002"
+msgstr "已成功读取此档案。"
+
+msgid "TR:DIALOG:MOD01:00003"
+msgstr ""
+"档案记录时间：\n"
+"２２４年０８月０１日，\n"
+"上午１０点整。"
+
+msgid "TR:DIALOG:MOD01:00004"
+msgstr ""
+"外出地点：\n"
+"远离市区，靠近郊区的一片田野。"
+
+msgid "TR:DIALOG:MOD01:00005"
+msgstr "远处可见城市缩影，不远处有一座矿洞。"
+
+msgid "TR:DIALOG:MOD01:00006"
+msgstr "四个人影出现在树荫下。"
+
+msgid "TR:DIALOG:MOD01:00007"
+msgstr "“以前都没注意到，原来我们的城市这么好看！”"
+
+msgid "TR:DIALOG:MOD01:00008"
+msgstr "探险队一行人站在了一片树荫下，眺望着远方那座城市。"
+
+msgid "TR:DIALOG:MOD01:00009"
+msgstr "“因为我们都没有时间外出。”"
+
+msgid "TR:DIALOG:MOD01:00010"
+msgstr "“是呀…”"
+
+msgid "TR:DIALOG:MOD01:00011"
+msgstr "TrSeaon 悄悄地把右胳膊搭在 TrCan 的肩上。"
+
+msgid "TR:DIALOG:MOD01:00012"
+msgstr "后者没有什么反应。"
+
+msgid "TR:DIALOG:MOD01:00013"
+msgstr "“话说，这个地方还归咱们城市管吗？”"
+
+msgid "TR:DIALOG:MOD01:00014"
+msgstr "“不知道。只要在境内就算吧。”"
+
+msgid "TR:DIALOG:MOD01:00015"
+msgstr "“管他归不归呢，反正我们到站了！”"
+
+msgid "TR:DIALOG:MOD01:00016"
+msgstr "“出发了朋友们，该干活儿了！”"
+
+msgid "TR:DIALOG:MOD01:00017"
+msgstr "“对哦，我们的任务是解决异常问题。”"
+
+msgid "TR:DIALOG:MOD01:00018"
+msgstr "“风景太美，我差点儿就忘了该干什么了！”"
+
+msgid "TR:DIALOG:MOD01:00019"
+msgstr "TrRomin 看向自己手里的罗盘，确认目标位置。"
+
+msgid "TR:DIALOG:MOD01:00020"
+msgstr "然后他用右手指向了那座距离不远的矿洞。"
+
+msgid "TR:DIALOG:MOD01:00021"
+msgstr "“我们的入口就是那座矿洞。”"
+
+msgid "TR:DIALOG:MOD01:00022"
+msgstr "“那还在等什么？出发！”"
+
+msgid "TR:DIALOG:MOD01:00023"
+msgstr "TrGr 率先迈出双腿，大步走向目标点。"
+
+msgid "TR:DIALOG:MOD01:00024"
+msgstr "“明白。”"
+
+msgid "TR:DIALOG:MOD01:00025"
+msgstr "接着 TrCan 回应道，并跟随在 TrGr 身后。"
+
+msgid "TR:DIALOG:MOD01:00026"
+msgstr "同时他用左手抓住 TrSeaon 的右手，把他一并带走了。"
+
+msgid "TR:DIALOG:MOD01:00027"
+msgstr "TrSeaon 先是一惊，但并没有反抗。"
+
+msgid "TR:DIALOG:MOD01:00028"
+msgstr "虽然我们看不到他的面庞，但想必已经面红耳赤了！"
+
+msgid "TR:DIALOG:MOD01:00029"
+msgstr "最后只剩下 TrRomin 一个人孤零零地站在原地。"
+
+msgid "TR:DIALOG:MOD01:00030"
+msgstr "“欸、欸——？！你们等等我！”"
+
+msgid "TR:DIALOG:MOD01:00031"
+msgstr "TrRomin 快步跟上他们。"
+
+msgid "TR:DIALOG:MOD01:00032"
+msgstr ""
+"任务：\n"
+"目标地点出现异常信号，需要前往源头排查，然后解决问题。"
+
+msgid "TR:DIALOG:MOD01:00033"
+msgstr "云雾渐渐拨开，如同日落般的太阳光芒喷洒在草地上、岩石上……"
+
+msgid "TR:DIALOG:MOD01:00034"
+msgstr "……以及他们的身上。"
+
+msgid "TR:DIALOG:MOD01:00035"
+msgstr "只不过现在是上午十点。"
+
+msgid "TR:DIALOG:MOD01:00036"
+msgstr "在前往矿洞的路上，他们有说有笑。"
+
+msgid "TR:DIALOG:MOD01:00037"
+msgstr "外人来看，说他们是春游度假也不为过。"
+
+msgid "TR:DIALOG:MOD01:00038"
+msgstr "值得一提的是，TrRomin 讲了一个故事……"
+
+msgid "TR:DIALOG:MOD01:00039"
+msgstr "“你们知道吗？这座洞穴已经存在数百年了，非常古老……”"
+
+msgid "TR:DIALOG:MOD01:00040"
+msgstr "“……虽然里面已经被完完全全地勘察过……”"
+
+msgid "TR:DIALOG:MOD01:00041"
+msgstr "“……但据说里面存在一些‘不怀好意’的生物。”"
+
+msgid "TR:DIALOG:MOD01:00042"
+msgstr "TrRomin 着重强调了“不怀好意”这四个字。"
+
+msgid "TR:DIALOG:MOD01:00043"
+msgstr "“你、你不是认真的吧……？！”"
+
+msgid "TR:DIALOG:MOD01:00044"
+msgstr "TrSeaon 的右手紧攥 TrCan 的左手，略显紧张地问。"
+
+msgid "TR:DIALOG:MOD01:00045"
+msgstr "“哼哼！我也不知道，也许我们马上就知道了！”"
+
+msgid "TR:DIALOG:MOD01:00046"
+msgstr "“甭管什么牛鬼邪神，敢阻碍我们干活儿的统统都得让路出来！”"
+
+msgid "TR:DIALOG:MOD01:00047"
+msgstr "TrGr 双手握拳，眼神里充满着火热与斗志，世界上没有人可以阻碍他。"
+
+msgid "TR:DIALOG:MOD01:00048"
+msgstr "“很好。我们就快到了。”"
+
+msgid "TR:DIALOG:MOD01:00049"
+msgstr "“准备好你们的装备。”"
+
+msgid "TR:DIALOG:MOD01:00050"
+msgstr "TrCan 没有理会 TrRomin 开的玩笑话，径直往洞口走去。"
+
+msgid "TR:DIALOG:MOD01:00051"
+msgstr "同时他握住 TrSeaon 的手，没有松开。"
+
+msgid "TR:DIALOG:MOD01:00052"
+msgstr "TrSeaon 的内心感到非常不安。"
+
+msgid "TR:DIALOG:MOD01:00053"
+msgstr "TrGr 则大摇大摆地跟在 TrCan 身旁，一同迈向洞口。"
+
+msgid "TR:DIALOG:MOD01:00054"
+msgstr "“我还没讲完这个故事呢！”"
+
+msgid "TR:DIALOG:MOD01:00055"
+msgstr "TrRomin 则在他们身后大喊，但其实他们并没有走多远。"
+
+msgid "TR:DIALOG:MOD01:00056"
+msgstr "随后追了过去。"
+
+msgid "TR:DIALOG:MOD01:00057"
+msgstr "……"
+
+msgid "TR:DIALOG:MOD01:00058"
+msgstr "这个故事是真实的吗？"
+
+msgid "TR:DIALOG:MOD01:00059"
+msgstr "也许正如 TrRomin 所说，洞穴内确实有不怀好意的生物。"
+
+msgid "TR:DIALOG:MOD01:00060"
+msgstr "“TrRomin。”"
+
+msgid "TR:DIALOG:MOD01:00061"
+msgstr "“嗯？”"
+
+msgid "TR:DIALOG:MOD01:00062"
+msgstr "“你的定位器。”"
+
+msgid "TR:DIALOG:MOD01:00063"
+msgstr "TrRomin 这才反应过来他在说什么，连忙看了一眼自己的信号指示器。"
+
+msgid "TR:DIALOG:MOD01:00064"
+msgstr "“嗯……我们到了。”"
+
+msgid "TR:DIALOG:MOD01:00065"
+msgstr "“这里就是信号指示器所指向的矿洞入口。”"
+
+msgid "TR:DIALOG:MOD01:00066"
+msgstr "接着 TrRomin 从包里拿出一台米白色的小型仪器，将其递给 TrCan。"
+
+msgid "TR:DIALOG:MOD01:00067"
+msgstr "“给，环境侦测仪。”"
+
+msgid "TR:DIALOG:MOD01:00068"
+msgstr "TrCan 接过了这台设备，然后向洞口再走进了几步。"
+
+msgid "TR:DIALOG:MOD01:00069"
+msgstr "随后他娴熟地打开了那台设备，并将其平放到了地面上。"
+
+msgid "TR:DIALOG:MOD01:00070"
+msgstr "过了几秒，设备发出了“嘀嘀”声，示意环境已侦测完成。"
+
+msgid "TR:DIALOG:MOD01:00071"
+msgstr "TrCan 拿起，看了几眼，随后转头。"
+
+msgid "TR:DIALOG:MOD01:00072"
+msgstr "“内部各项环境正常。可以进入。”"
+
+msgid "TR:DIALOG:MOD01:00073"
+msgstr "“很好！现在各位都检查一下自己的装备是否带齐！”"
+
+msgid "TR:DIALOG:MOD01:00074"
+msgstr "“均已带齐。”"
+
+msgid "TR:DIALOG:MOD01:00075"
+msgstr "“都带齐了！”"
+
+msgid "TR:DIALOG:MOD01:00076"
+msgstr "“背包…带了。医疗用品…带了。AED…带了。救援垫…带了。”"
+
+msgid "TR:DIALOG:MOD01:00077"
+msgstr "TrSeaon 把自己的背包放到地上，然后详细地检查自己的物品。"
+
+msgid "TR:DIALOG:MOD01:00078"
+msgstr "“……没有遗漏的！”"
+
+msgid "TR:DIALOG:MOD01:00079"
+msgstr "“那现在在进入前就差最后一件事了。”"
+
+msgid "TR:DIALOG:MOD01:00080"
+msgstr "TrRomin 拿出信号指示器，然后在上面按下了什么按键。"
+
+msgid "TR:DIALOG:MOD01:00081"
+msgstr "随后一个半透明的全息投影从仪器上显示出来。"
+
+msgid "TR:DIALOG:MOD01:00082"
+msgstr "接着 TrRomin 按下了全息投影上的几个按键，向某人发起了通话。"
+
+msgid "TR:DIALOG:MOD01:00083"
+msgstr "“啊！我看到你们的位置了！”"
+
+msgid "TR:DIALOG:MOD01:00084"
+msgstr "“你们终于到了！”"
+
+msgid "TR:DIALOG:MOD01:00085"
+msgstr "“稍等一下啊，我更新下你们的数据…”"
+
+msgid "TR:DIALOG:MOD01:00086"
+msgstr "“好的！”"
+
+msgid "TR:DIALOG:MOD01:00087"
+msgstr "“TrRomin！你跟其他人讲那个故事了吗？”"
+
+msgid "TR:DIALOG:MOD01:00088"
+msgstr "电话对面的那个人发出了一些令人毛骨悚然的笑声。"
+
+msgid "TR:DIALOG:MOD01:00089"
+msgstr "“当然！你讲的这个故事真的很有意思！”"
+
+msgid "TR:DIALOG:MOD01:00090"
+msgstr "“哼哼，那当然！”"
+
+msgid "TR:DIALOG:MOD01:00091"
+msgstr "“什么……！？原来是 TrAmorog 告诉你这个故事的？！”"
+
+msgid "TR:DIALOG:MOD01:00092"
+msgstr "“你等着！等我回去有你好看！”"
+
+msgid "TR:DIALOG:MOD01:00093"
+msgstr "TrSeaon 跑到通讯器前，对着电话那头的人生气喊道。"
+
+msgid "TR:DIALOG:MOD01:00094"
+msgstr "“哦、好、好的——！我等你回来！”"
+
+msgid "TR:DIALOG:MOD01:00095"
+msgstr "电话那头的人显然没有害怕 TrSeaon 的威胁，反而哈哈大笑起来。"
+
+msgid "TR:DIALOG:MOD01:00096"
+msgstr "“……”"
+
+msgid "TR:DIALOG:MOD01:00097"
+msgstr "“大家注意安全。”"
+
+msgid "TR:DIALOG:MOD01:00098"
+msgstr "突然，电话另一头出现了另外一个声音。"
+
+msgid "TR:DIALOG:MOD01:00099"
+msgstr "“当然。”"
+
+msgid "TR:DIALOG:MOD01:00100"
+msgstr "TrCan 率先回应，然后一脸严肃的他竟然久违地露出了笑容。"
+
+msgid "TR:DIALOG:MOD01:00101"
+msgstr "“我们会平安归来，TrTen。”"
+
+msgid "TR:DIALOG:MOD01:00102"
+msgstr "“有我在，没有人会出现意外！”"
+
+msgid "TR:DIALOG:MOD01:00103"
+msgstr "TrGr 的自信丝毫不减，相信他，队伍绝对不会出现意外。"
+
+msgid "TR:DIALOG:MOD01:00104"
+msgstr "过了几秒以后，TrAmorog 打破了沉默。"
+
+msgid "TR:DIALOG:MOD01:00105"
+msgstr "“你们的数据已经更新，现在你们可以进入矿洞了！”"
+
+msgid "TR:DIALOG:MOD01:00106"
+msgstr "“以及别忘记汇报坐标，TrRomin！”"
+
+msgid "TR:DIALOG:MOD01:00107"
+msgstr "“嗯！我会的。”"
+
+msgid "TR:DIALOG:MOD01:00108"
+msgstr "“那么我们出发！现在走的话，争取午饭前解决！”"
+
+msgid "TR:DIALOG:MOD01:00109"
+msgstr "“明白。”"
+
+msgid "TR:DIALOG:MOD01:00110"
+msgstr "“哦，对了，还有一件事，生日快乐，TrGr！”"
+
+msgid "TR:DIALOG:MOD01:00111"
+msgstr "“很抱歉在你生日的时候派你们外出。”"
+
+msgid "TR:DIALOG:MOD01:00112"
+msgstr "“哈哈哈哈！不要紧，就相当于是旅游了！”"
+
+msgid "TR:DIALOG:MOD01:00113"
+msgstr ""
+"TrGr 大笑，原来今天，８月１日，是他的生日！\n"
+"* 编者注：该章节发布日期晚于８月１日，但现实生活中的那天确实是基阿的生日。"
+
+msgid "TR:DIALOG:MOD01:00114"
+msgstr "其他人也送上了祝福。"
+
+msgid "TR:DIALOG:MOD01:00115"
+msgstr "但 TrSeaon 并没有，因为现在还不是时候。"
+
+msgid "TR:DIALOG:MOD01:00116"
+msgstr "那是一件绝对会让 TrGr 无比震惊、脸红害羞的礼物。"
+
+msgid "TR:DIALOG:MOD01:00117"
+msgstr "需要在最好的时刻公开。"
+
+msgid "TR:DIALOG:MOD01:00118"
+msgstr "“如果今天能完事儿，晚上请各位吃披萨！”"
+
+msgid "TR:DIALOG:MOD01:00119"
+msgstr "“去我最喜欢的那家店，你们绝对不会后悔！”"
+
+msgid "TR:DIALOG:MOD01:00120"
+msgstr "“你知道我说的是哪家，对吧？TrTen？”"
+
+msgid "TR:DIALOG:MOD01:00121"
+msgstr "TrGr 突然问向 TrTen，后者过了一秒才回应道。"
+
+msgid "TR:DIALOG:MOD01:00122"
+msgstr "“当、当然……！我会在晚上清空客人……”"
+
+msgid "TR:DIALOG:MOD01:00123"
+msgstr "“……然后给各位献上我做出的，世界上最美味的披萨！”"
+
+msgid "TR:DIALOG:MOD01:00124"
+msgstr "“好耶！！”"
+
+msgid "TR:DIALOG:MOD01:00125"
+msgstr "“好耶！”"
+
+msgid "TR:DIALOG:MOD01:00126"
+msgstr "TrRomin 和 TrAmorog 几乎是同一时刻喊了出来。"
+
+msgid "TR:DIALOG:MOD01:00127"
+msgstr "作为两名极其热爱美食的犬人和熊人，自然不会错过这样的美好时机。"
+
+msgid "TR:DIALOG:MOD01:00128"
+msgstr "“当然前提是你们安全归来！”"
+
+msgid "TR:DIALOG:MOD01:00129"
+msgstr "TrTen 是本地最有名的一家披萨店的经营者，他做出的披萨口感绝佳，披萨里的每一道风味都融合的恰到好处，闻起来香气逼人，让人口水直流。"
+
+msgid "TR:DIALOG:MOD01:00130"
+msgstr "他经营的这家店是整座城市里评分最高的美食店铺，几乎所有居民都不会拒绝。每日生意火爆，需要预约席位才能入座。"
+
+msgid "TR:DIALOG:MOD01:00131"
+msgstr "据本人所说，他从来不会考虑外卖，因为那样会损失披萨原有的风味。"
+
+msgid "TR:DIALOG:MOD01:00132"
+msgstr "“当然前提是我们安全归来。”"
+
+msgid "TR:DIALOG:MOD01:00133"
+msgstr "TrCan 在所有人热情高涨的时候泼了一盆冷水。"
+
+msgid "TR:DIALOG:MOD01:00134"
+msgstr "“在不确定洞穴内情况的时候，不要妄下结论。”"
+
+msgid "TR:DIALOG:MOD01:00135"
+msgstr "虽然 TrCan 显得有些冷淡且不近人情，但他说的确实有道理。"
+
+msgid "TR:DIALOG:MOD01:00136"
+msgstr "“嗯…… TrCan 说的有道理。我们还是认真对待这件事情更好。”"
+
+msgid "TR:DIALOG:MOD01:00137"
+msgstr "“因为我们不知道下面会有什么东西。”"
+
+msgid "TR:DIALOG:MOD01:00138"
+msgstr "“异常信号源……会带来‘其他世界’的东西……对吗……？”"
+
+msgid "TR:DIALOG:MOD01:00139"
+msgstr "TrSeaon 看向 TrRomin，后者收起了往常的笑容，一脸严肃地看着他。"
+
+msgid "TR:DIALOG:MOD01:00140"
+msgstr "“是的。我们不清楚会发生什么、会见到什么、会遇到什么。”"
+
+msgid "TR:DIALOG:MOD01:00141"
+msgstr "“我们只能见机行事。”"
+
+msgid "TR:DIALOG:MOD01:00142"
+msgstr "“注意安全。”"
+
+msgid "TR:DIALOG:MOD01:00143"
+msgstr "电话那头的声音也收起了往日的兴奋，只剩下了严肃的腔调。"
+
+msgid "TR:DIALOG:MOD01:00144"
+msgstr "“注意安全。我会在心里祝福你们 3000 遍不为过。”"
+
+msgid "TR:DIALOG:MOD01:00145"
+msgstr "“好。”"
+
+msgid "TR:DIALOG:MOD01:00146"
+msgstr "“那事不宜迟，现在进入矿洞开始调查。”"
+
+msgid "TR:DIALOG:MOD01:00147"
+msgstr "“了解。”"
+
+msgid "TR:DIALOG:MOD01:00148"
+msgstr "“好的。”"
+
+msgid "TR:DIALOG:MOD01:00149"
+msgstr "“嗯。”"
+
+msgid "TR:DIALOG:MOD01:00150"
+msgstr "随即电话另一头关闭了通讯。"
+
+msgid "TR:DIALOG:MOD01:00151"
+msgstr "寂静的沉默突然出现，了无声息。"
+
+msgid "TR:DIALOG:MOD01:00152"
+msgstr "他们开始了这次调查。"
+
+msgid "TR:DIALOG:MOD01:00153"
+msgstr ""
+"人员：\n"
+"本次出勤共外派四人，分别包括："
+
+msgid "TR:DIALOG:MOD01:00154"
+msgstr "队长，TrGr。"
+
+msgid "TR:DIALOG:MOD01:00155"
+msgstr "一只树袋熊。"
+
+msgid "TR:DIALOG:MOD01:00156"
+msgstr "虽然看起来很是羸弱，但他能力却十分强悍。"
+
+msgid "TR:DIALOG:MOD01:00157"
+msgstr "他是探险队的领导者，颇受其他人尊重。"
+
+msgid "TR:DIALOG:MOD01:00158"
+msgstr "因为所有人都知道，他斗志昂扬，无畏无惧。"
+
+msgid "TR:DIALOG:MOD01:00159"
+msgstr "矿工工程师，TrCan。"
+
+msgid "TR:DIALOG:MOD01:00160"
+msgstr "一只柴犬。"
+
+msgid "TR:DIALOG:MOD01:00161"
+msgstr "他留有一串胡须，看起来十分年长。"
+
+msgid "TR:DIALOG:MOD01:00162"
+msgstr "他是探险队的矿工工程师，为其他人开辟安全道路。"
+
+msgid "TR:DIALOG:MOD01:00163"
+msgstr "经验丰富的他，对万事都持怀疑态度。"
+
+msgid "TR:DIALOG:MOD01:00164"
+msgstr "导航通讯员，TrRomin。"
+
+msgid "TR:DIALOG:MOD01:00165"
+msgstr "一只金毛寻回犬。"
+
+msgid "TR:DIALOG:MOD01:00166"
+msgstr "他的左耳系了一条丝带，但并没有透露用途。"
+
+msgid "TR:DIALOG:MOD01:00167"
+msgstr "他是探险队的导航通讯员，提供行进路线并对外通信。"
+
+msgid "TR:DIALOG:MOD01:00168"
+msgstr "他经常开一些玩笑话，其他人倒也不反感。"
+
+msgid "TR:DIALOG:MOD01:00169"
+msgstr "安全员，TrSeaon。"
+
+msgid "TR:DIALOG:MOD01:00170"
+msgstr "一只北极熊。"
+
+msgid "TR:DIALOG:MOD01:00171"
+msgstr "他为人善良、可爱且可靠，是队伍的珍宝。"
+
+msgid "TR:DIALOG:MOD01:00172"
+msgstr "他是探险队的安全员，为队员提供紧急医疗援助。"
+
+msgid "TR:DIALOG:MOD01:00173"
+msgstr "但他也很紧张和胆小，所以需要珍护。"
+
+msgid "TR:DIALOG:MOD01:00174"
+msgstr "TrCan 率先进入洞穴并打开了他的头灯，原本漆黑无比的洞穴瞬间被光芒照亮。"
+
+msgid "TR:DIALOG:MOD01:00175"
+msgstr "头灯运行正常。"
+
+msgid "TR:DIALOG:MOD01:00176"
+msgstr "随后 TrRomin 也进来了，手中握着信号指示器。"
+
+msgid "TR:DIALOG:MOD01:00177"
+msgstr "根据导航的指示，异常信号源位于这座洞穴的地下三层。"
+
+msgid "TR:DIALOG:MOD01:00178"
+msgstr "但根据资料记载，这座洞穴从来就没有第三层，最多只有二层。"
+
+msgid "TR:DIALOG:MOD01:00179"
+msgstr "也就是说，第三层是我们以前从未见到过的、未知的状况。"
+
+msgid "TR:DIALOG:MOD01:00180"
+msgstr "那至少前两层是安全的咯？"
+
+msgid "TR:DIALOG:MOD01:00181"
+msgstr "这时 TrGr 在 TrRomin 身后漫不经心地说道，双手枕到脑后。"
+
+msgid "TR:DIALOG:MOD01:00182"
+msgstr "嗯……理论上来说，是的。"
+
+msgid "TR:DIALOG:MOD01:00183"
+msgstr "呼，那我可就安心不少了。"
+
+msgid "TR:DIALOG:MOD01:00184"
+msgstr "最后，TrSeaon 在他们的身后小心翼翼地走了进来，并长呼一口气。"
+
+msgid "TR:DIALOG:MOD01:00185"
+msgstr "就在前面。"
+
+msgid "TR:DIALOG:MOD01:00186"
+msgstr "……"
+
+msgid "TR:DIALOG:MOD01:00187"
+msgstr "停！就是这个转角。导航指示需要从这条小道下去，然后才能进入第二层。"
+
+msgid "TR:DIALOG:MOD01:00188"
+msgstr "TrRomin 往左转身，然后指向前面一条又小又窄的道路，如果不仔细看根本发现不了。"
+
+msgid "TR:DIALOG:MOD01:00189"
+msgstr "拜托 TrCan 了。"
+
+msgid "TR:DIALOG:MOD01:00190"
+msgstr "了解。"
+
+msgid "TR:DIALOG:MOD01:00191"
+msgstr " TrCan 从身后取出稿子，开始扩大这条窄路。"
+
+msgid "TR:DIALOG:MOD01:00192"
+msgstr "因为这条路小到只有 TrGr 才能通过，所以需要由 TrCan 将两侧的岩石敲碎，从而让其他人正常通过，尤其是大块头 TrSeaon。"
+
+msgid "TR:DIALOG:MOD01:00193"
+msgstr "……"
+
+msgid "TR:DIALOG:MOD01:00194"
+msgstr "不一会儿，他们便来到了地下二层。"
+
+msgid "TR:DIALOG:MOD01:00195"
+msgstr "凛冽的寒风呼呼袭来，把所有人都打了个措手不及。"
+
+msgid "TR:DIALOG:MOD01:00196"
+msgstr "好…好冷……"
+
+msgid "TR:DIALOG:MOD01:00197"
+msgstr "怎么会这么冷……"
+
+msgid "TR:DIALOG:MOD01:00198"
+msgstr "就连最抗寒的 TrSeaon 毛发也耸立了起来。"
+
+msgid "TR:DIALOG:MOD01:00199"
+msgstr "可见真的很冷。"
+
+msgid "TR:DIALOG:MOD01:00200"
+msgstr "快…快点儿走吧……"
+
+msgid "TR:DIALOG:MOD01:00201"
+msgstr "也许只有……这一块儿风大……"
+
+msgid "TR:DIALOG:MOD01:00202"
+msgstr "TrSeaon 一把抱起 TrGr，然后把他搂在怀里。"
+
+msgid "TR:DIALOG:MOD01:00203"
+msgstr "呀！嘿！……"
+
+msgid "TR:DIALOG:MOD01:00204"
+msgstr "虽然一开始 TrGr 不是很情愿，但 TrSeaon 的毛发实在是太温暖太舒适了，最后放弃了抵抗。"
+
+msgid "TR:DIALOG:MOD01:00205"
+msgstr "暖和多了。"
+
+msgid "TR:DIALOG:MOD01:00206"
+msgstr "而 TrSeaon 因为怀里握着一个自发热源，也暖和了起来。"
+
+msgid "TR:DIALOG:MOD01:00207"
+msgstr "我们是不是……突然来到……极地了……"
+
+msgid "TR:DIALOG:MOD01:00208"
+msgstr "这未免也……太冷……"
+
+msgid "TR:DIALOG:MOD01:00209"
+msgstr "TrRomin 把双手交叉在胸前，左手上下蹭着胳膊试图取暖。"
+
+msgid "TR:DIALOG:MOD01:00210"
+msgstr "而右手则握着信号指示器，看向上面指示的方位。"
+
+msgid "TR:DIALOG:MOD01:00211"
+msgstr "TrRomin ……指路……"
+
+msgid "TR:DIALOG:MOD01:00212"
+msgstr "面对如此寒冷，一向自诩不怕冷的 TrCan 也有些冻得说不出话。"
+
+msgid "TR:DIALOG:MOD01:00213"
+msgstr "一直、直、直走……"
+
+msgid "TR:DIALOG:MOD01:00214"
+msgstr "等一下，你们看这个……"
+
+msgid "TR:DIALOG:MOD01:00215"
+msgstr "TrSeaon 突然停下，看向右侧的岩石。"
+
+msgid "TR:DIALOG:MOD01:00216"
+msgstr "走在前面的 TrRomin 和 TrCan 也回头看向 TrSeaon 看着的地方。"
+
+msgid "TR:DIALOG:MOD01:00217"
+msgstr "TrSeaon 怀里的 TrGr 则紧皱眉头。"
+
+msgid "TR:DIALOG:MOD01:00218"
+msgstr "TrRomin ，你看这个，是不是觉得这块岩石很眼熟？"
+
+msgid "TR:DIALOG:MOD01:00219"
+msgstr "TrRomin 和 TrCan 走了回来，当看到那块岩石后 TrRomin 立刻扬起了眉毛。"
+
+msgid "TR:DIALOG:MOD01:00220"
+msgstr "这该不会是……"
+
+msgid "TR:DIALOG:MOD01:00221"
+msgstr "没错……"
+
+msgid "TR:DIALOG:MOD01:00222"
+msgstr "如果我的推测没问题，那么地下三层我们就会来到……"
+
+msgid "TR:DIALOG:MOD01:00223"
+msgstr "但、但这不合理啊！"
+
+msgid "TR:DIALOG:MOD01:00224"
+msgstr "以前从来没、没有出现过这种异常，这种跨世界……不、不对……跨宇宙……"
+
+msgid "TR:DIALOG:MOD01:00225"
+msgstr "……跨现实的异常竟然是、是会出现的！？"
+
+msgid "TR:DIALOG:MOD01:00226"
+msgstr "TrGr 和 TrRomin 脸上写满了震惊，而 TrCan 和 TrSeaon 则一头雾水，根本不知道他们在担心什么。"
+
+msgid "TR:DIALOG:MOD01:00227"
+msgstr "什么？"
+
+msgid "TR:DIALOG:MOD01:00228"
+msgstr "我只看出了这块岩石的和、和其他岩石长的不太一样，但在洞穴中这是正、正常现象。"
+
+msgid "TR:DIALOG:MOD01:00229"
+msgstr "但这个岩石……准确来说不应该叫岩、岩石，它叫石头……并不是来自我们这、这个宇宙……"
+
+msgid "TR:DIALOG:MOD01:00230"
+msgstr "而是来自另一个宇宙，而我们甚至都、都无法证实那个宇宙是否真实存在。"
+
+msgid "TR:DIALOG:MOD01:00231"
+msgstr "你已经把我搞糊涂了，TrRomin……"
+
+msgid "TR:DIALOG:MOD01:00232"
+msgstr "可以说的通俗一点儿吗？"
+
+msgid "TR:DIALOG:MOD01:00233"
+msgstr "挖掘与建、建造。"
+
+msgid "TR:DIALOG:MOD01:00234"
+msgstr "嗯？"
+
+msgid "TR:DIALOG:MOD01:00235"
+msgstr "这块石头来自一款游戏，名为挖掘与建造。"
+
+msgid "TR:DIALOG:MOD01:00236"
+msgstr "……"
+
+msgid "TR:DIALOG:MOD01:00237"
+msgstr "……"
+
+msgid "TR:DIALOG:MOD01:00238"
+msgstr "什么！？"
+
+msgid "TR:DIALOG:MOD01:00239"
+msgstr "异常也会出现游戏里的世界！？"
+
+msgid "TR:DIALOG:MOD01:00240"
+msgstr "那这么说，我们进入地下三层会进入……挖掘与建造的世界？"
+
+msgid "TR:DIALOG:MOD01:00241"
+msgstr "有可能。"
+
+msgid "TR:DIALOG:MOD01:00242"
+msgstr "那个世界的物理特性和这个世界有什么区别？"
+
+msgid "TR:DIALOG:MOD01:00243"
+msgstr "嗯……让我总结一下。"
+
+msgid "TR:DIALOG:MOD01:00244"
+msgstr "TrGr 思考了一下。"
+
+msgid "TR:DIALOG:MOD01:00245"
+msgstr "太阳东升西落，会下雨下雪，总得来说和这个世界没有什么区别。"
+
+msgid "TR:DIALOG:MOD01:00246"
+msgstr "但那个世界全部由方块构成，同时方块都无视引力，它们不会掉下来，而是会浮在空中。"
+
+msgid "TR:DIALOG:MOD01:00247"
+msgstr "这……会不会太奇怪？"
+
+msgid "TR:DIALOG:MOD01:00248"
+msgstr "当你接受了那个世界的世界观后，一切都会变得合理。"
+
+msgid "TR:DIALOG:MOD01:00249"
+msgstr "我还是不太理解。"
+
+msgid "TR:DIALOG:MOD01:00250"
+msgstr "我也是。"
+
+msgid "TR:DIALOG:MOD01:00251"
+msgstr "为什么会有这样的世界存在？"
+
+msgid "TR:DIALOG:MOD01:00252"
+msgstr "没关系，我们一会儿进入第三层后你们就能看到挖掘与建造的世界究竟长什么样子了。"
+
+msgid "TR:DIALOG:MOD01:00253"
+msgstr ""
+"……如果第三层不是那个世界，等咱们回总部我再把这款游戏找出来让你们看看。\n"
+
+msgid "TR:DIALOG:MOD01:00254"
+msgstr "怎么说我都算是骨灰级玩家，每个方块的作用、每个特性甚至每个漏洞我都了如指掌！"
+
+msgid "TR:DIALOG:MOD01:00255"
+msgstr "我也玩过这款游戏，但了解的没有 TrGr 多。"
+
+msgid "TR:DIALOG:MOD01:00256"
+msgstr "……"
+
+msgid "TR:DIALOG:MOD01:00257"
+msgstr "好吧。那我们继续前进。"
+
+msgid "TR:DIALOG:MOD01:00258"
+msgstr "现在我对那个世界有点儿兴趣了。"
+
+msgid "TR:DIALOG:MOD01:00259"
+msgstr "我也是！我现在就想看到它究竟长什么样子！"
+
+msgid "TR:DIALOG:MOD01:00260"
+msgstr "嗯……你们还冷吗？"
+
+msgid "TR:DIALOG:MOD01:00261"
+msgstr "现在好多了。已经适应了这里的温度。"
+
+msgid "TR:DIALOG:MOD01:00262"
+msgstr "也可能是温度确实上来了。"
+
+msgid "TR:DIALOG:MOD01:00263"
+msgstr "说罢，TrCan 从腰包里拿出了那台环境侦测仪，并点击了几下按钮。"
+
+msgid "TR:DIALOG:MOD01:00264"
+msgstr "TrSeaon 也把 TrGr 从怀里放了下来。"
+
+msgid "TR:DIALOG:MOD01:00265"
+msgstr "TrSeaon 说的没错。现在温度确实比一开始高了许多。"
+
+msgid "TR:DIALOG:MOD01:00266"
+msgstr "那为什么只有那一段路那么冷呢？"
+
+msgid "TR:DIALOG:MOD01:00267"
+msgstr "可能是那一块属于风口。"
+
+msgid "TR:DIALOG:MOD01:00268"
+msgstr "因为我们一直在往下走，而风一直向上吹，但现在我们来到了平地。"
+
+msgid "TR:DIALOG:MOD01:00269"
+msgstr "各位……我们到了。"
+
+msgid "TR:DIALOG:MOD01:00270"
+msgstr "导航说从这里直接挖下去，就能到第三层了。"
+
+msgid "TR:DIALOG:MOD01:00271"
+msgstr "好。那么你们准备好了吗？"
+
+msgid "TR:DIALOG:MOD01:00272"
+msgstr "TrCan 握紧手中的稿子，TrRomin 不安分地抓着肩上的挎包，TrSeaon 则一脸紧张地抓着右侧 TrGr 的肩膀。"
+
+msgid "TR:DIALOG:MOD01:00273"
+msgstr "四个人各站一边，呈方形队列，他们都互相面对面，看着正下方的地面。"
+
+msgid "TR:DIALOG:MOD01:00274"
+msgstr "……"
+
+msgid "TR:DIALOG:MOD01:00275"
+msgstr "准备就绪。"
+
+msgid "TR:DIALOG:MOD01:00276"
+msgstr "嗯。"
+
+msgid "TR:DIALOG:MOD01:00277"
+msgstr "我准备好了……应该。"
+
+msgid "TR:DIALOG:MOD01:00278"
+msgstr "说罢， TrCan 就开始用稿子往正下方凿。"
+
+msgid "TR:DIALOG:MOD01:00279"
+msgstr "但与他们预期完全不同的是，TrCan 只凿了几下，这一片的地面就完全坍塌了下去。"
+
+msgid "TR:DIALOG:MOD01:00280"
+msgstr "于是四个人在完全没有心理预期的情况下径直地掉进了第三层。"
+
+msgid "TR:DIALOG:MOD01:00281"
+msgstr "在掉落的过程中，TrSeaon 下意识地抱住 TrGr，防止他受到任何危险。"
+
+msgid "TR:DIALOG:MOD01:00282"
+msgstr "随后 TrSeaon 一屁股坐到了地上，但由于他体型硕大，没感受到多少疼痛。"
+
+msgid "TR:DIALOG:MOD01:00283"
+msgstr "TrCan 用自己高超的平衡技巧、冷静和下矿经验，没受到任何伤害地平稳落到了地上……"
+
+msgid "TR:DIALOG:MOD01:00284"
+msgstr "……吗？"
+
+msgid "TR:DIALOG:MOD01:00285"
+msgstr "最后则是 TrRomin ，由于失去了受力点，导致一边往前扑一边掉，然后到地面后又因为惯性往前冲……"
+
+msgid "TR:DIALOG:MOD01:00286"
+msgstr "以至于直接扑到了面前 TrCan 的怀里。"
+
+msgid "TR:DIALOG:MOD01:00287"
+msgstr ""
+"刚找到支撑点的 TrCan 没料到 TrRomin 会直接扑过来，TrRomin 带来的冲力让 TrCan 往后倒，最后导致 TrCan "
+"失去平衡往后仰了过去。"
+
+msgid "TR:DIALOG:MOD01:00288"
+msgstr "而刚坐到地上的 TrSeaon 还没反应过来，TrCan 就仰面倒入 TrSeaon 的肚子上。"
+
+msgid "TR:DIALOG:MOD01:00289"
+msgstr ""
+"还好 TrSeaon 眼疾手快，一把抓起 TrGr 把他抬了起来，否则 TrCan 和 TrRomin 就直接倒在 TrGr 身上了，那滋味可不好受。"
+
+msgid "TR:DIALOG:MOD01:00290"
+msgstr "最后 TrSeaon 坐在最底下，手上抬着 TrGr，TrCan 倒在 TrSeaon 的肚子上，TrRomin 倒在 TrCan 的怀里。"
+
+msgid "TR:DIALOG:MOD01:00291"
+msgstr "看起来非常滑稽好笑。"
+
+msgid "TR:DIALOG:MOD01:00292"
+msgstr "嗷——"
+
+msgid "TR:DIALOG:MOD01:00293"
+msgstr "TrSeaon 把 TrGr 放了下来，然后抚摸着 TrCan 的毛发。"
+
+msgid "TR:DIALOG:MOD01:00294"
+msgstr "抱歉。"
+
+msgid "TR:DIALOG:MOD01:00295"
+msgstr "没事儿。"
+
+msgid "TR:DIALOG:MOD01:00296"
+msgstr "……"
+
+msgid "TR:DIALOG:MOD01:00297"
+msgstr " TrCan 的怀里好舒服啊，我不想走了——"
+
+msgid "TR:DIALOG:MOD01:00298"
+msgstr " TrCan 有些羞涩地一把抓住 TrRomin 的肩膀，然后把他推走了。"
+
+msgid "TR:DIALOG:MOD01:00299"
+msgstr "……不行。"
+
+msgid "TR:DIALOG:MOD01:00300"
+msgstr "哈哈哈哈哈哈！"
+
+msgid "TR:DIALOG:MOD01:00301"
+msgstr "这个场面……我……啊哈哈哈！"
+
+msgid "TR:DIALOG:MOD01:00302"
+msgstr "TrGr 再也忍不住了，最后大笑起来。"
+
+msgid "TR:DIALOG:MOD01:00303"
+msgstr "惹得众人也一起笑，连一向严肃的 TrCan 也似机器人般的哈哈了两声。"
+
+msgid "TR:DIALOG:MOD01:00304"
+msgstr "……"
+
+msgid "TR:DIALOG:MOD01:00305"
+msgstr "TrSeaon 最后一个站起来，拍了拍自己衣服上的肩膀。"
+
+msgid "TR:DIALOG:MOD01:00306"
+msgstr "各位都没有受伤吧——？"
+
+msgid "TR:DIALOG:MOD01:00307"
+msgstr "TrSeaon 一边说，一边仔细检查其他人身上是否有没有伤口。"
+
+msgid "TR:DIALOG:MOD01:00308"
+msgstr "——受伤了我来处理伤口。"
+
+msgid "TR:DIALOG:MOD01:00309"
+msgstr "TrSeaon 率先走到 TrGr 身前，从头一直看到脚，没发现一处可见伤口后才离开。"
+
+msgid "TR:DIALOG:MOD01:00310"
+msgstr "TrGr ，安全。"
+
+msgid "TR:DIALOG:MOD01:00311"
+msgstr "然后他走到 TrRomin 身前，让他做出十字形姿势，以便他查看全身。"
+
+msgid "TR:DIALOG:MOD01:00312"
+msgstr "见 TrRomin 身上也没有可见伤口，最后准备去检查 TrCan。"
+
+msgid "TR:DIALOG:MOD01:00313"
+msgstr "TrRomin ，安……"
+
+msgid "TR:DIALOG:MOD01:00314"
+msgstr "等下，有一个地方需要仔细查看。"
+
+msgid "TR:DIALOG:MOD01:00315"
+msgstr "于是 TrSeaon 来了个一百八十度大转弯，回到 TrRomin 身前，仔细端详着他左耳上黄色的丝带。"
+
+msgid "TR:DIALOG:MOD01:00316"
+msgstr "丝带固定完整，TrRomin ，安全。"
+
+msgid "TR:DIALOG:MOD01:00317"
+msgstr "其、其实只要我不变成野兽，就没问题……"
+
+msgid "TR:DIALOG:MOD01:00318"
+msgstr "TrRomin 挠着头尴尬地说着。"
+
+msgid "TR:DIALOG:MOD01:00319"
+msgstr "最后就剩 TrCan 了。"
+
+msgid "TR:DIALOG:MOD01:00320"
+msgstr "TrSeaon 快步走到 TrCan 身前，抓住他的胳膊，强硬地把他的胳膊抬了起来。"
+
+msgid "TR:DIALOG:MOD01:00321"
+msgstr "？！"
+
+msgid "TR:DIALOG:MOD01:00322"
+msgstr "我知道你觉得自己啥事儿没有，但别跟我犟，伤口问题可不容小觑。"
+
+msgid "TR:DIALOG:MOD01:00323"
+msgstr "见 TrCan 没有反抗 TrSeaon 摆出了一幅慈父样的表情，开始仔细检查 TrCan 的身体。"
+
+msgid "TR:DIALOG:MOD01:00324"
+msgstr "依然是从头开始，然后是躯体，最后是腿和脚。"
+
+msgid "TR:DIALOG:MOD01:00325"
+msgstr "看到 TrCan 也没有任何可见伤口，TrSeaon 吐了吐舌，拍了拍他的头。"
+
+msgid "TR:DIALOG:MOD01:00326"
+msgstr "真棒，奖励你一个拍拍！"
+
+msgid "TR:DIALOG:MOD01:00327"
+msgstr "……谢谢。"
+
+msgid "TR:DIALOG:MOD01:00328"
+msgstr "显然 TrCan 对 TrSeaon 这样幼稚的行为震惊到了，一时竟不知道如何是好。"
+
+msgid "TR:DIALOG:MOD01:00329"
+msgstr "很好！各位都没有受外伤！"
+
+msgid "TR:DIALOG:MOD01:00330"
+msgstr "那么大家带好自己的武器和工具，因为我们真的来到了挖掘与建造的世界。"
+
+msgid "TR:DIALOG:MOD01:00331"
+msgstr "TrCan 用自己的头灯照亮了道路，这才发现他们掉到了一个四周空旷的矿洞里。"
+
+msgid "TR:DIALOG:MOD01:00332"
+msgstr "他们看到这个世界真的是由方块构成的……起码这个矿洞是。"
+
+msgid "TR:DIALOG:MOD01:00333"
+msgstr "TrCan 有那么一瞬表现得非常喜悦和惊讶，但下一秒就恢复了冷漠的态度。"
+
+msgid "TR:DIALOG:MOD01:00334"
+msgstr "而 TrSeaon 则一直都表现得非常惊喜！"
+
+msgid "TR:DIALOG:MOD01:00335"
+msgstr "哇！原来这就是挖掘与建造的世界！？"
+
+msgid "TR:DIALOG:MOD01:00336"
+msgstr "看起来好有意思！"
+
+msgid "TR:DIALOG:MOD01:00337"
+msgstr "嗯。你们把这个世界当作原来的世界看待就行，遇到不确定的随时跟我说，我讲解给你们听。"
+
+msgid "TR:DIALOG:MOD01:00338"
+msgstr "好！"
+
+msgid "TR:DIALOG:MOD01:00339"
+msgstr "了解。"
+
+msgid "TR:DIALOG:MOD01:00340"
+msgstr "随后 TrCan 走到了一个布满石头的墙壁前，先是用手敲了敲，听了一下有没有回声，然后尝试用他的稿子挖掘。"
+
+msgid "TR:DIALOG:MOD01:00341"
+msgstr "一下，两下，直到第三下这块石头被挖掉，蹦出了一个很小的方块。"
+
+msgid "TR:DIALOG:MOD01:00342"
+msgstr "TrCan 将其捡了起来，端详它，随即方块上面浮现出了一个半透明的文字，写着“原石”。"
+
+msgid "TR:DIALOG:MOD01:00343"
+msgstr "与此同时所有人头上均出现了一个由心组成的生命条、排骨组成的饥饿条和他们各自的物品栏。"
+
+msgid "TR:DIALOG:MOD01:00344"
+msgstr "其中 TrSeaon 的饥饿条非常长，把其他三个人的饥饿条组合到一起才勉强差不多长。"
+
+msgid "TR:DIALOG:MOD01:00345"
+msgstr "有意思的世界。"
+
+msgid "TR:DIALOG:MOD01:00346"
+msgstr "我再收集一些这些方块，以后带回总部研究。"
+
+msgid "TR:DIALOG:MOD01:00347"
+msgstr "TrCan  一人在旁侧收集方块，TrSeaon 则东逛逛西逛逛，就像小狗一样对这个世界充满好奇心。"
+
+msgid "TR:DIALOG:MOD01:00348"
+msgstr "而 TrRomin 走到 TrGr 身旁，凑到他耳边悄咪咪地说……"
+
+msgid "TR:DIALOG:MOD01:00349"
+msgstr "不知道这个世界是什么模式。"
+
+msgid "TR:DIALOG:MOD01:00350"
+msgstr "如果是和平模式就好了，千万别是极限模式呀……"
+
+msgid "TR:DIALOG:MOD01:00351"
+msgstr "我也在想这个问题。"
+
+msgid "TR:DIALOG:MOD01:00352"
+msgstr "放心，就算有怪物袭来，我也不会让咱们队的任何人死亡。"
+
+msgid "TR:DIALOG:MOD01:00353"
+msgstr "谢谢你，TrGr。"
+
+msgid "TR:DIALOG:MOD01:00354"
+msgstr "队长的职责。"
+
+msgid "TR:DIALOG:MOD01:00355"
+msgstr "过了一会儿，TrSeaon 不知从哪里跑了回来，脸上写满了惊喜。"
+
+msgid "TR:DIALOG:MOD01:00356"
+msgstr "你们快过来看！我找到了一座好像废弃的矿井！"
+
+msgid "TR:DIALOG:MOD01:00357"
+msgstr "TrGr 和 TrRomin 两眼放光，因为矿洞内没有树，导致没有木头，以至于没法制作合成台。"
+
+msgid "TR:DIALOG:MOD01:00358"
+msgstr "目前可用的工具及武器只有 TrCan 手上的一把近似于无限耐久的稿子，他腰包里的炸药和 TrGr 的近似于无限耐久的剑。"
+
+msgid "TR:DIALOG:MOD01:00359"
+msgstr "没有木头就什么都制作不了，手无缚鸡之力的他们想存活下去都是问题。"
+
+msgid "TR:DIALOG:MOD01:00360"
+msgstr "所谓“要致富，先砍树”，在矿洞内虽然不成立，但矿井内却有大量的木板可供使用。"
+
+msgid "TR:DIALOG:MOD01:00361"
+msgstr "快带我们去看看！"
+
+msgid "TR:DIALOG:MOD01:00362"
+msgstr "见 TrGr 和 TrRomin 这么激动， TrSeaon 先是一愣，然后对他们招手。"
+
+msgid "TR:DIALOG:MOD01:00363"
+msgstr "顺便一把抓住了旁边认真分析方块的 TrCan 的手，一并带走。"
+
+msgid "TR:DIALOG:MOD01:00364"
+msgstr "TrGr 和 TrRomin  也跟在 TrSeaon 身后。"
+
+msgid "TR:DIALOG:MOD01:00365"
+msgstr "我们到了，请看！"
+
+msgid "TR:DIALOG:MOD01:00366"
+msgstr "经过最后一个拐角，他们到了 TrSeaon 所说的废弃矿井的入口。"
+
+msgid "TR:DIALOG:MOD01:00367"
+msgstr "率先映入 TrGr 和 TrRomin 法眼的是数不胜数的木板，意味着他们冒险生涯的正式开始。"
+
+msgid "TR:DIALOG:MOD01:00368"
+msgstr "映入 TrCan 眼帘的则是墙壁上的铁矿石，这是他之前从未见过的方块。"
+
+msgid "TR:DIALOG:MOD01:00369"
+msgstr "但 TrSeaon 却跑到了更前面，示意他们再往前走。"
+
+msgid "TR:DIALOG:MOD01:00370"
+msgstr "快来我这儿！有好看的！"
+
+msgid "TR:DIALOG:MOD01:00371"
+msgstr "于是 TrGr 和 TrRomin 各自先挖掉了几个木板，然后跑到了 TrSeaon 所在的位置。"
+
+msgid "TR:DIALOG:MOD01:00372"
+msgstr "而 TrCan 则尝试用自己的镐子挖掉铁矿石，当然，铁矿石物品也掉了出来。"
+
+msgid "TR:DIALOG:MOD01:00373"
+msgstr "然后也走向了其他人所在的位置。"
+
+msgid "TR:DIALOG:MOD01:00374"
+msgstr "随后令 TrGr、TrCan 和 TrRomin 都震惊的是，这是一个暴露在外的废弃矿井，外面则是一个巨型溶洞。"
+
+msgid "TR:DIALOG:MOD01:00375"
+msgstr "哇……"
+
+msgid "TR:DIALOG:MOD01:00376"
+msgstr "很好。木头、木板、石头、矿物……可用的材料数不胜数。"
+
+msgid "TR:DIALOG:MOD01:00377"
+msgstr "现在我们兵分两路，我和 TrSeaon 去高地收集木材并顺便采矿，而 TrCan 和 TrRomin 则去下面采矿并顺便收集木材。"
+
+msgid "TR:DIALOG:MOD01:00378"
+msgstr "这样分配的原因是我和 TrRomin 都是挖掘与建造的玩家，相比于 TrCan 和 TrSeaon 更熟悉游戏规则和特性。"
+
+msgid "TR:DIALOG:MOD01:00379"
+msgstr "以及，出现意外别忘记通过胸章呼叫其他人。"
+
+msgid "TR:DIALOG:MOD01:00380"
+msgstr "TrGr 按下了自己胸前的胸章，一声轻轻地震动，说明胸章已开机。"
+
+msgid "TR:DIALOG:MOD01:00381"
+msgstr "其他人也按下了自己的胸章，震动，开机，一气呵成。"
+
+msgid "TR:DIALOG:MOD01:00382"
+msgstr "随后所有人的胸章均弹出了一个半透明的全息投影界面在身前的侧面。"
+
+msgid "TR:DIALOG:MOD01:00383"
+msgstr ""
+"TrGr 率先在自己的界面里创建了一个私有联络组，然后分别向 TrSeaon、TrCan 和 TrRomin 扔出了一个半透明的方块到三人的界面里。"
+
+msgid "TR:DIALOG:MOD01:00384"
+msgstr "三人接收到方块后点击它，随后方块在界面里展开，表示胸章已成功进入到 TrGr 的私有联络组。"
+
+msgid "TR:DIALOG:MOD01:00385"
+msgstr "现在他们之间可以互相联络，查看对方的位置和距离。"
+
+msgid "TR:DIALOG:MOD01:00386"
+msgstr "但由于使用的是 TrGr 的本地服务，所以距离他太远则会超出服务范围。"
+
+msgid "TR:DIALOG:MOD01:00387"
+msgstr "而且注意不要离我太远，三十分钟后在这里会合，各位都同意吗？"
+
+msgid "TR:DIALOG:MOD01:00388"
+msgstr "其他人点了点头，表示同意。"
+
+msgid "TR:DIALOG:MOD01:00389"
+msgstr "TrGr 在临走前把 TrCan 叫住，让他把之前挖掘的石头分出来一些。"
+
+msgid "TR:DIALOG:MOD01:00390"
+msgstr "TrCan 随后给了 TrGr 一些石头，随后他立即收起并用之前收集的木板做了一个合成台。"
+
+msgid "TR:DIALOG:MOD01:00391"
+msgstr "眨眼间就合成好了四把石斧和三把石镐。"
+
+msgid "TR:DIALOG:MOD01:00392"
+msgstr "交给了 TrSeaon 和 TrRomin 各一把石斧和石镐，交给了 TrCan  一把石斧，自己也留了一套。"
+
+msgid "TR:DIALOG:MOD01:00393"
+msgstr "见没有什么需要嘱咐的了，TrGr 和 TrSeaon 则跳上高地，TrCan 和 TrRomin 则跳下平台。"
+
+msgid "TR:DIALOG:MOD01:00394"
+msgstr "TrGr 和 TrSeaon。"
+
+msgid "TR:DIALOG:MOD01:00395"
+msgstr "一对关系最好的基友。"
+
+msgid "TR:DIALOG:MOD01:00396"
+msgstr "作为相同出生地的一组好伙伴，TrGr 和 TrSeaon 无时无刻奉行着尽全力照顾好对方的习惯。"
+
+msgid "TR:DIALOG:MOD01:00397"
+msgstr "值得一提的是，他们并不是一开始就降生于方圆国，而是出生于另一个国家，但具体是哪个国家我们无从得知。"
+
+msgid "TR:DIALOG:MOD01:00398"
+msgstr ""
+"以及他们的名字也没有按照方圆国的规章来，而是直接继承了他们原先的名字。即 TrGr —— 基阿/GR 和 TrSeaon —— "
+"西昂/Seaon，我们也不知道他们是如何绕过了这道入境手续。"
+
+msgid "TR:DIALOG:MOD01:00399"
+msgstr "因为如果想正式成为方圆国的一名合法居民，就需要将自己的名字按照该国的规章进行调整。"
+
+msgid "TR:DIALOG:MOD01:00400"
+msgstr ""
+"《方圆国合法移民法》第５条规定：对于正在迁移至本国的外来人口，首先需要为自己定义一个本国内的通行姓名，格式需按照「通俗物种或科学分类下的属）」·「常见种族昵称（科学分类：种）缩写」·「名」来更改。"
+
+msgid "TR:DIALOG:MOD01:00401"
+msgstr ""
+"例如：你的原名叫「张三」，「三」是你的名，你的物种是东部灰狼，那么你在方圆国的通行姓名按照科学分类法则应为「卡尼斯·东·三 (Canis L. San)"
+"」，按照通俗物种法则应为「沃夫·东·三 (Wolf Cl. San)」。"
+
+msgid "TR:DIALOG:MOD01:00402"
+msgstr "……"
+
+msgid "TR:DIALOG:MOD01:00403"
+msgstr "TrGr 你看！这里有一辆矿车！"
+
+msgid "TR:DIALOG:MOD01:00404"
+msgstr "TrGr 收起了掉在地上的木板，前往 TrSeaon 所在的位置。"
+
+msgid "TR:DIALOG:MOD01:00405"
+msgstr "来了！让我看看这个宝箱里有什么好东西……"
+
+msgid "TR:DIALOG:MOD01:00406"
+msgstr "TrGr 缓缓打开矿车里的箱子，看起来里面东西还不少。"
+
+msgid "TR:DIALOG:MOD01:00407"
+msgstr "嗯……十二块铁轨，很一般。十六只火把，生存必备。两块面包，对于史蒂夫和艾利克斯来说很有用，但我们不会饿得很快，短时间内没什么用。"
+
+msgid "TR:DIALOG:MOD01:00408"
+msgstr "二十四块煤炭，矿物一直都很有用。十块铁锭，很有用。"
+
+msgid "TR:DIALOG:MOD01:00409"
+msgstr "四枚南瓜种子，可能不会有机会种。"
+
+msgid "TR:DIALOG:MOD01:00410"
+msgstr "最后，TrGr 注意到了角落里价值最高的两件物品。"
+
+msgid "TR:DIALOG:MOD01:00411"
+msgstr "很好！这辆矿车竟然还存了四颗钻石和一枚金苹果，必须要好好地存放起来。"
+
+msgid "TR:DIALOG:MOD01:00412"
+msgstr "说罢，TrGr 把矿车内的所有物品全部取走，同时把整辆矿车打掉收到了物品栏里。"
+
+msgid "TR:DIALOG:MOD01:00413"
+msgstr "怎…怎么样……？这辆矿车里的物品符合你的预期吗？"
+
+msgid "TR:DIALOG:MOD01:00414"
+msgstr "非常符合——不，应该是超出预期！我们现在有整个游戏价值最贵重的矿物——钻石了！而且——"
+
+msgid "TR:DIALOG:MOD01:00415"
+msgstr "TrGr 拿出那枚金苹果，交给了 TrSeaon。"
+
+msgid "TR:DIALOG:MOD01:00416"
+msgstr "给，这是能紧急恢复生命的食物，金苹果。我觉得你会需要他。以后谁受伤了，让他吃掉这颗金苹果就好。"
+
+msgid "TR:DIALOG:MOD01:00417"
+msgstr "了解！"
+
+msgid "TR:DIALOG:MOD01:00418"
+msgstr "TrSeaon 颤抖地接过它，仔细端详着这颗金苹果，虽然在 TrGr 手上显得很大，但在 TrSeaon 手上却显得很小了。"
+
+msgid "TR:DIALOG:MOD01:00419"
+msgstr "一段时间过后，TrGr 和 TrSeaon 已经各自收集了足够多的木头和木板，同时他们将手里的工具升级成了铁斧和铁镐。"
+
+msgid "TR:DIALOG:MOD01:00420"
+msgstr "挖掘了些许煤矿和铁矿，合成了熔炉来烧炼铁矿，挖掘了更多的煤矿，合成了更多的火把。"
+
+msgid "TR:DIALOG:MOD01:00421"
+msgstr "直到经过一个转角，他们遇——"
+
+msgid "TR:DIALOG:MOD01:00422"
+msgstr "啊啊啊啊啊啊啊啊啊——！！"
+
+msgid "TR:DIALOG:MOD01:00423"
+msgstr "西、西昂一脸惊恐且泪流满面地跑回 TrGr 身后，同时一只僵尸在他的身后追着他。"
+
+msgid "TR:DIALOG:MOD01:00424"
+msgstr "但 TrGr 作为一名有着十多年经验的专业挖掘与建造玩家，突然出现的怪物已经成为他的家常便饭，对付他们的方法早已成为肌肉记忆。"
+
+msgid "TR:DIALOG:MOD01:00425"
+msgstr ""
+"只见 TrGr "
+"瞬间从身后抽出剑，一道冲锋率先刺向那个僵尸的身体，随后手心一转向上挑，剑来了个一百五十度旋转，紧接着生硬地划出僵尸的身体，在它身上留下了一道巨大的、对勾样的伤痕。"
+
+msgid "TR:DIALOG:MOD01:00426"
+msgstr ""
+"深红色伴着些许腐绿色的血从创口喷涌而出，但 TrGr "
+"并没有后退半步，他快速蹲下，借力，然后猛地一跳，冲上僵尸的头顶，最后用剑垂直地砍向它的整个身体，将它切割成了两半。"
+
+msgid "TR:DIALOG:MOD01:00427"
+msgstr "最后一些白色的粒子从僵尸身上浮现，随后它便化作了一缕青烟，彻底消失在了这个世界，只留下地上的一滩血迹作为它曾经出现过的痕迹。"
+
+msgid "TR:DIALOG:MOD01:00428"
+msgstr "片刻后那个转角处又走出了几个僵尸，TrGr 依旧自信地冲向它们面前，并采用了完全不同的进攻方式将它们一一剿灭。"
+
+msgid "TR:DIALOG:MOD01:00429"
+msgstr "在全部清理干净后，他向右转跑进了那个小房间。"
+
+msgid "TR:DIALOG:MOD01:00430"
+msgstr "紧接着他就看到了房间正中间有一个像围栏一样围住的方块，里面有一个正在旋转着的小型僵尸模型。"
+
+msgid "TR:DIALOG:MOD01:00431"
+msgstr "原来是僵尸刷怪笼。他们来到了一处地牢。"
+
+msgid "TR:DIALOG:MOD01:00432"
+msgstr "TrGr 箭步冲到刷怪笼前，同时从背包里掏出火把，最后将其放置到了刷怪笼的一面上。"
+
+msgid "TR:DIALOG:MOD01:00433"
+msgstr "封印完成。"
+
+msgid "TR:DIALOG:MOD01:00434"
+msgstr "……？"
+
+msgid "TR:DIALOG:MOD01:00435"
+msgstr "TrGr 回头，发现 TrSeaon 并没有跟过来，于是他转身原路返回，发现 TrSeaon 仍然站在原先的位置上，呆呆地望着面前。"
+
+msgid "TR:DIALOG:MOD01:00436"
+msgstr "于是他跑到 TrSeaon 身前，然后抓住他的手臂，用力地摇晃了几下，这才将他的意识拉回到现实。"
+
+msgid "TR:DIALOG:MOD01:00437"
+msgstr "啊……我……嗯……我刚才被吓呆了……"
+
+msgid "TR:DIALOG:MOD01:00438"
+msgstr "不愧是 TrGr ，真厉害！三下五除二就把所有怪物解决了！"
+
+msgid "TR:DIALOG:MOD01:00439"
+msgstr "哼哼，我可是谁！我会永远、永远保证你不会受到任何伤害！"
+
+msgid "TR:DIALOG:MOD01:00440"
+msgstr "我保证。"
+
+msgid "TR:DIALOG:MOD01:00441"
+msgstr "快来，我已经把刷怪笼封印，现在这里已经安全了。"
+
+msgid "TR:DIALOG:MOD01:00442"
+msgstr "TrGr 握住 TrSeaon 的手，然后带着他来到了地牢。"
+
+msgid "TR:DIALOG:MOD01:00443"
+msgstr "哦哟，刚才都没注意到这里还有个大箱子，让我看看里面有什么宝贝。"
+
+msgid "TR:DIALOG:MOD01:00444"
+msgstr "在地牢的一侧，有两个箱子挨在一起，然后自动组合成了一个大箱子。"
+
+msgid "TR:DIALOG:MOD01:00445"
+msgstr "TrGr 走了过去，TrSeaon 跟在他身后。"
+
+msgid "TR:DIALOG:MOD01:00446"
+msgstr "嗯……腐肉……没什么用。线、骨头和火药倒是有点儿用。小麦……暂时应该也用不到。煤炭和铁锭可以留着。诶！铁桶，这个得留着。"
+
+msgid "TR:DIALOG:MOD01:00447"
+msgstr "哇……还有一张唱片，让我看看是哪张……"
+
+msgid "TR:DIALOG:MOD01:00448"
+msgstr "TrGr 拿起了那张唱片，绿色的纹理叠加在唱片的中心圆环上，上面写着《另一侧》几个字。"
+
+msgid "TR:DIALOG:MOD01:00449"
+msgstr "哦呼，竟然是另一侧，我们的运气还蛮不错嘛！感觉这首歌 TrSeaon 会很喜欢。"
+
+msgid "TR:DIALOG:MOD01:00450"
+msgstr "等下……天哪……箱子里面竟然还有一枚附魔金苹果……！？"
+
+msgid "TR:DIALOG:MOD01:00451"
+msgstr "TrGr 小心翼翼地拿起了那枚附魔金苹果，转身，把附魔金苹果和《另一侧》唱片都交给了 TrSeaon。"
+
+msgid "TR:DIALOG:MOD01:00452"
+msgstr "这个是附魔金苹果，是比金苹果更厉害的食物，一定要小心保管，只有在最最紧急的情况下才能食用。"
+
+msgid "TR:DIALOG:MOD01:00453"
+msgstr "TrGr 语重心长地跟 TrSeaon 嘱咐道，后者则严肃地点了点头，接过并小心翼翼地放入了背包里。"
+
+msgid "TR:DIALOG:MOD01:00454"
+msgstr "然后这是一枚唱片，我觉得你会很喜欢听。倒时候我为你做一个唱片机，这样你就可以听了。"
+
+msgid "TR:DIALOG:MOD01:00455"
+msgstr "TrGr 也把唱片交给了他。"
+
+msgid "TR:DIALOG:MOD01:00456"
+msgstr "谢谢你，TrGr。"
+
+msgid "TR:DIALOG:MOD01:00457"
+msgstr "不客气。"
+
+msgid "TR:DIALOG:MOD01:00458"
+msgstr "嗯……我看时间也差不多了，咱们返程吧？"
+
+msgid "TR:DIALOG:MOD01:00459"
+msgstr "好！"
+
+msgid "TR:DIALOG:MOD01:00460"
+msgstr "就在 TrGr 和 TrSeaon 返程的过程中，他们胸前的胸章亮了起来，然后在身侧弹出了一则投影通知。"
+
+msgid "TR:DIALOG:MOD01:00461"
+msgstr "上面写着 TrRomin 更改了会合地点，新的会合地点要比原先的地方更靠东，而且看起来也更深。"
+
+msgid "TR:DIALOG:MOD01:00462"
+msgstr "不知道他们那边遭遇了什么，竟然要更改会合地点。"
+
+msgid "TR:DIALOG:MOD01:00463"
+msgstr "希望他们安安全全的。"
+
+msgid "TR:DIALOG:MOD01:00464"
+msgstr "应该是安全的，因为他们都没有向咱们发送救援通知。"
+
+msgid "TR:DIALOG:MOD01:00465"
+msgstr "TrGr 和 TrSeaon 最后走了另一条道路，因为这么走不用绕道。"
+
+msgid "TR:DIALOG:MOD01:00466"
+msgstr "TrCan 和 TrRomin。"
+
+msgid "TR:DIALOG:MOD01:00467"
+msgstr "一对关系非常好的朋友。"
+
+msgid "TR:DIALOG:MOD01:00468"
+msgstr "TrCan 和 TrRomin 也不是一开始就诞生于方圆国，确切地说，他们这代人几乎都是从外国移居来的。"
+
+msgid "TR:DIALOG:MOD01:00469"
+msgstr "但千万不要以为任何人都可以移居到该国，没有过人之处，一技之长，恐怕是无法拿到通行证的。"
+
+msgid "TR:DIALOG:MOD01:00470"
+msgstr "方圆国的国训是「不以规矩，不能成方圆」，出自一位已故很久的伟人，正如这个国训所说，方圆国崇尚的就是「规范至上」和「条理清晰」。"
+
+msgid "TR:DIALOG:MOD01:00471"
+msgstr "这是一个充满了高智能的国家，科学家们、艺术家们、任何有能力的人在这里都可以尽可能地满足自己的探索，为世界带来更美好的未来。"
+
+msgid "TR:DIALOG:MOD01:00472"
+msgstr "就像乌托邦一样。"
+
+msgid "TR:DIALOG:MOD01:00473"
+msgstr ""
+"而 TrRomin "
+"之所以能获得方圆国的通行证，是因为他向方圆国一座城市的大学提交了就读申请，同时他的学分和各项指标都满足了该大学的要求，最后毫不意外地就录取了。"
+
+msgid "TR:DIALOG:MOD01:00474"
+msgstr "之后因为他就读于方圆国，所以直接拿到了通行证。"
+
+msgid "TR:DIALOG:MOD01:00475"
+msgstr "值得一提的是，TrAmorog 也就读于这所大学，而他们也是从那时互相结识，并相互发展关系的。"
+
+msgid "TR:DIALOG:MOD01:00476"
+msgstr ""
+"而 TrCan，则诞生于一座在乡下、很美的，四季如春的小镇，那里充满了田野、萤火虫、河流和乡间小路，看起来仿佛就像在画里一样，非常不真实。但它确实存在。"
+
+msgid "TR:DIALOG:MOD01:00477"
+msgstr "那里的人们相互依偎，互相扶持，小镇的居民没有勾心斗角这么一说，每个人活得都很幸福且美满、快乐并健康。"
+
+msgid "TR:DIALOG:MOD01:00478"
+msgstr ""
+"但 TrCan 能获得方圆国的通行证是因为 TrRomin 为他写了一封人才引进推荐信，为什么？因为他们从小就认识，TrCan 和 TrRomin "
+"诞生于相同的小镇。"
+
+msgid "TR:DIALOG:MOD01:00479"
+msgstr ""
+"在 TrRomin 获得了方圆国的推荐资格后，第一个想到的就是 TrCan。他希望 TrCan "
+"也可以成为方圆国的一份子，为这个世界为之奋斗，为更好的未来而努力。"
+
+msgid "TR:DIALOG:MOD01:00480"
+msgstr "当然，即使是有推荐信也不够，受推荐的人仍需要过人之处才能拿到通行证。"
+
+msgid "TR:DIALOG:MOD01:00481"
+msgstr "而这个过人之处，TrCan 仍然满足，因为他的身体从小就和其他人不一样。"
+
+msgid "TR:DIALOG:MOD01:00482"
+msgstr "他的身体居住着另外一个「灵魂」。"
+
+msgid "TR:DIALOG:MOD01:00483"
+msgstr "为什么遇不到铁矿了呢？"
+
+msgid "TR:DIALOG:MOD01:00484"
+msgstr "可能还需要再挖。"
+
+msgid "TR:DIALOG:MOD01:00485"
+msgstr "嗯……那我们再挖远点儿。"
+
+msgid "TR:DIALOG:MOD01:00486"
+msgstr "TrRomin 和 TrCan 现在正在一个由他们自己挖开的石道里，已经过去一段时间，他们甚至都没有遇到一块铁矿。"
+
+msgid "TR:DIALOG:MOD01:00487"
+msgstr "感觉他们的运气明显没有另一对好。"
+
+msgid "TR:DIALOG:MOD01:00488"
+msgstr "对了，TrCan……"
+
+msgid "TR:DIALOG:MOD01:00489"
+msgstr "TrRomin 停下了手中的动作，侧过身看向 TrCan。"
+
+msgid "TR:DIALOG:MOD01:00490"
+msgstr "我一直都有一个问题，你在这个世界——我说的是这个挖掘与建造的世界——你还可以召唤他吗？你的那位「守护神」，Nac？"
+
+msgid "TR:DIALOG:MOD01:00491"
+msgstr "TrRomin 在说到守护神的时候，右手食指和中指向下弯曲，表示引号的行为。"
+
+msgid "TR:DIALOG:MOD01:00492"
+msgstr "不可以。我之前已经试过了。我找不到他在哪里。"
+
+msgid "TR:DIALOG:MOD01:00493"
+msgstr "嗯……也就是说这个异常将我们带离了原来的世界……现在我们其实已经不在之前的洞穴里了。"
+
+msgid "TR:DIALOG:MOD01:00494"
+msgstr "TrRomin 皱着眉头，若有所思地想着什么。"
+
+msgid "TR:DIALOG:MOD01:00495"
+msgstr "我们和原来世界的距离甚至已经超出了你和 Nac 的灵魂交流的范围……"
+
+msgid "TR:DIALOG:MOD01:00496"
+msgstr "TrRomin 在一旁自言自语，全然没看到旁边 TrCan 还在向远方挖去。"
+
+msgid "TR:DIALOG:MOD01:00497"
+msgstr "我也许应该看一下我的信号指示器有没有信号……"
+
+msgid "TR:DIALOG:MOD01:00498"
+msgstr "TrRomin 从挎包里拿出信号指示器，然后看向了仪器上的信号标识。"
+
+msgid "TR:DIALOG:MOD01:00499"
+msgstr "唉……一点儿信号都没有。我们彻底和原来的世界失联了。"
+
+msgid "TR:DIALOG:MOD01:00500"
+msgstr "现在能离开这个世界的唯一方法只有把这个异常解决掉了，否则我们将永远困在这个世界。"
+
+msgid "TR:DIALOG:MOD01:00501"
+msgstr "或者说……等下……我想到了一个点子，也许可以成功瞬间联系到指挥中心……"
+
+msgid "TR:DIALOG:MOD01:00502"
+msgstr "但我不确定这样行不行得通，因为以前从来没遇到过这类情况……"
+
+msgid "TR:DIALOG:MOD01:00503"
+msgstr "要实现这个方式，我需要你的帮助，TrCan！"
+
+msgid "TR:DIALOG:MOD01:00504"
+msgstr "……TrCan？"
+
+msgid "TR:DIALOG:MOD01:00505"
+msgstr "这时，TrRomin 才注意到 TrCan 早就挖了很远很远的距离。他叹了口气，追了过去。"
+
+msgid "TR:DIALOG:MOD01:00506"
+msgstr "TrRomin，你看。"
+
+msgid "TR:DIALOG:MOD01:00507"
+msgstr "TrRomin 追到了 TrCan 的身后，刚准备和 TrCan 询问之前设想的点子，就被眼前的景象震撼了。"
+
+msgid "TR:DIALOG:MOD01:00508"
+msgstr "繁茂洞穴。他们来到了繁茂洞穴。"
+
+msgid "TR:DIALOG:MOD01:00509"
+msgstr "哇……这是什么地方，好漂亮……"
+
+msgid "TR:DIALOG:MOD01:00510"
+msgstr "在他们踏入繁茂洞穴的下一刻，TrRomin 手上的信号指示器就嘀嘀地响了起来。"
+
+msgid "TR:DIALOG:MOD01:00511"
+msgstr "他看向指示器，上面标注了目标异常点离繁茂洞穴很近，甚至就在繁茂洞穴里。"
+
+msgid "TR:DIALOG:MOD01:00512"
+msgstr ""
+"于是 TrRomin 和 TrCan 互相看了对方一眼，随后 TrRomin 使用胸章向 TrGr 和 TrSeaon 他们队发送了会和位置变更的通知。"
+
+msgid "TR:DIALOG:MOD01:00513"
+msgstr "那我们继续前进吧，TrGr 他们一会儿就过来了。"
+
+msgid "TR:DIALOG:MOD01:00514"
+msgstr "好。"
+
+msgid "TR:DIALOG:MOD01:00515"
+msgstr "他们在前往异常点的路上，周边繁茂洞穴的环境非常漂亮，味道也比之前在石道里更宜人，空间也更加开阔，让两个人的心情都非常舒畅。"
+
+msgid "TR:DIALOG:MOD01:00516"
+msgstr "但心情舒畅并不代表危险不会来临。"
+
+msgid "TR:DIALOG:MOD01:00517"
+msgstr "一只骷髅正在他们左侧的草地里瞄准他们。"
+
+msgid "TR:DIALOG:MOD01:00518"
+msgstr "瞄准。"
+
+msgid "TR:DIALOG:MOD01:00519"
+msgstr "射击。"
+
+msgid "TR:DIALOG:MOD01:00520"
+msgstr "一只箭冲过他们的眼前。"
+
+msgid "TR:DIALOG:MOD01:00521"
+msgstr "怪物发起了袭击。"
+
+msgid "TR:DIALOG:MOD01:00522"
+msgstr "糟了！"
+
+msgid "TR:DIALOG:MOD01:00523"
+msgstr "！？"
+
+msgid "TR:DIALOG:MOD01:00524"
+msgstr "两人向左看去，那只骷髅已经抬起了手，拉起了弓。"
+
+msgid "TR:DIALOG:MOD01:00525"
+msgstr "又是一次射击。"
+
+msgid "TR:DIALOG:MOD01:00526"
+msgstr "这次那只箭从 TrCan 的头顶飞过，险些射进他的脑袋里。"
+
+msgid "TR:DIALOG:MOD01:00527"
+msgstr "这次没有射中，那下一次呢？"
+
+msgid "TR:DIALOG:MOD01:00528"
+msgstr "也许下一次就射中了他们的身体，那一切就都晚了。"
+
+msgid "TR:DIALOG:MOD01:00529"
+msgstr "TrRomin 不敢想接下来会发生什么，一把抓起 TrCan 的手，拉着他一路往前跑。"
+
+msgid "TR:DIALOG:MOD01:00530"
+msgstr "他不敢回头，因为他没有战斗经验，他玩挖掘与建造从来都是搞建筑的。"
+
+msgid "TR:DIALOG:MOD01:00531"
+msgstr "TrCan 则一直回头看，身后的怪物不止有骷髅，还有僵尸和苦力怕。"
+
+msgid "TR:DIALOG:MOD01:00532"
+msgstr ""
+"虽然 TrCan 打算放手一搏和那些怪物对抗，但考虑到目前只有他们俩，而且自己也没有挖掘与建造的战斗经验，所以出于理性考虑，逃跑是目前最好的选择。"
+
+msgid "TR:DIALOG:MOD01:00533"
+msgstr "而 TrRomin 已经在这么做了。"
+
+msgid "TR:DIALOG:MOD01:00534"
+msgstr "最后他们跑到了一颗树下，树前则是一个湖泊。"
+
+msgid "TR:DIALOG:MOD01:00535"
+msgstr "见怪物已经不再追着他们，TrRomin 悬着的心终于放了下来。"
+
+msgid "TR:DIALOG:MOD01:00536"
+msgstr "当然，还有两人互相握着的手，自然也松开了。"
+
+msgid "TR:DIALOG:MOD01:00537"
+msgstr "他们在树旁坐下，TrRomin 又向 TrGr 他们更新了会合地点，同时让他们留意沿途的怪物。"
+
+msgid "TR:DIALOG:MOD01:00538"
+msgstr "……"
+
+msgid "TR:DIALOG:MOD01:00539"
+msgstr "两个人自从坐到地上，一句话也没有说过。"
+
+msgid "TR:DIALOG:MOD01:00540"
+msgstr "因为想不到任何话题。"
+
+msgid "TR:DIALOG:MOD01:00541"
+msgstr "他们需要像 TrGr 这样的外向者来暖场和创建话题。"
+
+msgid "TR:DIALOG:MOD01:00542"
+msgstr "TrRomin 从地上捡起一块碎石，随后扔向了湖泊。"
+
+msgid "TR:DIALOG:MOD01:00543"
+msgstr "湖泊溅起点点水滴，里面的美西螈受到惊吓开始四散而逃。"
+
+msgid "TR:DIALOG:MOD01:00544"
+msgstr "TrCan 则在检查自己镐子的耐久度，显而易见，他的镐子仍没有任何破损的迹象，似乎真的是无限耐久。"
+
+msgid "TR:DIALOG:MOD01:00545"
+msgstr "……"
+
+msgid "TR:DIALOG:MOD01:00546"
+msgstr "TrCan 似乎想起了什么，他看向 TrRomin 左耳上的丝带。"
+
+msgid "TR:DIALOG:MOD01:00547"
+msgstr "TrRomin。"
+
+msgid "TR:DIALOG:MOD01:00548"
+msgstr "嗯？"
+
+msgid "TR:DIALOG:MOD01:00549"
+msgstr "你耳朵上的丝带真的会封印住你说的那个「怪物」吗？"
+
+msgid "TR:DIALOG:MOD01:00550"
+msgstr "TrCan 在说到怪物两个字的时候，也俏皮地弯曲食指和中指，表示引号的行为。"
+
+msgid "TR:DIALOG:MOD01:00551"
+msgstr "也许你不应该压抑着它，它不管怎么说，都是你身体的一部分。"
+
+msgid "TR:DIALOG:MOD01:00552"
+msgstr "TrCan 看着 TrRomin，而 TrRomin 则不再扔石头，低着头望着地面。"
+
+msgid "TR:DIALOG:MOD01:00553"
+msgstr "不。你不明白……它带给了我多大的痛苦……"
+
+msgid "TR:DIALOG:MOD01:00554"
+msgstr "它伤害了我的朋友……我曾经的朋友……如果不是因为它，我的朋友们……还……他们值得更好的人生……"
+
+msgid "TR:DIALOG:MOD01:00555"
+msgstr "而现在他们已经……他们和我们……已经……"
+
+msgid "TR:DIALOG:MOD01:00556"
+msgstr "TrCan 没想到 TrRomin 的反应会这么大，一时让他乱了阵脚。"
+
+msgid "TR:DIALOG:MOD01:00557"
+msgstr "呆了一瞬后，TrCan 挪了挪身子，让自己更接近 TrRomin。然后用右手搂住他的肩膀。"
+
+msgid "TR:DIALOG:MOD01:00558"
+msgstr "……"
+
+msgid "TR:DIALOG:MOD01:00559"
+msgstr "对不起。"
+
+msgid "TR:DIALOG:MOD01:00560"
+msgstr "我没想到这件事对你来说这么沉重。"
+
+msgid "TR:DIALOG:MOD01:00561"
+msgstr "而 TrRomin 则靠在 TrCan 的肩膀上，两人零距离，看起来非常亲密无间。"
+
+msgid "TR:DIALOG:MOD01:00562"
+msgstr "没关系。"
+
+msgid "TR:DIALOG:MOD01:00563"
+msgstr "总有一天我会让它也拥有情感，而不只是一个无情的杀戮机器。"
+
+msgid "TR:DIALOG:MOD01:00564"
+msgstr "TrRomin 望着湖泊，在此誓言。"
+
+msgid "TR:DIALOG:MOD01:00565"
+msgstr "唷！两人挺惬意啊！在这养老呢！"
+
+msgid "TR:DIALOG:MOD01:00566"
+msgstr "TrGr 和 TrSeaon 突然出现在 TrCan 和 TrRomin 身后，然后 TrGr 突然的大嗓门一下打破了原本的宁静。"
+
+msgid "TR:DIALOG:MOD01:00567"
+msgstr "让互相依偎的他们俩受到了百万点打击。"
+
+msgid "TR:DIALOG:MOD01:00568"
+msgstr "而 TrSeaon 则一直东瞅瞅西望望，面对如此美景，令他目不暇接，根本留意不到其他人在干什么。"
+
+msgid "TR:DIALOG:MOD01:00569"
+msgstr "要不是没带相机，他估计早已拍满一整组胶片。"
+
+msgid "TR:DIALOG:MOD01:00570"
+msgstr "紧接着 TrCan 的手瞬间收了回去，TrRomin 的头也硬生生地掰了回来，下一秒就拉开了一段距离，仿佛一切都没发生过一样。"
+
+msgid "TR:DIALOG:MOD01:00571"
+msgstr "最后他俩各自站了起来，能明显看到 TrRomin 的脸涨得通红，TrCan 也略显羞涩之态。"
+
+msgid "TR:DIALOG:MOD01:00572"
+msgstr "我、我们怎么就养老了！"
+
+msgid "TR:DIALOG:MOD01:00573"
+msgstr "只是在畅谈人生理想而已！"
+
+msgid "TR:DIALOG:MOD01:00574"
+msgstr "啊哈！"
+
+msgid "TR:DIALOG:MOD01:00575"
+msgstr "TrGr 一脸坏笑看着他们。"
+
+msgid "TR:DIALOG:MOD01:00576"
+msgstr "既、既然你们都回来了，那我们继续前进吧。"
+
+msgid "TR:DIALOG:MOD01:00577"
+msgstr "TrCan 抖了抖衣服上的灰尘，然后握住手中的镐子。"
+
+msgid "TR:DIALOG:MOD01:00578"
+msgstr "当然！不过在此之前，也许我们应该互相交换一下情报……什么的。"
+
+msgid "TR:DIALOG:MOD01:00579"
+msgstr "其他人听到 TrSeaon 的此番话，严肃的点了点头。"
+
+msgid "TR:DIALOG:MOD01:00580"
+msgstr "那就我先开始了！"
+
+msgid "TR:DIALOG:MOD01:00581"
+msgstr "我现在有一枚金苹果和一枚附魔金苹果，TrGr 说这是很有用的食物，但我并没有使用过，甚至是第一次听到……但 TrGr 不会骗我，我相信他。"
+
+msgid "TR:DIALOG:MOD01:00582"
+msgstr "TrSeaon 从背包里拿出了那两个苹果，将其平坦在手上让其他人——尤其是 TrRomin 和 TrCan ——查看。"
+
+msgid "TR:DIALOG:MOD01:00583"
+msgstr "金苹果确实是很贵重的物品，但附魔金苹果我还是第一次见！"
+
+msgid "TR:DIALOG:MOD01:00584"
+msgstr "应该会比金苹果加的增益更持久且更多吧。"
+
+msgid "TR:DIALOG:MOD01:00585"
+msgstr "嗯……希望如此，然后我还收到了一支唱片，也是 TrGr 给我的！这首歌叫另一侧，听他说我会很喜欢这个曲风！"
+
+msgid "TR:DIALOG:MOD01:00586"
+msgstr "等、等一下……你们不会遇到地牢了吧……？！"
+
+msgid "TR:DIALOG:MOD01:00587"
+msgstr "嗯。我们确实遇到了一个僵尸地牢，这个世界是存在怪物出没的。"
+
+msgid "TR:DIALOG:MOD01:00588"
+msgstr "啊！我之前还想提醒一下你们有怪物呢，没想到你们早就遇到了！"
+
+msgid "TR:DIALOG:MOD01:00589"
+msgstr "其实也没多久啦，我们也就在把僵尸都杀光光后的十来分钟收到了你的通知。"
+
+msgid "TR:DIALOG:MOD01:00590"
+msgstr "唔……好吧。"
+
+msgid "TR:DIALOG:MOD01:00591"
+msgstr "那你们是怎么过来我们这的？我们来的路上有很多怪物。"
+
+msgid "TR:DIALOG:MOD01:00592"
+msgstr "简单。把他们全杀了就好了。"
+
+msgid "TR:DIALOG:MOD01:00593"
+msgstr "TrGr 轻描淡写地一句话，却如同一支利箭，狠狠地戳进了 TrRomin 和 TrCan 的心。尤其是 TrRomin。"
+
+msgid "TR:DIALOG:MOD01:00594"
+msgstr "啥！？"
+
+msgid "TR:DIALOG:MOD01:00595"
+msgstr "不、不愧是 TrGr……！"
+
+msgid "TR:DIALOG:MOD01:00596"
+msgstr "TrRomin 满脸不可置信地看着 TrGr，然后和 TrCan 近乎同时向他竖起了大拇指。"
+
+msgid "TR:DIALOG:MOD01:00597"
+msgstr "厉害。以后有机会教教我如何杀敌。"
+
+msgid "TR:DIALOG:MOD01:00598"
+msgstr "当然！非常简单！"
+
+msgid "TR:DIALOG:MOD01:00599"
+msgstr "TrGr 双臂交叉，仰着头并吐出哼哼声，无时无刻的自信写在身上。"
+
+msgid "TR:DIALOG:MOD01:00600"
+msgstr "然后还有一件事，我们挖到钻石了！"
+
+msgid "TR:DIALOG:MOD01:00601"
+msgstr "哇！你们运气真好！概率这么低都能挖到！"
+
+msgid "TR:DIALOG:MOD01:00602"
+msgstr "其实……不是挖到的，是从废弃矿车里找到的。"
+
+msgid "TR:DIALOG:MOD01:00603"
+msgstr "哦……好吧……无伤大雅。"
+
+msgid "TR:DIALOG:MOD01:00604"
+msgstr "然后……我不确定以后还有没有机会……"
+
+msgid "TR:DIALOG:MOD01:00605"
+msgstr "请允许我使用一颗钻石合成一台唱片机。"
+
+msgid "TR:DIALOG:MOD01:00606"
+msgstr "随后，TrGr 掏出一个合成台，合成了一个唱片机，并将其交给了 TrSeaon。"
+
+msgid "TR:DIALOG:MOD01:00607"
+msgstr "希望你会喜欢这首歌，它听起来很欢快。"
+
+msgid "TR:DIALOG:MOD01:00608"
+msgstr "我当然会喜欢，毕竟是你送给我的。"
+
+msgid "TR:DIALOG:MOD01:00609"
+msgstr "嘿嘿。然后我还要再给 TrCan 一颗钻石，因为我觉得他会需要——作为材料研究使用。"
+
+msgid "TR:DIALOG:MOD01:00610"
+msgstr "谢谢。"
+
+msgid "TR:DIALOG:MOD01:00611"
+msgstr "TrGr 也交付给了 TrCan 一颗钻石，TrCan 将其握在手上，仔细端详着它的纹理、材质、屈光度等属性。"
+
+msgid "TR:DIALOG:MOD01:00612"
+msgstr "那你们的情报呢？"
+
+msgid "TR:DIALOG:MOD01:00613"
+msgstr "嗯……你们脚下的这片地就是我们唯一的情报。"
+
+msgid "TR:DIALOG:MOD01:00614"
+msgstr "没有其他的了？"
+
+msgid "TR:DIALOG:MOD01:00615"
+msgstr "没有了。我们什么都没挖到，就进来了这个……区域，还遇到了成群的怪物，差点儿把我们俩都了结了。对了，这片区域叫什么？"
+
+msgid "TR:DIALOG:MOD01:00616"
+msgstr "哦……太可惜了。"
+
+msgid "TR:DIALOG:MOD01:00617"
+msgstr "这片区域叫繁茂洞穴，是地下生物群系的一种，出现概率还蛮低的。"
+
+msgid "TR:DIALOG:MOD01:00618"
+msgstr "我甚至都不确定你们的运气到底是好还是差。"
+
+msgid "TR:DIALOG:MOD01:00619"
+msgstr "可能是好过头了，然后变成了极差。"
+
+msgid "TR:DIALOG:MOD01:00620"
+msgstr "情报都交换完了吧？我们继续前进？"
+
+msgid "TR:DIALOG:MOD01:00621"
+msgstr "其他人附和着， TrRomin 拿出信号指示器，带领着其他人向导航所指示的方位行进。"
+
+msgid "TR:DIALOG:MOD01:00622"
+msgstr "嗯……我们到了一个……死胡同？"
+
+msgid "TR:DIALOG:MOD01:00623"
+msgstr "他们来到了一个由相同方块构成的墙壁前，这个方块由深灰色和深绿色构成，看起来和繁茂洞穴里的其他方块非常不一样，显得很不协调。"
+
+msgid "TR:DIALOG:MOD01:00624"
+msgstr "TrCan 已经抽出镐子，准备去挖掉它们。"
+
+msgid "TR:DIALOG:MOD01:00625"
+msgstr "等一下。这些方块是强化深板岩，是挖掘与建造里硬度特别高的一种方块，用镐子得挖好久。"
+
+msgid "TR:DIALOG:MOD01:00626"
+msgstr "但强化深板岩怎么会出现在繁茂洞穴呢……？这不应该生成在远古城市里吗？"
+
+msgid "TR:DIALOG:MOD01:00627"
+msgstr "TrCan 听到 TrGr 这么一说便停下了手中的动作，回头看着他。"
+
+msgid "TR:DIALOG:MOD01:00628"
+msgstr "TrGr 托着下巴思考着。"
+
+msgid "TR:DIALOG:MOD01:00629"
+msgstr "用炸药可以炸开吗？"
+
+msgid "TR:DIALOG:MOD01:00630"
+msgstr "不可以，它的爆炸强度也非常高，挖掘与建造里的炸药炸不开这类方块。"
+
+msgid "TR:DIALOG:MOD01:00631"
+msgstr "也许我自己的炸药可以炸开。"
+
+msgid "TR:DIALOG:MOD01:00632"
+msgstr "哦！也许真的可以！值得一试。"
+
+msgid "TR:DIALOG:MOD01:00633"
+msgstr "但我们现在还不知道这栋墙壁的厚度……"
+
+msgid "TR:DIALOG:MOD01:00634"
+msgstr "没关系。一枚炸药不够就再加上一枚。"
+
+msgid "TR:DIALOG:MOD01:00635"
+msgstr "我这次带了很多炸药。"
+
+msgid "TR:DIALOG:MOD01:00636"
+msgstr "TrCan 从腰包拿出一块炸药，炸药是正方体的，看起来很袖珍，但不知道威力如何。"
+
+msgid "TR:DIALOG:MOD01:00637"
+msgstr "为了安全起见，第一次试炸我不会把爆炸指数调到最高。"
+
+msgid "TR:DIALOG:MOD01:00638"
+msgstr "现在是百分之七十。"
+
+msgid "TR:DIALOG:MOD01:00639"
+msgstr "所有人离炸药点至少二十五米远。"
+
+msgid "TR:DIALOG:MOD01:00640"
+msgstr "待其他人都离远了后，TrCan 在炸药身上设定了一个十秒的倒计时，随后他也一路快跑到了其他人身旁。"
+
+msgid "TR:DIALOG:MOD01:00641"
+msgstr "随着一声巨响，墙面被炸开，暴露出了一个圆形的空心墙壁，墙对侧的样子隐约可见。"
+
+msgid "TR:DIALOG:MOD01:00642"
+msgstr "看来是炸开了。"
+
+msgid "TR:DIALOG:MOD01:00643"
+msgstr "很好，看来 TrCan 的炸药爆炸威力至少是一千二。"
+
+msgid "TR:DIALOG:MOD01:00644"
+msgstr "那我们继续前进。"

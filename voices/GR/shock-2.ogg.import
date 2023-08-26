@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/shock-2.ogg-0bc13175f7653d58aba19b150a007037.oggstr"
+
+[deps]
+
+source_file="res://voices/GR/shock-2.ogg"
+dest_files=[ "res://.import/shock-2.ogg-0bc13175f7653d58aba19b150a007037.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

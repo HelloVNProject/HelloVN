@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/shock.ogg-2a4ec801a023f7f9a3f46633c4de7764.oggstr"
+
+[deps]
+
+source_file="res://voices/Amorog/shock.ogg"
+dest_files=[ "res://.import/shock.ogg-2a4ec801a023f7f9a3f46633c4de7764.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

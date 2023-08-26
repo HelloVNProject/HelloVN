@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/shock.ogg-8db745f1fb2382419358f1443c6f6d47.oggstr"
+
+[deps]
+
+source_file="res://voices/Ten/shock.ogg"
+dest_files=[ "res://.import/shock.ogg-8db745f1fb2382419358f1443c6f6d47.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

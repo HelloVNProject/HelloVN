@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/sigh.ogg-8a24df31d5f384963cabc571a42b3d0c.oggstr"
+
+[deps]
+
+source_file="res://voices/Amorog/sigh.ogg"
+dest_files=[ "res://.import/sigh.ogg-8a24df31d5f384963cabc571a42b3d0c.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

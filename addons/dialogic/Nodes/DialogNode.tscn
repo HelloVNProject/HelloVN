@@ -1,0 +1,237 @@
+[gd_scene load_steps=18 format=2]
+
+[ext_resource path="res://addons/dialogic/Nodes/TextBubble.tscn" type="PackedScene" id=1]
+[ext_resource path="res://addons/dialogic/Example Assets/backgrounds/GlossaryBackground.tres" type="StyleBox" id=2]
+[ext_resource path="res://addons/dialogic/Nodes/CharacterVoice.gd" type="Script" id=3]
+[ext_resource path="res://addons/dialogic/Example Assets/Fonts/GlossaryFont.tres" type="DynamicFont" id=4]
+[ext_resource path="res://addons/dialogic/Nodes/glossary_info.gd" type="Script" id=5]
+[ext_resource path="res://addons/dialogic/Nodes/DialogNode.gd" type="Script" id=6]
+[ext_resource path="res://addons/dialogic/Nodes/BackgroundMusic.tscn" type="PackedScene" id=7]
+[ext_resource path="res://addons/dialogic/Nodes/random_audio_stream_player.gd" type="Script" id=8]
+[ext_resource path="res://addons/dialogic/Example Assets/Sound Effects/Beep.wav" type="AudioStream" id=9]
+[ext_resource path="res://addons/dialogic/Nodes/DialogicCustomEvents.gd" type="Script" id=10]
+[ext_resource path="res://addons/dialogic/Nodes/History.tscn" type="PackedScene" id=11]
+[ext_resource path="res://scenes/components/MenuAfterEsc.tscn" type="PackedScene" id=12]
+[ext_resource path="res://images/icons/menu-block.png" type="Texture" id=13]
+
+[sub_resource type="Gradient" id=3]
+colors = PoolColorArray( 0, 0, 0, 1, 0, 0, 0, 1 )
+
+[sub_resource type="GradientTexture" id=4]
+gradient = SubResource( 3 )
+width = 1920
+
+[sub_resource type="StyleBoxFlat" id=1]
+bg_color = Color( 1, 1, 1, 0 )
+expand_margin_left = 10.0
+
+[sub_resource type="RectangleShape2D" id=2]
+extents = Vector2( 1920, 1080 )
+
+[node name="DialogNode" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 6 )
+
+[node name="PlayedTimeTimer" type="Timer" parent="."]
+process_mode = 0
+autostart = true
+
+[node name="TweenFilm" type="Tween" parent="."]
+
+[node name="FX" type="Control" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 2
+__meta__ = {
+"_edit_group_": true
+}
+
+[node name="BackgroundMusic" parent="FX" instance=ExtResource( 7 )]
+
+[node name="CharacterVoice" type="AudioStreamPlayer" parent="FX"]
+script = ExtResource( 3 )
+
+[node name="Audio" type="Node" parent="FX"]
+
+[node name="Typing" type="AudioStreamPlayer" parent="FX/Audio"]
+script = ExtResource( 8 )
+samples = [ ExtResource( 9 ) ]
+random_strategy = 2
+
+[node name="Waiting" type="AudioStreamPlayer" parent="FX/Audio"]
+script = ExtResource( 8 )
+samples = [ ExtResource( 9 ) ]
+random_strategy = 2
+
+[node name="Passing" type="AudioStreamPlayer" parent="FX/Audio"]
+script = ExtResource( 8 )
+samples = [ ExtResource( 9 ) ]
+random_strategy = 2
+
+[node name="Hovering" type="AudioStreamPlayer" parent="FX/Audio"]
+script = ExtResource( 8 )
+samples = [ ExtResource( 9 ) ]
+random_strategy = 2
+
+[node name="Selecting" type="AudioStreamPlayer" parent="FX/Audio"]
+script = ExtResource( 8 )
+samples = [ ExtResource( 9 ) ]
+random_strategy = 2
+
+[node name="FilmModeTop" type="Sprite" parent="."]
+modulate = Color( 0.67451, 0.215686, 0.215686, 1 )
+texture = SubResource( 4 )
+centered = false
+
+[node name="Tween" type="Tween" parent="FilmModeTop"]
+
+[node name="PortaitsCanvas" type="Sprite" parent="."]
+
+[node name="Portraits" type="Control" parent="PortaitsCanvas"]
+unique_name_in_owner = true
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+margin_left = 959.5
+margin_top = 1079.0
+margin_right = 959.5
+margin_bottom = 1079.0
+
+[node name="FilmModeBottom" type="Sprite" parent="."]
+modulate = Color( 0.67451, 0.215686, 0.215686, 1 )
+position = Vector2( 0, 1080 )
+scale = Vector2( 1, 139 )
+texture = SubResource( 4 )
+centered = false
+
+[node name="Tween" type="Tween" parent="FilmModeBottom"]
+
+[node name="TextBubble" parent="." instance=ExtResource( 1 )]
+unique_name_in_owner = true
+margin_left = -960.0
+margin_top = -250.0
+margin_right = 960.0
+margin_bottom = 0.0
+
+[node name="Options" type="VBoxContainer" parent="."]
+visible = false
+margin_right = 1920.0
+margin_bottom = 1080.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+alignment = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="DefinitionInfo" type="PanelContainer" parent="."]
+visible = false
+margin_right = 208.0
+mouse_filter = 1
+size_flags_horizontal = 3
+size_flags_vertical = 3
+custom_styles/panel = ExtResource( 2 )
+script = ExtResource( 5 )
+__meta__ = {
+"_edit_group_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="VBoxContainer" type="VBoxContainer" parent="DefinitionInfo"]
+margin_right = 208.0
+margin_bottom = 89.0
+size_flags_horizontal = 3
+size_flags_vertical = 2
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Title" type="RichTextLabel" parent="DefinitionInfo/VBoxContainer"]
+margin_right = 208.0
+margin_bottom = 27.0
+size_flags_horizontal = 3
+size_flags_vertical = 4
+custom_colors/default_color = Color( 1, 1, 1, 1 )
+custom_fonts/normal_font = ExtResource( 4 )
+custom_styles/normal = SubResource( 1 )
+bbcode_enabled = true
+bbcode_text = "This is the title"
+text = "This is the title"
+fit_content_height = true
+scroll_active = false
+
+[node name="Content" type="RichTextLabel" parent="DefinitionInfo/VBoxContainer"]
+margin_top = 31.0
+margin_right = 208.0
+margin_bottom = 58.0
+size_flags_horizontal = 3
+custom_colors/default_color = Color( 0.756863, 0.756863, 0.756863, 1 )
+custom_fonts/normal_font = ExtResource( 4 )
+custom_styles/normal = SubResource( 1 )
+bbcode_enabled = true
+fit_content_height = true
+scroll_active = false
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Extra" type="RichTextLabel" parent="DefinitionInfo/VBoxContainer"]
+margin_top = 62.0
+margin_right = 208.0
+margin_bottom = 89.0
+size_flags_horizontal = 3
+custom_colors/default_color = Color( 0.756863, 0.756863, 0.756863, 1 )
+custom_fonts/normal_font = ExtResource( 4 )
+custom_styles/normal = SubResource( 1 )
+bbcode_enabled = true
+fit_content_height = true
+scroll_active = false
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Timer" type="Timer" parent="DefinitionInfo"]
+
+[node name="OptionsDelayedInput" type="Timer" parent="."]
+
+[node name="DialogicTimer" type="Timer" parent="."]
+one_shot = true
+
+[node name="CustomEvents" type="Node" parent="."]
+script = ExtResource( 10 )
+
+[node name="TouchScreenButton" type="TouchScreenButton" parent="."]
+shape = SubResource( 2 )
+shape_visible = false
+action = "dialogic_default_action"
+visibility_mode = 1
+
+[node name="MenuBlock" type="TextureRect" parent="."]
+anchor_left = 1.0
+anchor_right = 1.0
+margin_left = -120.0
+margin_bottom = 120.0
+mouse_filter = 0
+mouse_default_cursor_shape = 2
+texture = ExtResource( 13 )
+expand = true
+stretch_mode = 4
+
+[node name="MenuAfterEsc" parent="." instance=ExtResource( 12 )]
+visible = false
+
+[node name="History" parent="." instance=ExtResource( 11 )]
+margin_top = 1.0
+margin_bottom = 1.0
+
+[connection signal="dialogic_signal" from="." to="." method="_on_DialogNode_dialogic_signal"]
+[connection signal="timeout" from="PlayedTimeTimer" to="." method="_on_played_time_timer_timeout"]
+[connection signal="timeout" from="DefinitionInfo/Timer" to="." method="_on_Definition_Timer_timeout"]
+[connection signal="gui_input" from="MenuBlock" to="." method="_on_MenuBlock_gui_input"]
+[connection signal="mouse_entered" from="MenuBlock" to="." method="_on_MenuBlock_mouse_entered"]
+[connection signal="mouse_exited" from="MenuBlock" to="." method="_on_MenuBlock_mouse_exited"]

@@ -1,0 +1,113 @@
+{
+	"color": "#fff7f4e5",
+	"description": "",
+	"display_name": "Seaon",
+	"display_name_bool": true,
+	"id": "character-1687008388.json",
+	"mirror_portraits": false,
+	"name": "Seaon",
+	"nickname": "TR:SEAON:FULLNAME",
+	"nickname_bool": true,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://images/sprites/seaon/Default.png"
+		},
+		{
+			"name": "Angry",
+			"path": "res://images/sprites/seaon/Angry.png"
+		},
+		{
+			"name": "Doubt",
+			"path": "res://images/sprites/seaon/Doubt.png"
+		},
+		{
+			"name": "Happy",
+			"path": "res://images/sprites/seaon/Happy.png"
+		},
+		{
+			"name": "Shock",
+			"path": "res://images/sprites/seaon/Shock.png"
+		},
+		{
+			"name": "Tense",
+			"path": "res://images/sprites/seaon/Tense.png"
+		},
+		{
+			"name": "Angry Clean NoPack",
+			"path": "res://images/sprites/seaon/clean no-pack/Angry.png"
+		},
+		{
+			"name": "Default Clean NoPack",
+			"path": "res://images/sprites/seaon/clean no-pack/Default.png"
+		},
+		{
+			"name": "Doubt Clean NoPack",
+			"path": "res://images/sprites/seaon/clean no-pack/Doubt.png"
+		},
+		{
+			"name": "Happy Clean NoPack",
+			"path": "res://images/sprites/seaon/clean no-pack/Happy.png"
+		},
+		{
+			"name": "Shock Clean NoPack",
+			"path": "res://images/sprites/seaon/clean no-pack/Shock.png"
+		},
+		{
+			"name": "Tense Clean NoPack",
+			"path": "res://images/sprites/seaon/clean no-pack/Tense.png"
+		},
+		{
+			"name": "Angry Dust NoPack",
+			"path": "res://images/sprites/seaon/dust no-pack/Angry.png"
+		},
+		{
+			"name": "Default Dust NoPack",
+			"path": "res://images/sprites/seaon/dust no-pack/Default.png"
+		},
+		{
+			"name": "Doubt Dust NoPack",
+			"path": "res://images/sprites/seaon/dust no-pack/Doubt.png"
+		},
+		{
+			"name": "Happy Dust NoPack",
+			"path": "res://images/sprites/seaon/dust no-pack/Happy.png"
+		},
+		{
+			"name": "Shock Dust NoPack",
+			"path": "res://images/sprites/seaon/dust no-pack/Shock.png"
+		},
+		{
+			"name": "Tense Dust NoPack",
+			"path": "res://images/sprites/seaon/dust no-pack/Tense.png"
+		},
+		{
+			"name": "Angry Dust Pack",
+			"path": "res://images/sprites/seaon/dust pack/Angry.png"
+		},
+		{
+			"name": "Default Dust Pack",
+			"path": "res://images/sprites/seaon/dust pack/Default.png"
+		},
+		{
+			"name": "Doubt Dust Pack",
+			"path": "res://images/sprites/seaon/dust pack/Doubt.png"
+		},
+		{
+			"name": "Happy Dust Pack",
+			"path": "res://images/sprites/seaon/dust pack/Happy.png"
+		},
+		{
+			"name": "Shock Dust Pack",
+			"path": "res://images/sprites/seaon/dust pack/Shock.png"
+		},
+		{
+			"name": "Tense Dust Pack",
+			"path": "res://images/sprites/seaon/dust pack/Tense.png"
+		}
+	],
+	"scale": 55,
+	"theme": ""
+}

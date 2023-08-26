@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Percussion.ogg-8c5389ba1afe4798228987addf581031.oggstr"
+
+[deps]
+
+source_file="res://musics/Percussion.ogg"
+dest_files=[ "res://.import/Percussion.ogg-8c5389ba1afe4798228987addf581031.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

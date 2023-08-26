@@ -1,0 +1,97 @@
+{
+	"color": "#ffdcc0a7",
+	"description": "",
+	"display_name": "Can",
+	"display_name_bool": true,
+	"id": "character-1686896674.json",
+	"mirror_portraits": false,
+	"name": "Can",
+	"nickname": "TR:CAN:FULLNAME",
+	"nickname_bool": true,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://images/sprites/can/Default.png"
+		},
+		{
+			"name": "Shocked",
+			"path": "res://images/sprites/can/Shock.png"
+		},
+		{
+			"name": "Smile",
+			"path": "res://images/sprites/can/Happy.png"
+		},
+		{
+			"name": "Suspect",
+			"path": "res://images/sprites/can/Doubt.png"
+		},
+		{
+			"name": "Tense",
+			"path": "res://images/sprites/can/Tense.png"
+		},
+		{
+			"name": "Default Dust",
+			"path": "res://images/sprites/can/dust/Default.png"
+		},
+		{
+			"name": "Shocked Dust",
+			"path": "res://images/sprites/can/dust/Shock.png"
+		},
+		{
+			"name": "Smile Dust",
+			"path": "res://images/sprites/can/dust/Happy.png"
+		},
+		{
+			"name": "Suspect Dust",
+			"path": "res://images/sprites/can/dust/Doubt.png"
+		},
+		{
+			"name": "Tense Dust",
+			"path": "res://images/sprites/can/dust/Tense.png"
+		},
+		{
+			"name": "Default Light",
+			"path": "res://images/sprites/can/light/Default.png"
+		},
+		{
+			"name": "Shocked Dust",
+			"path": "res://images/sprites/can/dust/Shock.png"
+		},
+		{
+			"name": "Smile Dust",
+			"path": "res://images/sprites/can/dust/Happy.png"
+		},
+		{
+			"name": "Suspect Dust",
+			"path": "res://images/sprites/can/dust/Doubt.png"
+		},
+		{
+			"name": "Tense Dust",
+			"path": "res://images/sprites/can/dust/Tense.png"
+		},
+		{
+			"name": "Default Dust Light",
+			"path": "res://images/sprites/can/dust light/Default.png"
+		},
+		{
+			"name": "Shocked Dust Light",
+			"path": "res://images/sprites/can/dust light/Shock.png"
+		},
+		{
+			"name": "Smile Dust Light",
+			"path": "res://images/sprites/can/dust light/Happy.png"
+		},
+		{
+			"name": "Suspect Dust Light",
+			"path": "res://images/sprites/can/dust light/Doubt.png"
+		},
+		{
+			"name": "Tense Dust Light",
+			"path": "res://images/sprites/can/dust light/Tense.png"
+		}
+	],
+	"scale": 57,
+	"theme": ""
+}

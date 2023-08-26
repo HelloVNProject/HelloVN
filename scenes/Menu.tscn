@@ -1,0 +1,313 @@
+[gd_scene load_steps=11 format=2]
+
+[ext_resource path="res://shaders/blur.shader" type="Shader" id=1]
+[ext_resource path="res://musics/Hello.ogg" type="AudioStream" id=2]
+[ext_resource path="res://fonts/harmony-os-sans-sc/HarmonyOS_Sans_SC_Black.ttf" type="DynamicFontData" id=4]
+[ext_resource path="res://images/cgs/cave-investgating-only-bg.webp" type="Texture" id=5]
+[ext_resource path="res://fonts/harmony-os-sans-sc/DefaultBoldFont.tres" type="DynamicFont" id=6]
+[ext_resource path="res://scenes/Menu.gd" type="Script" id=7]
+[ext_resource path="res://fonts/harmony-os-sans-sc/DefaultFont.tres" type="DynamicFont" id=8]
+[ext_resource path="res://images/white.png" type="Texture" id=10]
+
+[sub_resource type="DynamicFont" id=2]
+size = 176
+outline_size = 4
+extra_spacing_char = -10
+font_data = ExtResource( 4 )
+
+[sub_resource type="ShaderMaterial" id=3]
+shader = ExtResource( 1 )
+shader_param/amount = 2.5
+
+[node name="Menu" type="Control"]
+script = ExtResource( 7 )
+
+[node name="Tween Click" type="Tween" parent="."]
+
+[node name="Tween" type="Tween" parent="."]
+
+[node name="BGM" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 2 )
+autoplay = true
+bus = "Music"
+
+[node name="BG" type="TextureRect" parent="."]
+visible = false
+margin_right = 40.0
+margin_bottom = 40.0
+texture = ExtResource( 5 )
+
+[node name="Title" type="Label" parent="."]
+margin_left = 120.0
+margin_top = 98.0
+margin_right = 1000.0
+margin_bottom = 305.0
+custom_colors/font_color = Color( 1, 1, 1, 1 )
+custom_colors/font_outline_modulate = Color( 0, 0, 0, 1 )
+custom_fonts/font = SubResource( 2 )
+text = "TR:MENU:TITLE"
+uppercase = true
+
+[node name="Bottom Info" type="Label" parent="."]
+margin_left = 8.0
+margin_top = 1034.0
+margin_right = 535.0
+margin_bottom = 1070.0
+custom_fonts/font = ExtResource( 8 )
+text = "Hello VN Build 1. Made by Rominwolf."
+
+[node name="Continue" type="Control" parent="."]
+margin_left = 120.0
+margin_top = 360.0
+margin_right = 479.0
+margin_bottom = 413.0
+mouse_filter = 1
+mouse_default_cursor_shape = 2
+
+[node name="White BG Left" type="ColorRect" parent="Continue"]
+margin_bottom = 53.0
+mouse_default_cursor_shape = 2
+
+[node name="White BG Right" type="ColorRect" parent="Continue"]
+margin_left = 344.0
+margin_right = 344.0
+margin_bottom = 53.0
+
+[node name="Transparent BG" type="ColorRect" parent="Continue"]
+margin_right = 360.0
+margin_bottom = 53.0
+mouse_default_cursor_shape = 2
+color = Color( 0, 0, 0, 0.0784314 )
+
+[node name="Title" type="Label" parent="Continue"]
+margin_top = 4.0
+margin_right = 360.0
+margin_bottom = 52.0
+custom_colors/font_color = Color( 1, 1, 1, 1 )
+custom_fonts/font = ExtResource( 6 )
+text = "TR:MENU:CONTINUE"
+
+[node name="New" type="Control" parent="."]
+margin_left = 120.0
+margin_top = 460.0
+margin_right = 479.0
+margin_bottom = 513.0
+mouse_filter = 1
+mouse_default_cursor_shape = 2
+
+[node name="White BG Left" type="ColorRect" parent="New"]
+margin_bottom = 53.0
+mouse_default_cursor_shape = 2
+
+[node name="White BG Right" type="ColorRect" parent="New"]
+margin_left = 344.0
+margin_right = 344.0
+margin_bottom = 53.0
+
+[node name="Transparent BG" type="ColorRect" parent="New"]
+margin_right = 360.0
+margin_bottom = 53.0
+mouse_default_cursor_shape = 2
+color = Color( 0, 0, 0, 0.0784314 )
+
+[node name="Title" type="Label" parent="New"]
+margin_top = 4.0
+margin_right = 360.0
+margin_bottom = 52.0
+custom_colors/font_color = Color( 1, 1, 1, 1 )
+custom_fonts/font = ExtResource( 6 )
+text = "TR:MENU:NEW"
+
+[node name="Archive" type="Control" parent="."]
+margin_left = 120.0
+margin_top = 562.0
+margin_right = 479.0
+margin_bottom = 615.0
+mouse_filter = 1
+mouse_default_cursor_shape = 2
+
+[node name="White BG Left" type="ColorRect" parent="Archive"]
+margin_bottom = 53.0
+mouse_default_cursor_shape = 2
+
+[node name="White BG Right" type="ColorRect" parent="Archive"]
+margin_left = 344.0
+margin_right = 344.0
+margin_bottom = 53.0
+
+[node name="Transparent BG" type="ColorRect" parent="Archive"]
+margin_right = 360.0
+margin_bottom = 53.0
+mouse_default_cursor_shape = 2
+color = Color( 0, 0, 0, 0.0784314 )
+
+[node name="Title" type="Label" parent="Archive"]
+margin_top = 4.0
+margin_right = 360.0
+margin_bottom = 52.0
+custom_colors/font_color = Color( 1, 1, 1, 1 )
+custom_fonts/font = ExtResource( 6 )
+text = "TR:MENU:ARCHIVE"
+
+[node name="Chapter" type="Control" parent="."]
+visible = false
+margin_left = 120.0
+margin_top = 562.0
+margin_right = 479.0
+margin_bottom = 615.0
+mouse_filter = 1
+mouse_default_cursor_shape = 2
+
+[node name="White BG Left" type="ColorRect" parent="Chapter"]
+margin_bottom = 53.0
+mouse_default_cursor_shape = 2
+
+[node name="White BG Right" type="ColorRect" parent="Chapter"]
+margin_left = 344.0
+margin_right = 344.0
+margin_bottom = 53.0
+
+[node name="Transparent BG" type="ColorRect" parent="Chapter"]
+margin_right = 360.0
+margin_bottom = 53.0
+mouse_default_cursor_shape = 2
+color = Color( 0, 0, 0, 0.0784314 )
+
+[node name="Title" type="Label" parent="Chapter"]
+margin_top = 4.0
+margin_right = 360.0
+margin_bottom = 52.0
+custom_colors/font_color = Color( 1, 1, 1, 1 )
+custom_fonts/font = ExtResource( 6 )
+text = "TR:MENU:CHAPTER"
+
+[node name="Option" type="Control" parent="."]
+margin_left = 120.0
+margin_top = 663.0
+margin_right = 479.0
+margin_bottom = 716.0
+mouse_filter = 1
+mouse_default_cursor_shape = 2
+
+[node name="White BG Left" type="ColorRect" parent="Option"]
+margin_bottom = 53.0
+mouse_default_cursor_shape = 2
+
+[node name="White BG Right" type="ColorRect" parent="Option"]
+margin_left = 344.0
+margin_right = 344.0
+margin_bottom = 53.0
+
+[node name="Transparent BG" type="ColorRect" parent="Option"]
+margin_right = 360.0
+margin_bottom = 53.0
+mouse_default_cursor_shape = 2
+color = Color( 0, 0, 0, 0.0784314 )
+
+[node name="Title" type="Label" parent="Option"]
+margin_top = 4.0
+margin_right = 360.0
+margin_bottom = 52.0
+custom_colors/font_color = Color( 1, 1, 1, 1 )
+custom_fonts/font = ExtResource( 6 )
+text = "TR:MENU:OPTION"
+
+[node name="Extra" type="Control" parent="."]
+margin_left = 120.0
+margin_top = 764.0
+margin_right = 479.0
+margin_bottom = 817.0
+mouse_filter = 1
+mouse_default_cursor_shape = 2
+
+[node name="White BG Left" type="ColorRect" parent="Extra"]
+margin_bottom = 53.0
+mouse_default_cursor_shape = 2
+
+[node name="White BG Right" type="ColorRect" parent="Extra"]
+margin_left = 344.0
+margin_right = 344.0
+margin_bottom = 53.0
+
+[node name="Transparent BG" type="ColorRect" parent="Extra"]
+margin_right = 360.0
+margin_bottom = 53.0
+mouse_default_cursor_shape = 2
+color = Color( 0, 0, 0, 0.0784314 )
+
+[node name="Title" type="Label" parent="Extra"]
+margin_top = 4.0
+margin_right = 360.0
+margin_bottom = 52.0
+custom_colors/font_color = Color( 1, 1, 1, 1 )
+custom_fonts/font = ExtResource( 6 )
+text = "TR:MENU:EXTRA"
+
+[node name="Exit" type="Control" parent="."]
+margin_left = 120.0
+margin_top = 865.0
+margin_right = 479.0
+margin_bottom = 918.0
+mouse_filter = 1
+mouse_default_cursor_shape = 2
+
+[node name="White BG Left" type="ColorRect" parent="Exit"]
+margin_bottom = 53.0
+mouse_default_cursor_shape = 2
+
+[node name="White BG Right" type="ColorRect" parent="Exit"]
+margin_left = 344.0
+margin_right = 344.0
+margin_bottom = 53.0
+
+[node name="Transparent BG" type="ColorRect" parent="Exit"]
+margin_right = 360.0
+margin_bottom = 53.0
+mouse_default_cursor_shape = 2
+color = Color( 0, 0, 0, 0.0784314 )
+
+[node name="Title" type="Label" parent="Exit"]
+margin_top = 4.0
+margin_right = 360.0
+margin_bottom = 52.0
+custom_colors/font_color = Color( 1, 1, 1, 1 )
+custom_fonts/font = ExtResource( 6 )
+text = "TR:MENU:EXIT"
+
+[node name="BlurBG" type="TextureRect" parent="."]
+visible = false
+modulate = Color( 1, 1, 1, 0 )
+material = SubResource( 3 )
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_right = 1920.0
+margin_bottom = 1080.0
+size_flags_horizontal = 2
+size_flags_vertical = 2
+texture = ExtResource( 10 )
+expand = true
+
+[node name="Dialogic" type="CanvasLayer" parent="."]
+
+[connection signal="tween_all_completed" from="Tween Click" to="." method="_on_Tween_Click_tween_all_completed"]
+[connection signal="gui_input" from="Continue/Transparent BG" to="." method="_on_Buttons_gui_input" binds= [ "Continue" ]]
+[connection signal="mouse_entered" from="Continue/Transparent BG" to="." method="_on_Buttons_mouse_entered" flags=3 binds= [ "Continue" ]]
+[connection signal="mouse_exited" from="Continue/Transparent BG" to="." method="_on_Buttons_mouse_exited" binds= [ "Continue" ]]
+[connection signal="gui_input" from="New/Transparent BG" to="." method="_on_Buttons_gui_input" binds= [ "New" ]]
+[connection signal="mouse_entered" from="New/Transparent BG" to="." method="_on_Buttons_mouse_entered" flags=3 binds= [ "New" ]]
+[connection signal="mouse_exited" from="New/Transparent BG" to="." method="_on_Buttons_mouse_exited" binds= [ "New" ]]
+[connection signal="gui_input" from="Archive/Transparent BG" to="." method="_on_Buttons_gui_input" binds= [ "Archive" ]]
+[connection signal="mouse_entered" from="Archive/Transparent BG" to="." method="_on_Buttons_mouse_entered" flags=3 binds= [ "Archive" ]]
+[connection signal="mouse_exited" from="Archive/Transparent BG" to="." method="_on_Buttons_mouse_exited" binds= [ "Archive" ]]
+[connection signal="gui_input" from="Chapter/Transparent BG" to="." method="_on_Buttons_gui_input" binds= [ "Chapter" ]]
+[connection signal="mouse_entered" from="Chapter/Transparent BG" to="." method="_on_Buttons_mouse_entered" flags=3 binds= [ "Chapter" ]]
+[connection signal="mouse_exited" from="Chapter/Transparent BG" to="." method="_on_Buttons_mouse_exited" binds= [ "Chapter" ]]
+[connection signal="gui_input" from="Option/Transparent BG" to="." method="_on_Buttons_gui_input" binds= [ "Option" ]]
+[connection signal="mouse_entered" from="Option/Transparent BG" to="." method="_on_Buttons_mouse_entered" binds= [ "Option" ]]
+[connection signal="mouse_exited" from="Option/Transparent BG" to="." method="_on_Buttons_mouse_exited" binds= [ "Option" ]]
+[connection signal="gui_input" from="Extra/Transparent BG" to="." method="_on_Buttons_gui_input" binds= [ "Extra" ]]
+[connection signal="mouse_entered" from="Extra/Transparent BG" to="." method="_on_Buttons_mouse_entered" binds= [ "Extra" ]]
+[connection signal="mouse_exited" from="Extra/Transparent BG" to="." method="_on_Buttons_mouse_exited" binds= [ "Extra" ]]
+[connection signal="gui_input" from="Exit/Transparent BG" to="." method="_on_Buttons_gui_input" binds= [ "Exit" ]]
+[connection signal="mouse_entered" from="Exit/Transparent BG" to="." method="_on_Buttons_mouse_entered" binds= [ "Exit" ]]
+[connection signal="mouse_exited" from="Exit/Transparent BG" to="." method="_on_Buttons_mouse_exited" binds= [ "Exit" ]]

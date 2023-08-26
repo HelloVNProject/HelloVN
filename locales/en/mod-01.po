@@ -1,0 +1,2463 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mod-01.po conversion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-22 01:25-0700\n"
+"PO-Revision-Date: 2023-08-22 01:25-0700\n"
+"Last-Translator: \n"
+"Language-Team: ChatGPT (OpenAI)\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz\n"
+"X-Loco-Source-Locale: en-US\n"
+"X-Loco-Api-Version: 1.0.28 20230809-1"
+
+msgid "TR:DIALOG:MOD01:00001"
+msgstr ""
+"Reading archive:\n"
+"#ARCH:DGR:22481:002"
+
+msgid "TR:DIALOG:MOD01:00002"
+msgstr "Archive read successfully."
+
+msgid "TR:DIALOG:MOD01:00003"
+msgstr ""
+"Archive record time:\n"
+"224th year, August 1st, 10:00 AM."
+
+msgid "TR:DIALOG:MOD01:00004"
+msgstr "Location: Far from the city, near the outskirts in a field."
+
+msgid "TR:DIALOG:MOD01:00005"
+msgstr ""
+"The silhouette of the city can be seen in the distance, and there's a mine "
+"not far away."
+
+msgid "TR:DIALOG:MOD01:00006"
+msgstr "Four figures appear under the shade of the trees."
+
+msgid "TR:DIALOG:MOD01:00007"
+msgstr "\"I never realized before, our city looks so beautiful!\""
+
+msgid "TR:DIALOG:MOD01:00008"
+msgstr ""
+"The exploration team stands under the shade, gazing at the distant city."
+
+msgid "TR:DIALOG:MOD01:00009"
+msgstr "\"Because we never had the time to go out.\""
+
+msgid "TR:DIALOG:MOD01:00010"
+msgstr "\"Yeah...\""
+
+msgid "TR:DIALOG:MOD01:00011"
+msgstr "TrSeaon quietly rests his right arm on TrCan's shoulder."
+
+msgid "TR:DIALOG:MOD01:00012"
+msgstr "The latter doesn't react much."
+
+msgid "TR:DIALOG:MOD01:00013"
+msgstr "\"By the way, does this area still belong to our city?\""
+
+msgid "TR:DIALOG:MOD01:00014"
+msgstr "\"I don't know. As long as it's within the boundaries.\""
+
+msgid "TR:DIALOG:MOD01:00015"
+msgstr "\"Who cares about that? We've arrived at our destination!\""
+
+msgid "TR:DIALOG:MOD01:00016"
+msgstr "\"That's right, my friends, it's time to get to work!\""
+
+msgid "TR:DIALOG:MOD01:00017"
+msgstr "\"Right, our task is to solve anomalies.\""
+
+msgid "TR:DIALOG:MOD01:00018"
+msgstr "\"The scenery is so beautiful, I almost forgot what we're here for!\""
+
+msgid "TR:DIALOG:MOD01:00019"
+msgstr "TrRomin looks at his compass, confirming the target location."
+
+msgid "TR:DIALOG:MOD01:00020"
+msgstr "Then he points to the mine not far away."
+
+msgid "TR:DIALOG:MOD01:00021"
+msgstr "\"Our entrance is that mine.\""
+
+msgid "TR:DIALOG:MOD01:00022"
+msgstr "\"What are we waiting for then? Let's go!\""
+
+msgid "TR:DIALOG:MOD01:00023"
+msgstr "TrGr takes the first step and strides confidently toward the goal."
+
+msgid "TR:DIALOG:MOD01:00024"
+msgstr "\"Understood.\""
+
+msgid "TR:DIALOG:MOD01:00025"
+msgstr "Then, TrCan responds and follows closely behind TrGr."
+
+msgid "TR:DIALOG:MOD01:00026"
+msgstr ""
+"Meanwhile, with his left hand, he grabs TrSeaon's right hand and leads him "
+"along."
+
+msgid "TR:DIALOG:MOD01:00027"
+msgstr "TrSeaon is surprised initially but doesn't resist."
+
+msgid "TR:DIALOG:MOD01:00028"
+msgstr "Though we can't see his face, he's probably turning red!"
+
+msgid "TR:DIALOG:MOD01:00029"
+msgstr "Finally, only TrRomin is left standing alone."
+
+msgid "TR:DIALOG:MOD01:00030"
+msgstr "\"Hey, hey, wait for me!\""
+
+msgid "TR:DIALOG:MOD01:00031"
+msgstr "TrRomin catches up with them."
+
+msgid "TR:DIALOG:MOD01:00032"
+msgstr ""
+"Mission:\n"
+"Anomalies detected at the target location, investigate the source and "
+"resolve the issue."
+
+msgid "TR:DIALOG:MOD01:00033"
+msgstr ""
+"The mist gradually disperses, and the sun's rays bathe the grass, rocks..."
+
+msgid "TR:DIALOG:MOD01:00034"
+msgstr "...and them, as if it were sunset."
+
+msgid "TR:DIALOG:MOD01:00035"
+msgstr "Except it's 10:00 AM."
+
+msgid "TR:DIALOG:MOD01:00036"
+msgstr "On the way to the mine, they chat and laugh."
+
+msgid "TR:DIALOG:MOD01:00037"
+msgstr "To an outsider, they seem like they're on a spring outing."
+
+msgid "TR:DIALOG:MOD01:00038"
+msgstr "It's worth mentioning that TrRomin told a story..."
+
+msgid "TR:DIALOG:MOD01:00039"
+msgstr ""
+"\"Did you guys know? This cave has been around for hundreds of years, it's "
+"ancient...\""
+
+msgid "TR:DIALOG:MOD01:00040"
+msgstr "\"...even though it's been fully surveyed inside...\""
+
+msgid "TR:DIALOG:MOD01:00041"
+msgstr "\"...it's said to house some 'sinister' creatures.\""
+
+msgid "TR:DIALOG:MOD01:00042"
+msgstr "TrRomin emphasizes the word 'sinister.'"
+
+msgid "TR:DIALOG:MOD01:00043"
+msgstr "\"Are you serious...?!\""
+
+msgid "TR:DIALOG:MOD01:00044"
+msgstr "TrSeaon clenches TrCan's left hand tightly, nervously asking."
+
+msgid "TR:DIALOG:MOD01:00045"
+msgstr "\"Hmph! I don't know, but maybe we'll find out soon!\""
+
+msgid "TR:DIALOG:MOD01:00046"
+msgstr ""
+"\"Who cares about those mythical creatures? Anything blocking our path will "
+"be dealt with!\""
+
+msgid "TR:DIALOG:MOD01:00047"
+msgstr ""
+"TrGr clenches his fists, his eyes burning with determination and passion. No "
+"one can stop him."
+
+msgid "TR:DIALOG:MOD01:00048"
+msgstr "\"Alright, we're almost there.\""
+
+msgid "TR:DIALOG:MOD01:00049"
+msgstr "\"Make sure your gear is ready.\""
+
+msgid "TR:DIALOG:MOD01:00050"
+msgstr ""
+"TrCan doesn't pay much attention to TrRomin's joke, walking straight to the "
+"cave entrance."
+
+msgid "TR:DIALOG:MOD01:00051"
+msgstr "At the same time, he holds TrSeaon's hand, not letting go."
+
+msgid "TR:DIALOG:MOD01:00052"
+msgstr "TrSeaon feels extremely uneasy."
+
+msgid "TR:DIALOG:MOD01:00053"
+msgstr ""
+"TrGr, on the other hand, walks confidently beside TrCan, moving towards the "
+"cave entrance."
+
+msgid "TR:DIALOG:MOD01:00054"
+msgstr "\"I haven't finished that story yet!\""
+
+msgid "TR:DIALOG:MOD01:00055"
+msgstr "TrRomin yells from behind, though they haven't walked far."
+
+msgid "TR:DIALOG:MOD01:00056"
+msgstr "Then he catches up."
+
+msgid "TR:DIALOG:MOD01:00057"
+msgstr "……"
+
+msgid "TR:DIALOG:MOD01:00058"
+msgstr "Is this story true?"
+
+msgid "TR:DIALOG:MOD01:00059"
+msgstr ""
+"Perhaps, as TrRomin said, there are indeed malicious creatures inside the "
+"cave."
+
+msgid "TR:DIALOG:MOD01:00060"
+msgstr "\"TrRomin.\""
+
+msgid "TR:DIALOG:MOD01:00061"
+msgstr "\"Yes?\""
+
+msgid "TR:DIALOG:MOD01:00062"
+msgstr "\"Your locator.\""
+
+msgid "TR:DIALOG:MOD01:00063"
+msgstr ""
+"TrRomin then realized what he was talking about and quickly checked his own "
+"signal indicator."
+
+msgid "TR:DIALOG:MOD01:00064"
+msgstr "\"Yes... we're here.\""
+
+msgid "TR:DIALOG:MOD01:00065"
+msgstr "\"This is the cave entrance indicated by the signal indicator.\""
+
+msgid "TR:DIALOG:MOD01:00066"
+msgstr ""
+"Then, TrRomin took a light beige handheld device from his bag and handed it "
+"to TrCan."
+
+msgid "TR:DIALOG:MOD01:00067"
+msgstr "\"Here, the environmental detector.\""
+
+msgid "TR:DIALOG:MOD01:00068"
+msgstr ""
+"TrCan took the device and walked a few steps towards the cave entrance."
+
+msgid "TR:DIALOG:MOD01:00069"
+msgstr "He skillfully opened the device and placed it on the ground."
+
+msgid "TR:DIALOG:MOD01:00070"
+msgstr ""
+"After a few seconds, the device emitted a \"beep\" sound, indicating that "
+"the environmental scan was complete."
+
+msgid "TR:DIALOG:MOD01:00071"
+msgstr "TrCan picked it up, looked at it for a moment, then turned."
+
+msgid "TR:DIALOG:MOD01:00072"
+msgstr "\"All internal environmental conditions are normal. You can enter.\""
+
+msgid "TR:DIALOG:MOD01:00073"
+msgstr "\"Good! Now everyone, check if your equipment is complete!\""
+
+msgid "TR:DIALOG:MOD01:00074"
+msgstr "\"All checked.\""
+
+msgid "TR:DIALOG:MOD01:00075"
+msgstr "\"Everything's here!\""
+
+msgid "TR:DIALOG:MOD01:00076"
+msgstr ""
+"\"Backpack... check. Medical supplies... check. AED... check. Rescue pad... "
+"check.\""
+
+msgid "TR:DIALOG:MOD01:00077"
+msgstr ""
+"TrSeaon placed his backpack on the ground, then carefully inspected his "
+"items."
+
+msgid "TR:DIALOG:MOD01:00078"
+msgstr "\"...Nothing's missing!\""
+
+msgid "TR:DIALOG:MOD01:00079"
+msgstr "\"Now there's only one thing left before entering.\""
+
+msgid "TR:DIALOG:MOD01:00080"
+msgstr "TrRomin took out the signal indicator and pressed a button on it."
+
+msgid "TR:DIALOG:MOD01:00081"
+msgstr "A semi-transparent holographic projection appeared from the device."
+
+msgid "TR:DIALOG:MOD01:00082"
+msgstr ""
+"Then, TrRomin pressed a few buttons on the holographic projection, "
+"initiating a call with someone."
+
+msgid "TR:DIALOG:MOD01:00083"
+msgstr "\"Ah! I can see your location!\""
+
+msgid "TR:DIALOG:MOD01:00084"
+msgstr "\"You finally arrived!\""
+
+msgid "TR:DIALOG:MOD01:00085"
+msgstr "\"Wait a moment, let me update your data...\""
+
+msgid "TR:DIALOG:MOD01:00086"
+msgstr "\"Sure!\""
+
+msgid "TR:DIALOG:MOD01:00087"
+msgstr "\"TrRomin! Did you tell the others that story?\""
+
+msgid "TR:DIALOG:MOD01:00088"
+msgstr ""
+"The person on the other end of the phone emitted a somewhat eerie laugh."
+
+msgid "TR:DIALOG:MOD01:00089"
+msgstr "\"Of course! The story you told was really interesting!\""
+
+msgid "TR:DIALOG:MOD01:00090"
+msgstr "\"Hehe, of course!\""
+
+msgid "TR:DIALOG:MOD01:00091"
+msgstr "\"What...?! So TrAmorog told you that story?\""
+
+msgid "TR:DIALOG:MOD01:00092"
+msgstr "\"Just you wait! I'll show you when I get back!\""
+
+msgid "TR:DIALOG:MOD01:00093"
+msgstr ""
+"TrSeaon ran to the communication device and angrily shouted at the person on "
+"the other end of the phone."
+
+msgid "TR:DIALOG:MOD01:00094"
+msgstr "\"Oh, alright, alright! I'll wait for you to come back!\""
+
+msgid "TR:DIALOG:MOD01:00095"
+msgstr ""
+"The person on the other end of the phone didn't seem afraid of TrSeaon's "
+"threat and burst into laughter."
+
+msgid "TR:DIALOG:MOD01:00096"
+msgstr "\"...\""
+
+msgid "TR:DIALOG:MOD01:00097"
+msgstr "\"Everyone, stay safe.\""
+
+msgid "TR:DIALOG:MOD01:00098"
+msgstr "Suddenly, another voice came from the other end of the phone."
+
+msgid "TR:DIALOG:MOD01:00099"
+msgstr "\"Of course.\""
+
+msgid "TR:DIALOG:MOD01:00100"
+msgstr ""
+"TrCan responded first, and then, wearing an uncharacteristically serious "
+"expression, he broke into a smile."
+
+msgid "TR:DIALOG:MOD01:00101"
+msgstr "\"We'll return safely, TrTen.\""
+
+msgid "TR:DIALOG:MOD01:00102"
+msgstr "\"With me here, no accidents will happen!\""
+
+msgid "TR:DIALOG:MOD01:00103"
+msgstr ""
+"TrGr's confidence remained unwavering. He believed that the team would not "
+"encounter any accidents."
+
+msgid "TR:DIALOG:MOD01:00104"
+msgstr "After a few seconds, TrAmorog broke the silence."
+
+msgid "TR:DIALOG:MOD01:00105"
+msgstr "\"Your data has been updated, and now you can enter the mine!\""
+
+msgid "TR:DIALOG:MOD01:00106"
+msgstr "\"And don't forget to report the coordinates, TrRomin!\""
+
+msgid "TR:DIALOG:MOD01:00107"
+msgstr "\"Got it!\""
+
+msgid "TR:DIALOG:MOD01:00108"
+msgstr ""
+"\"Then let's go! If we leave now, we can hopefully resolve things before "
+"lunch!\""
+
+msgid "TR:DIALOG:MOD01:00109"
+msgstr "\"Understood.\""
+
+msgid "TR:DIALOG:MOD01:00110"
+msgstr "\"Oh, and one more thing, happy birthday, TrGr!\""
+
+msgid "TR:DIALOG:MOD01:00111"
+msgstr "\"I'm sorry to have sent you out on your birthday.\""
+
+msgid "TR:DIALOG:MOD01:00112"
+msgstr "\"Hahaha! It's alright, think of it as a trip!\""
+
+msgid "TR:DIALOG:MOD01:00113"
+msgstr ""
+"TrGr burst into laughter. Today, August 1st, happened to be his birthday!\n"
+"* Editor's Note: This chapter was released after August 1st, but in reality, "
+"that was indeed GR's birthday."
+
+msgid "TR:DIALOG:MOD01:00114"
+msgstr "Others also offered their well-wishes."
+
+msgid "TR:DIALOG:MOD01:00115"
+msgstr "But TrSeaon didn't, because it wasn't the right time yet."
+
+msgid "TR:DIALOG:MOD01:00116"
+msgstr ""
+"It was a gift that would undoubtedly leave TrGr extremely shocked, "
+"embarrassed, and blushing."
+
+msgid "TR:DIALOG:MOD01:00117"
+msgstr "It needed to be revealed at the perfect moment."
+
+msgid "TR:DIALOG:MOD01:00118"
+msgstr ""
+"\"If we can wrap things up today, I'll treat you all to pizza tonight!\""
+
+msgid "TR:DIALOG:MOD01:00119"
+msgstr "\"We'll go to my favorite place, you won't regret it!\""
+
+msgid "TR:DIALOG:MOD01:00120"
+msgstr "\"You know which place I mean, right, TrTen?\""
+
+msgid "TR:DIALOG:MOD01:00121"
+msgstr "TrGr suddenly asked TrTen, who took a moment to respond."
+
+msgid "TR:DIALOG:MOD01:00122"
+msgstr "\"O-of course...! I'll clear out the guests at night...\""
+
+msgid "TR:DIALOG:MOD01:00123"
+msgstr ""
+"\"...Then I'll present you with the most delicious pizza in the world that "
+"I've made!\""
+
+msgid "TR:DIALOG:MOD01:00124"
+msgstr "\"Yay!!\""
+
+msgid "TR:DIALOG:MOD01:00125"
+msgstr "\"Yay!\""
+
+msgid "TR:DIALOG:MOD01:00126"
+msgstr "TrRomin and TrAmorog practically shouted at the same time."
+
+msgid "TR:DIALOG:MOD01:00127"
+msgstr ""
+"As lovers of good food, the canine and bear people didn't want to miss such "
+"a wonderful opportunity."
+
+msgid "TR:DIALOG:MOD01:00128"
+msgstr "\"Of course, provided you all return safely!\""
+
+msgid "TR:DIALOG:MOD01:00129"
+msgstr ""
+"TrTen was the owner of the most famous pizza place in the area. His pizzas "
+"had an exceptional texture and perfectly blended flavors. They emitted a "
+"tantalizing aroma and made mouths water."
+
+msgid "TR:DIALOG:MOD01:00130"
+msgstr ""
+"The restaurant he ran was the highest-rated eatery in the whole city. Nearly "
+"every resident frequented it. The place was always packed, and one needed "
+"reservations to secure a table."
+
+msgid "TR:DIALOG:MOD01:00131"
+msgstr ""
+"He claimed he never considered offering takeout, as it would compromise the "
+"original taste of the pizza."
+
+msgid "TR:DIALOG:MOD01:00132"
+msgstr "\"Of course, as long as we return safely.\""
+
+msgid "TR:DIALOG:MOD01:00133"
+msgstr ""
+"TrCan poured cold water on the excitement just when everyone was getting "
+"enthusiastic."
+
+msgid "TR:DIALOG:MOD01:00134"
+msgstr ""
+"\"Don't jump to conclusions when we're uncertain about the situation in the "
+"cave.\""
+
+msgid "TR:DIALOG:MOD01:00135"
+msgstr ""
+"Although TrCan's tone was a bit indifferent and unsympathetic, his point was "
+"valid."
+
+msgid "TR:DIALOG:MOD01:00136"
+msgstr ""
+"\"Well... TrCan has a point. It's better to approach this matter seriously.\""
+
+msgid "TR:DIALOG:MOD01:00137"
+msgstr ""
+"\"Because we don't know what might happen, what we might encounter, or what "
+"we'll face.\""
+
+msgid "TR:DIALOG:MOD01:00138"
+msgstr "\"Anomalies might bring things from the 'other world,' right...?\""
+
+msgid "TR:DIALOG:MOD01:00139"
+msgstr ""
+"TrSeaon looked at TrRomin, who stopped smiling and met his gaze with a "
+"serious expression."
+
+msgid "TR:DIALOG:MOD01:00140"
+msgstr ""
+"\"Yes. We don't know what might happen, what we'll encounter, or what we'll "
+"face.\""
+
+msgid "TR:DIALOG:MOD01:00141"
+msgstr "\"We can only take it step by step.\""
+
+msgid "TR:DIALOG:MOD01:00142"
+msgstr "\"Stay safe.\""
+
+msgid "TR:DIALOG:MOD01:00143"
+msgstr ""
+"The voice on the other end of the phone also shifted from excitement to "
+"seriousness."
+
+msgid "TR:DIALOG:MOD01:00144"
+msgstr ""
+"\"Stay safe. I'll be mentally wishing you well a thousand times over.\""
+
+msgid "TR:DIALOG:MOD01:00145"
+msgstr "\"Alright.\""
+
+msgid "TR:DIALOG:MOD01:00146"
+msgstr "\"Then it's time to go, enter the mine now and start investigating.\""
+
+msgid "TR:DIALOG:MOD01:00147"
+msgstr "\"Understood.\""
+
+msgid "TR:DIALOG:MOD01:00148"
+msgstr "\"Got it.\""
+
+msgid "TR:DIALOG:MOD01:00149"
+msgstr "\"Sure.\""
+
+msgid "TR:DIALOG:MOD01:00150"
+msgstr "The other end of the phone call was then disconnected."
+
+msgid "TR:DIALOG:MOD01:00151"
+msgstr "A silent stillness suddenly appeared, without a sound."
+
+msgid "TR:DIALOG:MOD01:00152"
+msgstr "They began their investigation."
+
+msgid "TR:DIALOG:MOD01:00153"
+msgstr ""
+"Personnel:\n"
+"A total of four personnel were dispatched, including:"
+
+msgid "TR:DIALOG:MOD01:00154"
+msgstr "The leader, TrGr."
+
+msgid "TR:DIALOG:MOD01:00155"
+msgstr "A koala bear."
+
+msgid "TR:DIALOG:MOD01:00156"
+msgstr "Though looking frail, his abilities are incredibly formidable."
+
+msgid "TR:DIALOG:MOD01:00157"
+msgstr ""
+"He is the leader of the exploration team and is highly respected by others."
+
+msgid "TR:DIALOG:MOD01:00158"
+msgstr "Because everyone knows, he is spirited and fearless."
+
+msgid "TR:DIALOG:MOD01:00159"
+msgstr "The mining engineer, TrCan."
+
+msgid "TR:DIALOG:MOD01:00160"
+msgstr "A Shiba Inu."
+
+msgid "TR:DIALOG:MOD01:00161"
+msgstr "He has a beard, making him appear quite mature."
+
+msgid "TR:DIALOG:MOD01:00162"
+msgstr ""
+"He is the mining engineer of the exploration team, opening safe passages for "
+"others."
+
+msgid "TR:DIALOG:MOD01:00163"
+msgstr "With his rich experience, he is skeptical of everything."
+
+msgid "TR:DIALOG:MOD01:00164"
+msgstr "The navigation communicator, TrRomin."
+
+msgid "TR:DIALOG:MOD01:00165"
+msgstr "A Golden Retriever."
+
+msgid "TR:DIALOG:MOD01:00166"
+msgstr "His left ear has a ribbon tied to it, its purpose undisclosed."
+
+msgid "TR:DIALOG:MOD01:00167"
+msgstr ""
+"He is the navigation communicator of the exploration team, providing routes "
+"and communication."
+
+msgid "TR:DIALOG:MOD01:00168"
+msgstr "He often cracks jokes and others don't mind."
+
+msgid "TR:DIALOG:MOD01:00169"
+msgstr "The safety officer, TrSeaon."
+
+msgid "TR:DIALOG:MOD01:00170"
+msgstr "A polar bear."
+
+msgid "TR:DIALOG:MOD01:00171"
+msgstr "He is kind, cute, and reliable, a treasure of the team."
+
+msgid "TR:DIALOG:MOD01:00172"
+msgstr ""
+"He is the safety officer of the exploration team, providing emergency "
+"medical assistance."
+
+msgid "TR:DIALOG:MOD01:00173"
+msgstr "However, he is also nervous and timid, needing to be cherished."
+
+msgid "TR:DIALOG:MOD01:00174"
+msgstr ""
+"TrCan entered the cave first and turned on his headlamp, instantly "
+"illuminating the once pitch-black cave."
+
+msgid "TR:DIALOG:MOD01:00175"
+msgstr "Headlamp operational."
+
+msgid "TR:DIALOG:MOD01:00176"
+msgstr "TrRomin entered afterward, holding the signal indicator."
+
+msgid "TR:DIALOG:MOD01:00177"
+msgstr ""
+"According to navigation, the anomalous signal source is located on the third "
+"level of this cave."
+
+msgid "TR:DIALOG:MOD01:00178"
+msgstr ""
+"However, records indicate that this cave has never had a third level, at "
+"most, only two."
+
+msgid "TR:DIALOG:MOD01:00179"
+msgstr ""
+"In other words, the third level is something we have never seen before, an "
+"unknown condition."
+
+msgid "TR:DIALOG:MOD01:00180"
+msgstr "So, at least the first two levels should be safe, right?"
+
+msgid "TR:DIALOG:MOD01:00181"
+msgstr "TrGr nonchalantly said behind TrRomin, hands resting behind his head."
+
+msgid "TR:DIALOG:MOD01:00182"
+msgstr "Hmm... theoretically, yes."
+
+msgid "TR:DIALOG:MOD01:00183"
+msgstr "Phew, that puts me at ease."
+
+msgid "TR:DIALOG:MOD01:00184"
+msgstr ""
+"Finally, TrSeaon cautiously walked in behind them and let out a long breath."
+
+msgid "TR:DIALOG:MOD01:00185"
+msgstr "Just up ahead."
+
+msgid "TR:DIALOG:MOD01:00186"
+msgstr "..."
+
+msgid "TR:DIALOG:MOD01:00187"
+msgstr ""
+"Halt! It's this corner. According to the navigation, we need to go down this "
+"path and enter the second level."
+
+msgid "TR:DIALOG:MOD01:00188"
+msgstr ""
+"TrRomin turned left and pointed to a narrow path ahead, almost unnoticeable "
+"without careful observation."
+
+msgid "TR:DIALOG:MOD01:00189"
+msgstr "Please, TrCan."
+
+msgid "TR:DIALOG:MOD01:00190"
+msgstr "Understood."
+
+msgid "TR:DIALOG:MOD01:00191"
+msgstr ""
+"TrCan took out his tools from behind and began to widen the narrow path."
+
+msgid "TR:DIALOG:MOD01:00192"
+msgstr ""
+"Since the path was so small that only TrGr could pass through, TrCan needed "
+"to break apart the rocks on both sides to allow others to pass normally, "
+"especially the big guy, TrSeaon."
+
+msgid "TR:DIALOG:MOD01:00193"
+msgstr "..."
+
+msgid "TR:DIALOG:MOD01:00194"
+msgstr "Before long, they arrived at the second level underground."
+
+msgid "TR:DIALOG:MOD01:00195"
+msgstr "A biting cold wind suddenly rushed in, catching everyone off guard."
+
+msgid "TR:DIALOG:MOD01:00196"
+msgstr "S-s-so cold..."
+
+msgid "TR:DIALOG:MOD01:00197"
+msgstr "Why is it so cold..."
+
+msgid "TR:DIALOG:MOD01:00198"
+msgstr ""
+"Even TrSeaon, who was the most cold-resistant, had his fur standing on end."
+
+msgid "TR:DIALOG:MOD01:00199"
+msgstr "Clearly, it's really cold."
+
+msgid "TR:DIALOG:MOD01:00200"
+msgstr "H-h-hurry, let's keep going..."
+
+msgid "TR:DIALOG:MOD01:00201"
+msgstr "Perhaps it's just... this windy area..."
+
+msgid "TR:DIALOG:MOD01:00202"
+msgstr "TrSeaon picked up TrGr and embraced him."
+
+msgid "TR:DIALOG:MOD01:00203"
+msgstr "Ah! Hey!..."
+
+msgid "TR:DIALOG:MOD01:00204"
+msgstr ""
+"Although initially reluctant, TrGr gave in to the warmth and comfort of "
+"TrSeaon's fur."
+
+msgid "TR:DIALOG:MOD01:00205"
+msgstr "Much warmer."
+
+msgid "TR:DIALOG:MOD01:00206"
+msgstr "With TrGr radiating warmth in his arms, even TrSeaon felt warm."
+
+msgid "TR:DIALOG:MOD01:00207"
+msgstr "Did we... suddenly arrive in... the polar region..."
+
+msgid "TR:DIALOG:MOD01:00208"
+msgstr "This is... too cold..."
+
+msgid "TR:DIALOG:MOD01:00209"
+msgstr ""
+"TrRomin crossed his arms in front of his chest, rubbing his arms up and down "
+"for warmth."
+
+msgid "TR:DIALOG:MOD01:00210"
+msgstr ""
+"His other hand held the signal indicator, looking at the indicated direction."
+
+msgid "TR:DIALOG:MOD01:00211"
+msgstr "TrRomin... pointing the way..."
+
+msgid "TR:DIALOG:MOD01:00212"
+msgstr ""
+"Faced with such cold, even the usually cold-resistant TrCan was too frozen "
+"to speak."
+
+msgid "TR:DIALOG:MOD01:00213"
+msgstr "Just... keep walking straight..."
+
+msgid "TR:DIALOG:MOD01:00214"
+msgstr "Wait, look at this..."
+
+msgid "TR:DIALOG:MOD01:00215"
+msgstr "TrSeaon suddenly stopped, looking at a rock to the right."
+
+msgid "TR:DIALOG:MOD01:00216"
+msgstr ""
+"TrRomin and TrCan, who were in front, turned to look at where TrSeaon was "
+"looking."
+
+msgid "TR:DIALOG:MOD01:00217"
+msgstr "TrGr in TrSeaon's arms frowned."
+
+msgid "TR:DIALOG:MOD01:00218"
+msgstr "TrRomin, do you find this rock familiar?"
+
+msgid "TR:DIALOG:MOD01:00219"
+msgstr ""
+"TrRomin and TrCan walked back, and when they saw the rock, TrRomin "
+"immediately raised an eyebrow."
+
+msgid "TR:DIALOG:MOD01:00220"
+msgstr "This couldn't be..."
+
+msgid "TR:DIALOG:MOD01:00221"
+msgstr "Exactly..."
+
+msgid "TR:DIALOG:MOD01:00222"
+msgstr "If my deduction is correct, then we've come to the third level of..."
+
+msgid "TR:DIALOG:MOD01:00223"
+msgstr "But, but this is unreasonable!"
+
+msgid "TR:DIALOG:MOD01:00224"
+msgstr "This kind of anomaly, a cross-world... no, a cross-universe..."
+
+msgid "TR:DIALOG:MOD01:00225"
+msgstr "...a cross-reality anomaly, can actually occur!?"
+
+msgid "TR:DIALOG:MOD01:00226"
+msgstr ""
+"TrGr and TrRomin's faces were full of shock, while TrCan and TrSeaon were "
+"puzzled, not understanding what they were worried about."
+
+msgid "TR:DIALOG:MOD01:00227"
+msgstr "What?"
+
+msgid "TR:DIALOG:MOD01:00228"
+msgstr ""
+"I only noticed that this rock looks different from the others, but in caves, "
+"that's normal."
+
+msgid "TR:DIALOG:MOD01:00229"
+msgstr ""
+"But this rock... to be precise, it shouldn't be called a rock; it's called a "
+"block... and it doesn't come from our universe..."
+
+msgid "TR:DIALOG:MOD01:00230"
+msgstr "But from another universe, one we can't even confirm exists."
+
+msgid "TR:DIALOG:MOD01:00231"
+msgstr "You're confusing me, TrRomin..."
+
+msgid "TR:DIALOG:MOD01:00232"
+msgstr "Could you put it in simpler terms?"
+
+msgid "TR:DIALOG:MOD01:00233"
+msgstr "Digcraft."
+
+msgid "TR:DIALOG:MOD01:00234"
+msgstr "Huh?"
+
+msgid "TR:DIALOG:MOD01:00235"
+msgstr "This block is from a game called Digcraft."
+
+msgid "TR:DIALOG:MOD01:00236"
+msgstr "..."
+
+msgid "TR:DIALOG:MOD01:00237"
+msgstr "..."
+
+msgid "TR:DIALOG:MOD01:00238"
+msgstr "What!?"
+
+msgid "TR:DIALOG:MOD01:00239"
+msgstr "Anomalies can also appear from game worlds!?"
+
+msgid "TR:DIALOG:MOD01:00240"
+msgstr "So, if we enter the third level, we'll enter the world of Digcraft?"
+
+msgid "TR:DIALOG:MOD01:00241"
+msgstr "It's possible."
+
+msgid "TR:DIALOG:MOD01:00242"
+msgstr "How do the physical properties of that world differ from this one?"
+
+msgid "TR:DIALOG:MOD01:00243"
+msgstr "Well... let me summarize."
+
+msgid "TR:DIALOG:MOD01:00244"
+msgstr "TrGr pondered for a moment."
+
+msgid "TR:DIALOG:MOD01:00245"
+msgstr ""
+"The sun rises and sets, it rains and snows, generally, there's no difference "
+"from this world."
+
+msgid "TR:DIALOG:MOD01:00246"
+msgstr ""
+"But in that world, everything is made up of blocks. These blocks ignore "
+"gravity; they don't fall but float in the air."
+
+msgid "TR:DIALOG:MOD01:00247"
+msgstr "Wouldn't that be too bizarre?"
+
+msgid "TR:DIALOG:MOD01:00248"
+msgstr "Once you accept that world's worldview, everything becomes reasonable."
+
+msgid "TR:DIALOG:MOD01:00249"
+msgstr "I still don't quite understand."
+
+msgid "TR:DIALOG:MOD01:00250"
+msgstr "Me neither."
+
+msgid "TR:DIALOG:MOD01:00251"
+msgstr "Why would such a world exist?"
+
+msgid "TR:DIALOG:MOD01:00252"
+msgstr ""
+"Don't worry, after we enter the third level, you'll see what the world of "
+"Digcraft looks like."
+
+msgid "TR:DIALOG:MOD01:00253"
+msgstr ""
+"...If the third level isn't that world, I'll find this game when we get back "
+"to headquarters and show it to you."
+
+msgid "TR:DIALOG:MOD01:00254"
+msgstr ""
+"No matter what, I'm a veteran player. I know every block's function, every "
+"characteristic, even every glitch!"
+
+msgid "TR:DIALOG:MOD01:00255"
+msgstr "I've played this game too, but not as much as TrGr."
+
+msgid "TR:DIALOG:MOD01:00256"
+msgstr "..."
+
+msgid "TR:DIALOG:MOD01:00257"
+msgstr "Alright then, let's continue forward."
+
+msgid "TR:DIALOG:MOD01:00258"
+msgstr "Now I'm quite interested in that world."
+
+msgid "TR:DIALOG:MOD01:00259"
+msgstr "Me too! I really want to see what it looks like!"
+
+msgid "TR:DIALOG:MOD01:00260"
+msgstr "Well... are you still cold?"
+
+msgid "TR:DIALOG:MOD01:00261"
+msgstr "Much better now. I've adapted to the temperature here."
+
+msgid "TR:DIALOG:MOD01:00262"
+msgstr "It might be that the temperature has indeed risen."
+
+msgid "TR:DIALOG:MOD01:00263"
+msgstr ""
+"Saying this, TrCan took out the environmental detector from his waist pouch "
+"and pressed a few buttons."
+
+msgid "TR:DIALOG:MOD01:00264"
+msgstr "TrSeaon also put TrGr down from his arms."
+
+msgid "TR:DIALOG:MOD01:00265"
+msgstr ""
+"TrSeaon is right. The temperature is indeed higher now than when we started."
+
+msgid "TR:DIALOG:MOD01:00266"
+msgstr "But why was only that section of the road so cold?"
+
+msgid "TR:DIALOG:MOD01:00267"
+msgstr "It might have been a windy spot."
+
+msgid "TR:DIALOG:MOD01:00268"
+msgstr ""
+"Because we've been descending, and the wind was blowing upwards, but now "
+"we're on flat ground."
+
+msgid "TR:DIALOG:MOD01:00269"
+msgstr "Everyone... we're here."
+
+msgid "TR:DIALOG:MOD01:00270"
+msgstr ""
+"The navigation says if we dig down from here, we'll reach the third level."
+
+msgid "TR:DIALOG:MOD01:00271"
+msgstr "Alright then, are you all ready?"
+
+msgid "TR:DIALOG:MOD01:00272"
+msgstr ""
+"TrCan tightened his grip on the notepad, TrRomin restlessly clutched his "
+"shoulder bag, and TrSeaon nervously held onto TrGr's shoulder."
+
+msgid "TR:DIALOG:MOD01:00273"
+msgstr ""
+"The four of them stood in a square formation, facing each other, looking at "
+"the ground directly below them."
+
+msgid "TR:DIALOG:MOD01:00274"
+msgstr "......"
+
+msgid "TR:DIALOG:MOD01:00275"
+msgstr "Ready."
+
+msgid "TR:DIALOG:MOD01:00276"
+msgstr "Yeah."
+
+msgid "TR:DIALOG:MOD01:00277"
+msgstr "I'm ready... I think."
+
+msgid "TR:DIALOG:MOD01:00278"
+msgstr "With that, TrCan started chiseling straight downward."
+
+msgid "TR:DIALOG:MOD01:00279"
+msgstr ""
+"But contrary to their expectations, after TrCan had chiseled only a few "
+"times, the ground beneath them collapsed entirely."
+
+msgid "TR:DIALOG:MOD01:00280"
+msgstr ""
+"So the four of them fell directly into the third level without any mental "
+"preparation."
+
+msgid "TR:DIALOG:MOD01:00281"
+msgstr ""
+"During the fall, TrSeaon instinctively held onto TrGr, protecting him from "
+"any danger."
+
+msgid "TR:DIALOG:MOD01:00282"
+msgstr ""
+"Then TrSeaon sat down heavily on the ground. Due to his large size, he "
+"didn't feel much pain."
+
+msgid "TR:DIALOG:MOD01:00283"
+msgstr ""
+"TrCan used his excellent balance, calmness, and mining experience to land "
+"safely without harm..."
+
+msgid "TR:DIALOG:MOD01:00284"
+msgstr "...right?"
+
+msgid "TR:DIALOG:MOD01:00285"
+msgstr ""
+"Finally, it was TrRomin's turn. Losing his point of support, he fell forward,"
+" and upon landing, due to inertia, he continued forward..."
+
+msgid "TR:DIALOG:MOD01:00286"
+msgstr "Causing him to directly fall into the waiting arms of TrCan."
+
+msgid "TR:DIALOG:MOD01:00287"
+msgstr ""
+"Just as TrCan found his supporting point, he didn't expect TrRomin to dive "
+"right into him. The force made TrCan fall backward and lose his balance."
+
+msgid "TR:DIALOG:MOD01:00288"
+msgstr ""
+"As for TrSeaon, who had just sat on the ground, he hadn't reacted yet when "
+"TrCan fell backward, ending up lying on TrSeaon's stomach."
+
+msgid "TR:DIALOG:MOD01:00289"
+msgstr ""
+"Luckily, TrSeaon reacted quickly. He grabbed TrGr and lifted him up. "
+"Otherwise, TrCan and TrRomin would have fallen directly onto TrGr, which "
+"wouldn't have been pleasant."
+
+msgid "TR:DIALOG:MOD01:00290"
+msgstr ""
+"Lastly, TrSeaon sat at the very bottom, holding TrGr in his arms, TrCan lay "
+"on TrSeaon's stomach, and TrRomin lay in TrCan's arms."
+
+msgid "TR:DIALOG:MOD01:00291"
+msgstr "It looks really funny."
+
+msgid "TR:DIALOG:MOD01:00292"
+msgstr "Ah—"
+
+msgid "TR:DIALOG:MOD01:00293"
+msgstr "TrSeaon put TrGr down and then stroked TrCan's fur."
+
+msgid "TR:DIALOG:MOD01:00294"
+msgstr "Sorry."
+
+msgid "TR:DIALOG:MOD01:00295"
+msgstr "It's okay."
+
+msgid "TR:DIALOG:MOD01:00296"
+msgstr "..."
+
+msgid "TR:DIALOG:MOD01:00297"
+msgstr "TrCan's arms are so comfortable, I don't want to leave—"
+
+msgid "TR:DIALOG:MOD01:00298"
+msgstr "TrCan shyly grabbed TrRomin's shoulder and pushed him away."
+
+msgid "TR:DIALOG:MOD01:00299"
+msgstr "...No."
+
+msgid "TR:DIALOG:MOD01:00300"
+msgstr "Hahaha!"
+
+msgid "TR:DIALOG:MOD01:00301"
+msgstr "This scene... I... ahahaha!"
+
+msgid "TR:DIALOG:MOD01:00302"
+msgstr "TrGr couldn't hold it anymore and burst into laughter."
+
+msgid "TR:DIALOG:MOD01:00303"
+msgstr ""
+"This made everyone laugh, even the usually serious TrCan let out a robotic "
+"chuckle."
+
+msgid "TR:DIALOG:MOD01:00304"
+msgstr "..."
+
+msgid "TR:DIALOG:MOD01:00305"
+msgstr ""
+"TrSeaon was the last to stand up. He patted his clothes on the shoulders."
+
+msgid "TR:DIALOG:MOD01:00306"
+msgstr "Is everyone okay—?"
+
+msgid "TR:DIALOG:MOD01:00307"
+msgstr ""
+"While saying this, TrSeaon checked carefully for any wounds on the others."
+
+msgid "TR:DIALOG:MOD01:00308"
+msgstr "—If there are injuries, I'll handle them."
+
+msgid "TR:DIALOG:MOD01:00309"
+msgstr ""
+"TrSeaon went to TrGr first, examining from head to foot before leaving him."
+
+msgid "TR:DIALOG:MOD01:00310"
+msgstr "TrGr, all clear."
+
+msgid "TR:DIALOG:MOD01:00311"
+msgstr ""
+"Then he walked to TrRomin, instructing him to spread his arms so that he "
+"could inspect his whole body."
+
+msgid "TR:DIALOG:MOD01:00312"
+msgstr ""
+"Seeing no visible injuries on TrRomin either, he was ready to move on to "
+"check TrCan."
+
+msgid "TR:DIALOG:MOD01:00313"
+msgstr "TrRomin, saf—"
+
+msgid "TR:DIALOG:MOD01:00314"
+msgstr "Hold on, there's a spot that needs closer examination."
+
+msgid "TR:DIALOG:MOD01:00315"
+msgstr ""
+"So, TrSeaon made a 180-degree turn back to TrRomin and carefully inspected "
+"the yellow ribbon on his left ear."
+
+msgid "TR:DIALOG:MOD01:00316"
+msgstr "The ribbon was securely in place. TrRomin, safe."
+
+msgid "TR:DIALOG:MOD01:00317"
+msgstr "Well, as long as I don't turn into a beast, there's no problem..."
+
+msgid "TR:DIALOG:MOD01:00318"
+msgstr "TrRomin scratched his head awkwardly."
+
+msgid "TR:DIALOG:MOD01:00319"
+msgstr "Finally, only TrCan remained."
+
+msgid "TR:DIALOG:MOD01:00320"
+msgstr ""
+"TrSeaon quickly went to TrCan, grabbed his arm, and raised it forcefully."
+
+msgid "TR:DIALOG:MOD01:00321"
+msgstr "?! "
+
+msgid "TR:DIALOG:MOD01:00322"
+msgstr ""
+"I know you think you're fine, but don't argue with me. Wound issues are "
+"nothing to take lightly."
+
+msgid "TR:DIALOG:MOD01:00323"
+msgstr ""
+"Seeing that TrCan didn't resist, TrSeaon put on a fatherly expression and "
+"started to carefully examine his body."
+
+msgid "TR:DIALOG:MOD01:00324"
+msgstr "Starting from the head, then the torso, and finally the legs and feet."
+
+msgid "TR:DIALOG:MOD01:00325"
+msgstr ""
+"Seeing that there were no visible injuries on TrCan either, TrSeaon stuck "
+"out his tongue, patted his head."
+
+msgid "TR:DIALOG:MOD01:00326"
+msgstr "Great, I award you a pat!"
+
+msgid "TR:DIALOG:MOD01:00327"
+msgstr "...Thanks."
+
+msgid "TR:DIALOG:MOD01:00328"
+msgstr ""
+"Clearly, TrCan was stunned by TrSeaon's childish behavior and didn't know "
+"how to react."
+
+msgid "TR:DIALOG:MOD01:00329"
+msgstr "Great! No external injuries for everyone!"
+
+msgid "TR:DIALOG:MOD01:00330"
+msgstr ""
+"Alright, everyone, get your weapons and tools ready, because we're truly in "
+"the world of digging and building now."
+
+msgid "TR:DIALOG:MOD01:00331"
+msgstr ""
+"TrCan illuminated the path with his headlamp and realized they had fallen "
+"into a spacious mine."
+
+msgid "TR:DIALOG:MOD01:00332"
+msgstr ""
+"They saw that this world was indeed made up of blocks... at least this mine "
+"was."
+
+msgid "TR:DIALOG:MOD01:00333"
+msgstr ""
+"For a moment, TrCan seemed very delighted and surprised, but he quickly "
+"resumed his indifferent attitude."
+
+msgid "TR:DIALOG:MOD01:00334"
+msgstr "TrSeaon, on the other hand, had been consistently excited!"
+
+msgid "TR:DIALOG:MOD01:00335"
+msgstr ""
+"Wow! So this is the world of digging and building!? Looks so interesting!"
+
+msgid "TR:DIALOG:MOD01:00336"
+msgstr "Seems pretty cool!"
+
+msgid "TR:DIALOG:MOD01:00337"
+msgstr ""
+"Yeah. Just treat this world like the original one. If you're uncertain about "
+"anything, let me know, and I'll explain."
+
+msgid "TR:DIALOG:MOD01:00338"
+msgstr "Got it!"
+
+msgid "TR:DIALOG:MOD01:00339"
+msgstr "Understood."
+
+msgid "TR:DIALOG:MOD01:00340"
+msgstr ""
+"Afterwards, TrCan walked up to a stone-covered wall, tapped it with his hand "
+"to listen for echoes, then tried to dig with his notepad."
+
+msgid "TR:DIALOG:MOD01:00341"
+msgstr ""
+"One tap, two taps, until on the third tap, a piece of stone was removed, "
+"revealing a small block."
+
+msgid "TR:DIALOG:MOD01:00342"
+msgstr ""
+"TrCan picked it up, examined it, and translucent text appeared above the "
+"block, saying 'Stone.'"
+
+msgid "TR:DIALOG:MOD01:00343"
+msgstr ""
+"At the same time, everyone's heads displayed a heart-shaped life bar, a "
+"hunger bar made of ribs, and their respective inventories."
+
+msgid "TR:DIALOG:MOD01:00344"
+msgstr ""
+"TrSeaon's hunger bar was exceptionally long, longer than the combined hunger "
+"bars of the other three."
+
+msgid "TR:DIALOG:MOD01:00345"
+msgstr "An interesting world."
+
+msgid "TR:DIALOG:MOD01:00346"
+msgstr "I'll collect some of these blocks to bring back for research."
+
+msgid "TR:DIALOG:MOD01:00347"
+msgstr ""
+"While TrCan collected blocks on one side, TrSeaon wandered around like a "
+"curious puppy."
+
+msgid "TR:DIALOG:MOD01:00348"
+msgstr "TrRomin went to TrGr's side and whispered..."
+
+msgid "TR:DIALOG:MOD01:00349"
+msgstr "I wonder what mode this world is."
+
+msgid "TR:DIALOG:MOD01:00350"
+msgstr "I hope it's peaceful mode and not something like hardcore mode..."
+
+msgid "TR:DIALOG:MOD01:00351"
+msgstr "I've been wondering about that too."
+
+msgid "TR:DIALOG:MOD01:00352"
+msgstr ""
+"Don't worry, even if monsters attack, I won't let anyone from our team die."
+
+msgid "TR:DIALOG:MOD01:00353"
+msgstr "Thank you, TrGr."
+
+msgid "TR:DIALOG:MOD01:00354"
+msgstr "Captain's duty."
+
+msgid "TR:DIALOG:MOD01:00355"
+msgstr ""
+"After a while, TrSeaon came back from somewhere, his face filled with "
+"excitement."
+
+msgid "TR:DIALOG:MOD01:00356"
+msgstr ""
+"Hey, come over here and look! I found what looks like an abandoned mine!"
+
+msgid "TR:DIALOG:MOD01:00357"
+msgstr ""
+"TrGr and TrRomin's eyes lit up because there were no trees in the mine, "
+"which meant no wood and no crafting table."
+
+msgid "TR:DIALOG:MOD01:00358"
+msgstr ""
+"Currently, the only tools and weapons available were TrCan's nearly "
+"indestructible notepad, the explosives in his bag, and TrGr's almost "
+"indestructible sword."
+
+msgid "TR:DIALOG:MOD01:00359"
+msgstr ""
+"Without wood, they couldn't make anything, and they were practically "
+"powerless to survive."
+
+msgid "TR:DIALOG:MOD01:00360"
+msgstr ""
+"The saying 'to get rich, chop down trees' might not apply in the mine, but "
+"there were plenty of wooden planks available."
+
+msgid "TR:DIALOG:MOD01:00361"
+msgstr "Quick, take us there!"
+
+msgid "TR:DIALOG:MOD01:00362"
+msgstr ""
+"Seeing TrGr and TrRomin so excited, TrSeaon first froze, then waved them "
+"over."
+
+msgid "TR:DIALOG:MOD01:00363"
+msgstr ""
+"He also grabbed TrCan's hand, who was analyzing blocks seriously beside him, "
+"and pulled him along."
+
+msgid "TR:DIALOG:MOD01:00364"
+msgstr "TrGr and TrRomin followed behind TrSeaon."
+
+msgid "TR:DIALOG:MOD01:00365"
+msgstr "We're here, take a look!"
+
+msgid "TR:DIALOG:MOD01:00366"
+msgstr ""
+"After the final turn, they reached the entrance of the abandoned mine that "
+"TrSeaon had mentioned."
+
+msgid "TR:DIALOG:MOD01:00367"
+msgstr ""
+"What caught TrGr and TrRomin's eyes first were countless wooden planks, "
+"marking the official start of their adventure."
+
+msgid "TR:DIALOG:MOD01:00368"
+msgstr ""
+"What TrCan saw were iron ores on the walls, blocks he had never seen before."
+
+msgid "TR:DIALOG:MOD01:00369"
+msgstr "But TrSeaon ran even further ahead, gesturing for them to follow."
+
+msgid "TR:DIALOG:MOD01:00370"
+msgstr "Come here quickly! There's something cool!"
+
+msgid "TR:DIALOG:MOD01:00371"
+msgstr ""
+"TrGr and TrRomin each dug out a few wooden planks, then ran to where TrSeaon "
+"was."
+
+msgid "TR:DIALOG:MOD01:00372"
+msgstr ""
+"TrCan tried using his pickaxe to mine the iron ore, and iron ore items "
+"dropped out."
+
+msgid "TR:DIALOG:MOD01:00373"
+msgstr "Then he walked to where the others were."
+
+msgid "TR:DIALOG:MOD01:00374"
+msgstr ""
+"What astonished TrGr, TrCan, and TrRomin next was an exposed abandoned mine, "
+"and beyond it, a massive cave."
+
+msgid "TR:DIALOG:MOD01:00375"
+msgstr "Wow..."
+
+msgid "TR:DIALOG:MOD01:00376"
+msgstr "Great. Wood, planks, stone, minerals... countless materials available."
+
+msgid "TR:DIALOG:MOD01:00377"
+msgstr ""
+"Now, let's split into two groups. TrSeaon and I will go to the high ground "
+"to collect wood and mine, while TrCan and TrRomin will go down to mine and "
+"collect wood."
+
+msgid "TR:DIALOG:MOD01:00378"
+msgstr ""
+"The reason for this division is that TrSeaon and I are players experienced "
+"in digging and building, more familiar with the game's rules and features "
+"compared to TrCan and TrRomin."
+
+msgid "TR:DIALOG:MOD01:00379"
+msgstr ""
+"And remember, if anything unexpected happens, use the chest emblem to call "
+"for help."
+
+msgid "TR:DIALOG:MOD01:00380"
+msgstr ""
+"TrGr pressed the emblem on his chest, and there was a slight vibration, "
+"indicating it was activated."
+
+msgid "TR:DIALOG:MOD01:00381"
+msgstr ""
+"The others also pressed their emblems, vibrations, activation, all in one "
+"breath."
+
+msgid "TR:DIALOG:MOD01:00382"
+msgstr "Then, holographic interfaces popped up in front of everyone's chests."
+
+msgid "TR:DIALOG:MOD01:00383"
+msgstr ""
+"TrGr created a private communication group in his interface, then threw a "
+"translucent block into TrSeaon, TrCan, and TrRomin's interfaces."
+
+msgid "TR:DIALOG:MOD01:00384"
+msgstr ""
+"After receiving the blocks, they clicked on them. The blocks expanded in "
+"their interfaces, indicating that they were successfully added to TrGr's "
+"private communication group."
+
+msgid "TR:DIALOG:MOD01:00385"
+msgstr ""
+"Now they could communicate with each other, view each other's positions and "
+"distances."
+
+msgid "TR:DIALOG:MOD01:00386"
+msgstr ""
+"But due to using TrGr's local service, they would be out of range if too far "
+"from him."
+
+msgid "TR:DIALOG:MOD01:00387"
+msgstr ""
+"And be careful not to go too far from me. Let's regroup here in thirty "
+"minutes. Is everyone in agreement?"
+
+msgid "TR:DIALOG:MOD01:00388"
+msgstr "The others nodded in agreement."
+
+msgid "TR:DIALOG:MOD01:00389"
+msgstr ""
+"Before leaving, TrGr stopped TrCan and asked him to give him some of the "
+"stones he had mined."
+
+msgid "TR:DIALOG:MOD01:00390"
+msgstr ""
+"TrCan handed TrGr some stones, who then immediately created a crafting table "
+"with the collected wooden planks."
+
+msgid "TR:DIALOG:MOD01:00391"
+msgstr ""
+"In the blink of an eye, he crafted four stone axes and three stone pickaxes."
+
+msgid "TR:DIALOG:MOD01:00392"
+msgstr ""
+"He gave TrSeaon and TrRomin a stone axe and a stone pickaxe each, TrCan a "
+"stone axe, and kept a set for himself."
+
+msgid "TR:DIALOG:MOD01:00393"
+msgstr ""
+"Seeing there was nothing else to instruct, TrGr and TrSeaon headed to the "
+"high ground, while TrCan and TrRomin jumped down to the lower area."
+
+msgid "TR:DIALOG:MOD01:00394"
+msgstr "TrGr and TrSeaon."
+
+msgid "TR:DIALOG:MOD01:00395"
+msgstr "The best pair of friends."
+
+msgid "TR:DIALOG:MOD01:00396"
+msgstr ""
+"As close companions from the same origin, TrGr and TrSeaon always took care "
+"of each other."
+
+msgid "TR:DIALOG:MOD01:00397"
+msgstr ""
+"It's worth mentioning that they weren't originally from the Circle Country; "
+"they were born in another country. How they bypassed the immigration process "
+"is unknown."
+
+msgid "TR:DIALOG:MOD01:00398"
+msgstr ""
+"Also, their names weren't in accordance with the naming conventions of the "
+"Circle Country. Instead, they retained their original names—TrGr: GR and "
+"TrSeaon: Seaon. How they managed to bypass this procedure is a mystery."
+
+msgid "TR:DIALOG:MOD01:00399"
+msgstr ""
+"Because to become a legal resident of the Circle Country, one needed to "
+"adjust their name according to the country's regulations."
+
+msgid "TR:DIALOG:MOD01:00400"
+msgstr ""
+"Article 5 of the Circle Country Legal Immigration Act states: For foreign "
+"individuals migrating to this country, the first step is to define a name "
+"within this country's format: 'Common Species or Scientific Classification "
+"(Genus)'·'Common Race Nickname (Scientific Classification: Species) "
+"Abbreviation'·'Given Name'."
+
+msgid "TR:DIALOG:MOD01:00401"
+msgstr ""
+"For example: If your original name is James Lou, where Lou is your given "
+"name and you belong to the Eastern Gray Wolf species, then your common "
+"species name should be Canis L. Lou according to scientific classification. "
+"According to the common species naming convention, it should be Wolf Cl. Lou."
+
+msgid "TR:DIALOG:MOD01:00402"
+msgstr "......"
+
+msgid "TR:DIALOG:MOD01:00403"
+msgstr "TrGr, look! There's a minecart here!"
+
+msgid "TR:DIALOG:MOD01:00404"
+msgstr ""
+"TrGr picked up the dropped wooden planks and headed towards TrSeaon's "
+"location."
+
+msgid "TR:DIALOG:MOD01:00405"
+msgstr "Here! Let me see what's in this chest..."
+
+msgid "TR:DIALOG:MOD01:00406"
+msgstr ""
+"TrGr slowly opened the chest in the minecart, and it seemed to contain quite "
+"a few items."
+
+msgid "TR:DIALOG:MOD01:00407"
+msgstr ""
+"Hmm... Twelve rails, pretty standard. Sixteen torches, essential for "
+"survival. Two loaves of bread, useful for Steve and Alex, but we won't get "
+"hungry quickly, so not much use in the short term."
+
+msgid "TR:DIALOG:MOD01:00408"
+msgstr ""
+"Twenty-four pieces of coal, valuable as minerals. Ten iron ingots, very "
+"useful."
+
+msgid "TR:DIALOG:MOD01:00409"
+msgstr "Four pumpkin seeds, we might not have a chance to plant them."
+
+msgid "TR:DIALOG:MOD01:00410"
+msgstr "Finally, TrGr noticed the most valuable items in the corner."
+
+msgid "TR:DIALOG:MOD01:00411"
+msgstr ""
+"Great! This minecart actually has four diamonds and a golden apple. We need "
+"to store these carefully."
+
+msgid "TR:DIALOG:MOD01:00412"
+msgstr ""
+"Saying that, TrGr took all the items from the minecart and then destroyed "
+"the entire minecart, receiving it as an item in his inventory."
+
+msgid "TR:DIALOG:MOD01:00413"
+msgstr "So... how is it? Did the items in the minecart meet your expectations?"
+
+msgid "TR:DIALOG:MOD01:00414"
+msgstr ""
+"They more than met—no, they exceeded expectations! We now have the most "
+"valuable mineral in the game—diamonds! And..."
+
+msgid "TR:DIALOG:MOD01:00415"
+msgstr "TrGr took out the golden apple and handed it to TrSeaon."
+
+msgid "TR:DIALOG:MOD01:00416"
+msgstr ""
+"Here, this is a golden apple. It can be used for emergency health recovery. "
+"I think you might need it. If anyone gets injured, let them eat this golden "
+"apple."
+
+msgid "TR:DIALOG:MOD01:00417"
+msgstr "Understood!"
+
+msgid "TR:DIALOG:MOD01:00418"
+msgstr ""
+"TrSeaon trembled as he took the golden apple, staring at it in awe. While it "
+"seemed large in TrGr's hand, it looked small in TrSeaon's."
+
+msgid "TR:DIALOG:MOD01:00419"
+msgstr ""
+"After a while, TrGr and TrSeaon had collected enough wood and wooden planks. "
+"They also upgraded their tools to iron axes and iron pickaxes."
+
+msgid "TR:DIALOG:MOD01:00420"
+msgstr ""
+"They mined some coal and iron ores, crafted a furnace to smelt the iron, "
+"mined more coal, and crafted more torches."
+
+msgid "TR:DIALOG:MOD01:00421"
+msgstr "Until they reached a corner, where they encountered—"
+
+msgid "TR:DIALOG:MOD01:00422"
+msgstr "Ah ah ah ah ah ah ah ah—!!"
+
+msgid "TR:DIALOG:MOD01:00423"
+msgstr ""
+"TrSeaon ran back to TrGr in a state of panic, tears streaming down his face, "
+"with a zombie following closely behind him."
+
+msgid "TR:DIALOG:MOD01:00424"
+msgstr ""
+"But as a player with over a decade of experience in digging and building, "
+"sudden appearances of monsters had become commonplace for TrGr, and dealing "
+"with them had become second nature."
+
+msgid "TR:DIALOG:MOD01:00425"
+msgstr ""
+"TrGr swiftly drew his sword from behind, lunged forward, and struck the "
+"approaching zombie. He first thrust his sword at its body, then spun it "
+"vertically, leaving a large, hook-like scar on the zombie."
+
+msgid "TR:DIALOG:MOD01:00426"
+msgstr ""
+"A mix of deep red and slightly rotten green blood gushed out of the wound, "
+"but TrGr didn't retreat a step. He quickly squatted down, used the momentum "
+"to leap onto the zombie's head, and finally swung his sword downward, "
+"cleaving the zombie in two."
+
+msgid "TR:DIALOG:MOD01:00427"
+msgstr ""
+"A few white particles floated out from the zombie's remains, and it "
+"disappeared into a wisp of blue smoke, leaving only a pool of blood as "
+"evidence of its existence."
+
+msgid "TR:DIALOG:MOD01:00428"
+msgstr "A few more zombies walked out at that corner a moment later. TrGr confidently charged toward them and used a completely different attacking approach to eliminate them one by one."
+
+msgid "TR:DIALOG:MOD01:00429"
+msgstr "After clearing everything, he turned right and ran into the small room."
+
+msgid "TR:DIALOG:MOD01:00430"
+msgstr "Right after, he noticed a square fenced area in the middle of the room, with a small rotating zombie model inside."
+
+msgid "TR:DIALOG:MOD01:00431"
+msgstr "So, it was a zombie spawning cage. They had reached a dungeon."
+
+msgid "TR:DIALOG:MOD01:00432"
+msgstr "TrGr quickly rushed to the spawning cage, took out a torch from his backpack, and finally placed it on one side of the spawning cage."
+
+msgid "TR:DIALOG:MOD01:00433"
+msgstr "Sealing completed."
+
+msgid "TR:DIALOG:MOD01:00434"
+msgstr "...?"
+
+msgid "TR:DIALOG:MOD01:00435"
+msgstr "TrGr turned around and realized that TrSeaon hadn't followed. He retraced his steps and found TrSeaon still standing in the same spot, staring ahead blankly."
+
+msgid "TR:DIALOG:MOD01:00436"
+msgstr "So, he ran up to TrSeaon, grabbed his arm, and shook it vigorously to bring him back to reality."
+
+msgid "TR:DIALOG:MOD01:00437"
+msgstr "Ah... I... um... I was just petrified a moment ago..."
+
+msgid "TR:DIALOG:MOD01:00438"
+msgstr "TrGr, you're amazing as always! You cleared out all the monsters in no time!"
+
+msgid "TR:DIALOG:MOD01:00439"
+msgstr "Haha, do you know who I am? I'll make sure you're never harmed, ever!"
+
+msgid "TR:DIALOG:MOD01:00440"
+msgstr "I promise."
+
+msgid "TR:DIALOG:MOD01:00441"
+msgstr "Come on, I've sealed the spawning cage. It's safe here now."
+
+msgid "TR:DIALOG:MOD01:00442"
+msgstr "TrGr held TrSeaon's hand and led him into the dungeon."
+
+msgid "TR:DIALOG:MOD01:00443"
+msgstr "Oh, I didn't notice there was a big chest here earlier. Let's see what treasures it holds."
+
+msgid "TR:DIALOG:MOD01:00444"
+msgstr "On one side of the dungeon, there were two boxes placed together, automatically forming a large chest."
+
+msgid "TR:DIALOG:MOD01:00445"
+msgstr "TrGr walked over, and TrSeaon followed him."
+
+msgid "TR:DIALOG:MOD01:00446"
+msgstr "Hmm... Rotten flesh... not much use. String, bones, and gunpowder might be handy. Wheat... probably won't need it for now. Coal and iron ingots, let's keep those. Hey! A bucket, definitely keeping this."
+
+msgid "TR:DIALOG:MOD01:00447"
+msgstr "Wow... there's even a record inside. Let me see which one it is."
+
+msgid "TR:DIALOG:MOD01:00448"
+msgstr "TrGr picked up the record. Green textures overlaid the center ring of the record, and it had the words 'The Other Side' written on it."
+
+msgid "TR:DIALOG:MOD01:00449"
+msgstr "Oh, nice! It's 'The Other Side.' Our luck is pretty good! I think TrSeaon will really like this song."
+
+msgid "TR:DIALOG:MOD01:00450"
+msgstr "Wait a moment... oh my... there's actually an enchanted golden apple inside the chest...!?"
+
+msgid "TR:DIALOG:MOD01:00451"
+msgstr ""
+"TrGr carefully picked up the enchanted golden apple, turned around, and "
+"handed both the enchanted golden apple and the record 'The Other Side' to "
+"TrSeaon."
+
+msgid "TR:DIALOG:MOD01:00452"
+msgstr ""
+"This is an enchanted golden apple, which is even more potent than a regular "
+"golden apple. Handle it with care, and only consume it in the most dire "
+"situations."
+
+msgid "TR:DIALOG:MOD01:00453"
+msgstr ""
+"TrGr spoke with earnestness to TrSeaon, who nodded in solemn agreement. He "
+"took the items and delicately placed them into his backpack."
+
+msgid "TR:DIALOG:MOD01:00454"
+msgstr ""
+"And here's a vinyl record. I believe you'll enjoy listening to it. I'll make "
+"a record player for you later so you can listen."
+
+msgid "TR:DIALOG:MOD01:00455"
+msgstr "TrGr also handed him the record."
+
+msgid "TR:DIALOG:MOD01:00456"
+msgstr "Thank you, TrGr."
+
+msgid "TR:DIALOG:MOD01:00457"
+msgstr "You're welcome."
+
+msgid "TR:DIALOG:MOD01:00458"
+msgstr "Well... It seems about time. Shall we head back?"
+
+msgid "TR:DIALOG:MOD01:00459"
+msgstr "Sure!"
+
+msgid "TR:DIALOG:MOD01:00460"
+msgstr ""
+"During TrGr and TrSeaon's return journey, their chest badges emitted a faint "
+"glow, projecting a notification at their sides."
+
+msgid "TR:DIALOG:MOD01:00461"
+msgstr ""
+"The message stated that TrRomin had changed the rendezvous point. The new "
+"location was farther east and appeared to be deeper."
+
+msgid "TR:DIALOG:MOD01:00462"
+msgstr ""
+"I wonder what they encountered that prompted a change in the rendezvous "
+"point."
+
+msgid "TR:DIALOG:MOD01:00463"
+msgstr "Let's hope they're safe."
+
+msgid "TR:DIALOG:MOD01:00464"
+msgstr "They should be; they haven't sent out a distress signal."
+
+msgid "TR:DIALOG:MOD01:00465"
+msgstr ""
+"TrGr and TrSeaon opted for a different route on their return, avoiding any "
+"unnecessary detours."
+
+msgid "TR:DIALOG:MOD01:00466"
+msgstr "TrCan and TrRomin."
+
+msgid "TR:DIALOG:MOD01:00467"
+msgstr "A pair of incredibly close friends."
+
+msgid "TR:DIALOG:MOD01:00468"
+msgstr ""
+"TrCan and TrRomin weren't originally from Sphere Country. To be precise, "
+"most of their generation immigrated from other lands."
+
+msgid "TR:DIALOG:MOD01:00469"
+msgstr ""
+"However, don't assume just anyone can immigrate here. Exceptional skills and "
+"talents are required to secure a passport."
+
+msgid "TR:DIALOG:MOD01:00470"
+msgstr ""
+"Sphere Country's motto is 'Without rules, a circle cannot be made.' This "
+"phrase, from a visionary of the past, embodies the country's emphasis on "
+"structure and order."
+
+msgid "TR:DIALOG:MOD01:00471"
+msgstr ""
+"It's a nation enriched with high intelligence. Scientists, artists, and "
+"anyone with capability can explore and contribute to a brighter future."
+
+msgid "TR:DIALOG:MOD01:00472"
+msgstr "Much like a utopia."
+
+msgid "TR:DIALOG:MOD01:00473"
+msgstr ""
+"TrRomin obtained a passport for Sphere Country by applying to study at a "
+"city university. His academic achievements met the requirements, leading to "
+"his acceptance."
+
+msgid "TR:DIALOG:MOD01:00474"
+msgstr "Subsequently, his enrollment granted him a passport."
+
+msgid "TR:DIALOG:MOD01:00475"
+msgstr ""
+"Notably, TrAmorog also attended the same university. It was during this time "
+"that they formed their relationship."
+
+msgid "TR:DIALOG:MOD01:00476"
+msgstr ""
+"TrCan, however, was born in a picturesque rural town with constant spring-"
+"like seasons. The town was brimming with fields, fireflies, rivers, and "
+"country roads, resembling a painting. But it was real."
+
+msgid "TR:DIALOG:MOD01:00477"
+msgstr ""
+"The town's residents lived in harmony, supporting one another. There was no "
+"backstabbing, and everyone led happy, healthy lives."
+
+msgid "TR:DIALOG:MOD01:00478"
+msgstr ""
+"TrCan obtained a passport for Sphere Country because TrRomin wrote a "
+"recommendation letter. Why? Because they'd known each other since childhood. "
+"TrCan and TrRomin were born in the same town."
+
+msgid "TR:DIALOG:MOD01:00479"
+msgstr ""
+"Upon TrRomin's qualification, his immediate thought was of TrCan. He hoped "
+"TrCan could join him in the country, striving for a better world."
+
+msgid "TR:DIALOG:MOD01:00480"
+msgstr ""
+"Of course, even with a recommendation letter, exceptional qualities are "
+"required to obtain a passport."
+
+msgid "TR:DIALOG:MOD01:00481"
+msgstr ""
+"However, TrCan still meets this exceptional criterion because his body has "
+"been different from others since childhood."
+
+msgid "TR:DIALOG:MOD01:00482"
+msgstr "His body harbors another 'soul.'"
+
+msgid "TR:DIALOG:MOD01:00483"
+msgstr "Why can't we find any iron ore?"
+
+msgid "TR:DIALOG:MOD01:00484"
+msgstr "Perhaps we need to dig further."
+
+msgid "TR:DIALOG:MOD01:00485"
+msgstr "Well... Let's dig a bit farther then."
+
+msgid "TR:DIALOG:MOD01:00486"
+msgstr ""
+"TrRomin and TrCan are currently inside a tunnel they've been digging "
+"themselves. Some time has passed, yet they haven't come across any iron ore."
+
+msgid "TR:DIALOG:MOD01:00487"
+msgstr "It seems their luck isn't as good as the other pair's."
+
+msgid "TR:DIALOG:MOD01:00488"
+msgstr "By the way, TrCan..."
+
+msgid "TR:DIALOG:MOD01:00489"
+msgstr "TrRomin paused his actions and turned towards TrCan."
+
+msgid "TR:DIALOG:MOD01:00490"
+msgstr ""
+"I've always had a question. In this world—by that, I mean this world of "
+"digging and building—can you still summon him? Your 'guardian,' Nac?"
+
+msgid "TR:DIALOG:MOD01:00491"
+msgstr "TrRomin mimicked air quotes as he mentioned the 'guardian.'"
+
+msgid "TR:DIALOG:MOD01:00492"
+msgstr "No, I can't. I've tried before. I can't find him anywhere."
+
+msgid "TR:DIALOG:MOD01:00493"
+msgstr ""
+"Hmm... So, this anomaly has taken us away from our original world... We're "
+"not even in the same cave as before."
+
+msgid "TR:DIALOG:MOD01:00494"
+msgstr "TrRomin furrowed his brow, lost in thought."
+
+msgid "TR:DIALOG:MOD01:00495"
+msgstr ""
+"We're even beyond the range where you and Nac could communicate through your "
+"souls."
+
+msgid "TR:DIALOG:MOD01:00496"
+msgstr ""
+"TrRomin muttered to himself, unaware that TrCan was still digging into the "
+"distance."
+
+msgid "TR:DIALOG:MOD01:00497"
+msgstr "Maybe I should check my signal indicator for any signs..."
+
+msgid "TR:DIALOG:MOD01:00498"
+msgstr ""
+"TrRomin took out his signal indicator from his bag and checked the signal "
+"status on the device."
+
+msgid "TR:DIALOG:MOD01:00499"
+msgstr ""
+"Ah... No signals at all. We're completely cut off from our original world."
+
+msgid "TR:DIALOG:MOD01:00500"
+msgstr ""
+"Now, the only way to leave this world is to resolve this anomaly. Otherwise, "
+"we'll be trapped here forever."
+
+msgid "TR:DIALOG:MOD01:00501"
+msgstr ""
+"Or, wait... I've got an idea. Maybe we can instantly contact the command "
+"center..."
+
+msgid "TR:DIALOG:MOD01:00502"
+msgstr ""
+"But I'm not sure if it'll work, as we've never encountered this kind of "
+"situation before..."
+
+msgid "TR:DIALOG:MOD01:00503"
+msgstr "To make this happen, I'll need your help, TrCan!"
+
+msgid "TR:DIALOG:MOD01:00504"
+msgstr "...TrCan?"
+
+msgid "TR:DIALOG:MOD01:00505"
+msgstr ""
+"At this point, TrRomin noticed that TrCan had already dug quite a distance. "
+"He sighed and went after him."
+
+msgid "TR:DIALOG:MOD01:00506"
+msgstr "TrRomin, take a look."
+
+msgid "TR:DIALOG:MOD01:00507"
+msgstr ""
+"As TrRomin caught up with TrCan, about to ask him about the idea he had "
+"earlier, he was stunned by the sight before him."
+
+msgid "TR:DIALOG:MOD01:00508"
+msgstr "Lush Cave. They had arrived at the Lush Cave."
+
+msgid "TR:DIALOG:MOD01:00509"
+msgstr "Wow... What is this place? It's so beautiful..."
+
+msgid "TR:DIALOG:MOD01:00510"
+msgstr ""
+"The moment they stepped into the Lush Cave, TrRomin's signal indicator "
+"started beeping."
+
+msgid "TR:DIALOG:MOD01:00511"
+msgstr ""
+"He glanced at the indicator, and it showed that the target anomaly was very "
+"close to the Lush Cave, possibly even inside it."
+
+msgid "TR:DIALOG:MOD01:00512"
+msgstr ""
+"So, TrRomin and TrCan exchanged a glance and then TrRomin used his badge to "
+"send a notification about the change in meeting location to TrGr and "
+"TrSeaon's team."
+
+msgid "TR:DIALOG:MOD01:00513"
+msgstr "Let's keep moving then. TrGr and the others will be here soon."
+
+msgid "TR:DIALOG:MOD01:00514"
+msgstr "Alright."
+
+msgid "TR:DIALOG:MOD01:00515"
+msgstr ""
+"As they proceeded toward the anomaly, the environment around the Lush "
+"Cave was stunning, with a more pleasant aroma compared to the tunnel before. "
+"The space felt more open, and both of them were in high spirits."
+
+msgid "TR:DIALOG:MOD01:00516"
+msgstr "However, a good mood doesn't mean danger won't strike."
+
+msgid "TR:DIALOG:MOD01:00517"
+msgstr "A skeleton aimed at them from the grass on their left."
+
+msgid "TR:DIALOG:MOD01:00518"
+msgstr "Taking aim."
+
+msgid "TR:DIALOG:MOD01:00519"
+msgstr "Firing."
+
+msgid "TR:DIALOG:MOD01:00520"
+msgstr "An arrow shot past them."
+
+msgid "TR:DIALOG:MOD01:00521"
+msgstr "The creature attacked."
+
+msgid "TR:DIALOG:MOD01:00522"
+msgstr "Oh no!"
+
+msgid "TR:DIALOG:MOD01:00523"
+msgstr "!?!"
+
+msgid "TR:DIALOG:MOD01:00524"
+msgstr ""
+"Both of them turned to the left and saw the skeleton raising its hand, "
+"pulling back the bowstring."
+
+msgid "TR:DIALOG:MOD01:00525"
+msgstr "Another shot."
+
+msgid "TR:DIALOG:MOD01:00526"
+msgstr ""
+"This time the arrow flew just above TrCan's head, narrowly missing him."
+
+msgid "TR:DIALOG:MOD01:00527"
+msgstr "It missed this time. But what about the next?"
+
+msgid "TR:DIALOG:MOD01:00528"
+msgstr ""
+"Perhaps the next shot would hit their bodies, and then it might be too late."
+
+msgid "TR:DIALOG:MOD01:00529"
+msgstr ""
+"TrRomin, with a grip on TrCan's hand, pulled him along as they ran ahead."
+
+msgid "TR:DIALOG:MOD01:00530"
+msgstr ""
+"He didn't dare to look back. He had no combat experience; his expertise was "
+"in construction."
+
+msgid "TR:DIALOG:MOD01:00531"
+msgstr ""
+"TrCan, on the other hand, kept looking back. Behind them were not only "
+"skeletons but also zombies and creepers."
+
+msgid "TR:DIALOG:MOD01:00532"
+msgstr ""
+"Although TrCan had considered standing his ground against the monsters, "
+"given that it was just the two of them and he had no combat experience in "
+"digging and building, escaping was the rational choice."
+
+msgid "TR:DIALOG:MOD01:00533"
+msgstr "And that's what TrRomin was doing."
+
+msgid "TR:DIALOG:MOD01:00534"
+msgstr "Finally, they reached a spot beneath a tree, facing a lake."
+
+msgid "TR:DIALOG:MOD01:00535"
+msgstr ""
+"Seeing that the monsters had stopped chasing them, TrRomin's anxious heart "
+"finally settled."
+
+msgid "TR:DIALOG:MOD01:00536"
+msgstr "And of course, their intertwined hands naturally let go."
+
+msgid "TR:DIALOG:MOD01:00537"
+msgstr ""
+"They sat down beside the tree. TrRomin updated TrGr and the others about the "
+"new meeting spot and advised them to watch out for monsters on the way."
+
+msgid "TR:DIALOG:MOD01:00538"
+msgstr "..."
+
+msgid "TR:DIALOG:MOD01:00539"
+msgstr "Since they sat down, they hadn't said a single word."
+
+msgid "TR:DIALOG:MOD01:00540"
+msgstr "Because there was nothing to talk about."
+
+msgid "TR:DIALOG:MOD01:00541"
+msgstr "They needed extroverts like TrGr to break the ice and create topics."
+
+msgid "TR:DIALOG:MOD01:00542"
+msgstr ""
+"TrRomin picked up a piece of gravel from the ground and tossed it into the "
+"lake."
+
+msgid "TR:DIALOG:MOD01:00543"
+msgstr ""
+"The water splashed, startling the axolotls inside, making them scatter."
+
+msgid "TR:DIALOG:MOD01:00544"
+msgstr ""
+"Meanwhile, TrCan checked the durability of his pickaxe. Clearly, there were "
+"no signs of wear. It seemed to have infinite durability."
+
+msgid "TR:DIALOG:MOD01:00545"
+msgstr "..."
+
+msgid "TR:DIALOG:MOD01:00546"
+msgstr ""
+"TrCan seemed to recall something and looked at the ribbon on TrRomin's left "
+"ear."
+
+msgid "TR:DIALOG:MOD01:00547"
+msgstr "TrRomin."
+
+msgid "TR:DIALOG:MOD01:00548"
+msgstr "Hmm?"
+
+msgid "TR:DIALOG:MOD01:00549"
+msgstr ""
+"Does the ribbon on your ear really seal away that 'monster' you talked about?"
+
+msgid "TR:DIALOG:MOD01:00550"
+msgstr "TrCan mimicked air quotes as he mentioned the word 'monster.'"
+
+msgid "TR:DIALOG:MOD01:00551"
+msgstr ""
+"Perhaps you shouldn't suppress it. After all, it's a part of your body, no "
+"matter what."
+
+msgid "TR:DIALOG:MOD01:00552"
+msgstr ""
+"TrCan looked at TrRomin, who had stopped throwing stones and was now staring "
+"at the ground."
+
+msgid "TR:DIALOG:MOD01:00553"
+msgstr "No. You don't understand... It has caused me so much pain..."
+
+msgid "TR:DIALOG:MOD01:00554"
+msgstr ""
+"It hurt my friends... My former friends... If it weren't for it, my friends.."
+". they deserved better lives..."
+
+msgid "TR:DIALOG:MOD01:00555"
+msgstr "And now they're... they and us... are..."
+
+msgid "TR:DIALOG:MOD01:00556"
+msgstr ""
+"TrCan didn't expect such a strong reaction from TrRomin. He was momentarily "
+"at a loss."
+
+msgid "TR:DIALOG:MOD01:00557"
+msgstr ""
+"After a brief pause, TrCan shifted closer to TrRomin and used his right hand "
+"to put his arm around his shoulder."
+
+msgid "TR:DIALOG:MOD01:00558"
+msgstr "..."
+
+msgid "TR:DIALOG:MOD01:00559"
+msgstr "I'm sorry."
+
+msgid "TR:DIALOG:MOD01:00560"
+msgstr "I didn't realize this matter weighs so heavily on you."
+
+msgid "TR:DIALOG:MOD01:00561"
+msgstr ""
+"TrRomin leaned on TrCan's shoulder, the two of them now close and intimate."
+
+msgid "TR:DIALOG:MOD01:00562"
+msgstr "It's okay."
+
+msgid "TR:DIALOG:MOD01:00563"
+msgstr ""
+"Someday, I'll make it have emotions too, not just be an emotionless killing "
+"machine."
+
+msgid "TR:DIALOG:MOD01:00564"
+msgstr "TrRomin looked at the lake as he made this pledge."
+
+msgid "TR:DIALOG:MOD01:00565"
+msgstr "Hey! You guys look cozy over here! Enjoying retirement?"
+
+msgid "TR:DIALOG:MOD01:00566"
+msgstr ""
+"TrGr and TrSeaon suddenly appeared behind TrCan and TrRomin, and then TrGr's "
+"booming voice shattered the tranquility."
+
+msgid "TR:DIALOG:MOD01:00567"
+msgstr ""
+"The sight of the two of them cuddling dealt a million points of damage."
+
+msgid "TR:DIALOG:MOD01:00568"
+msgstr ""
+"TrSeaon kept glancing around, utterly captivated by the breathtaking scenery."
+" He was oblivious to what the others were doing."
+
+msgid "TR:DIALOG:MOD01:00569"
+msgstr ""
+"If he had a camera, he'd probably fill up a whole roll of film already."
+
+msgid "TR:DIALOG:MOD01:00570"
+msgstr ""
+"TrCan's hand quickly retreated, and TrRomin's head snapped back, creating "
+"distance between them in the next second, as if nothing had happened."
+
+msgid "TR:DIALOG:MOD01:00571"
+msgstr ""
+"In the end, both of them stood up, their faces clearly flushed, and "
+"TrRomin's was even redder. TrCan seemed somewhat bashful."
+
+msgid "TR:DIALOG:MOD01:00572"
+msgstr "H-How did we end up with the idea of retirement?"
+
+msgid "TR:DIALOG:MOD01:00573"
+msgstr "We were just discussing life goals!"
+
+msgid "TR:DIALOG:MOD01:00574"
+msgstr "Ahaha!"
+
+msgid "TR:DIALOG:MOD01:00575"
+msgstr "TrGr grinned mischievously."
+
+msgid "TR:DIALOG:MOD01:00576"
+msgstr "Well, now that you're both back, let's continue forward."
+
+msgid "TR:DIALOG:MOD01:00577"
+msgstr ""
+"TrCan brushed off the dust from his clothes and tightened his grip on his "
+"pickaxe."
+
+msgid "TR:DIALOG:MOD01:00578"
+msgstr ""
+"Of course! But before that, maybe we should share some information... you "
+"know, stuff like that."
+
+msgid "TR:DIALOG:MOD01:00579"
+msgstr "The others nodded seriously upon hearing TrSeaon's words."
+
+msgid "TR:DIALOG:MOD01:00580"
+msgstr "I'll go first!"
+
+msgid "TR:DIALOG:MOD01:00581"
+msgstr ""
+"I now have a golden apple and an enchanted golden apple. TrGr said they're "
+"really useful food, but I haven't used them yet, and this is even my first "
+"time hearing about them... But I trust him."
+
+msgid "TR:DIALOG:MOD01:00582"
+msgstr ""
+"TrSeaon took out the two apples from his backpack, laying them flat in his "
+"hand for everyone, especially TrRomin and TrCan, to see."
+
+msgid "TR:DIALOG:MOD01:00583"
+msgstr ""
+"Golden apples are indeed valuable items, but this enchanted golden apple is "
+"new to me!"
+
+msgid "TR:DIALOG:MOD01:00584"
+msgstr ""
+"It probably provides longer-lasting and more substantial benefits than the "
+"regular golden apple."
+
+msgid "TR:DIALOG:MOD01:00585"
+msgstr ""
+"Hmm... I hope so. And then, I received a music disc from TrGr too! The song "
+"is called 'The Other Side,' and he said I'd really enjoy this style of music!"
+
+msgid "TR:DIALOG:MOD01:00586"
+msgstr "W-Wait a moment... You guys didn't encounter dungeons, did you...?!​"
+
+msgid "TR:DIALOG:MOD01:00587"
+msgstr ""
+"Yeah. We did stumble upon a zombie dungeon. Monsters do exist in this world."
+
+msgid "TR:DIALOG:MOD01:00588"
+msgstr ""
+"Ah! I was just about to remind you guys about the monsters. I didn't expect "
+"you'd encounter them so soon!"
+
+msgid "TR:DIALOG:MOD01:00589"
+msgstr ""
+"Actually, it wasn't long. We received your notification about ten minutes "
+"after we cleared out the zombies."
+
+msgid "TR:DIALOG:MOD01:00590"
+msgstr "Ugh... Alright."
+
+msgid "TR:DIALOG:MOD01:00591"
+msgstr ""
+"So, how did you guys make it here? We encountered many monsters on our way."
+
+msgid "TR:DIALOG:MOD01:00592"
+msgstr "Simple. We just killed them all."
+
+msgid "TR:DIALOG:MOD01:00593"
+msgstr ""
+"TrGr casually said this, as if it were nothing, but it hit TrRomin and TrCan "
+"like an arrow. Especially TrRomin."
+
+msgid "TR:DIALOG:MOD01:00594"
+msgstr "What?!​"
+
+msgid "TR:DIALOG:MOD01:00595"
+msgstr "TrGr is truly impressive!"
+
+msgid "TR:DIALOG:MOD01:00596"
+msgstr ""
+"TrRomin looked at TrGr with disbelief, then both he and TrCan simultaneously "
+"gave him a thumbs-up."
+
+msgid "TR:DIALOG:MOD01:00597"
+msgstr "Impressive. You'll have to teach me how to fight like that sometime."
+
+msgid "TR:DIALOG:MOD01:00598"
+msgstr "Of course! It's quite simple!"
+
+msgid "TR:DIALOG:MOD01:00599"
+msgstr ""
+"With his arms crossed, TrGr tilted his head back and let out a confident hum,"
+" exuding unwavering self-assurance."
+
+msgid "TR:DIALOG:MOD01:00600"
+msgstr "And there's one more thing—we found diamonds while mining!"
+
+msgid "TR:DIALOG:MOD01:00601"
+msgstr "Wow! You're really lucky! To find them with such a low probability!"
+
+msgid "TR:DIALOG:MOD01:00602"
+msgstr ""
+"Actually... we didn't find them while mining. We found them in abandoned "
+"minecart chests."
+
+msgid "TR:DIALOG:MOD01:00603"
+msgstr "Oh... well, that's not a big deal."
+
+msgid "TR:DIALOG:MOD01:00604"
+msgstr "And... I'm not sure if there will be another chance..."
+
+msgid "TR:DIALOG:MOD01:00605"
+msgstr "Please allow me to use a diamond to craft a jukebox."
+
+msgid "TR:DIALOG:MOD01:00606"
+msgstr ""
+"TrGr then took out a crafting table, crafted a jukebox, and handed it to "
+"TrSeaon."
+
+msgid "TR:DIALOG:MOD01:00607"
+msgstr "I hope you'll enjoy the song. It's quite cheerful."
+
+msgid "TR:DIALOG:MOD01:00608"
+msgstr "Of course, I'll love it. Especially since it's from you."
+
+msgid "TR:DIALOG:MOD01:00609"
+msgstr ""
+"Hehe. And now, I'll give TrCan another diamond. I think he'll need it—for "
+"research purposes."
+
+msgid "TR:DIALOG:MOD01:00610"
+msgstr "Thank you."
+
+msgid "TR:DIALOG:MOD01:00611"
+msgstr ""
+"TrGr handed a diamond to TrCan, who held it in his hand, examining its "
+"texture, material, and refractive index."
+
+msgid "TR:DIALOG:MOD01:00612"
+msgstr "How about your information?"
+
+msgid "TR:DIALOG:MOD01:00613"
+msgstr "Well... the area beneath your feet is our only piece of information."
+
+msgid "TR:DIALOG:MOD01:00614"
+msgstr "Nothing else?"
+
+msgid "TR:DIALOG:MOD01:00615"
+msgstr ""
+"Nope. We didn't find anything and just entered this... area. Encountered "
+"lots of monsters too. By the way, what's the name of this area?"
+
+msgid "TR:DIALOG:MOD01:00616"
+msgstr "Oh... that's too bad."
+
+msgid "TR:DIALOG:MOD01:00617"
+msgstr ""
+"This area is called Lush Cave. It's a type of subterranean biome, quite "
+"rare."
+
+msgid "TR:DIALOG:MOD01:00618"
+msgstr "I can't even decide if your luck is good or bad."
+
+msgid "TR:DIALOG:MOD01:00619"
+msgstr "It's probably too good and then turned extremely bad."
+
+msgid "TR:DIALOG:MOD01:00620"
+msgstr "Is the information exchange complete? Shall we continue?"
+
+msgid "TR:DIALOG:MOD01:00621"
+msgstr ""
+"The others agreed, and TrRomin took out the signal indicator, leading the "
+"group in the direction indicated by the navigation."
+
+msgid "TR:DIALOG:MOD01:00622"
+msgstr "Um... did we reach a... dead end?"
+
+msgid "TR:DIALOG:MOD01:00623"
+msgstr ""
+"They came upon a wall made of identical blocks, a mix of deep gray and deep "
+"green. These blocks looked quite different from the other blocks in Lush "
+"Cave, giving an awkward impression."
+
+msgid "TR:DIALOG:MOD01:00624"
+msgstr "TrCan had already pulled out his pickaxe, ready to remove them."
+
+msgid "TR:DIALOG:MOD01:00625"
+msgstr ""
+"Hold on. These blocks are Reinforced Deep Slate. They're extremely tough "
+"blocks for mining and construction. You'll need to use a pickaxe for a long "
+"time to break them."
+
+msgid "TR:DIALOG:MOD01:00626"
+msgstr ""
+"But why would Reinforced Deep Slate appear in Lush Cave? It's not "
+"supposed to generate in the Ancient City, right?"
+
+msgid "TR:DIALOG:MOD01:00627"
+msgstr ""
+"TrCan stopped his action and turned to look at TrGr upon hearing his words."
+
+msgid "TR:DIALOG:MOD01:00628"
+msgstr "TrGr rested his chin on his hand, deep in thought."
+
+msgid "TR:DIALOG:MOD01:00629"
+msgstr "Could we explode them with dynamite?"
+
+msgid "TR:DIALOG:MOD01:00630"
+msgstr ""
+"No, their explosion resistance is also very high. Dynamite from mining and "
+"construction won't be able to break blocks like these."
+
+msgid "TR:DIALOG:MOD01:00631"
+msgstr "Perhaps my own explosives can blow it open."
+
+msgid "TR:DIALOG:MOD01:00632"
+msgstr "Oh! That might actually work! Worth a try."
+
+msgid "TR:DIALOG:MOD01:00633"
+msgstr "But we don't know the thickness of this wall yet..."
+
+msgid "TR:DIALOG:MOD01:00634"
+msgstr "No worries. If one explosive isn't enough, we'll add another."
+
+msgid "TR:DIALOG:MOD01:00635"
+msgstr "I brought plenty of explosives this time."
+
+msgid "TR:DIALOG:MOD01:00636"
+msgstr ""
+"TrCan pulled out a piece of explosive from his waist bag. It's a cube, quite "
+"compact, but the extent of its power is yet unknown."
+
+msgid "TR:DIALOG:MOD01:00637"
+msgstr ""
+"For safety, I won't set the explosion intensity to the maximum for the first "
+"attempt."
+
+msgid "TR:DIALOG:MOD01:00638"
+msgstr "It's at 70% right now."
+
+msgid "TR:DIALOG:MOD01:00639"
+msgstr "Everyone should stay at least 25 meters away from the explosive point."
+
+msgid "TR:DIALOG:MOD01:00640"
+msgstr ""
+"After everyone was far away, TrCan set a ten-second countdown on the "
+"explosive, then ran quickly to the others."
+
+msgid "TR:DIALOG:MOD01:00641"
+msgstr ""
+"With a loud blast, the wall was blown open, revealing a circular hollow "
+"space. The other side of the wall was faintly visible."
+
+msgid "TR:DIALOG:MOD01:00642"
+msgstr "Looks like it's blown open."
+
+msgid "TR:DIALOG:MOD01:00643"
+msgstr "Great, it seems TrCan's explosive has a blast power of at least 1200."
+
+msgid "TR:DIALOG:MOD01:00644"
+msgstr "Let's continue forward."

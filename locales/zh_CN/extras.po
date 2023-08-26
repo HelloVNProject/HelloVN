@@ -1,0 +1,608 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Rominwolf <im@wsm."
+"ink>\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; "
+"charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+
+msgid "TR:EXTRA:TITLE"
+msgstr "额外内容。"
+
+msgid "TR:EXTRA:ARTIST"
+msgstr "艺术家"
+
+msgid "TR:EXTRA:CHAPTERINVEST"
+msgstr ""
+"第 {chapter} 章第 {part} 部分额外情报："
+
+msgid "TR:EXTRA:CHAPTERLOCKED"
+msgstr ""
+"完成第 {chapter} 章以解锁此额外情报。"
+
+msgid "TR:EXTRA:NEEDUNLOCK"
+msgstr ""
+"【完成目标章节部分以解锁此额外内容】"
+
+msgid "TR:EXTRA:NEEDUNLOCK:PARAMS"
+msgstr ""
+"【完成第 {chapter} 章第 {part} 部分以解"
+"锁此额外内容】"
+
+msgid "TR:EXTRA:MOBS"
+msgstr "生物"
+
+msgid "TR:EXTRA:GR:NICKNAME"
+msgstr "基阿 (GR)"
+
+msgid "TR:EXTRA:GR:FULLNAME"
+msgstr "基阿"
+
+msgid "TR:EXTRA:GR:DESC"
+msgstr ""
+"GR 是一只绿色眼眸的树袋熊，虽然他看起来"
+"十分瘦小，但他的能力完全不输给任何人，甚"
+"至比大多数人都厉害。他是探险队的领导者，"
+"颇受探险队其他人的尊重。他虽然经常板着"
+"脸，不苟言笑，但所有人都知道他的斗志——如"
+"火焰般燃烧。\n"
+"\n"
+"他和同队伍内的 Seaon 是最亲密的挚友，甚"
+"至远超挚友的关系。"
+
+msgid "TR:EXTRA:GR:EXTRAS:1"
+msgstr ""
+"调查组是8月1日外出调查，而基阿的生日也是"
+"8月1日。"
+
+msgid "TR:EXTRA:SEAON:NICKNAME"
+msgstr "西昂 (Seaon)"
+
+msgid "TR:EXTRA:SEAON:FULLNAME"
+msgstr "西昂"
+
+msgid "TR:EXTRA:SEAON:DESC"
+msgstr ""
+"Seaon 是一只身材高大，拥有蓝色眼眸的北极"
+"熊，他为人善良、可靠、富有正义感，同时还"
+"很可爱，深受探险队内其他人的信赖和喜爱。"
+"他是探险队的安全员及医疗员，为其他成员提"
+"供紧急医疗。最后，他还是探险队的吉祥物，"
+"因为他真的很可爱。"
+
+msgid "TR:EXTRA:CAN:NICKNAME"
+msgstr "参 (Can)"
+
+msgid "TR:EXTRA:CAN:FULLNAME"
+msgstr "道格·柴·参"
+
+msgid "TR:EXTRA:CAN:DESC"
+msgstr ""
+"Dog Si. Can 是一只拥有红色眼眸的柴犬，他"
+"的毛发为黄棕色，同时他还留了一串棕色的胡"
+"须。“其实我已经很老了”，这是他曾经说过的"
+"话，但从外表看起来，他非常年轻，一点儿都"
+"不年长。他是探险队的工程师和矿工，为队员"
+"们提供安全的道路。"
+
+msgid "TR:EXTRA:CAN:EXTRAS:1"
+msgstr ""
+"他和 Ten 已经公开了恋人关系，可想而知他"
+"们的关系有多亲密。"
+
+msgid "TR:EXTRA:CAN:EXTRAS:2"
+msgstr ""
+"他使用他的烟斗并消耗他体内的能量召唤了一"
+"个有着黑色毛发且强壮的人，看起来和 Can "
+"很像。Can 说他叫 Nac，是他阴暗的化身。"
+
+msgid "TR:EXTRA:CAN:EXTRAS:3"
+msgstr ""
+"他对 Nik 产生了一种特别的感情，似乎是心"
+"动的感觉，也许他需要多和 Nik 谈谈。"
+
+msgid "TR:EXTRA:ROMIN:NICKNAME"
+msgstr "罗明 (Romin)"
+
+msgid "TR:EXTRA:ROMIN:FULLNAME"
+msgstr "道格·金毛·罗明"
+
+msgid "TR:EXTRA:ROMIN:DESC"
+msgstr ""
+"Dog Gr. Romin是一只蓝色眼眸的金毛寻回"
+"犬，同时他的左耳还系了一条黄色的丝带，他"
+"并没有透露过那条丝带的用途，可能不只是装"
+"饰品那么简单。他是探险队的导航员和通讯"
+"员，为探险队提供有效的行进路径并确保可以"
+"随时和总部取得联系。"
+
+msgid "TR:EXTRA:ROMIN:EXTRAS:1"
+msgstr ""
+"他似乎很喜欢 Amorog，也许他们以前有什么"
+"渊源。"
+
+msgid "TR:EXTRA:ROMIN:EXTRAS:2"
+msgstr ""
+"他取下了他的丝带，然后变成了一头……野"
+"兽！？"
+
+msgid "TR:EXTRA:ROMIN:EXTRAS:3"
+msgstr "暂不公开。"
+
+msgid "TR:EXTRA:SAM:NICKNAME"
+msgstr "塞姆 (Sam)"
+
+msgid "TR:EXTRA:SAM:FULLNAME"
+msgstr "塞缪尔·艾尔斯"
+
+msgid "TR:EXTRA:SAM:DESC"
+msgstr ""
+"Samurl Ayers 是一只红眼睛的山狮，身上有"
+"着引人注目的白色毛皮和黑色斑纹。他身材高"
+"大、肌肉发达，被形容为“壮如一座房子”。"
+"Samuel 穿着一件休闲的米色工作衬衫和裤"
+"子，还戴着棕色的背带。"
+
+msgid "TR:EXTRA:SAM:EXTRAS:1"
+msgstr ""
+"他说自从来到这里后，身体就非常不舒服。他"
+"需要尽快回到总部做一套全身检查。"
+
+msgid "TR:EXTRA:NIK:NICKNAME"
+msgstr "尼克 (Nik)"
+
+msgid "TR:EXTRA:NIK:FULLNAME"
+msgstr "尼古拉·克罗尔"
+
+msgid "TR:EXTRA:NIK:DESC"
+msgstr ""
+"Nikolai Krol 是一只身材高大、结实的獾，"
+"拥有棕色的眼睛。他有一些灰色的胡渣，看起"
+"来像胡子。他穿着一件浅黄色的衬衫，并塞进"
+"牛仔裤里，系着一条棕色的腰带。在工作时，"
+"他戴着一盏碳化物矿工头灯。"
+
+msgid "TR:EXTRA:NIK:EXTRAS:1"
+msgstr ""
+"他对他的矿工头灯有着特殊的感情，Nik 从来"
+"不敢想象他失去头灯后的情形。"
+
+msgid "TR:EXTRA:YAO:NICKNAME"
+msgstr "耀 (Yao)"
+
+msgid "TR:EXTRA:YAO:FULLNAME"
+msgstr "冯耀霖"
+
+msgid "TR:EXTRA:YAO:DESC"
+msgstr ""
+"Feng Yaolin 是一只肌肉发达的老虎，脸上有"
+"明显的斑纹。他穿着深蓝色的工装裤和配套的"
+"帽子，以及一件带有卷起袖子的灰色衬衫。在"
+"工作时，他会将工具袋挂在腰带上，但在更随"
+"意的场合会取下来。"
+
+msgid "TR:EXTRA:YAO:EXTRAS:1"
+msgstr "暂不公开。"
+
+msgid "TR:EXTRA:TODD:NICKNAME"
+msgstr "托德 (Todd)"
+
+msgid "TR:EXTRA:TODD:FULLNAME"
+msgstr "托德·布朗森"
+
+msgid "TR:EXTRA:TODD:DESC"
+msgstr ""
+"Todd Bronson 是一只高个子、宽肩膀的水"
+"獭。它戴着黑色和灰色图案的围巾，白色衬衫"
+"放在敞开的橄榄褐色马甲下面，还穿着黑色裤"
+"子。它身上还有一个手枪枪套，里面似乎插着"
+"一把左轮手枪。"
+
+msgid "TR:EXTRA:TODD:EXTRAS:1"
+msgstr ""
+"对于 Todd 是如何突然来到地下三层矿洞的，"
+"我们还需要进一步分析。"
+
+msgid "TR:EXTRA:AMOROG:NICKNAME"
+msgstr "阿莫罗格 (Amorog)"
+
+msgid "TR:EXTRA:AMOROG:FULLNAME"
+msgstr "贝尔·白·阿莫罗格"
+
+msgid "TR:EXTRA:AMOROG:DESC"
+msgstr ""
+"Bear P. Amorog 是一只拥有绿色眼眸的北极"
+"熊，留有一些棕色的络腮胡。喜欢讲冷笑"
+"话。\n"
+"他被总部的指挥中心奉命作为本此探险队的远"
+"程协力人员。"
+
+msgid "TR:EXTRA:AMOROG:EXTRAS:1"
+msgstr ""
+"他似乎很喜欢 Romin，也许他们以前有什么渊"
+"源。"
+
+msgid "TR:EXTRA:TEN:NICKNAME"
+msgstr "田 (Ten)"
+
+msgid "TR:EXTRA:TEN:FULLNAME"
+msgstr "贝尔·棕·田"
+
+msgid "TR:EXTRA:TEN:DESC"
+msgstr ""
+"Bear P. Ten 是一只拥有蓝色眼眸的棕熊，他"
+"乐观且积极，同时他还是城市里风评最好的一"
+"家披萨店的店长。"
+
+msgid "TR:EXTRA:TEN:EXTRAS:1"
+msgstr ""
+"他和 Can 已经公开了恋人关系，可想而知他"
+"们的关系有多亲密。"
+
+msgid "TR:EXTRA:ZOMBIE:NICKNAME"
+msgstr "僵尸"
+
+msgid "TR:EXTRA:ZOMBIE:DESC"
+msgstr ""
+"僵尸是游戏《挖掘与建造》中出现的一种敌对"
+"生物，这类生物很容易被误认为是一种笨拙且"
+"蹒跚的生物，但它们数量庞大，甚至能够让最"
+"勇敢的冒险者栽在它们手里。"
+
+msgid "TR:EXTRA:SKELETON:NICKNAME"
+msgstr "骷髅"
+
+msgid "TR:EXTRA:SKELETON:DESC"
+msgstr ""
+"骷髅是游戏《挖掘与建造》中出现的一种敌对"
+"生物，这类生物用它们标志性的弓箭作为武器"
+"攻击冒险者。小心行事！千万不要让他们的偷"
+"袭得逞。"
+
+msgid "TR:EXTRA:CGS"
+msgstr "插图"
+
+msgid "TR:EXTRA:FIRSTFIGHT:NAME"
+msgstr "大战伊始"
+
+msgid "TR:EXTRA:FIRSTFIGHT:CONTENT"
+msgstr ""
+"[b]艺术家：Rominwolf，美术指导：基阿[/"
+"b]\n"
+"\n"
+"面对如潮水般涌来的怪物，GR 命令探险队队"
+"员们启动紧急戒备模式，即战斗队员靠前站，"
+"支援队员在后方辅助其他成员。\n"
+"\n"
+"他们能否成功脱离困境？而他们的结局将由你"
+"来决定。"
+
+msgid "TR:EXTRA:QUICKTIME:NAME"
+msgstr "快速反应时间"
+
+msgid "TR:EXTRA:QUICKTIME:CONTENT"
+msgstr "[b]艺术家：参咸犬[/b]"
+
+msgid "TR:EXTRA:CAVEINVEST:NAME"
+msgstr "洞穴调查"
+
+msgid "TR:EXTRA:CAVEINVEST:CONTENT"
+msgstr ""
+"[b]艺术家：基阿[/b]\n"
+"\n"
+"探险队四人（GR、Dog Si. Can、Seaon 和 "
+"Dog. Gr. Romin）受到 Bear P. Amorog 的调"
+"查请求，准备前往目标地点进行调查。经过一"
+"系列准备，探险队终于抵达导航所指示的终"
+"点：一座存在了数百年的洞穴，从这里开始他"
+"们的冒险。\n"
+"\n"
+"他们将会在洞穴里遇到什么？他们能平安归来"
+"吗？让我们拭目以待。"
+
+msgid "TR:EXTRA:NIKSHAT:NAME"
+msgstr "损坏的头盔"
+
+msgid "TR:EXTRA:NIKSHAT:CONTENT"
+msgstr ""
+"[b]艺术家：二甲庚烯[/b]\n"
+"\n"
+"在 Nikolai Krol 来到现代世界之前，他的头"
+"盔掉落在《吸烟室》世界。\n"
+"这顶头盔对他来说非常重要，它的遗失就像他"
+"和 Samuel Ayers 分别一样。\n"
+"我们也许会在未来的故事中进一步了解他头盔"
+"的由来，Nik 的选择以及这顶头盔的去向。"
+
+msgid "TR:EXTRA:TERMS"
+msgstr "术语"
+
+msgid "TR:EXTRA:SINGAL:NAME"
+msgstr "信号指示器"
+
+msgid "TR:EXTRA:SINGAL:DESC"
+msgstr ""
+"信号指示器是一台类似于指南针的设备，它虽"
+"然只有怀表大小，但却拥有标准的方位指示能"
+"力、记忆、导航、通讯等功能。同时它还实现"
+"了一套精简版的可触摸全息投影能力，保证在"
+"任何时刻都可以很方便地查看屏幕并点击。该"
+"设备也拥有卫星电话的能力，天线内置到机身"
+"内，但如果信号不畅，也可手动弹出。\n"
+"\n"
+"该设备配备了紧急联络系统，可在紧急情况直"
+"接连接到距离最近的卫星信号，然后尝试取得"
+"联系。该设备允许通过卫星以实现全球通"
+"话。\n"
+"\n"
+"该设备由 Bear P. Amorog 设计并制作，采用"
+"国际推荐标准 IRS-7199 设计，采用国际严格"
+"标准 ISS-202419 制作。"
+
+msgid "TR:EXTRA:ENVIRONMENTAL:NAME"
+msgstr "环境侦测仪"
+
+msgid "TR:EXTRA:ENVIRONMENTAL:DESC"
+msgstr ""
+"环境侦测仪是一台长方体形状的 PDA 设备，"
+"机身为米白色，四周采用圆角设计。它可以实"
+"时监测当前区域的工业环境、地面情况、天气"
+"和空气质量评估等，然后收集并分析环境温"
+"度、湿度、气压、污染物和其他因素的数据。"
+"该设备没有配备图形界面，完全采用命令行作"
+"为交互语言。\n"
+"\n"
+"该设备由 Dog Gr. Romin 设计，由 Bear P. "
+"Amorog 制作。因为该设备采用了部分灰色产"
+"业的功能，所以并没有进行报备。"
+
+msgid "TR:EXTRA:ANOSINGAL:NAME"
+msgstr "异常信号源"
+
+msgid "TR:EXTRA:ANOSINGAL:DESC"
+msgstr ""
+"“出于不明原因，近期监测到的异常信号源大"
+"幅增多，需要派人去现场调查一下，确认原因"
+"并排查问题”，阿莫罗格留。\n"
+"\n"
+"异常信号源指的是那些地点已知，时间已知，"
+"但出现原因未知，如何让其恢复成原先样子也"
+"未知的，在空间内凭空生成的一块或多块区域"
+"的信号源头的统称。\n"
+"\n"
+"大部分情况下，该区域内均会出现一道信号，"
+"可以确定的是，该信号就是源头。只要能找到"
+"该信号所在的位置，并寻找到排除异常的解决"
+"方案，那么从理论上来说就可以解决异常生成"
+"区域的问题。\n"
+"\n"
+"没有人知道为什么会出现这样奇异的异常区"
+"域，但它们的出现确实给这个世界带来了或多"
+"或少的不便。这就是由阿莫罗格的团队所要解"
+"决的问题。\n"
+"\n"
+"在本作，他们会调查并着手解决其中突然出现"
+"的异常区域和异常信号。"
+
+msgid "TR:EXTRA:DIGCRAFT:NAME"
+msgstr "《挖掘与建造》"
+
+msgid "TR:EXTRA:DIGCRAFT:DESC"
+msgstr ""
+"《挖掘与建造（Digcraft）》是一款开放世界"
+"沙盒游戏，玩家在该游戏中可以探索无限生成"
+"的虚拟世界，这个世界由各种方块构成，收集"
+"和利用这些方块来创造各种艺术作品，玩家可"
+"以在游戏中进行采集、制作、建造、冒险和与"
+"敌对生物战斗等活动。玩家可以通过收集资源"
+"制作工具和物品，建造房屋、城堡、机械装置"
+"或庞大的创造物。游戏中还有日夜交替、气候"
+"变化和动态生物群落等元素，使得虚拟世界更"
+"加真实和生动。"
+
+msgid "TR:EXTRA:THESMOKEROOM:NAME"
+msgstr "《吸烟室》"
+
+msgid "TR:EXTRA:THESMOKEROOM:DESC"
+msgstr ""
+"《吸烟室》是 EchoProject 制作的第三款视"
+"觉小说作品，从时间线上来看是《回音》的前"
+"传作品，但游玩本游戏并不需要了解《回音》"
+"的任何内容。\n"
+"\n"
+"按官方的说法，本作并未接驳《回音》的任何"
+"一条线路，但两部作品都采用了相同的角色和"
+"故事设定。两个作品之间的联系类似于“是前"
+"传，但是另一条世界线的前传。”\n"
+"\n"
+"《回音》系列有三部主要作品，以及一部短篇"
+"前传。按时间顺序来讲，分别是：设定在1915"
+"年的前传作品《吸烟室》，主角团在 2008 年"
+"万圣节探险的短篇前传《回音：65号公路》，"
+"系列首部作品《回音》，以及《回音》事件发"
+"生 5 年后的续作《拱桥》。\n"
+"\n"
+"本作故事发生于一个世纪前的回音镇，游戏视"
+"角从一名性工作者 Samuel 的身上展开，他那"
+"努力改善生活的愿景，却为自己带来了杀身之"
+"祸。\n"
+"\n"
+"一桩谋杀案，一次矿工罢工，一石激起千层"
+"浪，小镇居民的日常生活开始土崩瓦解。更糟"
+"的是，某些东西被释放了出来，附着在有罪之"
+"人的身上，使他们无法逃离...回音镇。\n"
+"\n"
+"您可以访问该游戏的官方网站以了解详情："
+"[url=https://echoproject.itch.io/the-"
+"smoke-room]https://echoproject.itch.io/"
+"the-smoke-room[/url]"
+
+msgid "TR:EXTRA:QTE:NAME"
+msgstr "快速反应事件"
+
+msgid "TR:EXTRA:QTE:DESC"
+msgstr ""
+"快速反应事件（Quick Time Events，又名 "
+"QTE）是一种电子游戏交互机制。在 QTE 中，"
+"玩家需要在特定时间按下特定按钮或进行特定"
+"动作，以完成游戏中的关键动作或事件。这些"
+"按键和动作通常以图标、箭头或文本的形式显"
+"示在屏幕上，并且在游戏进程中以突发、紧张"
+"的方式出现。"
+
+msgid "TR:EXTRA:QTERB:NAME"
+msgstr "节奏型快速反应事件"
+
+msgid "TR:EXTRA:QTERB:DESC"
+msgstr ""
+"节奏型快速反应事件（Quick Time Event "
+"with Rhythm-Based，即 QTE/Rb）是一种电子"
+"游戏交互机制，但与常规快速反应事件不同的"
+"是，玩家不只是需要在特定时间按下特定按钮"
+"或进行特定动作，同时需要按照音乐的节奏和"
+"屏幕上的音乐提示进行操作，从而完成游戏中"
+"的关键动作或事件。这些按键和动作通常以图"
+"标、箭头或文本的形式显示在屏幕上，并且在"
+"游戏进程中以突发、紧张的方式出现。"
+
+msgid "TR:EXTRA:STAFFS"
+msgstr "制作人员名单"
+
+msgid "TR:EXTRA:DUTY"
+msgstr "职责"
+
+msgid "TR:EXTRA:MATE"
+msgstr "伙计们"
+
+msgid "TR:EXTRA:DIRECTOR"
+msgstr "导演"
+
+msgid "TR:EXTRA:WRITER"
+msgstr "编剧"
+
+msgid "TR:EXTRA:CHARDESIGN"
+msgstr "角色设计师"
+
+msgid "TR:EXTRA:ARTIST:CHAR"
+msgstr "立绘画师"
+
+msgid "TR:EXTRA:ARTIST:CG"
+msgstr "插画画师"
+
+msgid "TR:EXTRA:ARTIST:BG"
+msgstr "背景画师"
+
+msgid "TR:EXTRA:SFX"
+msgstr "音效师"
+
+msgid "TR:EXTRA:MUSIC"
+msgstr "音乐家"
+
+msgid "TR:EXTRA:UI"
+msgstr "用户界面设计师"
+
+msgid "TR:EXTRA:PROGRAM:CLIENT"
+msgstr "游戏客户端程序员"
+
+msgid "TR:EXTRA:TEST"
+msgstr "测试人员"
+
+msgid "TR:EXTRA:LEGAL"
+msgstr "法律顾问"
+
+msgid "TR:EXTRA:ROMINVILLA"
+msgstr "罗明狗狗别墅的伙计们"
+
+msgid "TR:EXTRA:THANK"
+msgstr "特别致谢"
+
+msgid "TR:EXTRA:ICON"
+msgstr "游戏图标设计师"
+
+msgid "TR:EXTRA:SOURCE"
+msgstr "游戏开源地址"
+
+msgid "TR:EXTRA:PROGRAM:BACKEND"
+msgstr "后端程序员"
+
+msgid "TR:EXTRA:TRANSLATE"
+msgstr "译者"
+
+msgid "TR:EXTRA:THIRD:TITLE"
+msgstr "第三方资产使用清单"
+
+msgid "TR:EXTRA:THIRD:TYPE"
+msgstr "类型"
+
+msgid "TR:EXTRA:THIRD:NAME"
+msgstr "名称"
+
+msgid "TR:EXTRA:THIRD:SOURCE"
+msgstr "来源"
+
+msgid "TR:EXTRA:THIRD:LICENSE"
+msgstr "授权情况"
+
+msgid "TR:EXTRA:THIRD:SPRITE"
+msgstr "立绘"
+
+msgid "TR:EXTRA:THIRD:UI"
+msgstr "用户界面"
+
+msgid "TR:EXTRA:THIRD:BG"
+msgstr "背景"
+
+msgid "TR:EXTRA:THIRD:MODEL"
+msgstr "模型"
+
+msgid "TR:EXTRA:THIRD:MUSIC"
+msgstr "音乐"
+
+msgid "TR:EXTRA:THIRD:PROGRAM"
+msgstr "程序"
+
+msgid "TR:EXTRA:THIRD:VOICE"
+msgstr "语音"
+
+msgid "TR:EXTRA:THIRD:FONT"
+msgstr "字体"
+
+msgid "TR:EXTRA:THIRD:SFX"
+msgstr "音效"
+
+msgid "TR:EXTRA:THIRD:FAIRUSE"
+msgstr "仅以合理使用借用"
+
+msgid "TR:EXTRA:THIRD:FREEUSE"
+msgstr "免费使用"
+
+msgid "TR:EXTRA:THIRD:AUTHORIZED"
+msgstr "已授权"
+
+msgid "TR:EXTRA:THIRD:MIT"
+msgstr "MIT 授权"
+
+msgid "TR:EXTRA:THIRD:SIL"
+msgstr "SIL 授权"
+
+msgid "TR:EXTRA:THIRD:HARMONY"
+msgstr "鸿蒙字体授权"
+
+msgid "TR:EXTRA:THIRD:GAMEENGINE"
+msgstr "游戏引擎"
+
+msgid "TR:EXTRA:THIRD:ASSET"
+msgstr "资源库"
+
+msgid "TR:EXTRA:THIRD:HELLO"
+msgstr "你好"
+
+msgid "TR:EXTRA:THIRD:LINKMUSICNOW"
+msgstr "Link 林沛儒"

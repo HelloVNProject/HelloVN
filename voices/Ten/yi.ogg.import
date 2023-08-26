@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/yi.ogg-5aaecbb2ac4a6f1156d020ded14ee562.oggstr"
+
+[deps]
+
+source_file="res://voices/Ten/yi.ogg"
+dest_files=[ "res://.import/yi.ogg-5aaecbb2ac4a6f1156d020ded14ee562.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

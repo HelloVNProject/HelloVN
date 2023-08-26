@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/like.ogg-7c80f88a4060fba87d0b8cba05b12978.oggstr"
+
+[deps]
+
+source_file="res://voices/Romin/like.ogg"
+dest_files=[ "res://.import/like.ogg-7c80f88a4060fba87d0b8cba05b12978.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
