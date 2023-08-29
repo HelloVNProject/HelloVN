@@ -17,7 +17,9 @@ Why do the exploration team and the "The Smoke Room" quartet cross paths? What u
 
 The game is developed using the Godot Engine and is currently in development. If you're interested, feel free to follow this project.
 
-The first public version of the game is already released, go to release page and download freely!
+The first public version of the game is already released, check the link below to play it online freely!
+
+Check: https://hellovn.wsm.ink/app
 
 Thank you for your play! :3
 
